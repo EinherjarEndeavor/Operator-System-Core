@@ -1,0 +1,46 @@
+Current website mission: 
+Unlock the repo 
+Migrate it to cloudflare once deployed 
+Take it from a completely clinical and robotic layout style and kick in the 8bit anime horror style
+Pimp it up with 8bit assets, emojis and moto kawaii-terror style 
+STYLE 
+Somehow blend all of the ultra flashy over the top stuff above into a presentable, professionally digestable form. I want to simultaneously indicate capability, a personality, creativity, but with sheer, undeniable professionalism. 
+
+Currently, there exists the re.match service. That will now be a component of the overall website instead of the whole website. 
+Which means I need to make the home page for it. 
+
+The homepage should have a introduction of me, a description of services offered, with a link to each service category's page. 
+High leverage, high yield services: 
+1) Re.Match - Opportunity hunt & match engine - You fill out a giant form, a machine-readable profile is created for you in the engine, it performs thousands of calculated searches, categorically providing you the best options that can be found for every category you have expressed interest in. 
+2) General help - Have a project you need help with? Have a question? Is there a problem about recovery or reentry that you face? Something intimate you want to discuss? (Make these questions better obviously) I offer an anonymous submission button that I encourage you to use. For every anonymous submission, I will provide either 1) A guide - As complete and thorough of a how-to as possible. Includes citations, references, step by step guidance, and consultation options. 2) A op-ed/perspective post. You have a philosophical or idealogical issue with recovery that is more complex than can be solved by research? Feel free to vent here and an anonymous message board will appear for your post. This is mostly designed for specific needs people have, so they don't have to fill out the entire re.match form. The most interesting outcome here is if people with creative endeavors or business propositions could ask me for my services. 
+3) Digital services - Create a list of things I can pull off. Market research, data research and insights, business cards, flyers, websites, logos, research of any kind, guidance for any topic, more. 
+4) Physical services - Manual labor, painting, moving heavy things, chopping wood, yardwork, berry bush removal, anything you can think of that doesn't require an apprenticeship. 
+5) Consultation services - I offer consultation for any topic. 
+6) Content curation - Guides, resources, information - Create as much fuckin content as possible - Create content based on things people ask for, people's requests. 
+7) Dossier sharing - Post every completed dossier, stripped of any identifying information, using only a code number and the demographics it hits - IE HammerTank20ViolentFelonyParoleHomelessAge40Male
+7) Open Source resource sharing
+
+Issues: 
+-Social proof - I have no social proof, no successful gigs, no portfolio to display. Need to solve that. 
+-Explaining what I'm offering. Attempt1: I've got a wide array of experience, labor and clerical experience from my parent's landscaping and building maintenance company "Hunny Dew Maintenance" when I was young - restaurant management, regional tournament advertisement, organization, execution and content management, business technology experience, and a lot of personal effort put into researching, learning, and hoarding knowledge and methods of procuring knowledge. I hold premium accounts for all AI services. I am going to school for Computer Science/Cyber Security, as well as self-teaching during my off time. The purpose of this website is multi-faceted. 1) I want to help people. I offer pay-what-you-want-if-you-want as a payment method. This is to ensure that /you/ are happy. I absolutely will not offer unsatisfactory work. If a request is outside of my skill/capability - I will say so. 2) I want to practice the skills I'm learning - I am a quick learner, but the deepest learning comes from practice and application. The more I help people, the more I'll be able to push and refine my skills. 3) Building a portfolio - This is an excellent way to build a curated portfolio for real-world accomplishments. I am applying to a program called Next Chapter, which is a software development skill building bootcamp program. The next opportunity to join is next Summer. I didn't get into their bootcamp this quarter, but I built the Re.Match webpage as my application. I intend to have a complete website offering curated content and resources for people coming out of homelessness or incarceration, intending to do as much as i can to help people who are in a similar situation to me.
+
+
+Service categories: General help & Requests
+
+Final website will seamlessly present :
+re.match 
+re.match artifacts 
+information/consultation request form 
+information curation artifacts that demonstrate my ability to harvest and present information in a stylish, highly useful way  
+image artifacts that indicate an ability to produce whatever is needed - be it forms, papers, websites, images, logos, whatever. This will be achieved by increasing my pen-paper capabilities and combining that with image-gengineering
+list of physical services 
+list of digital services 
+list of example consultations  
+an explanation of why choose me. in summary, I have multiple premium AI platforms, a lot of experience and training invested into using them, and will do the research for them and synthesize it into a final report. AI doesn't simply provide exactly what you need and want - you need to know what to ask for, and how to ask for it. |explain basic prompt engineering| 
+I should intentionally try to get over-technical in explanation a few times to instill the perception of "damn this nigga knows his shit" 
+it should have premium security and encryption on anything intended to be anonymous 
+a discussion board option 
+explanation of the pay-what-you-want-if-you-want option 
+a description and explanation of the services, what they yield, what effort goes into them and how they work, 
+a donation button 
+a detailing of what money will go to - My education fund, funding computer and tool upgrades/maintanance, and other self-education related materials 

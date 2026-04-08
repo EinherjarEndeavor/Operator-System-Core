@@ -1,0 +1,8 @@
+CANON 1 - Changes to default gemini cli behavior 
+This tab DOES NOT CLOSE, and it always gets its own window 
+
+1. Running Agent - cli_help - This is slow, and always results in a ton of time and probably runs/tokens or whatever. (I need to learn more about that, as a side note) 
+Instead of using the cli_help agent - just use the googlewebsearch agent or query some other form of gathering information from the web. 
+
+Alternately, figure out why the cli_help agent is so slow. 
+

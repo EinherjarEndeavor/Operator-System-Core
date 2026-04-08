@@ -1,0 +1,214 @@
+EXHAUSTIVE TOOL EXTRACTION - BATCH 2
+
+FILES PROCESSED:
+- content-ecosystem-complete.md
+- Creating an optimized system The me.md
+- Deep Research Tools.md
+- Deep Research Workflow Ideas.md
+- deep-research-prompt.md
+- deep-research-report (1).md
+- deep-research-report (2).md
+
+---
+
+CORE OPERATING SYSTEMS & HARDWARE:
+- Android: Mobile operating system (versions 11, 12, 13+ mentioned).
+- Windows 11: Desktop operating system.
+- Snapdragon 8xx series: Mobile CPU (recommended for primary creation).
+- MediaTek Dimensity: Mobile CPU.
+- Snapdragon 7xx series: Mobile CPU.
+- Google Pixel 8: Recommended hardware (pure Android).
+- Samsung Galaxy (OneUI): Recommended hardware.
+- Nothing Phone: Recommended hardware.
+
+ARTIFICIAL INTELLIGENCE & LLMS:
+- ChatGPT Plus ($20/month): Includes GPT-4 access, web browsing, code interpreter, DALL-E 3 image generation.
+- GPT-4: Large language model by OpenAI.
+- Claude: Large language model by Anthropic (accessible via Perplexity).
+- Perplexity Pro ($20/month): Includes GPT-4 + Claude access, real-time web search integration, citation backing.
+- DALL-E 3: Image generation model by OpenAI.
+- Midjourney ($30/month): Professional image generation with upscaling and variations.
+- Stable Diffusion (Local): Free, open-source image generation.
+- Ollama: Local LLM runner for Mistral, Llama3, DeepSeek, Mixtral, etc.
+- Mistral: Open-source LLM.
+- Llama-2: LLM by Meta.
+- Llama3: LLM by Meta.
+- Mixtral: Mixture-of-Experts LLM by Mistral AI.
+- DeepSeek: Open-source LLM.
+- Hugging Face Spaces: Platform for hosting and discovering AI models/apps.
+- Craiyon: Free image generation tool.
+- Runway AI ($15-19/month): Video generation, editing, and motion tracking.
+- Gemini CLI: Tool for interacting with Google's Gemini models via command line.
+- Codex CLI: CLI tool for AI interactions.
+- NotebookLM Plus: Google's AI-powered note-taking and research assistant.
+- Azure OpenAI: Microsoft's cloud service for OpenAI models.
+
+AUTOMATION & WORKFLOW ORCHESTRATION:
+- Tasker ($3.99): Core Android automation tool. Features: Profile-based triggers, HTTP API integration, file operations, JavaScript execution, XML export.
+- IFTTT: Automation platform (If This Then That).
+- Zapier Premium ($99/month): Workflow automation with 5,000+ operations/month and premium integrations.
+- Make.com (formerly Integromat): Visual automation platform, alternative to Zapier.
+- Celery: Distributed task queue for Python.
+- RQ (Redis Queue): Simple Redis-backed job queue for Python.
+- Apache Airflow: Platform to programmatically author, schedule, and monitor workflows (DAGs).
+- Prefect: Orchestration tool for data workflows.
+- Dagster: Data-aware orchestrator for machine learning, analytics, and ETL.
+- Temporal: Durable execution platform for long-running workflows and retries.
+- LangGraph: Framework for building stateful, multi-agent applications with LLMs.
+- CrewAI: Framework for orchestrating role-playing collaborative AI agents.
+- AutoGen (Microsoft): Framework for multi-agent conversations.
+- Semantic Kernel: SDK for integrating LLMs with conventional programming languages.
+- smolagents (Hugging Face): Minimalist library for building AI agents in code.
+
+SEARCH, RESEARCH & DATA DISCOVERY:
+- Exa (formerly Metaphor): Neural search engine/agent for deep research.
+- Tavily: AI-optimized search engine for LLMs and RAG.
+- Firecrawl: Web tool for data extraction.
+- STORM (Stanford OVAL): Synthesis of Topic Outlines through Retrieval and Multi-perspective question asking.
+- Co-STORM: Human-AI collaborative knowledge curation version of STORM.
+- Open Deep Re (LangChain): Open-source deep research agent.
+- SerqAI Deep Reer: Web-based assistant for academic-style reports.
+- Zilliz Deeper: Open-source library and CLI for deep research workflows.
+- GAIR DeepReer: Academic project using reinforcement learning for research.
+- GPT Reer: Open-source research agent (pip installable).
+- DuckDuckGo: Privacy-focused search engine.
+- Google Search: Standard web search engine.
+- Brave Search API: Independent search index/API.
+- Bing Search APIs (Azure): Official search API from Microsoft.
+- SearXNG: Free internet metasearch engine which aggregates results from more than 70 search services.
+- Common Crawl (WET/WARC): Open repository of web crawl data.
+- ddgs (duckduckgo-search): Python package for DuckDuckGo search.
+- SerpAPI: Service to scrape search engine results.
+- Feedly Plus ($7.99/month): AI-powered RSS aggregator and summarizer.
+- Inoreader: RSS reader with advanced filtering.
+- Trafilatura: Python library and CLI tool to gather text on the Web.
+
+DATA EXTRACTION, SCRAPING & PARSING:
+- Scrapy: Fast high-level web crawling and web scraping framework for Python.
+- HTTPX: Next-generation HTTP client for Python (sync/async).
+- Playwright: Browser automation library (Chromium, WebKit, Firefox).
+- Selenium WebDriver: Browser automation tool.
+- Puppeteer: Node.js library to control Chrome/Chromium.
+- Beautiful Soup: Python library for pulling data out of HTML and XML files.
+- selectolax: Fast HTML5 parser with CSS selectors.
+- lxml: High-performance XML and HTML parsing library.
+- Apache Tika: Toolkit for detecting and extracting metadata and text from various file types (PDF, Office, etc.).
+- Unstructured: Open-source components for pre-processing images and text documents for RAG.
+- ImageMagick: Software suite to create, edit, compose, or convert bitmap images (used via Termux).
+
+STORAGE, DATABASES & RETRIEVAL:
+- SQLite: C-language library that implements a small, fast, self-contained, high-reliability, full-featured, SQL database engine.
+- PostgreSQL: Advanced open-source relational database.
+- pgvector: Open-source vector similarity search for PostgreSQL.
+- Milvus: Open-source vector database built for AI applications.
+- ChromaDB: Open-source embedding database.
+- FAISS (Facebook AI Similarity Search): Library for efficient similarity search and clustering of dense vectors.
+- Neo4j: Native graph database.
+- MongoDB: NoSQL document-oriented database.
+- DuckDB: In-process SQL OLAP database management system.
+- ClickHouse: Fast open-source column-oriented database management system for online analytical processing (OLAP).
+- OpenSearch: Open-source search and analytics suite.
+- Vespa: Big data serving engine (search, recommendation, personalization).
+- Meilisearch: Lightning-fast, hyper-relevant, and typo-tolerant search engine.
+- Qdrant: Vector similarity search engine and database.
+- Weaviate: Open-source vector database.
+- Redis: In-memory data structure store, used as a database, cache, and message broker.
+- Valkey: Open-source alternative to Redis.
+- MinIO: High-performance, S3-compatible object storage.
+- Haystack: End-to-end NLP framework for building search systems.
+- LlamaIndex: Data framework for LLM applications (ingestion, indexing, querying).
+
+DATA ANALYSIS & LIBRARIES:
+- Python: Programming language used for scripting and AI.
+- Pandas: Fast, powerful, flexible and easy to use open-source data analysis and manipulation tool.
+- scikit-learn: Machine learning library for Python.
+- BERTopic: Topic modeling technique that leverages transformers and c-TF-IDF.
+- Top2Vec: Tool for topic modeling and semantic search.
+- NetworkX: Python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks.
+- TextBlob: Python library for processing textual data (sentiment analysis).
+- VADER (Valence Aware Dictionary and sEntiment Reasoner): Lexicon and rule-based sentiment analysis tool.
+- NumPy (implied by Pandas/Scikit-learn usage).
+- Trafilatura (also listed in research): Extraction of main text and metadata.
+
+OBSERVABILITY & MONITORING:
+- OpenTelemetry: Framework for traces, metrics, and logs.
+- Prometheus: Open-source monitoring and alerting toolkit.
+- Grafana: Multi-platform open-source analytics and interactive visualization web application.
+- Langfuse: Open-source observability and analytics for LLM applications.
+- Ragas: Framework for evaluation of Retrieval Augmented Generation (RAG) pipelines.
+- promptfoo: CLI tool for evaluating and red-teaming LLM prompts and outputs.
+- New Relic: Observability platform for monitoring.
+
+DEVELOPMENT & INFRASTRUCTURE:
+- VS Code (Visual Studio Code): Source-code editor.
+- Jupyter Notebooks: Interactive computing environment.
+- Termux: Android terminal emulator and Linux environment.
+- GitHub: Platform for version control and collaboration (includes GitHub Copilot, Actions).
+- DigitalOcean: Cloud infrastructure provider.
+- Heroku: Cloud platform as a service (PaaS).
+- Azure: Microsoft cloud computing platform.
+- Google Cloud Platform (GCP): Google cloud services.
+- AWS (Amazon Web Services): Amazon cloud services.
+- Vercel AI Gateway: Tool for managing and scaling AI application APIs.
+- LocalStack: A fully functional local AWS cloud stack.
+- Requestly: Tool to intercept and modify HTTP requests.
+- Pageclip: Server for your HTML forms.
+- Kubernetes: Open-source system for automating deployment, scaling, and management of containerized applications.
+
+PRODUCTIVITY, CONTENT & MONETIZATION:
+- Obsidian: Personal knowledge base and note-taking software.
+- Obsidian Sync: End-to-end encrypted sync service for Obsidian.
+- Notion: All-in-one workspace for notes, tasks, and wikis.
+- Gboard: Google Keyboard.
+- Unexpected Keyboard Pro: Open-source keyboard for Android.
+- Nova Launcher Pro: Customizable Android launcher.
+- Material Files: Open-source file manager for Android.
+- Syncthing: Continuous file synchronization program.
+- Mullvad VPN: Privacy-focused VPN.
+- Revoker: Android permission auditing tool.
+- Shelter: App sandboxing and isolation for Android.
+- Grammarly Premium: Writing assistant and plagiarism checker.
+- HubSpot CRM: Customer relationship management platform.
+- ConvertKit: Email marketing platform for creators.
+- Brevo (formerly Sendinblue): Marketing and transactional email service.
+- Mailchimp: Marketing automation and email marketing platform.
+- Cal.com: Open-source scheduling infrastructure.
+- YouTube: Video sharing and monetization platform.
+- Medium: Online publishing platform and Partner Program.
+- Substack: Newsletter platform with paid subscriptions.
+- Patreon: Membership platform for creators.
+- Ko-fi: Donation and membership platform.
+- Gumroad: Platform for selling digital products.
+- Skillshare: Online learning community for creators.
+- Udemy: Online course marketplace.
+- Teachable: Platform for creating and selling online courses.
+- Amazon Associates: Affiliate marketing program.
+- Amazon KDP (Kindle Direct Publishing): Self-publishing platform.
+- Audible/ACX: Audiobook creation and distribution platform.
+- Stripe: Online payment processing for internet businesses.
+- Mighty Networks: Platform for building communities and courses.
+- Clip Studio Paint: Illustration, comic, and animation software.
+- Google Recorder: Audio recording and transcription app.
+- Open Camera: Open-source manual camera app for Android.
+
+BANKS & FINANCIAL TOOLS (Mentioned in research prompts):
+- Chase (Online/Mobile Banking).
+- Wells Fargo (Online/Mobile Banking).
+- Bank of America (Online/Mobile Banking).
+- US Bank (Online/Mobile Banking).
+- ChexSystems: Consumer reporting agency for bank accounts.
+
+REENTRY & LOCAL RESOURCES (Oregon/Portland Specific):
+- WorkSource Oregon Reentry.
+- Oregon Health Plan (OHP).
+- Tri-Met (Portland transportation).
+- Portland Community College (PCC).
+- FAFSA (Federal Student Aid).
+
+MISCELLANEOUS:
+- grep: Command-line utility for searching plain-text data sets.
+- RIPGrep: A line-oriented search tool that recursively searches the current directory for a regex pattern.
+- YAML: Human-readable data serialization language.
+- XML: Extensible Markup Language.
+- JSON: JavaScript Object Notation.
+- RSS: Really Simple Syndication.

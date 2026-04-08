@@ -1,0 +1,115 @@
+### 20. ScrapingBee
+ScrapingBee offers a free tier of 1,000 API credits upon signup, allowing for headless browser rendering and proxy rotation. It is a powerful weapon for bypassing anti-scraping measures on "difficult" websites without requiring an upfront payment.
+**Evidence:** [20] | Quality: 4 | Finding: 1,000 free credits for headless scraping.
+
+### 21. searchRouter
+searchRouter is a unified web search and content extraction API designed for RAG (Retrieval-Augmented Generation) workflows. It provides real-time web access and AI-optimized results, simplifying the retrieval phase for autonomous agentic swarms.
+**Evidence:** [21] | Quality: 4 | Finding: Unified search/extract for RAG.
+
+### 22. Valyu
+Valyu is a unique search API that goes beyond the standard web, providing access to PubMed, SEC filings, and proprietary datasets. Its free tier allows agents to hunt for high-authority evidence in specialized domains that are often hidden behind search engine silos.
+**Evidence:** [22] | Quality: 4 | Finding: Deep search across technical silos.
+
+### 23. Fast Search API
+Fast Search API delivers organic SERP data in under one second. It is optimized for high-speed agentic loops where latency is a bottleneck, providing a "no-card" entry point for developers who need rapid access to search engine results pages.
+**Evidence:** [23] | Quality: 4 | Finding: <1s SERP data retrieval.
+
+### 24. DuckDuckGo (native)
+The DuckDuckGo search tool, accessible via CLI or Python libraries, provides anonymous, keyless web search. It is the "stealth" option for the DEEPICKLE arsenal, allowing for unlimited broad discovery without tracking or registration.
+**Evidence:** [24] | Quality: 5 | Finding: Keyless; anonymous discovery.
+
+### 69. PrivateBin
+PrivateBin is a minimalist, open-source online pastebin where the server has zero knowledge of the data. It is a self-hosted tool for agents needing to share sensitive logs or code snippets securely without relying on third-party cloud services.
+**Evidence:** [69] | Quality: 5 | Finding: OSS; self-hosted zero-knowledge pastebin.
+
+### 70. age / rage
+The `age` (and its Rust implementation `rage`) is a modern, simple file encryption tool designed to replace GPG. It uses small keys and is optimized for CLI usage, providing agents with a high-performance way to secure local data for free.
+**Evidence:** [70] | Quality: 5 | Finding: OSS; modern simple file encryption.
+
+### 71. BorgBackup
+BorgBackup is a deduplicating, encrypted backup tool that is highly efficient for local and remote storage. It is CLI-native and allows agents to perform forensic-level data preservation without incurring the costs of managed backup SaaS.
+**Evidence:** [71] | Quality: 5 | Finding: OSS; deduplicating encrypted backup.
+
+### 72. Restic
+Restic is a modern, cloud-native backup tool that is fast, efficient, and secure. It supports multiple backends (local, S3, SFTP) and is ideal for agents that need to manage complex data recovery cycles without a subscription.
+**Evidence:** [72] | Quality: 5 | Finding: OSS; modern cloud-native backup.
+
+VI. NEWS, SOCIAL & MEDIA MONITORING
+### 73. NewsData.io
+NewsData.io provides a generous free tier of 200 credits per day, covering approximately 2,000 articles. It is the premier "no-card" news aggregator for agents performing sentiment analysis or trend tracking across 80+ languages.
+**Evidence:** [73] | Quality: 4 | Finding: 200 credits/day; global news coverage.
+
+### 74. Currents API
+Currents API offers 600 requests per day on its free tier, making it a high-volume alternative to NewsAPI. It is an excellent tool for agents that need to monitor real-time news streams without hitting early rate limits or requiring a credit card.
+**Evidence:** [74] | Quality: 4 | Finding: 600 requests/day; news aggregator.
+
+### 75. NewsAPI.org
+NewsAPI.org is the developer standard for news retrieval, offering 100 requests per day for non-commercial use. Its clean JSON structure and wide source list make it a "no-friction" entry point for agents building news-aware applications.
+**Evidence:** [75] | Quality: 5 | Finding: 100 requests/day; developer standard.
+
+### 76. New York Times API
+The NYT API provides access to the full archive and top stories of the New York Times with a 500-request-per-day free tier. It is a high-authority source for agents requiring verified, high-quality journalism for research or analysis.
+**Evidence:** [76] | Quality: 5 | Finding: 500 requests/day; high-quality archives.
+
+### 77. GNews API
+GNews API focuses on the last 7 days of news, providing full-text snippets with 100 free requests per day. It is an ideal tool for agents that need to perform rapid "recency" checks on trending topics without identity verification friction.
+**Evidence:** [77] | Quality: 4 | Finding: 100 requests/day; recency-focused news.
+
+### 78. The Guardian API
+The Guardian offers open access to its full article text through a rate-limited free tier. It is one of the few major news outlets providing unlimited content access, making it a "God Mode" tool for agents performing deep text analysis.
+**Evidence:** [78] | Quality: 5 | Finding: **Open Access** full-text news.
+
+### 79. YouTube Data API v3
+The YouTube Data API provides 10,000 units per day for video search and metadata retrieval. It is the most generous official media API available, allowing agents to perform thousands of searches per day using a standard Google account.
+**Evidence:** [79] | Quality: 5 | Finding: 10k units/day; video metadata & search.
+
+### 80. Reddit Data API
+The Reddit API offers a free tier of 100 queries per minute, which is exceptionally generous for sentiment analysis and community monitoring. It is a vital tool for agents tracking real-time public opinion and niche community discussions.
+**Evidence:** [80] | Quality: 5 | Finding: 100 queries/min; social monitoring.
+
+### 81. Mastodon API
+Since Mastodon is decentralized, its API is completely free and open. It requires **no registration or API key** to read public data, providing agents with a "zero-cost" window into the Fediverse without any corporate gatekeepers.
+**Evidence:** [81] | Quality: 5 | Finding: **Free and Open** social API.
+
+### 82. Bluesky API (AT Protocol)
+The Bluesky API, powered by the AT Protocol, is free and open for both reading and writing. It is a modern, high-leverage social tool for agents that need to interact with a growing network of tech-forward users without paywalls.
+**Evidence:** [82] | Quality: 5 | Finding: **Free and Open** AT Protocol API.
+
+### 83. Discord API
+The Discord API is free to use for building bots and tools, subject to standard rate limits. It is the core communication tool for agents that need to automate community management or integrate with collaborative team environments for free.
+**Evidence:** [83] | Quality: 5 | Finding: Free bot integration; email only.
+
+### 84. Xpoz
+Xpoz is a rising star in 2026 that offers 100,000 results per month for free. It allows agents to query Instagram, TikTok, and X using natural language, effectively bypassing the restrictive paywalls of major social platforms.
+**Evidence:** [84] | Quality: 4 | Finding: 100k results/mo; natural language social search.
+
+### 85. Apify
+Apify provides $5 per month in free compute credits, which can be used to run "Actors" that scrape social media platforms. It is a powerful "scout" tool for agents that need to extract data from Instagram, TikTok, or LinkedIn for free.
+**Evidence:** [85] | Quality: 5 | Finding: $5/mo free credits for scraping actors.
+
+### 86. SocialKit
+SocialKit offers free trial credits for extracting YouTube transcripts and TikTok engagement statistics. It is a specialized tool for agents requiring deep media analysis without the need for expensive social listening subscriptions.
+**Evidence:** [86] | Quality: 4 | Finding: Free credits for social engagement data.
+
+### 87. NewsAPI.ai
+NewsAPI.ai offers a massive one-time allowance of up to 200,000 articles for research purposes. It is a "jackpot" tool for agents that need to build large-scale training datasets or perform historical analysis across millions of news sources.
+**Evidence:** [87] | Quality: 4 | Finding: 200k articles for research use.
+
+VII. INFRASTRUCTURE, PAAS & BACKEND
+### 88. Coolify
+Coolify is the leading self-hosted PaaS (Platform-as-a-Service). It automates SSL, CI/CD, and database management, allowing agents to deploy web services and databases on any VPS for zero license cost, replacing Vercel or Heroku.
+**Evidence:** [88] | Quality: 5 | Finding: OSS; self-hosted PaaS.
+
+### 89. DevPod
+DevPod provides reproducible development environments that can run on a local machine or any cloud provider. It allows agents to manage "Codespaces" without vendor lock-in or recurring subscription fees, prioritizing "no-cost" developer mobility.
+**Evidence:** [89] | Quality: 4 | Finding: OSS; self-hosted reproducible dev envs.
+
+### 90. Authentik
+Authentik is a unified identity provider for self-hosted environments, supporting SSO and OAuth2. It is a "no-card" tool for agents that need to secure their internal services with enterprise-grade authentication for free.
+**Evidence:** [90] | Quality: 4 | Finding: OSS; self-hosted identity provider.
+
+### 91. PocketBase
+PocketBase is an all-in-one backend (database, auth, file storage) contained in a single binary. It is the go-to tool for agents needing to rapidly spin up an MVP backend with zero configuration and zero external costs.
+**Evidence:** [91] | Quality: 5 | Finding: OSS; single-binary BaaS.
+
+

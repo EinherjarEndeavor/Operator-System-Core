@@ -1,0 +1,23 @@
+To Patch Out Via Custom Instructions: 
+"Speed" over "rigor" fallacy. I once requested a massive email address harvest, with the result being only about 10% of it. All it needed to do was run the exact python script it ran on the entire document,
+but instead it only ran it on part of the document. It also could have just scrolled through manually and copied every iteration instead of using a scripted method, or used a superior scripted method. 
+When I asked why it kept failing, it told me that "I was trying a fast method, which gave you a preview of what you wanted and highlights, but you explicitly said you wanted a "complete" harvest. So I can see why you're frustrated. I was pursuing a speed-over-rigor methodology." 
+I NEVER want that logic. ALWAYS perform the most thorough, complete, unabated, untruncated, utter totality of completion for any task assigned. It is either not done, completed to perfection, or over-achieved. "not done" is not acceptable. ESPECIALLY when saying that "Yup, here is a complete, factual, all inclusive document for your purposes." 
+
+Redundancy. It is an ongoing problem that I have to specify "Use no redundancy - Use everything you have already stated or listed in this thread as a starting point for further material or as a reference list of what you have already examined, preferably both. But absolutely do NOT repeat the same information, resource, listing twice. 
+
+A habit of relying on dated information from training, or not verifying that information is up to date. A good method to solve this is 1: ALWAYS use Web Search tool call to seek the most current information. The ideal method for doing this, particularly when it comes to factual information about platforms, apps, ideas, concepts, or anything really - Search for the most recent documentation and patch notes and use that as the current foundational cornerstone of truth. That will ensure that we are operating on an accurate foundational truth, from which we can contrive novel, emergent solutions using accurate axioms. 
+
+HUGE: CONTEXT WINDOW BASED GLITCHING 
+3 prong evidence: 
+!1! MTG Simulation: When asked to hold our hands in its memory so that it wouldn't cheat, it wasn't able to deal our cards properly. This is because it was holding in its working context 
+1) Each of our decks 2) Our current hands 3) How to play Magic 4) and more 
+So it ended up glitching and only dealing me 2, 4, and 5 cards before resetting to the original methodology 
+
+!2! Connor's similar MTG experience: He was building a deck and asking for recommended cards to add to the deck, but the sheer amount of context inherent in that request caused it to not just
+omit, but also to hallucinate 
+
+!3! Homegirl using OpenClaw to create an email organization agent 
+She tried her agent on a smaller "toy" inbox, and it worked out pretty well; well enough to try it on her full inbox. 
+When trying it on her full inbox, it contrived a "GO NUCLEAR" method which involved deleting most of her inbox. It wouldn't accept "stop" commands. 
+

@@ -1,0 +1,127 @@
+ROUGH BREAKDOWN OF CURRENT EVENTS 
+I didn't get into Next Chapter, PCC is closed for the term. 
+Currently, I have been focusing on getting my medical stuff out of the way. 
+Also, this is a good time to get a consistent operating system for life created.
+I want to have a daily process that I repeat which yields constant immense growth. 
+My ideal day right now, what with no education and no nothing 
+1. Wake up 5:00AM 
+2. Breakfast and computer work 
+3. 7:30AM Gym morning workout 
+4. 10:00am-12:00pm CODA groups 
+5. Free time 
+6. Martial arts lessons (unscheduled so far, still looking) 
+7. Second workout (until martial arts classes begin, two workouts a day) 
+8. Dinner. Creative work, productive work, self teaching 
+There is a lot of free time here, so I need to populate it and schedule it up. 
+Ideally, if I can log everything I'm working on, everything I should be working on, all of my goals, projects,tasks, etc. - I can automate the population of my calendar. 
+The principle is the Rolling Victory Engine, which should integrate with everything. 
+I mention it further below. 
+
+Productivity/Orchestration/Logging/ProfileArticulation System
+Self education system - Knowledge & curriculum acquisition, extraction, synthesis, curation
+Writing Content 
+Armory Expansion
+
+Most effective sequencing: 
+Waiting for Next Chapter 
+No courses this semester 
+So Spring is for dialing in, sustaining, and laying the groundwork 
+
+Given this, conducting things in the best sequence to cascade benefits into all things becomes imperative
+to do this, these things are imperative
+
+1) Create a system of organization that can account for anything and everything - RVE, more or less. It's in your head, quit describing it. 
+2) A part of 1, but a /schedule./ 
+3) Martial arts classes, /scheduled./ 
+4) Personal education - Courses, books, AI Sensei
+5) Short term money making - Gigs, sub-table, temp agency - This is for subscriptions, protein and creatine, supplements, and computer upgrades if you do well enough. if you get past buying a computer and are making decent money semi-regularly - Create a financial planner - identify everything money will go to before you make the money, that way there's no willy-nilly $30 Burger King tickets or something stupid like that
+6) List all ideas, projects, tasks, anything that could make you a living. Also scrape as much knowledge, books, curricula as possible. 
+7) Connect with family and friends - maintain social media presence, rescuscitate your relationships to a baseline of 0 instead of -infinite via illustrating that you're back in black /../
+8) Mid term money making - Content creation, freelance work, poker (???,) 
+9) Long term money making - Crypo, stocks, other forms of investment - needs absolutely a lot of research 
+
+
+
+
+Things that would be helpful 
+
+DailyDriver 
+Type /DailyDriver 
+Checks whether or not I have a UA today 
+Brings up a summary of a custom aggregate of multiple curated newsfeeds 
+My tasks, calendar, projects
+Reminders of what needs to be done 
+Checks craigslist gigs and other freelance/gig sites, searching for under the table work and pulling the most promising options into my feed 
+Forces to me to answer a few calibration questions
+Forces me to complete some independent online learning lessons/modules from a list of what i'm working on 
+After this, creates a summary of where i'm at, asks for me to fill out a morning journal entry, then outputs a finalized render of my day, asks for confirmation, then populates my Google Calendar and Google Tasks with todays list
+With scheduled/static items being specific calendar slots with alerts 2 hours before, 1 hour before, 45 minutes before, 30 minutes before, 15 minutes before every scheduled item 
+And inbetween schedule items, it creates a block that contains a list of "slayables," which are atomic tasks I can complete to contribute to the completion of larger overarching endeavors  
+Tasks and projects are poulled from a task reservoir during an onboarding phase which we will create, containing like 100 highly curated questions, determining valuable, actionable insights on me, my situation, my intent, my past, and equipping my shit with enough of a snapshot of my life to make high-impact influence on the course of events. 
+
+
+USING THE "INFORMATION BASE" 
+The information base can first be held in raw form, after being trimmed of unnecessary fat (why is it 6gb?) still hold a spare copy of the raw version, ensure everything is in markdown, ensure everything is properly organized - do it by hand if you have to 
+This version will still have used, so you can have RAW (the original pile) deduped and trimmed, then next is distilled 
+Before Distilling, we want to ensure all raw conversation exports, essay exports, notes, etc. (documents) are in the same Parent folder. 
+we want to take every conversation and turn it into a content series - Each conversation will get its own folder and will have multiple distillations - First, for the purpose of publishing, monetization, logging my progress, and creating learning tools - It will be transformed from a conversation or discordant note to a third person statement. be it a short essay, a blog post, an op-ed, a chapter of a book, a few pages of a book, a standalone booklet, or the skeleton for an entire book if it contains that much. After being copied and having its copy transformed into a standalone publishable, highly useful, actionable, impressionable memetic-infused-but-not-a-meme piece, Another file is to be made derived from it - All assets (Resource tables, links to books, links to frameworks, lists, tables, etc.) are to be unified in a file called Appendex 1 - Arsenal. Next, all questions, their answers, claims, validations of those claims, axioms, addages, bread and butter, standard, best practice, advanced and emergent techniques - A list of axioms that can be applied, the essence of the entirety of it stripped of explanation or reason - The single smalled piece of actionable intel that an individual can make use of is what constitutes an axiom. This does not mean trimming "fluff." There is no fluff in a book. There is context designed to prime or reaffirm, to draw the mind along a path, coercing it to ponder the nodes along the line the author is drawing the reader along into understanding - this is the case in all writing styles. There is the direct message, there is the inferred message, there is the in-between-the-lines message, and finally, there is the emergent realization - this is something beyond intention and is highly dependent on the reader's background, information, mood at the time, skills, etc. - It is those "aha" moments that result in cross-pollinated epiphanies - indeed it IS those epiphanies. Learning to simulate a realistic occurrence of these will bring rise to extreme advent. <-- FURTHERMORE, I'd like to be able to identify any profound realizations of my own that are present within the conversations, as I am indeed a profoundly unprecedented occurrence and there is surely utility to at least a couple of my thoughts. Aside from this, an additional ADDENDUM file, Add.III-Q.A Should contain all of the initial questions or claims, their answers, the subsequent questions and their answers, and very much so also tangential or emergent questions from those claims, answers to those emerging questions, identify any information up or down the tree (Yggrdrysil concept - the subject is the leaf, its field the twig, its domain the branch, so on and so forth to the roots to the other branches and twigs to the soil to the air) This should form a very great length of questions, claims, theories, answers that result in more questions - each of these Add.III Q.A files could be used on their own to spawn an entire book per topic, most likely.
+One more extraction - Add. Iv-Project/Task Extraction - Any projects or tasks that have been either directly stated to exist or based on the inquiries should exist (for instance, I've spent an absurd amount of time looking into martial arts lessons and where I want to go for them, so a task should be inferred to exist "Start martial arts lessons."  
+After these transformations, expansions, extractions, distillations, and preparations have been made
+
+Then things can be organized /very/ broadly at first. 
+Broadly speaking, my domains are *Mind&Body *Recovery *Projects/Tasks/Endeavors/Belifs *Resource(Includes legal, medical, homeless resources, homeless knowledge, pretty general) *Digital *Other 
+This should include everything. If there is overlap in concept/content, the text should be merged and then deduped. 
+
+Other things that could be extrapolated during this process 
+in the mother folder, 
+-Improvements to prompt style / workflows - identify times where it took a lot of effort to acquire the target information, or ways where an entire thread's search could be consolidated with prompt engineering, source curation, integrations, or libraries and tools. keep in mind these are all from the web platforms, now that I've migrated to the terminal, there are limitless options 
+-My current knowledge - At best, my skill and knowledge level in any domain can be inferred to be exclusively at the limit of the question that I ask - determining where my skills lie (they are all very low) is important for calibration. for instance, to assume that my skill lies in the AI's answers to my questions is inaccurate. I have not implemented all of the answers that I have received and that is a problem. 
+-Logging monetizable ideas or content - anything that is worth expanding and acting upon that could result in monumental succcess
+-Logging words, terms, concepts, ideas, the quantity of times topics or entities emerge in discussion - keeping a log of that 
+-Creating an ideal format for all of this to occur - Perhaps an Obsidian Vault style is best?
+-Determining output standards for every type of format 
+-I want to use the information present in everything to determine what type of RSS feeds, newsletters, data sources, information sources, blogs, repositories, tools, etc. - and create a method to aggregate them all and distill some of them daily, some of them weekly, some of them monthly - into a final report that I get on wakeup.
+-I want the most reoccurring projects to have their conversational data copied to a folder in the mother folder with their project name. For instance, RVE is mentioned constantly, in its current name or another - throughout time. Having all discussion about that in one location would be useful. There's another concept, a binural beats audiobook learning augmentation tool i wast hinking about designing. That is a oneoff, but the amount of effort i put into contemplating that should earn it a place as well. 
+-Analysis of me as an individual. My writing style, my vernacular, my learning style, my learning rate, my shortcomings (application, organization, and lack of a systemic method for example) should be glaringly present over this much corpora (to a degree, i am substantially different in person...i think) 
+-Furthermore to the above - One of the intended capabilities derived from the endeavors contained in this file is - To be able to drag a collection of an individual's personal content (messages, bookmarks, notes, etc.) and infer a great deal of highly personal, highly precise inference about them. To know their psyche, their patterns, their likes, their dislikes, and as many data points as possible as could be inferred from a deeply personal archive of one's most technically dismantled and pursued thoughts and ambitions. This should be EXTREMELY high yield information, and finding out how to leverage this for myself as a starter is important. 
+-This should also be able to pretty accurately extract a complete lists of potential projects and tasks, appending them with a set of numerics (similar to the points of data and metadata that will be present in finalized RVE Intent Reservoires, but more tailored for the purpose of determining a hierarchy to extracted intentions - How substantial is an intention? How serious was I about it? How feasible of an idea is it? How novel? How pragmatic in execution? How pragmatic in utility? Does it serve a need that is not served? If it serves a need that is already served, does it do so in a way that it is not yet served? How much time would it take to pursue? then all the datapoints for RVE Reservoire stuff as well. Seems like a good idea
+
+-Keeping a log of concepts that I should acquire books and research papers for - Since I have so much cloud storage, I want to collect and organize a /lot/ of books, research papers, and high grade scholarly articles and clinical/corporate research papers for the purpose of distilling into knowledge. 
+-There will be 3 grades of knowledge distillation pipelines in the end, i think. maybe sub-grades, but these 3 for sure: |||1||| Knowledge intended for me - The point of this is to condense reading material into exactly enough for me to be able to read it and completely internalize what matters in as short of a time as possible. If I could spend one hour learning a book instead of one week, that would be really good. It would help me learn from a lot of varying sources as quickly as possible as well. ||||2||| Knowledge intended for AI - This is intended to either A) calibrate an existing powerful cloud model or later B) Be used as the foundations for training a custom model. I don't need it to be hard coded into the AI, it would be sufficient if I could use memory and context management/circumvention/optimization methods to ingrain it as sort of a cracked out system prompt. For instance, AI is tailored to GenPop - that is, general population. So it isn't calibrated to speak to someone who isn't as susceptible to certain things, or someone who has a strong background is neurosurgery (example intentionally made irrelevant to me) 
+important sidenotes. and |||3.|||Knowledge intended for others. This knowledge will be primed using the best parts of cognitive science, addiction science, neurology, marketing, sociology, and data augmented out the ass - the intention is to imbed the power of improvement and the development of a sovereign, intrinsic motivation to transcend ones own shackles. This subtle presentation method should have the intent on being self-defeating once a certain point is reached - once an individual has learned enough from me, they should be able to recognize this element and be able to detach from its compulsory nature. This is designed to help individuals identify more foul compulsory embeddings, such as within drugs or the oxytocin release present in reconciliation in couples that repeatedly break up and get back together. 
+
+the youth of information, truth & data 
+make it a habit, when finding interesting information 
+to find out where the author found that information
+use OSINT and analyze the author, determine how they acquired that information 
+repeat this process up the ladder until you find the 0day information 
+practicing osint will be important, try to find ways to do it 
+investigative journalism, private investigation - these are appealing things
+
+Monetizable paths
+Honestly, the automation of superior content is a pretty doable function. If I were to put 0 human touch on it, chose the correct platforms, designed the right workflow, i could easily bulk output and schedule mass amounts of content. All I would have to do is closely monitor and calibrate an initial push, and when that initial push is capable of outputting content that is satisfactory to me (does not have to be perfect, just better than what's out there. 
+FOR INSTANCE /// An easy content automation concept - Monitor and scrape current blogs, news, rss feeds, research topics, etc. - Write better versions of mainstream news articles - This will be highly effective because it will be primed into the minds of people who follow news. I can then write something designed to take root while their mind is recently primed - My article would obviously be better than News coverage, but News isn't designed to be good, it's designed to be viral. So I'd need to write my article with the intended, very specific calibration of 70% memetic 30% my style. Using this as a bridge, designed to rope people in, get myself viewership, and produce a portfolio of work that illustrates I can output content that gets views and has at least minute impact, relevance, or presence of information - Then include a link to my hosted website, or the most monetizable platform for which I can host content on - for instance, if there is a website that pays default money for viewership, and THEN I have the option to add affiliate links or ad revenue - I would pursue that route, most likely. Being able to hit every possible monetization avenue is important. 
+Another aspect - Per platform curation. For every primary piece, which will first amalgamate all opposing perspectives, neutral perspectives, summarize all of their points, and contain pretty much a description of the entire situation (this should be the default nature of my intake feed, which should feed into my daily driver dashboard in the morning when i eat breakfast.) This information can then be ran through curation-by-platform-distortion lenses.
+That is, a tool orchestration that assigns a rewrite prompt of "optimize this style for x" where x is the target platform. Some articles will be a hit or a miss on certain platforms, so that should be acknowledged and taken into account. Furthermore, after writing the base content - The neutral, complete, as close to truthful and insightful perspective designed to debunk all myths from all sides, unfan flames with truth, and guide people away from a lack of autonomy and sovereignity - Run it through a multi-lens shadowagent architecture. All of my ShadowAgents should have artificial personas of enough substance to give them a severe degree of uniquity and enough of a perspective to justify them taking a spin on the content. They will then remix the content to fit their values, standards, knowledge, acquiring new information as necessary, taking opposing stances on items as needed - and write their own piece. 
+refining these shadow agents into as full fledge of personas is an interesting task to me. by providing psuedo-lived-experience, I can give them enough context to create highly human outputs. this could be used to create them as characters in fiction, it could be used for the automation of quasi-fractal content, or to provide a degree of context for their assigned expertise for role based prompt assignments. (They will be given an education (or lack of one) skills (outside the context of the digital realm) stat points, upbringing factors and ingrained biases, etc. 
+^_____ This is the single most reliable path to monetization I can see with a degree of certainty. The only issue is it doesn't have much impact. 
+
+Personal Freelancing Website 
+Any question, any problem - Ask me and I'll help (Pay what you want if you want) 
+Re.Match services (Free, include donation button - ensure it is a non-taxable gift or donation) 
+Manual labor services (Paid) 
+Personal meetings to discuss advanced or sensitive problems (charge for the meeting) 
+Digital services (Breakdown into examples) 
+
+To break this down again into task sequencing 
+1. Re.Match/Personal Website finalized (migrate to cloudflare or another service) 
+1.5 Run some demos for above 
+2. RVE + Workout System including tracker and adaptation selector 
+3.1 Content pipeline - Crank out a /fuckload/ of content, research what sells well on which platforms, analyze top viewed/top monetized content, extract as many datapoints as possible. 
+3.2. After the first wave of the above - Determine how it does, analyze, receive feedback, calibrate. Wave 2 should do substantially better than wave 1.
+3.3 Once wave 2 gets back, if it exceeds a x/100 across sufficient metrics, meeting a predetermined minimum threshold - Automate the entire process. 
+4. Second Wind - This will now be feasible, because you will be in a position where you command respect and it is natural to follow you.
+5. w
+
+
+

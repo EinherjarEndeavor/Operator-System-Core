@@ -1,0 +1,923 @@
+### SYSTEM TOOLS & UTILITIES (WINGET/LOCAL)
+Docker Desktop (Docker.DockerDesktop) [v4.64.0 -> 4.67.0]
+Git (Git.Git) [v2.53.0.2]
+Node.js (OpenJS.NodeJS.LTS) [v24.14.0 -> 24.14.1]
+Logitech G HUB (Logitech.GHUB) [v2026.1.828335]
+Microsoft Update Health Tools [v5.72.0.0]
+Bun [ARP\User\X64\Bun]
+RipGrep MSVC (BurntSushi.ripgrep.MSVC) [v15.1.0]
+GitHub Desktop (GitHub.GitHubDesktop) [v3.5.6 -> 3.5.7]
+lazygit (JesseDuffield.lazygit) [v0.60.0]
+SQLite (SQLite.SQLite) [v3.52.0]
+jq (jqlang.jq) [v1.8.1] - Command-line JSON processor
+fd (sharkdp.fd) [v10.4.2] - Fast file discovery tool
+Python 3.13 [v3.13.3312.0]
+Python Install Manager (Python.PythonInstallManager) [v26.0.240.0 -> 26.1.240]
+Nmap - Network exploration tool and security / port scanner
+WhatWeb - Identifying web technologies and versions
+Cloudscraper - Scraper for Cloudflare bypass
+OCRmyPDF - OCR Utility for adding searchable text layers to PDFs
+Sophia Script - PowerShell Module for Windows hardening
+Fiddler - Proxy for inspecting API calls
+Autopsy - Digital forensics platform and graphical interface
+Volatility 3 - Advanced memory forensics framework
+Signal - Encrypted messaging (Winget)
+VeraCrypt - Hidden volume disk encryption (Winget)
+TruffleHog - Secret/API key harvesting and auditing
+Tor Browser - Anonymous browsing tool
+NoScript - Browser extension for script blocking
+Sherlock - Username footprinting across 350+ sites
+Maigret - Advanced username dossier generation
+GHunt - Google Account investigation tool
+Trafilatura - Content extraction; text and metadata harvesting
+VisiData - Interactive CLI dataset exploration and manipulation
+ExifTool - Reading, writing, and editing metadata in files
+Sublist3r - Fast subdomains enumeration tool
+Photon - Fast crawler for OSINT (emails, files, social media)
+Sniffed - Social media intelligence; real-time tracking
+DNSRecon - DNS record enumeration and mapping
+Metagoofil - Document metadata harvesting
+Instaloader - Instagram media and metadata extraction
+Twint - Twitter scraping without API keys
+CheckId - ID verification and mapping across platforms
+CloudFail - Uncovering IPs behind Cloudflare
+OSRF - Open Source Research Framework
+Searchlight - Deep web searching (onion sites)
+OnionScan - Dark web scanning and relationship mapping
+BillBuster - Legal and billing document analysis
+Scrapoxy - Rotating proxy API for mass scraping
+Splash - JS rendering service for dynamic content scraping
+MechanicalSoup - Simulating human browser behavior
+NumPy - Fundamental package for scientific computing with Python
+SciPy - Fundamental algorithms for scientific computing in Python
+Matplotlib - Comprehensive library for static, animated, and interactive visualizations
+Seaborn - Statistical data visualization library
+Plotly - Interactive graphing library
+Altair - Declarative statistical visualization library
+Dask - Parallel computing with task scheduling
+Modin - Speeding up Pandas via Ray or Dask
+Yellowbrick - Machine learning visualization and diagnostic tools
+Statsmodels - Statistical models, hypothesis tests, and data exploration
+XGBoost - Gradient boosting framework
+LightGBM - Fast, distributed, high performance gradient boosting framework
+CatBoost - Gradient boosting on decision trees with categorical features support
+NetworkX - Python package for the study of the structure, dynamics, and functions of complex networks
+Geopandas - Spatial data manipulation library
+Folium - Interactive web maps visualization
+FeatureEngine - Feature engineering and selection library
+Optuna - Hyperparameter optimization framework
+Streamlit - Fastest way to build and share data apps
+Gradio - Create UIs for machine learning models in minutes
+Arrow - Better date/time handling for Python
+Validators - Python data validation for URLs, emails, etc.
+Schema - Library for validating Python data structures
+Loguru - Better logging for Python
+Rich - Beautiful terminal formatting and progress visualization
+Typer - Library for building CLI applications
+Click - Composable command line interface toolkit
+Picard - MusicBrainz Picard audio tagging and organization
+Face_Recognition - Identifying and recognizing faces in images
+Rembg - Tool to remove images background
+SimpleITK - Simplified interface to the Insight Toolkit for medical image analysis
+Spleeter - Deezer source separation library (voices from noise)
+Manim - Mathematical animation engine
+Pygame - Library for creating multimedia applications (games)
+Apprise - Unified notification library for Python
+Wire - Collaborative encryption (Winget)
+I2P - Invisible Internet Project; anonymous network layer
+ZeroNet - Decentralized websites using Bitcoin/BitTorrent
+Status.im - Web3 messenger and crypto wallet
+Berty - Bluetooth mesh messaging protocol and app
+Gajim - Feature-rich XMPP client (Winget)
+Profanity - Console based XMPP client
+Mcabber - Small, fast XMPP console client
+WeeChat - Extensible chat client
+HexChat - GUI IRC client (Winget)
+AdiIRC - Modern IRC client with high degree of customization
+CredoScan - Credential auditing; finding hardcoded credentials
+Gitrob - Scanning GitHub organizations for sensitive files
+GitDorker - Automated dorking using GitHub Dorks
+Spectral - Code security; scanning code and assets
+BluBracket - Internal source code security monitoring
+PowerWhisper - PowerShell secret scanning
+DumpsterDiver - Generic secret finder for any file type
+S3Scanner - Scanning for open and misconfigured S3 buckets
+Censys - Attack surface mapping and certificate search
+PasteHunter - Monitoring Pastebin for sensitive data
+DeHashed - Advanced breach search and credential database
+IntelX (Intelligence X) - Darknet and breach data search
+Snusbase - Searchable database of billions of leaked credentials
+Vigilante.pw - Breach intelligence and search
+ZeroTier - Virtual network switch (Winget)
+OpenVPN - Industrial grade VPN (Winget)
+Shadowsocks - High-performance SOCKS5 proxy
+V2Ray - Platform for building custom network protocols
+Obfsproxy - Tor traffic obfuscation tool
+Meek - Tor bridge using domain fronting
+Psiphon - Multi-protocol censorship circumvention proxy
+GreenTunnel - DNS/SNI bypass tool
+Zapret - Firewall bypass tool for Linux/Windows
+ControlD - Global DNS proxy service
+Quad9 - Secure, recursive, and free public DNS
+Cloudflare Warp - Performance VPN using 1.1.1.1
+Ledger Live - Crypto asset management (Winget)
+Trezor Suite - Hardware wallet GUI for Trezor (Winget)
+SteelVault - Physical seed storage for crypto backups
+ripgrep-all (rga) - Search inside PDFs, Office docs, EPUBs, etc.
+newsboat - Terminal RSS and Atom feed reader
+nb - Plain-text note-taking and local knowledge base manager
+vale - Prose linting and style enforcement tool
+xh - Friendly and fast tool for sending HTTP requests (curl alternative)
+qsv - High-speed CSV wrangling and analysis
+hyperfine - Command-line benchmarking tool
+dust - Directory size inspection tool (du replacement)
+duf - Disk usage/free utility (df replacement)
+procs - Modern replacement for ps written in Rust
+btop - Interactive system monitor (htop/top alternative)
+tokei - Program to count lines of code quickly
+sd - Intuitive find & replace CLI (sed alternative)
+ast-grep - Structural code search and replacement
+just - Command runner for repeatable recipes
+entr - Run arbitrary commands when files change
+tldr - Simplified and community-driven man pages
+csvlens - Fast, focused command-line CSV viewer
+csvkit - Suite of utilities for converting to and working with CSV
+textql - Execute SQL against structured text like CSV or TSV
+q - Run SQL directly on CSV/TSV files
+csvq - SQL-like query tool for CSV and other delimited data
+docx2txt - Pure python-based utility to extract text from docx
+w3m - Text-mode web browser and pager
+lynx - Classic terminal web browser
+links - Terminal browser with rendering flexibility
+jrnl - Command-line journaling application
+Joplin CLI - Terminal interface for the Joplin note-taking app
+wordgrinder - Distraction-free terminal-based word processor
+micro - Intuitive terminal-based text editor
+vim - Highly efficient modal text editor
+helix - Modern modal editor with built-in LSP support
+starship - Minimal, blazing-fast, customizable shell prompt
+direnv - Per-directory environment variable manager
+pdfgrep - Tool to search text in PDF files
+gron - Make JSON greppable by flattening it
+htmlq - CSS-selector querying for HTML
+plocate - Fast indexed file lookup
+choose - Fast and intuitive field extractor (awk alternative)
+angle-grinder - Slice and dice log files on the command line
+jc - JSON Converter for command output
+jo - JSON output from shell arguments
+jless - Interactive JSON viewer for the terminal
+fq - jq-like tool for binary formats
+FuzPad - Simple fuzzy-searchable notes tool
+Note CLI - Terminal note app with highlighting
+Emacs - Extensible, customizable display editor
+Tilde - Intuitive text editor for the console
+aspell - GNU spell checker
+ispell - Interactive spell checker
+Aiksaurus - Command-line thesaurus
+sttr - CLI tool for string transformations
+XMLStarlet - Command-line XML toolkit
+Asciidoctor - Text processor for converting AsciiDoc to HTML/PDF
+AsciidoctorJ - Java wrapper for Asciidoctor
+taskwarrior - Command-line todo list manager
+taskwarrior-tui - Terminal user interface for taskwarrior
+projectable - Project management in the terminal
+nomino - Batch rename utility
+neomutt - Command-line mail reader
+tut - TUI for Mastodon
+slack-term - Slack client for the terminal
+elia - Terminal client for LLMs
+hyphertool - Hyphenation-aware text wrapper
+ssam - Stream text sampler
+lexmatch - Lexicon matching tool
+stam - Stand-off annotation on text
+grex - Generate regular expressions from examples
+charfreq - Character frequency analyzer
+lingua-cli - Language detection tool
+analiticcl - Approximate string matching and OCR repair
+ucto - Unicode tokenizer
+frog - NLP pipeline for Dutch (and other languages)
+WordFlow - Text analysis summary tool
+pbcopy / pbpaste - macOS clipboard bridge
+xclip - Linux clipboard bridge
+pv - Pipe Viewer for monitoring data progress
+vidir - Edit directory contents as a text file
+sponge - Soak up standard input and write to a file
+ts - Timestamp standard input
+GNU parallel - Shell tool for executing jobs in parallel
+gh - GitHub command-line tool
+dog - Command-line DNS client (dig alternative)
+fx - Terminal JSON viewer and processor
+hexyl - Command-line hex viewer
+lnav - Advanced log file navigator
+ncdu - NCurses based disk usage analyzer
+nnn - Tiny, lightning fast, feature-packed file manager
+xplr - Hackable TUI file manager
+broot - New way to see and navigate directory trees
+zellij - Terminal workspace and multiplexer
+tmux - Terminal multiplexer
+croc - Secure file and folder transfer tool
+magic-wormhole - Get things from one computer to another safely
+tmate - Instant terminal sharing
+thefuck - Corrects your previous console command
+citeman - CLI citation management
+cites - Fetching citations from DOI/CrossRef
+viu - Simple terminal image viewer
+gitui - Blazing fast terminal-ui for git
+
+### PYTHON CORE LIBRARIES (OPERATOR-CORE)
+annotated-doc [v0.0.4]
+annotated-types [v0.7.0]
+anyio [v4.13.0]
+attrs [v26.1.0]
+babel [v2.18.0]
+bcrypt [v5.0.0]
+beautifulsoup4 [v4.14.3]
+build [v1.4.2]
+camelot-py [v1.0.9]
+certifi [v2026.2.25]
+cffi [v2.0.0]
+chardet [v7.4.0.post2]
+charset-normalizer [v3.4.7]
+chromadb [v1.5.5]
+click [v8.3.1]
+colorama [v0.4.6]
+courlan [v1.3.2]
+cryptography [v46.0.6]
+dateparser [v1.4.0]
+duckdb [v1.5.1]
+durationpy [v0.10]
+et_xmlfile [v2.0.0]
+filelock [v3.25.2]
+flatbuffers [v25.12.19]
+fsspec [v2026.3.0]
+googleapis-common-protos [v1.73.1]
+greenlet [v3.3.2]
+grpcio [v1.80.0]
+h11 [v0.16.0]
+hf-xet [v1.4.3]
+htmldate [v1.9.4]
+httpcore [v1.0.9]
+httptools [v0.7.1]
+httpx [v0.28.1]
+huggingface_hub [v1.8.0]
+idna [v3.11]
+importlib_metadata [v8.7.1]
+importlib_resources [v6.5.2]
+Jinja2 [v3.1.6]
+joblib [v1.5.3]
+jsonschema [v4.26.0]
+jsonschema-specifications [v2025.9.1]
+jusText [v3.0.2]
+kubernetes [v35.0.0]
+lxml [v6.0.2]
+lxml_html_clean [v0.4.4]
+markdown-it-py [v4.0.0]
+markdownify [v1.2.2]
+MarkupSafe [v3.0.3]
+mdurl [v0.1.2]
+mmh3 [v5.2.1]
+mpmath [v1.3.0]
+networkx [v3.6.1]
+numpy [v2.4.4]
+oauthlib [v3.3.1]
+onnxruntime [v1.24.4]
+opencv-python-headless [v4.13.0.92]
+openpyxl [v3.1.5]
+opentelemetry-api [v1.40.0]
+opentelemetry-exporter-otlp-proto-common [v1.40.0]
+opentelemetry-exporter-otlp-proto-grpc [v1.40.0]
+opentelemetry-proto [v1.40.0]
+opentelemetry-sdk [v1.40.0]
+opentelemetry-semantic-conventions [v0.61b0]
+orjson [v3.11.8]
+overrides [v7.7.0]
+packaging [v26.0]
+pandas [v3.0.2]
+pdfminer.six [v20251230]
+pdfplumber [v0.11.9]
+pillow [v12.2.0]
+pip [v25.3]
+playwright [v1.58.0]
+protobuf [v6.33.6]
+pybase64 [v1.4.3]
+pycparser [v3.0]
+pydantic [v2.12.5]
+pydantic_core [v2.41.5]
+pydantic-settings [v2.13.1]
+pyee [v13.0.1]
+Pygments [v2.20.0]
+PyMuPDF [v1.27.2.2]
+pypdf [v5.9.0]
+pypdfium2 [v5.6.0]
+PyPika [v0.51.1]
+pyproject_hooks [v1.2.0]
+pytesseract [v0.3.13]
+python-dateutil [v2.9.0.post0]
+python-docx [v1.2.0]
+python-dotenv [v1.2.2]
+pytz [v2026.1.post1]
+PyYAML [v6.0.3]
+RapidFuzz [v3.14.3]
+referencing [v0.37.0]
+regex [v2026.3.32]
+requests [v2.33.1]
+requests-oauthlib [v2.0.0]
+rich [v14.3.3]
+rpds-py [v0.30.0]
+safetensors [v0.7.0]
+scikit-learn [v1.8.0]
+scipy [v1.17.1]
+sentence-transformers [v5.3.0]
+setuptools [v81.0.0]
+shellingham [v1.5.4]
+six [v1.17.0]
+soupsieve [v2.8.3]
+sympy [v1.14.0]
+tabulate [v0.10.0]
+tenacity [v9.1.4]
+threadpoolctl [v3.6.0]
+tld [v0.13.2]
+tokenizers [v0.22.2]
+torch [v2.11.0]
+tqdm [v4.67.3]
+trafilatura [v2.0.0]
+transformers [v5.5.0]
+typer [v0.24.1]
+typing_extensions [v4.15.0]
+typing-inspection [v0.4.2]
+tzdata [v2025.3]
+tzlocal [v5.3.1]
+urllib3 [v2.6.3]
+uvicorn [v0.42.0]
+watchfiles [v1.1.1]
+websocket-client [v1.9.0]
+websockets [v16.0]
+zipp [v3.23.0]
+
+### JAVASCRIPT / SCRAPING (NPM/BUN)
+@anthropic-ai/claude-code [v2.1.87]
+@github/copilot [v1.0.13-1]
+@google/gemini-cli [v0.36.0]
+@iflow-ai/iflow-cli [v0.5.18]
+@openai/codex [v0.117.0]
+@swarmify/agents-cli [v1.6.9]
+agent-browser [v0.20.8]
+flesch-kincaid [v2.0.1]
+mq-cli [v0.1.2] - Tool for querying markdown structural elements
+n8n [v2.11.3] - Low-code automation tool
+npm [v11.12.0]
+obsidian-cli [v0.5.1]
+oh-my-logo [v0.4.0]
+typescript [v6.0.2]
+acorn - JavaScript parser
+esbuild - Extremely fast JavaScript bundler
+eslint-config-prettier
+eslint - JavaScript linter
+js-yaml - YAML parser/dumper for JS
+lint-staged
+nanoid - Unique string ID generator
+node-which
+pidtree
+prettier - Opinionated code formatter
+rollup - JavaScript module bundler
+semver
+tsc - TypeScript compiler
+tsserver - TypeScript language server
+vite - Next generation frontend tooling
+vitest - Blazing fast unit test framework
+why-is-node-running
+source-map-js
+
+### AGENTIC AI & LLM FRAMEWORKS
+LangChain - Framework for building applications with LLMs through composability
+LlamaIndex - Data framework for LLM applications
+AutoGen - Framework for next-gen LLM applications; multi-agent conversation
+CrewAI - Orchestrating role-playing autonomous AI agents
+Semantic Kernel - SDK for integrating LLMs into apps
+Haystack - Open source NLP framework for search systems
+BabyAGI - Task-driven autonomous agent
+AutoGPT - Experimental open-source autonomous GPT-4 effort
+ChatDev - Communicative agents for software development
+MetaGPT - Multi-agent framework for software roles
+SuperAGI - Dev-first open source autonomous AI agent framework
+CAMEL - Communicative agents for mind exploration
+Magentic - Integrating LLMs as Python functions
+Outlines - Fast and reliable neural text generation
+Guidance - Guidance language for controlling LLMs
+LMQL - Programming language for language models
+Aider - AI pair programming in the terminal
+GPT-Engineer - Build apps from high-level specifications
+MemGPT - Memory management for LLMs (unbounded context)
+TaskWeaver - Code-first agent framework
+OpenDevin - Open source autonomous AI software engineer
+Sweep - AI junior developer for bug fixes and features
+Griptape - Enterprise-grade AI framework for agents and pipelines
+DSPy - Programming—not prompting—Foundation Models
+SmolAgents - Minimalist agent framework
+Phidata - Build AI Assistants with memory and knowledge
+Mastra - TypeScript AI agent framework
+AI.JSX - AI application framework for Javascript
+CopilotKit - Open-source Copilot platform
+Rivet - Visual AI programming environment
+Flowise - Drag & drop UI for LLM flows
+Langflow - UI for LangChain
+Promptflow - End-to-end cycle development tools for LLM apps
+Bionic - Architecture for building AI agents
+TypeChat - Schema engineering for LLMs
+Agents.js - AI agents in JavaScript
+Toolhouse - Tool execution framework for agents
+Open Interpreter - Natural language interface for your computer
+Microagents - Agents that execute code dynamically
+Devika - Open-source AI software engineer
+Agenta - End-to-end platform for LLMOps
+PydanticAI - Agent framework based on Pydantic
+LlamaAgents - Async agent framework
+LangGraph - Resilient language agents as graphs
+AutoGen Studio - UI for AutoGen
+Bloop - AI-powered code search
+LiteLLM - Unified API for calling 100+ LLMs
+Ollama - Run models locally on your machine
+LM Studio - Discover, download, and run local LLMs
+vLLM - High-throughput LLM serving engine
+Text-Generation-WebUI - Gradio web UI for LLMs
+CTransformers - Python bindings for C++ Transformers
+Llama.cpp - Port of LLaMA model in C++
+ExLlamaV2 - Fast inference for Llama models
+OpenAI Python Library - Official OpenAI API client
+Anthropic Python Library - Official Anthropic API client
+Google Generative AI - Google's Gemini API client
+Hugging Face Hub - Download and publish models
+Transformers (Hugging Face) - SOTA ML for PyTorch/TF/JAX
+Sentence-Transformers - Multilingual Sentence & Image Embeddings
+Tokenizers - Fast tokenization optimized for research
+Peft - Parameter-Efficient Fine-Tuning
+TRL - Transformer Reinforcement Learning
+BitsAndBytes - 8-bit optimizers and quantization
+Accelerate - Simple PyTorch model training across GPUs
+Deepspeed - Deep learning optimization library
+Triton - Programming language for neural network computations
+ONNX Runtime - Cross-platform ML inferencing accelerator
+TensorRT-LLM - TensorRT large language model
+FastAPI - Modern, fast web framework for APIs
+Chainlit - Build Python LLM apps in minutes
+Mesop - Rapidly build web apps in Python
+AnyScale - Platform for scaling AI
+BentoML - Unified model serving framework
+Ray - Unified framework for scaling AI applications
+Modal - Serverless computing for AI
+Replicate - Run AI with an API
+Baseten - Infrastructure for ML models
+Instructor - Structured outputs for LLMs
+Marvin - Lightweight AI engineering framework
+Tiktoken - Fast BPE tokeniser for OpenAI models
+Transformers.js - ML for the web
+WebLLM - In-browser LLM inference engine
+MLX - Array framework for Apple silicon
+Llamafile - Run LLMs with a single file
+llama-cpp-python - Python bindings for llama.cpp
+SGLang - Structured Generation Language for LLMs
+LoRA - Low-Rank Adaptation of LLMs
+Unsloth - Fast finetuning for Llama 3/Mistral
+AITemplate - Render neural networks into CUDA/HIP C++
+Valkey - Open source Redis alternative
+Mojo - Programming language for AI developers
+Marker - Fast PDF to markdown conversion
+Nougat - Neural Optical Understanding for Academic Documents
+DocTR - Document Text Recognition
+Docling - Fast and accurate document parsing for AI
+Marker - PDF to markdown converter
+Nougat - Neural Optical Understanding for Academic Documents
+Grobid - Extracting and parsing raw documents
+MegaParse - Open-source scalable parser
+Doc2Dash - Convert documentation into Dash docsets
+Temporal - Durable execution framework for workflows and agents
+Airflow - Platform to author and schedule workflows
+Prefect - Dataflow automation platform
+Dagster - Data orchestrator for ML and ETL
+Mage.ai - Modern replacement for Airflow
+Kestra - Scalable orchestration and scheduling
+Airbyte - Open-source data integration
+Dify - LLM app development platform
+Botpress - Open-source bot creator
+Rasa - ML framework for automated conversations
+Portkey - LLM routing and observability
+Helicone - Open-source LLM observability
+PromptLayer - Middleware for prompt engineering
+Langfuse - Open source LLM engineering platform
+Arize Phoenix - AI observability and evaluation
+TruLens - Evaluation and tracking for LLM apps
+Ragas - Retrieval Augmented Generation Assessment
+DeepEval - Evaluation framework for LLMs
+Braintrust - Enterprise-grade AI evals and logging
+Vellum - Developer platform for AI applications
+Neutrino - Intelligent router for LLMs
+OpenRouter - Unified API for major LLMs
+AnyLLM - Unified API wrapper
+Mem0 - Multi-agent memory system (episodic + semantic)
+Vercel AI SDK - Provider-agnostic AI SDK
+Pydantic AI - Agent framework based on Pydantic
+OpenClaw - Advanced agent runtime and orchestrator system
+
+### DATA & DOCUMENT HANDLING
+Sherlock (OSINT) - Username footprinting
+Maigret (OSINT) - Dossier generation
+theHarvester (Recon) - Email and subdomain harvesting
+Holehe (Intel) - Email account discovery
+MarkItDown - Microsoft's tool for converting files to Markdown
+Pandas - Tabular data manipulation library
+Polars - Blazingly fast DataFrame library in Rust/Python
+Pandoc - Universal document converter
+Docling - SOTA layout analysis and ingestion
+MarkItDown (Ingestion) - MD conversion tool
+Unstructured - Document partitioning and preprocessing for ML
+LlamaIndex (Data Framework) - Document indexing for LLMs
+FFmpeg - Multimedia framework for video/audio transcoding
+ImageMagick - CLI image manipulation tool
+MoviePy - Video editing with Python
+Pillow (PIL) - Python Imaging Library
+OCRmyPDF - OCR Utility for searchable PDFs
+Sherlock (CLI Intelligence) - Username footprinting
+GHunt (Intelligence) - Google Account investigation
+Trafilatura (Content Extraction) - Text and metadata harvesting
+Newspaper4k - Article extraction and metadata parsing
+CSVKit - Suite of CSV tools for merging and analysis
+VisiData - Interactive dataset exploration tool
+Lxml - XML and HTML processing for Python
+Feedparser - RSS/Atom feed parsing
+Gensim - Topic modeling and similarity
+NLTK - Foundation for text analysis
+Sumy - Automatic text summarization
+LangDetect - Language identification
+Polyglot - Multilingual entity extraction
+PyPDF2 - Basic PDF manipulation (merge/split)
+PDFMiner.six - Deep text extraction from PDFs
+Borb - Creating and modifying PDFs
+IronPDF - HTML to PDF conversion
+WeasyPrint - HTML/CSS to PDF conversion tool
+OpenPyXL - Manipulating Excel files
+XlsxWriter - Writing Excel files
+FuzzyWuzzy - Fuzzy string matching
+Levenshtein - Calculating edit distance
+Stripr - Stripping formatting from text
+Unidecode - ASCII transliteration for name normalization
+Phonenumbers - Validating and formatting phone numbers
+Arrow - Time and date handling
+Validators - Data validation for URLs/emails
+Schema - Data structure validation
+PyDub - Audio manipulation library
+Librosa - Audio and music analysis
+SoundFile - Reading and writing sound files
+Picard - Media tagging and organization
+Face_Recognition - Face identification tool
+Rembg - Background removal vision tool
+SimpleITK - Medical image analysis
+PyAV - Direct access to FFmpeg
+Spleeter - Separating voices from noise
+Manim - Mathematical animations
+Pygame - Multimedia app building
+PyQuery - jQuery-like syntax for Python HTML parsing
+Grab - High-level scraping framework
+UrlLib3 - Low-level HTTP client
+Requests-HTML - Modern JS-capable requests
+Apify-CLI - Cloud-based scraping workflows
+BrightData-CLI - Residential proxy management
+ScrapingBee-CLI - Headless browser API for scraping
+SpaCy - Industrial-strength NLP
+FlashText - Ultra-fast keyword searching
+PyTiff - High-fidelity TIFF parsing
+Camelot - PDF table extraction for humans
+Vaex - Out-of-core DataFrames for billion-row datasets
+Kepler.gl - Large-scale geospatial visualization
+PyCaret - Low-code ML library
+Dash - Enterprise-grade dashboards
+Python-Docx - Manipulating .docx files
+Python-Pptx - Manipulating .pptx files
+Diff-match-patch - High-performance diffing tool
+Tika-Python - Content analysis via Apache Tika
+Vovox - Offline speech-to-text transcription
+DeepSpeech - Open-source STT engine
+Tesseract-OCR - Vision-based OCR
+EasyOCR - Ready-to-use OCR with multi-language support
+Keras-OCR - Deep learning based OCR
+Zxing-cpp - Barcode and QR scanning
+Scikit-Image - Image processing for analysis
+Gstreamer-CLI - Real-time media handling
+Audacity-CLI - Scripting Audacity actions
+Auto-Editor - Cutting out silences in video
+Coqui-TTS - High-quality text-to-speech
+VLC-CLI - Remote-controlled media playback
+Sentry-CLI - Error tracking and auditing monitor
+Puppeteer-Cluster - Parallel browser management
+LocalStack-CLI - Local AWS cloud simulation
+Terraform-CLI - Infrastructure as code management
+Ansible-CLI - System configuration and automation
+Docker-CLI - Containerization management
+Podman-CLI - Rootless container management
+Tailscale-CLI - Zero-config mesh VPN
+Ngrok-CLI - Secure tunnels to localhost
+Caddy-CLI - Automatic HTTPS web server
+ClamAV-CLI - Open-source antivirus
+HashiCorp-Vault-CLI - Secret management
+GnuPG-CLI - PGP encryption privacy tool
+BleachBit-CLI - System cleaning and shredding
+Veracrypt-CLI - Disk encryption management
+Tails-CLI - Managing amnesic environments
+Obsidian-CLI - Managing Markdown notes for knowledge bases
+RetroShare - Friend-to-Friend encrypted network
+Conversations - Android XMPP app
+Git-secrets - AWS Key leakage prevention
+Shhgit - Real-time secret harvesting
+Nosey Parker - High-speed secret scanning
+Wraith - Repository secret scanner
+GitHound - Platform-wide recon for GitHub
+Skimmer - E-commerce skimming detection
+Bucket-stream - Real-time S3 bucket monitoring
+Scavenger - Multi-platform secret scraper
+ProtonVPN - VPN service (Winget)
+IVPN - VPN service (Winget)
+Windscribe - Censorship-resistant VPN (Winget)
+WireGuard - VPN protocol and software (Winget)
+Snowflake - Tor peer-to-peer bridge
+Lantern - P2P anti-censorship tool
+Pi-hole - Network-wide ad/tracker DNS sinkhole
+NextDNS - Cloud DNS with security features
+Nitrokey App - Hardware security management
+USB Armory - Computer-on-a-stick security hardware
+Coldcard - Air-gapped Bitcoin hardware wallet
+Blockstream Jade - QR-based hardware wallet
+KeepKey - Hardware wallet with large screen
+Privacy Badger - Heuristic tracking blocker
+uBlock Origin - Content filtering and ad blocking
+
+### OSINT & SECURITY TOOLS
+Sherlock - Username footprinting
+Maigret - Username dossier generation
+theHarvester - Email/subdomain harvesting
+Holehe - Email account discovery
+SpiderFoot - Modular OSINT automation
+Nmap - Network scanner and port analyzer
+WhatWeb - Web technology scanner
+Cloudscraper - Cloudflare bypass tool
+Aider - AI coding agent
+OpenInterpreter - LLM-controlled terminal
+PACER Tools - Court record harvesting
+GovTrack API - Tracking federal legislation
+Open States - State-level policy tracking
+IRSx - Processing IRS 990 filings
+Grants.gov API - Real-time grant tracking
+Socrata - Municipal open data API access
+MVT (Mobile Verification Toolkit) - Mobile forensics
+Fiddler - Inspecting supervision app API calls
+Autopsy - Digital investigation GUI
+Volatility 3 - Memory forensics tool
+TruffleHog - Secret and API key harvesting
+Tor Browser - Anonymous browsing
+NoScript - JS-based de-anonymization prevention
+theHarvester (Recon) - E-mail and subdomain harvesting
+Recon-ng - Full-featured web reconnaissance framework
+Scrapy - High-scale web crawler
+Gallery-dl - Bulk media downloader for evidence archival
+Puppeteer - Headless browser automation
+Selectolax - Ultra-fast CSS selector engine
+DuckDB - In-process SQL engine for flat files
+Tabula-py - Extracting tables from PDF to Pandas
+YT-DLP - Video/Audio extraction from 1,000+ sites
+Faster-Whisper - High-speed speech-to-text transcription
+AutoGen - Multi-agent conversation framework
+MemGPT - Long-term context management for agents
+PydanticAI - Type-safe agent logic builder
+SocialScan - Real-time account status checking
+PDFPlumber - Layout-aware PDF extraction
+CrewAI - Role-based multi-agent orchestration
+Taskweaver - Code-first agent for data analytics
+Amass - In-depth DNS enumeration and asset discovery
+FinalRecon - All-in-one web reconnaissance
+LittleBrother - Person-of-interest mapping
+Maltego-CLI - Graph-based link analysis
+DomainAnalyzer - Domain-level intelligence
+Knockpy - Subdomain brute-forcing
+Censys-CLI - Internet-wide device scanning
+Shodan-CLI - IoT and server discovery
+Zmap - High-speed internet scanning
+Buster - Email-based account discovery tool
+Gevent - Coroutine-based concurrency for networking
+PyQuery - jQuery-like DOM traversal for Python
+Grab - High-level scraping framework
+UrlLib3 - Low-level HTTP client management
+Requests-HTML - Modern JS-capable request scraping
+Apify-CLI - Scalable scraping workflow management
+BrightData-CLI - Residential proxy management
+ScrapingBee-CLI - Bypassing CAPTCHAs and blocks in scraping
+SpaCy - Industrial-strength NLP for entity extraction
+FlashText - Keyword search in massive files
+PyTiff - High-fidelity TIFF parsing
+Camelot - PDF table to DataFrame conversion
+Scikit-Learn - Predictive modeling and success pattern analysis
+Vaex - Out-of-core DataFrames for visualizing billion-row sets
+Kepler.gl - Movement and density spatial visualization
+PyCaret - Low-code ML library for matching algorithms
+Dash - Enterprise-grade research dashboards
+Python-Docx - Reading and writing Word docs
+Python-Pptx - Harvesting data from slide decks
+Diff-match-patch - Comparing document versions
+Tika-Python - Content analysis for 1,000+ formats
+Vovox - Privacy-preserving offline transcription
+DeepSpeech - Open-source speech-to-text engine
+Tesseract-OCR - Multi-language document reading
+EasyOCR - Reading messy/handwritten-style text
+Keras-OCR - Deep learning based OCR in the wild
+Zxing-cpp - Case number extraction from QR codes
+Scikit-Image - Image processing for document quality enhancement
+Gstreamer-CLI - Media streaming and recording
+Audacity-CLI - Automated audio cleanup scripting
+Auto-Editor - Silence removal in recordings
+Coqui-TTS - Generating audio versions of legal docs
+VLC-CLI - Automated media review
+Temporal-CLI - Durable execution for long-running workflows
+Airflow-CLI - Scheduling complex research pipelines
+Prefect-CLI - Modern data automation and tracking
+N8n-CLI - Low-code automation bridging (400+ apps)
+Sentry-CLI - Identifying agent crashes and error auditing
+Puppeteer-Cluster - High-speed mass scraping
+GPT-Engineer - Building entire apps from prompts
+LocalStack-CLI - Testing cloud workflows locally
+Terraform-CLI - Managing agent server infrastructure
+Ansible-CLI - Setting up agent environments
+Docker-CLI - Isolating agent environments
+Podman-CLI - Security-focused container isolation
+Tailscale-CLI - Connecting remote agents securely
+Ngrok-CLI - Tunnelling to local tools
+Caddy-CLI - Automatic HTTPS hosting
+ClamAV-CLI - Scanning harvested files for malware
+HashiCorp-Vault-CLI - Protecting API keys and secrets
+GnuPG-CLI - Encrypting intake logs (PGP)
+BleachBit-CLI - Secure data deletion and shredding
+Veracrypt-CLI - Storing data in secure encrypted volumes
+Tails-CLI - Zero-trace operating environment
+Obsidian-CLI - Injecting data into knowledge bases
+CredoScan - Credential auditing tool
+Gitrob - Organization recon tool
+GitDorker - Automated GitHub dorking
+Spectral - Code security and asset scanning
+BluBracket - Internal source code monitoring
+PowerWhisper - PS secret scanning tool
+DumpsterDiver - Generic secret finder
+S3Scanner - S3 bucket auditor
+Censys - Attack surface mapping tool
+PasteHunter - Pastebin scraping and monitoring
+DeHashed - Breach data search
+IntelX (Intelligence X) - Darknet search engine
+Snusbase - Searchable leaked credential database
+Vigilante.pw - Breach intelligence database
+Tor Browser - Anonymous Darknet browsing
+ZeroTier - Global virtual network switch
+OpenVPN - Industrial grade VPN
+Shadowsocks - SOCKS5 proxy tool
+V2Ray - Custom network protocol platform
+Obfsproxy - Traffic obfuscation
+Meek - Domain fronting bridge
+Psiphon - Censorship circumvention proxy
+GreenTunnel - DNS/SNI bypass
+Zapret - Firewall bypass
+ControlD - Global DNS proxy
+Quad9 - Secure recursive DNS
+Cloudflare Warp - Performance VPN
+Ledger Live - Crypto asset management
+Trezor Suite - Hardware wallet management
+SteelVault - Physical seed storage
+NoScript - Script blocking browser extension
+Sherlock - Username footprinting across sites
+Maigret - User dossier generation
+theHarvester - E-mail and subdomain harvester
+Recon-ng - Web reconnaissance framework
+Amass - Attack surface mapping and asset discovery
+Zeek - Network analysis framework
+Suricata - Network IDS/IPS engine
+Snort - Network intrusion detection system
+Kismet - Wireless network sniffer
+Bettercap - WiFi, BLE, and Ethernet attack Swiss Army knife
+Wifite - Automated wireless attack tool
+Volatilty - Advanced memory forensics framework
+Autopsy - Digital forensics platform
+Metasploit Framework - Penetration testing software
+Burp Suite (Community) - Web vulnerability scanner
+OWASP ZAP - Open-source web security scanner
+Nuclei - Customisable vulnerability scanner (YAML-based)
+Hydra - Network logon cracker
+Mimikatz - Windows security auditing tool
+BloodHound - Active Directory relationship analysis
+Responder - LLMNR, NBT-NS and MDNS poisoner
+Empire - Post-exploitation agent framework
+CrackMapExec - Swiss army knife for network pentesting
+Impacket - Python classes for network protocols
+Gowitness - Web screenshot utility
+Aquatone - Visual inspection across hosts
+Sublist3r - Subdomain enumeration
+Wfuzz - Web bruteforcer
+
+### DATABASE & SEARCH
+DuckDB - In-process SQL OLAP database
+ChromaDB - Open-source embedding database
+FAISS - Efficient similarity search and clustering library
+Qdrant - Vector similarity search engine
+Milvus - Scalable vector database
+Weaviate - AI-native vector database
+Pinecone (CLI/Client) - Managed vector database
+Vespa - Big data serving engine
+Pgvector - Vector search extension for Postgres
+Redis (with RediSearch) - In-memory store with vector search
+Meilisearch - Lightning-fast search API
+Typesense - Typo tolerant fuzzy search engine
+Elasticsearch - Distributed RESTful search and analytics
+OpenSearch - Open source distributed search engine
+LanceDB - Serverless vector database
+DuckDB - SQL OLAP database system
+SQLite-vss - SQLite extension for vector search
+Marqo - Tensor search system
+Vald - Distributed vector search engine
+ScaNN - Scalable nearest neighbors library
+Annoy - Approximate nearest neighbors library
+NMSLIB - Non-metric space library
+USearch - Single-file vector search engine
+Voy - WASM vector similarity search engine
+Zilliz (Client) - Managed vector database client
+AstraDB (Client) - Vector-enabled database client
+SQLite - SQL database system
+Postgres - Relational database system
+MySQL - Relational database system
+MongoDB - Document-oriented database
+Redis - In-memory data structure store
+ClickHouse - Fast open-source OLAP database
+Trino - Distributed SQL query engine
+Presto - Distributed SQL query engine for big data
+Materialize - Streaming database for real-time apps
+Snowflake - Cloud data platform
+
+### MISCELLANEOUS HARDWARE & SERVICES
+SteelVault - Physical seed storage (Hardware)
+Ledger Live - Crypto management app
+Trezor Suite - Hardware wallet interface
+Trezor - Hardware wallet devices
+Nitrokey - Hardware security keys
+USB Armory - Computer-on-a-stick security hardware
+Coldcard - Air-gapped Bitcoin hardware wallet
+Blockstream Jade - QR-based security hardware wallet
+KeepKey - Hardware wallet with large screen
+StartMail - Encrypted email service
+Quad9 - Secure public DNS service
+NextDNS - Cloud DNS firewall
+ControlD - Global DNS proxy service
+Cloudflare Warp - Performance VPN service
+OpenRouter - Unified API for LLM providers
+Apify - Web scraping and automation platform
+BrightData - Residential proxy and scraping platform
+ScrapingBee - Headless browser scraping service
+Vellum - AI application development platform
+Neutrino - Intelligent router for LLMs
+AnyScale - Platform for scaling AI
+Modal - Serverless computing for AI
+Replicate - Run AI with an API
+Baseten - Infrastructure for ML models
+Sentry - Error tracking service
+Datadog - Monitoring and analytics service
+Slack - Communication platform
+Discord - Communication platform
+Zoom - Video conferencing platform
+Spotify - Music streaming platform
+Stripe - Billing and payment processing
+Zendesk - Customer service ticketing
+HubSpot - CRM data platform
+Salesforce - CRM data platform
+Brave Search - Web search API
+Tavily - Search engine for AI agents
+Google Drive - Cloud storage service
+GitHub - Code hosting and version control
+GitLab - Code hosting and CI/CD
+Linear - Issue tracking tool
+Notion - Connected workspace/knowledge base
+Jira - Issue and project tracking
+Confluence - Team collaboration software
+Obsidian - Personal knowledge base tool
+
+### RESEARCH PROTOCOL SYSTEM CONTEXT
+HR - Heart Rate metric
+Blood Pressure - Physiological metric
+Nicotine - Example component substance
+Straw - Hypoxic stressor example
+Ergogenic aids - Performance enhancement category
+SBP - Systolic Blood Pressure threshold
+DBP - Diastolic Blood Pressure threshold
+OTEL - OpenTelemetry integration
+OTEL - OpenTelemetry for tracing and observability
+Vercel AI SDK - Unified SDK for AI providers
+Temporal - System for durable execution
+Mem0 - System for long-term memory
+OpenClaw - Advanced agent runtime system
+MCP - Model Context Protocol for tool servers
+AlloyDB AI - Database with AI capabilities
+Gemini Live API - Real-time AI interaction API
+Vertex RAG Engine - Managed RAG infrastructure
+Claude - Anthropic's LLM
+Ollama - Local LLM runtime
+Gemini - Google's LLM
+Pydantic AI - Python agent framework

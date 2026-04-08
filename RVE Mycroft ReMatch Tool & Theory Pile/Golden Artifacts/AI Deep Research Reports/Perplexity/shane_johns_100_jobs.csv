@@ -1,0 +1,101 @@
+job_id,title,company,location,wage_range,type,employer_type,match_score,notes
+1,Remote Data Entry Clerk,Earn Haus,Remote,$20-$30/hr,Remote/Flexible,Fair Chance,Excellent,"Flexible schedule, no experience required"
+2,Data Entry Specialist,Honest Jobs Network,Remote,$22-$28/hr,Full-time Remote,Fair Chance,Excellent,"Verified fair chance employer, 300k+ jobs available"
+3,Data Processing Associate,GEO Reentry Connect,"Hillsboro, OR / Remote",$20-$26/hr,Full-time/Remote,Fair Chance,Excellent,Reentry-specialized employer
+4,Virtual Assistant,Remote Freelance Platform,Remote,$20-$32/hr,Contract/Gig,Gig Economy,Good,"Flexible gig work, builds skills"
+5,Customer Service Representative (Remote),Multiple Fair Chance Employers,Remote,$20-$25/hr,Full-time Remote,Fair Chance,Good,Uses customer service skills from retail background
+6,Content Moderator,Honest Jobs Network,Remote,$22-$27/hr,Full-time Remote,Fair Chance,Good,"Remote position, good for focus"
+7,Data Analyst (Entry-Level),Tech Training Through Defy Ventures,Remote/Portland Area,$24-$32/hr,Full-time,Fair Chance Training,Excellent,"Training provided, aligns with growth goals"
+8,Freelance Writer/Editor,Upwork/Fiverr (Verified),Remote,$20-$40/hr,Gig/Freelance,Gig Economy,Good,"Flexible, builds portfolio"
+9,Administrative Assistant (Remote),Second Chance Business Coalition Member,Remote,$21-$28/hr,Full-time Remote,Fair Chance,Good,Admin background from management experience
+10,Transcriptionist,Remote Transcription Services,Remote,$20-$26/hr,Flexible,Gig Economy,Good,"Flexible, works with available equipment"
+11,Email Support Specialist,Honest Jobs Platform,Remote,$20-$24/hr,Full-time Remote,Fair Chance,Good,Low-stress customer communication
+12,Data Quality Analyst,Fair Chance Tech Company,Remote,$23-$30/hr,Full-time Remote,Fair Chance,Good,Attention to detail from kitchen management
+13,Survey Research Specialist,Earn Haus,Remote,$20-$22/hr (plus bonuses),Flexible/Part-time,Fair Chance Gig,Good,"$5-$50 per survey, flexible"
+14,Online Tutor (Business/General),Chegg/Tutor.com,Remote,$20-$28/hr,Flexible/Gig,Gig Economy,Good,Community college background helps
+15,Chat Support Agent,Second Chance Employer Networks,Remote,$20-$23/hr,Full-time Remote,Fair Chance,Good,Customer service transferable skills
+16,Inventory Specialist (Remote),Fair Chance Warehouse Network,Remote/Tracking,$21-$28/hr,Full-time Remote,Fair Chance,Good,Leverages warehouse experience
+17,Freelance Project Manager,Upwork,Remote,$25-$35/hr,Gig/Freelance,Gig Economy,Good,Kitchen management skills transfer
+18,Quality Assurance Tester (Remote),Tech Fair Chance Programs,Remote,$22-$29/hr,Full-time Remote,Fair Chance,Good,"Training provided, logical thinking"
+19,Medical Records Data Entry,Healthcare Fair Chance Employers,Remote/Hybrid,$20-$27/hr,Full-time,Fair Chance,Good,Entry-level in healthcare field
+20,Social Media Content Creator,Small Business/Freelance,Remote,$20-$35/hr,Gig/Freelance,Gig Economy,Good,"Creative outlet, flexible"
+21,Warehouse Worker,Second Chance Business Coalition Members (50+ companies),Portland/Hillsboro Metro,$20-$26/hr,Full-time,Fair Chance,Excellent,Directly aligns with UPS loader experience
+22,Order Picker,Amazon/Fulfillment Centers,Portland Metro,$20-$25/hr,Full-time,Fair Chance,Excellent,Known to hire individuals with records
+23,Production Associate,Manufacturing/Fair Chance,Portland/Hillsboro,$21-$27/hr,Full-time,Fair Chance,Excellent,"Good for structured, hands-on work"
+24,Forklift Operator,Fair Chance Logistics,Portland Metro,$22-$28/hr,Full-time,Fair Chance,Good,"Certification available, higher wages"
+25,Packer,Distribution Centers,Portland/Hillsboro,$20-$24/hr,Full-time,Fair Chance,Excellent,"Fast-paced, good for high-energy workers"
+26,Sorting Station Operator,USPS/UPS Fair Chance,Portland Metro,$21-$26/hr,Full-time,Fair Chance,Excellent,Previous UPS experience beneficial
+27,Receiving Clerk,Warehouse Operations,Hillsboro/Portland,$20-$25/hr,Full-time,Fair Chance,Good,Admin + hands-on hybrid role
+28,Shipping and Receiving Specialist,Logistics Fair Chance,Portland Area,$21-$27/hr,Full-time,Fair Chance,Good,"Detail-oriented, organized work"
+29,Inventory Auditor,Retail/Warehouse Fair Chance,Portland Metro,$20-$26/hr,Full-time,Fair Chance,Good,"Attention to detail, numbers"
+30,Material Handler,Manufacturing/Distribution,Hillsboro/Portland,$20-$25/hr,Full-time,Fair Chance,Excellent,Good for physical energy
+31,Laborer,Fair Chance Construction/Warehousing,Portland Metro,$20-$28/hr,Full-time,Fair Chance,Good,"Hands-on, outdoor work available"
+32,Box Sorter,Shipping/Fulfillment,Portland/Hillsboro,$20-$23/hr,Full-time,Fair Chance,Good,"Entry-level, team environment"
+33,Truck Unloader,Retail/Distribution Fair Chance,Portland Metro,$20-$26/hr,Full-time,Fair Chance,Excellent,"Fast-paced, physical work"
+34,Assembly Line Worker,Manufacturing Fair Chance,Portland/Hillsboro,$21-$27/hr,Full-time,Fair Chance,Good,Repetitive but structured work
+35,Dock Worker,Logistics/Warehousing,Portland Metro,$21-$28/hr,Full-time,Fair Chance,Good,"Physical activity, teamwork"
+36,Warehouse Supervisor (Growth Path),Fair Chance Logistics,Portland Area,$24-$32/hr,Full-time,Fair Chance,Excellent,Management experience translates
+37,QC Inspector (Warehouse),Manufacturing/Distribution,Hillsboro/Portland,$22-$28/hr,Full-time,Fair Chance,Good,Quality control from food background
+38,Logistics Coordinator,Fair Chance Logistics,Portland/Remote,$22-$29/hr,Full-time,Fair Chance,Good,"Hybrid role, growing field"
+39,Equipment Operator,Warehouse/Construction Fair Chance,Portland Metro,$23-$30/hr,Full-time,Fair Chance,Good,"Training available, higher wages"
+40,Shipping Clerk,Retail/Logistics Fair Chance,Hillsboro/Portland,$20-$26/hr,Full-time,Fair Chance,Good,"Attention to detail, organization"
+41,Line Cook,Second Chance Business Coalition (Restaurants),Portland/Hillsboro Metro,$20-$26/hr,Full-time,Fair Chance,Excellent,"10 years direct experience, plays to strengths"
+42,Prep Cook,Restaurant Fair Chance,Portland Metro,$20-$24/hr,Full-time/Part-time,Fair Chance,Excellent,"Entry-level kitchen role, stable work"
+43,Kitchen Manager,Fair Chance Restaurants,Portland/Hillsboro,$24-$32/hr,Full-time,Fair Chance,Excellent,"Direct experience, natural progression"
+44,Dishwasher,Restaurants Fair Chance,Portland Metro,$20-$22/hr,Full-time/Part-time,Fair Chance,Good,"Entry point, predictable work"
+45,Food Service Worker,Goodwill/SCBC Restaurants,Portland/Hillsboro,$20-$23/hr,Full-time,Fair Chance,Good,Goodwill partnerships available
+46,Pastry Cook,Fair Chance Bakeries,Portland Metro,$21-$28/hr,Full-time,Fair Chance,Good,"Specialty skill, higher wages"
+47,Sous Chef,High-End Fair Chance Restaurants,Portland Area,$26-$32/hr,Full-time,Fair Chance,Good,"Leadership role, growth potential"
+48,Short Order Cook,Diners/Cafes Fair Chance,Portland/Hillsboro,$20-$25/hr,Full-time,Fair Chance,Excellent,"Fast-paced kitchen, matches personality"
+49,Banquet Chef,Hotels/Venues Fair Chance,Portland Metro,$22-$30/hr,Full-time,Fair Chance,Good,"Team management, event experience"
+50,Cafeteria Manager,Corporate/School Fair Chance,Portland Area,$22-$28/hr,Full-time,Fair Chance,Good,Management experience valuable
+51,Grill Station Operator,Fast Casual Fair Chance,Portland/Hillsboro,$20-$26/hr,Full-time,Fair Chance,Excellent,"High-energy, precision cooking"
+52,Fryer Cook,Quick Service Fair Chance,Portland Metro,$20-$24/hr,Full-time/Part-time,Fair Chance,Good,"Fast-paced, straightforward work"
+53,Sauce Station Cook,Italian/Asian Fair Chance,Portland/Hillsboro,$21-$27/hr,Full-time,Fair Chance,Good,Specialty cooking skill development
+54,Food Trainer/Mentor,Fair Chance Restaurants,Portland Area,$23-$29/hr,Full-time,Fair Chance,Excellent,10 years experience translates directly
+55,Executive Kitchen Coordinator,Corporate Fair Chance,Portland/Remote Hybrid,$24-$31/hr,Full-time,Fair Chance,Good,"Leadership, organization"
+56,Butcher/Meat Prep,Grocery/Restaurant Fair Chance,Portland Metro,$22-$28/hr,Full-time,Fair Chance,Good,"Specialty skill, higher pay"
+57,Inventory Manager (Food),Restaurant Fair Chance,Portland/Hillsboro,$22-$27/hr,Full-time,Fair Chance,Good,Background in food optimization valuable
+58,Food Safety Trainer,Fair Chance Programs,Portland Area,$23-$30/hr,Full-time,Fair Chance,Good,"Leadership opportunity, passion alignment"
+59,Pizza Cook,Pizza Chains Fair Chance,Portland/Hillsboro,$20-$25/hr,Full-time/Part-time,Fair Chance,Excellent,"Previous experience at MOD Pizza, Dominos"
+60,Sandwich/Prep Assembly Lead,Quick Service Fair Chance,Portland Metro,$20-$24/hr,Full-time,Fair Chance,Good,Leadership from Subway experience
+61,Retail Sales Associate,Target/Walmart Fair Chance,Hillsboro/Portland,$20-$26/hr,Full-time/Part-time,Fair Chance,Excellent,"Direct experience, known fair chance employers"
+62,Cashier,Grocery/Retail Fair Chance,Portland Metro,$20-$23/hr,Full-time/Part-time,Fair Chance,Excellent,"7/11, ARCO background directly applicable"
+63,Store Associate (Goodwill),Goodwill Industries,Portland/Hillsboro,$20-$26/hr,Full-time/Part-time,Fair Chance,Excellent,Goodwill explicitly hires individuals with records
+64,Stock Associate/Stocker,Retail Fair Chance,Portland/Hillsboro,$20-$25/hr,Full-time,Fair Chance,Good,"Physical activity, organized work"
+65,Grocery Store Clerk,Grocery Fair Chance,Portland Metro,$20-$26/hr,Full-time,Fair Chance,Good,Familiar retail environment
+66,Customer Service Specialist,Call Center Fair Chance,Portland/Hybrid,$20-$25/hr,Full-time,Fair Chance,Good,Customer interaction transferable
+67,Gas Station Attendant,Fuel Retailers Fair Chance,Portland/Hillsboro,$20-$23/hr,Full-time/Part-time,Fair Chance,Excellent,Direct ARCO experience
+68,Department Manager (Retail),Retail Fair Chance,Portland Area,$23-$30/hr,Full-time,Fair Chance,Good,Leadership background valuable
+69,Convenience Store Manager,7/11/Plaid Pantry Fair Chance,Portland Metro,$22-$28/hr,Full-time,Fair Chance,Excellent,Direct background from employment history
+70,Shift Supervisor (Retail),Retail Fair Chance,Portland/Hillsboro,$21-$27/hr,Full-time,Fair Chance,Good,Leadership opportunity
+71,Visual Merchandiser,Retail Fair Chance,Portland Metro,$21-$27/hr,Full-time,Fair Chance,Good,"Creative skill, eye for detail"
+72,Loss Prevention Associate,Retail Fair Chance,Portland/Hillsboro,$22-$28/hr,Full-time,Fair Chance,Good,"Awareness, attention training"
+73,Customer Service Manager,Retail Fair Chance,Portland Area,$23-$30/hr,Full-time,Fair Chance,Good,10 years customer experience
+74,POS Specialist,Retail Fair Chance,Portland/Hybrid,$21-$26/hr,Full-time,Fair Chance,Good,Tech + customer service blend
+75,Inventory Specialist (Retail),Department Store Fair Chance,Portland Metro,$20-$26/hr,Full-time,Fair Chance,Good,"Organization, counting, attention"
+76,Donation Center Attendant (Goodwill),Goodwill Industries,Portland/Hillsboro,$20-$24/hr,Full-time/Part-time,Fair Chance,Good,Goodwill hiring entry-level
+77,Production Associate (Retail),Goodwill Industries,Portland Metro,$20-$25/hr,Full-time,Fair Chance,Good,Hands-on production work
+78,Outlet Supervisor,Goodwill Industries,Portland Area,$21-$27/hr,Full-time,Fair Chance,Good,Leadership role
+79,Fleet Assistant (Gas Station),Fuel Retailers Fair Chance,Portland Metro,$21-$26/hr,Full-time,Fair Chance,Good,Fleet management support
+80,Wholesale Club Associate,Costco/Sam's Club Fair Chance,Portland Metro,$20-$27/hr,Full-time,Fair Chance,Good,Known fair chance employers
+81,Kelly Services Temporary Assignment,Kelly Services (Kelly 33 Program),Portland Metro,$20-$28/hr,Temp-to-Hire/Full-time,Fair Chance Staffing,Excellent,"Direct pathway, 92% eligibility with records"
+82,Randstad Hire Hope Apprentice,Randstad Hire Hope Program,Portland Area,$20-$24/hr (+ training),Apprenticeship,Fair Chance Training,Excellent,"12-week training, paid apprenticeship"
+83,Defy Ventures Bootcamp/Placement,Defy Ventures,Portland Area,$22-$30/hr (post-training),Training/Placement,Fair Chance Training,Excellent,"Entrepreneurship focus, 100+ companies"
+84,GEO Reentry Employment Services,GEO Reentry Connect,Portland Metro,$20-$26/hr,Job Placement Program,Fair Chance,Excellent,Career readiness + placement support
+85,Center for Employment Opportunities (CEO),CEO (31+ cities),Portland Area (if available),$20-$25/hr (training wage),Paid Transitional Work,Fair Chance,Excellent,"Largest reentry employer, nationwide"
+86,WorkSource Oregon Reentry Program,WorkSource Oregon,Portland/Hillsboro,$20-$26/hr (various placements),Job Training/Placement,Fair Chance,Excellent,"State program, comprehensive support"
+87,Registered Apprenticeship (Various Trades),Apprenticeship.gov Programs,Portland Metro,$20-$32/hr (varies by trade),Apprenticeship,Fair Chance Training,Good,"Federal support, long-term earning potential"
+88,Safer Foundation Placement Program,Safer Foundation,Portland Area,$20-$26/hr,Job Placement,Fair Chance,Good,"Chicago-based, expanding to other cities"
+89,Legal Action Center Placement,Legal Action Center,Portland/National,$20-$28/hr,Advocacy + Placement,Fair Chance,Good,Policy-focused reentry organization
+90,Root & Rebound Employment Support,Root & Rebound,California/Expanding,$20-$26/hr,Employment Support,Fair Chance,Good,Reentry legal + employment support
+91,Google Career Certificates Program,Google/Fortune Society Partnership,Remote/Portland,$22-$30/hr (post-certification),Training Pathway,Fair Chance Training,Excellent,"Free training, aligns with tech goals"
+92,The Last Mile Tech Coding Program,The Last Mile (TLM),Various/Portland Area,$25-$35/hr (post-training),Tech Training Pathway,Fair Chance Training,Excellent,"100% zero-reoffense rate, high-growth field"
+93,SHRM Fair Chance Training Certificate,SHRM Foundation,Online/Portland,$21-$27/hr (with certification),Training Certification,Fair Chance Training,Good,"Professional credential, 10-hour program"
+94,CareerOneStop Placement Services,U.S. Department of Labor,Portland Metro,$20-$26/hr (various jobs),Job Services,Government Fair Chance,Good,"2,400+ centers nationwide"
+95,WOTC Tax Credit Employer Hiring,Employers Using Work Opportunity Tax Credit,Portland/National,$20-$26/hr,Direct Hire,Fair Chance Incentivized,Good,Employers get 40% tax credit for hiring
+96,Second Chance Inc. Training Program,Second Chance Inc.,Baltimore/Expanding,$20-$26/hr,Training/Placement,Fair Chance,Good,Construction/building trades focus
+97,Honest Jobs Matching Service,Honest Jobs,Remote/National,$20-$28/hr (platform average),Job Matching Platform,Fair Chance Platform,Excellent,"300,000+ jobs, 1,500+ verified employers"
+98,ZipRecruiter Fair Chance Search,ZipRecruiter + Fair Chance Employers,Remote/National,$20-$28/hr,Job Board,Fair Chance Platform,Good,Easy filtering for fair chance positions
+99,LinkedIn Fair Chance Filter Job Search,LinkedIn + Employers,Remote/National,$20-$30/hr,Job Board,Fair Chance Platform,Good,"Free platform, growing fair chance filter"
+100,Constructing Hope Portland Training,Constructing Hope,"Portland, OR",$20-$28/hr,Training + Placement,Fair Chance Training,Excellent,"Local Portland option, building trades focus"

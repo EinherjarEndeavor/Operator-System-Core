@@ -1,0 +1,6 @@
+"Source","Tool","What to Extract"
+"Obsidian .md","ripgrep, local embeddings → LanceDB","URLs, emails, principles, axioms"
+"PDFs","Docling (IBM) → Markdown youtube","Structured text, semantic chunks"
+"DOCX/drafts","pandoc","Monetizable fragments, blog outlines"
+"Chat JSON exports","jq + Python","Decision points, principles, action items"
+"Bookmarks HTML","grep + SQLite","URL corpus for semantic retrieval"

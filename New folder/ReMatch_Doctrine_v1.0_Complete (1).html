@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Re.Match Doctrine v1.0 - Complete System Specification</title>
+  <style>
+    body { font-family: system-ui, sans-serif; margin: 0; padding: 0; background:#05070a; color:#f5f5f5; line-height:1.5; }
+    .page { width: 8.5in; min-height: 11in; margin: 0 auto 1.5in; padding: 1in 0.8in; box-sizing: border-box; position:relative; page-break-after: always; }
+    .page:last-child { page-break-after: avoid; margin-bottom:0; }
+    .header { background:linear-gradient(135deg, #f53b57 0%, #020308 100%); padding:20px; text-align:center; border-bottom:3px solid #f53b57; }
+    .logo { font-size:2rem; font-weight:900; letter-spacing:0.2em; text-transform:uppercase; color:#f5f5f5; text-shadow:0 0 20px #f53b57; }
+    .version { font-size:0.9rem; color:#aaa; margin-top:4px; }
+    h1 { font-size:1.4rem; border-bottom:2px solid #444; padding-bottom:8px; margin:24px 0 16px 0; }
+    h2 { font-size:1.2rem; border-left:4px solid #f53b57; padding-left:12px; margin:20px 0 12px 0; }
+    h3 { font-size:1rem; margin:16px 0 8px 0; color:#f53b57; }
+    .card { border:1px solid #333; padding:16px; border-radius:8px; background:rgba(5,7,10,0.95); margin-bottom:16px; }
+    .schema-table { width:100%; border-collapse:collapse; font-size:0.85rem; }
+    .schema-table th, .schema-table td { border:1px solid #444; padding:8px; text-align:left; }
+    .schema-table th { background:#060910; font-weight:600; }
+    .schema-table tr:nth-child(even) { background:rgba(245,59,87,0.05); }
+    .category-block { border-left:4px solid #f53b57; padding-left:16px; margin:12px 0; }
+    .action-list { list-style:none; padding:0; counter-reset:action; }
+    .action-list li { counter-increment:action; margin:8px 0; padding-left:24px; position:relative; }
+    .action-list li::before { content:counter(action); position:absolute; left:0; background:#f53b57; color:#f5f5f5; width:20px; height:20px; border-radius:50%; display:flex; align-items:center; justify-content:center; font-size:0.8rem; font-weight:bold; }
+    .mono { font-family:monospace; background:#020308; padding:4px 8px; border-radius:4px; font-size:0.85rem; }
+    .badge { display:inline-block; padding:4px 8px; border-radius:6px; font-size:0.75rem; font-weight:600; margin:2px; }
+    .tier0 { background:#f53b57; color:#f5f5f5; }
+    .tier1 { background:#0f9d58; color:#f5f5f5; }
+    .tier2 { background:#4285f4; color:#f5f5f5; }
+    .tier3 { background:#fbbc04; color:#000; }
+    .tier4 { background:#ea4335; color:#f5f5f5; }
+    .warning { background:#fbbc04; color:#000; border:1px solid #f57c00; }
+    .img-placeholder { width:120px; height:120px; background:#020308; border:2px solid #444; border-radius:8px; display:flex; align-items:center; justify-content:center; font-family:monospace; color:#aaa; margin:12px 0; }
+  </style>
+</head>
+<body>
+
+<!-- COVER PAGE -->
+<div class="page">
+  <div class="header">
+    <div class="logo">RE.MATCH DOCTRINE</div>
+    <div class="version">v1.0 - Complete System Specification<br>04/06/2026</div>
+  </div>
+  <div style="text-align:center; padding:40px 20px;">
+    <h1>System Overview</h1>
+    <p style="max-width:600px; margin:0 auto; font-size:1.1rem;">
+      <strong>Re.Match</strong> is a constraint-based opportunity matching engine for justice-involved individuals. 
+      It maps personal constraints (debt, supervision, addiction) against all available resources to produce 
+      <strong>god-tier recommendations</strong> — maximum life impact, 100% eligibility match.
+    </p>
+    <div style="margin:40px 0;">
+      <div class="badge tier0">23 Categories</div>
+      <div class="badge tier1">Action-First Dossiers</div>
+      <div class="badge tier2">LS/CMI Integration</div>
+      <div class="badge tier3">Low Literacy Design</div>
+    </div>
+    <div class="img-placeholder">8-BIT HORROR PROFILE IMG</div>
+  </div>
+</div>
+
+<!-- CATEGORIES SCHEMA -->
+<div class="page">
+  <h1>1. Database Schema - 23 Categories</h1>
+  <p><strong>Each category is a table row with these columns:</strong></p>
+  <ul>
+    <li>ID | Category | Tier | LS/CMI | Notes | Fields</li>
+  </ul>
+
+  <div class="card">
+    <table class="schema-table">
+      <thead>
+        <tr><th>ID</th><th>Category</th><th>Tier</th><th>LS/CMI Alignment</th><th>Notes</th></tr>
+      </thead>
+      <tbody>
+        <tr><td>1</td><td>Legal &amp; Supervision</td><td class="tier0">0</td><td>Criminal History (Static)</td><td>Compliance first. PO contact, court dates.</td></tr>
+        <tr><td>2</td><td>ID &amp; Documentation</td><td class="tier0">0</td><td>—</td><td>Birth cert, SSN, state ID. Gates everything.</td></tr>
+        <tr><td>3</td><td>Housing &amp; Shelter</td><td class="tier1">1</td><td>—</td><td>Sober living, transitional, permanent.</td></tr>
+        <tr><td>4</td><td>Financial</td><td class="tier1">1</td><td>—</td><td>Debt tracking, SNAP/SSI, benefits.</td></tr>
+        <tr><td>5</td><td>Transportation &amp; Equipment</td><td class="tier1">1</td><td>—</td><td>Phone, laptop, bus pass, bike.</td></tr>
+        <tr><td>6</td><td>Food &amp; Nutrition</td><td class="tier1">1</td><td>—</td><td>SNAP, food banks, meal programs.</td></tr>
+        <tr><td>7</td><td>Medical &amp; Physical Health</td><td class="tier2">2</td><td>—</td><td>Healthcare access, meds, dental (referral only).</td></tr>
+        <tr><td>8</td><td>Mental Health</td><td class="tier2">2</td><td>—</td><td>Therapy, crisis resources (referral only).</td></tr>
+        <tr><td>9</td><td>Recovery</td><td class="tier2">2</td><td>Substance Abuse (Moderate Four)</td><td>MAT, meetings, relapse prevention.</td></tr>
+        <tr><td>10</td><td>Physical Training</td><td class="tier2">2</td><td>—</td><td>Fitness, rehab, combat training.</td></tr>
+        <tr><td>11</td><td>Cognitive Patterns</td><td class="tier3">3</td><td>Antisocial Cognition (Big Four)</td><td>Thinking errors, cognitive restructuring.</td></tr>
+        <tr><td>12</td><td>Behavioral Self-Regulation</td><td class="tier3">3</td><td>Antisocial Personality (Big Four)</td><td>Anger management, impulse control.</td></tr>
+        <tr><td>13</td><td>Social Network &amp; Associates</td><td class="tier3">3</td><td>Antisocial Associates (Big Four)</td><td>Prosocial peers, mentorship mapping.</td></tr>
+        <tr><td>14</td><td>Family &amp; Relationships</td><td class="tier4">4</td><td>Family/Marital (Moderate Four)</td><td>Support vs. conflict dynamics.</td></tr>
+        <tr><td>15</td><td>Dependents</td><td class="tier4">4</td><td>—</td><td>Children, custody, child support.</td></tr>
+        <tr><td>16</td><td>Education</td><td class="tier4">4</td><td>Education/Employment</td><td>GED, college, certifications.</td></tr>
+        <tr><td>17</td><td>Employment</td><td class="tier4">4</td><td>Education/Employment</td><td><strong>Immediate income.</strong> Temp jobs, second-chance employers.</td></tr>
+        <tr><td>18</td><td>Career</td><td class="tier4">4</td><td>Education/Employment</td><td><strong>Long-term trajectory.</strong> Apprenticeships, credentials.</td></tr>
+        <tr><td>19</td><td>Leisure &amp; Recreation</td><td class="tier4">4</td><td>Leisure/Recreation</td><td>Prosocial hobbies, community engagement.</td></tr>
+        <tr><td>20</td><td>Purpose &amp; Aspirations</td><td class="tier4">4</td><td>—</td><td>Values, meaning, long-term vision.</td></tr>
+        <tr><td>21</td><td>Special Status &amp; Eligibility</td><td class="warning">Jackpot</td><td>—</td><td>Veteran, disability, DV survivor, tribal, age, parent status.</td></tr>
+        <tr><td>22</td><td>Record Relief</td><td class="warning">Jackpot</td><td>—</td><td>Expungement, sealing, certificates.</td></tr>
+        <tr><td>23</td><td>Entrepreneurship</td><td class="warning">Jackpot</td><td>—</td><td>Microloans, incubators, self-employment.</td></tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<!-- DOSSIER LAYOUT -->
+<div class="page">
+  <h1>2. Dossier Template Structure</h1>
+  <h2>Page Flow (8–12 Pages Total)</h2>
+  <div class="card">
+    <ol class="action-list">
+      <li><strong>Page 1:</strong> Cover (profile, 8-bit image, TOC)</li>
+      <li><strong>Page 2:</strong> Landscape (leverage/constraints)</li>
+      <li><strong>Page 3:</strong> Master Action Plan (ordered steps)</li>
+      <li><strong>Pages 4–10:</strong> 23 Categories (1–2/page)</li>
+      <li><strong>Page 11:</strong> Database links</li>
+    </ol>
+  </div>
+
+  <h2>Category Block Template</h2>
+  <div class="card category-block">
+    <h3>Sample: Housing (Tier 1)</h3>
+    <div style="display:grid; grid-template-columns:1fr 1fr; gap:12px;">
+      <div>
+        <p><strong>What:</strong> Place to live.</p>
+        <p><strong>Why:</strong> Stable base for everything else.</p>
+      </div>
+      <div>
+        <div style="font-weight:600; margin-bottom:4px;">Top Pick:</div>
+        <div class="mono">Sober Living X - Bed in 30 days</div>
+      </div>
+    </div>
+    <div style="margin-top:12px; background:rgba(15,157,88,0.2); padding:12px; border-radius:6px;">
+      <strong>Next Step:</strong>
+      <ol class="action-list" style="margin-top:4px;">
+        <li>Call 503-XXX-XXXX now</li>
+        <li>Go 123 Main St, Mon 9am</li>
+        <li>Bring ID + $50 deposit</li>
+      </ol>
+    </div>
+  </div>
+</div>
+
+<!-- WORKFLOW & METHODS -->
+<div class="page">
+  <h1>3. Research & Matching Workflow</h1>
+
+  <h2>Step 1: Intake → Profile</h2>
+  <div class="card">
+    <p>Form → JSON profile (80 fields max). Audio transcription optional.</p>
+    <pre class="mono">{
+  "constraints": ["felony", "debt_5k", "probation"],
+  "interests": ["tech", "fitness", "music"],
+  "special_status": ["veteran", "dv_survivor"]
+}</pre>
+  </div>
+
+  <h2>Step 2: Database Query + No-Redundancy</h2>
+  <div class="card">
+    <p>Query opportunity DB first. Only research NEW items.</p>
+    <p><strong>Score formula:</strong> (Eligibility × 1.0) + (Life Impact × 1.0) + (Speed × 0.5)</p>
+  </div>
+
+  <h2>Step 3: God-Tier Selection</h2>
+  <div class="card">
+    <ul>
+      <li>Top 1 per category → PDF</li>
+      <li>Top 5 per category → Full DB link</li>
+      <li>Action plans ordered by dependency</li>
+    </ul>
+  </div>
+
+  <h2>Action Plan Logic</h2>
+  <div class="card">
+    <ol class="action-list">
+      <li>Long-wait, no-prereq (housing apps)</li>
+      <li>Must-haves (ID/docs)</li>
+      <li>Income + stability</li>
+      <li>Growth (education/career)</li>
+    </ol>
+  </div>
+</div>
+
+<!-- LS/CMI INTEGRATION -->
+<div class="page">
+  <h1>4. LS/CMI / RNR Integration</h1>
+  <div class="card">
+    <table class="schema-table">
+      <tr><th>LS/CMI Domain</th><th>Re.Match Category</th><th>Intervention Target</th></tr>
+      <tr><td>Criminal History</td><td>Legal &amp; Supervision</td><td>Compliance tracking</td></tr>
+      <tr><td>Antisocial Cognition</td><td>Cognitive Patterns</td><td>Thinking reports</td></tr>
+      <tr><td>Antisocial Personality</td><td>Behavioral Regulation</td><td>Anger management</td></tr>
+      <tr><td>Antisocial Associates</td><td>Social Network</td><td>Mentorship mapping</td></tr>
+      <tr><td>Family/Marital</td><td>Family &amp; Relationships</td><td>Support networks</td></tr>
+      <tr><td>Education/Employment</td><td>Education + Employment + Career</td><td>Job placement + vocational</td></tr>
+      <tr><td>Substance Abuse</td><td>Recovery</td><td>Relapse prevention</td></tr>
+      <tr><td>Leisure/Recreation</td><td>Leisure &amp; Interests</td><td>Prosocial hobbies</td></tr>
+    </table>
+  </div>
+</div>
+
+<!-- JACKPOT CATEGORIES -->
+<div class="page">
+  <h1>5. Jackpot Multipliers (Categories 21–23)</h1>
+
+  <h2>21. Special Status &amp; Eligibility</h2>
+  <div class="card">
+    <p><strong>Triggers:</strong> Veteran → VA benefits. Disability → SSI. DV survivor → priority housing. Tribal → sovereign aid.</p>
+  </div>
+
+  <h2>22. Record Relief</h2>
+  <div class="card">
+    <p><strong>Unlocks:</strong> Expungement → 2x employment access. Sealing → housing eligibility.</p>
+  </div>
+
+  <h2>23. Entrepreneurship</h2>
+  <div class="card">
+    <p><strong>For locked-out cases:</strong> Microloans, SBA second-chance, reentry incubators.</p>
+  </div>
+</div>
+
+<!-- IMPLEMENTATION NOTES -->
+<div class="page">
+  <h1>6. Technical Implementation</h1>
+
+  <h2>Database Schema (SQL)</h2>
+  <div class="card">
+    <pre class="mono">CREATE TABLE opportunities (
+  id INTEGER PRIMARY KEY,
+  category_id INTEGER,
+  name TEXT,
+  eligibility_criteria JSON,
+  life_impact_score REAL,
+  speed_days INTEGER,
+  contact JSON,
+  location TEXT,
+  status TEXT DEFAULT 'active'
+);
+
+CREATE TABLE profiles (
+  id TEXT PRIMARY KEY,
+  intake_json JSON,
+  constraints JSON,
+  matches JSON
+);</pre>
+  </div>
+
+  <h2>Low Literacy Design Rules</h2>
+  <div class="card">
+    <ul>
+      <li>Max 15 words/sentence</li>
+      <li>1 action per box</li>
+      <li>Big headings, short paragraphs</li>
+      <li>Phone/address first</li>
+      <li>Colored priority badges</li>
+    </ul>
+  </div>
+</div>
+
+<!-- DOSSIER GENERATION WORKFLOW -->
+<div class="page">
+  <h1>7. Dossier Generation Workflow</h1>
+  <div class="card">
+    <ol class="action-list">
+      <li>Intake form → JSON profile</li>
+      <li>Query DB with no-redundancy filter</li>
+      <li>Research gaps (web + local scrape)</li>
+      <li>Score &amp; rank (eligibility × impact)</li>
+      <li>Build master action plan (dependency sort)</li>
+      <li>Generate HTML → PDF</li>
+      <li>Host full DB link</li>
+    </ol>
+  </div>
+
+  <h2>File Structure</h2>
+  <pre class="mono">/dossiers/
+  ├── REM-0001-IPSUM/
+  │   ├── profile.json
+  │   ├── compact.pdf
+  │   └── full.html
+  ├── /database/
+  │   ├── opportunities.db
+  │   └── profiles.db</pre>
+</div>
+
+<!-- FINAL NOTES -->
+<div class="page">
+  <h1>8. Final Doctrine Notes</h1>
+  <div class="card">
+    <h2>Key Principles</h2>
+    <ul>
+      <li><strong>Action-first:</strong> Steps before explanations.</li>
+      <li><strong>No redundancy:</strong> DB prevents repeat research.</li>
+      <li><strong>Jackpot-first:</strong> Special status unlocks 10x resources.</li>
+      <li><strong>RNR-aligned:</strong> Every category maps LS/CMI domains.</li>
+      <li><strong>Scalable:</strong> One profile → infinite dossiers.</li>
+    </ul>
+  </div>
+
+  <div class="card">
+    <h2>Success Metrics</h2>
+    <ul>
+      <li>100% eligibility match</li>
+      <li>Life impact > 90%</li>
+      <li>Action completion rate > 70%</li>
+      <li>Recidivism reduction proxy: stability metrics</li>
+    </ul>
+  </div>
+
+  <div style="text-align:center; margin-top:40px; font-size:0.9rem; color:#aaa;">
+    <strong>Re.Match Doctrine v1.0</strong><br>
+    Complete &amp; Authoritative<br>
+    04/06/2026
+  </div>
+</div>
+
+</body>
+</html>

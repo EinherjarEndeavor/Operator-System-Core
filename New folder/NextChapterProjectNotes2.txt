@@ -1,0 +1,94 @@
+Next Chapter Project Notes Sequence 2 
+Hey! So it's been a while since I've actually been able to do more than theorycrafting, ideation refinement, getting my computer more equipped and getting familiar with the command line, 
+and getting other pre-requisites out of the way. 
+So, my name is Shane W. Johns and I am struck with faith in God at the timing and existence in general of Next Chapter. I stumbled onto it while hunting resources/opportunities while 
+I was in custody. 
+While in jail, I was able to get a month of sobriety under my belt, start working out, start treatment, get my social security card, get into a career development program, 
+get two phones, get two laptops, get my ID, get my glasses, get on proper medication, 
+get on housing lists, get some debts squared away, get signed up at Portland Community College, get my GED, and much, much more. 
+I was taking Adult Basic Education classes at Portland Community College in preparation to start taking Computer Science classes to start. 
+I ended up losing my lodging at Washington County Community Corrections Center because I couldn't be on time and I had a disagreement with a guard. I was invited to come back, but declined. 
+So I had to get my GED, study and complete coursework, do my physical training, and everything else while homeless. 
+I've been setting my computer up and training myself in some basics as best as I can while solidifying probation, treatment, getting my GED, keeping up with physical conditioning, and 
+resource hunting to try to get my housing squared away. 
+I'm happy to say, i have a tinyhome that I'll be able to stay in by the time Next Chapter's cohort begins. I have completed my GED in time to submit my letter of interest as well as 
+get financial aid and take classes at Portland Community College this term. I might only take a physical training class so that I can focus on Next Chapter, however. 
+
+So, that's kind of my life update. 
+I've come to realize that documentation of my endeavors, activities, and now that I am in position - My training - will be a very powerful habit to begin. 
+So this crude log is the very first in a series of daily logs that I will keep no matter what. 
+I've been theorycrafting many systems and it is time to actually pull some into reality. 
+
+So for Next Chapter, I want to create a website that will present a solid, marketable product. 
+The website I am going to make will contain these aspects: 
+1) An introduction/profile. Not too much, but enough to present context, character, and establish that I have experience that will yield result, and that I intend to help. 
+2) Re.Match - Simplified: User fills out form I have on website, user recieves a "dossier," which is an action plan that categorically provides as-close-to-optimal-as-i-can-claim paths. 
+The workflow : They fill out a form, either by recording a voice message and reading the form out loud and then the answers, or an unstructured voice message just stating what they need help 
+with, or type it out. If the form is audio, it is transcribed and sent to an intake inbox. If it is not audio, it is sent to the intake inbox. From the intake inbox, it is converted 
+to a json schema profile. I then, currently manually, run it through a scripted series of prompts that identifies the highest "life impact," 100% criteria matches for their given constraints, 
+affinities, alignment, needs and interest. 
+The form has been through a few iterations before I am ready to add it to the website.
+The first version of the form, I did by hand and it was pretty good. I basically stated categories of aid they could pursue to guide them, left an open category, got basic demographics, 
+a bit of alignment, interest and affinity information, and that was it. 
+The next version was 80 questions long and I determined to have as much data as I could get without being invasive, which seems paradoxical when I type it outloud. 
+Then I created by hand another version, which was pretty close to the first version. 
+Finally, I used Gemini 3.0flash and Codex, had them each create an amalgamation of all of the versions with the intent of having the bare minimum amount of exactly "perfectly" functional
+information. Too much information, too many fields - I am not experienced or skilled yet, but I imagine that would break the schema, result in bloat, pollute the context/token limits, 
+be difficult to log to a database, and possibly obstruct retrieval instead of aid it. 
+Then I wanted to make sure that the workflow was correct in using AI. As far as my reckoning goes, web scraping and scripting is highly effective for deterministic, specific, reoccurring,
+targeted information harvests. AI is better for complex, abstract shit. So for acquiring "the d0pest sh1t my dawg can d0 to $wag his life up, yo," AI excels beyond a scraper. 
+However, for maintaining the legitemacy of the vitality of objects in a database of the aforementioned d0pe sh1t, a scraper would be effective. 
+So the concept at this point, now that I have a form that I'm willing to push - for the Re.Match project, which is the flagship content for the website - 
+Form is complete. 
+Now I get a version of the form, basic, typed, on the website with a working email submission. 
+Then, I learn to use GitBranch.
+To practice/learn Git Branching, 
+I will iterate versions of this concept. 
+First, I will push the vanilla form version. 
+Then, I will branch push (or just branch?) a version of the form that contains a microphone button next to every response field. click the microphone and you can speak the field. 
+Then, I will branch push a version that has a way to just record you reading the form outloud...this is sounding pretty weak as i type it. what happened...ill check the logs, i'm pretty 
+sure i remember it being better. maybe the microphone button version is just that much better. the idea was that this version would allow more freeform, organic responses with more 
+nuanced character to emerge, allowing for more abstract matching 
+Then I will branch a version with a voice navigation feature that allows you to voice navigate to other fields. I dont know if this is even a thing, but the idea keeps coming to mind that 
+my people, my street homies - have low attention span, low energy for anything that isn't gettin dope, gettin bread, or gettin laid, as unfortunate as it may be that is the state 
+of the downward locale of the spiral 
+I'll merge whichever branches don't suck after attempting to iterate into a fine tuned version of each of them. 
+
+Once I have the form submission down, I will submit a test version using myself. 
+Once the microphone button one submits clean, the audio clip one submits clean and transcribes to audio with no worries about length or rate limits, the voice navigation works, 
+and it all sends to the intake funnel and converts to schema - Then its prompt engineering. 
+My original method was SLOPPY. NOOB. GARBAGE. I was just a nooblet who liked AI a lot, which is still more or less what I am, but I just designed a cracked out prompt that kicked ass at finding 
+things that matched the json profile i created for myself, created EIGHT threads on ChatGPT AND Perplexity, one for each category - 16 threads 
+and i hit deep research, and kept typing "Continue, continue, continue, continue, more, more, more"  
+I really came to an intimate understanding with the limits of those platforms with this and am so enamored with the command line versions oh my goodness. 
+so my current epitomized version of this concept, to ensure no redundancy as a policy to increase the amount of opportunities i harvest 
+
+the plan is to create a prompt that adds everything to a database file. the database file will be indexed with the attributes to which an individual can match, services offered, and metrics 
+of evaluation/rating in certain categories, with the "life impact" metric being entirely dependent on the person and their circumstance. A 100/100 on the life impact metric essentially means 
+that the opportunity/resource hits like 3 or 4 of your categories of interest. 
+anyway, so as searches are run for every person, their results are added to a big fat database file - possibly multiple database files, categorically divided. 
+they are indexed 
+then every search moving forward is ran first against that database with a "no redundancy, do not list items in the database in your results or pursue them. add new items to database and index them." 
+then after several runs, manual review, etc. 
+A final search against the database only is ran 
+Final output is 
+The top 1 opportunity/resource per category in full detail with an action plan, what to do, how to do it, where to go, phone numbers, addresses, urls, time to fruition, difficulty barrier, 
+end result, prerequisites, possibilities after completion  
+Two follow ups  in full detail as well 
+5 honorable mentions in short list format with a description of what they are and why they aren't in the top 3 
+Then a link to the complete database. 
+
+An issue I've percieved being possible is people being reluctant to post their data on some random dude's website - reasonably so. I don't have the ability to offer confident security yet. 
+So I've contrived a solution which is still ambiguous but seems plausible where instead of their name they submit a code of their selection, an alphanumberic like SLICKDICKRICK69 or 1825932 
+and I upload the dossier publicly with their constraint flags, none of their demographic information, and their identifier number - that way people with similar constraint flags can 
+check it out as well as the person can access it without needing to offer their name. Alternatively, they use the service at their own risk and i offer scouts honor that i wont 
+share their information and i do my best to keep it secure. 
+
+PHEW. and that's the Re.Match system. 
+
+ANOTHER COMPONENT for the website 
+I'm currently distilling all of my conversation history from since I was in The RC to now into content, as best as i can with my current skills. 
+i'm going to identify rock solid exerpts and put them up on the website. guides to resources, guides to being homeless, guides to recovery, recovery science, shit that's relevant 
+open source books (if im allowed to) and links to resources and shit 
+
+I have a few different versions in mind to try, and that's the step i'm on right now. I just finished ironing out what the form will contain.

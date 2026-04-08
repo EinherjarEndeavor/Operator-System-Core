@@ -1,0 +1,498 @@
+RESOURCES UP TOP 
+GIT 
+https://www.w3schools.com/git/
+HTML 
+https://www.w3schools.com/tags/
+https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements
+
+Starting from 0 skill
+First order of business, Git/GitHub
+Computer is up, both phones in front of me. 
+I've installed VS Code
+I've opened VS Code 
+I've installed the Live Server plugin
+I've installed the Prettier plugin 
+---I will not use AI to generate code directly 
+---I will have it teach me the principles and show me the relevant materials so that I can streamline this, since I have 6 hours to deliver a product. 
+---Then test and iterate 
+I've created 
+-Index.html
+-Script.js
+-Style.css
+Now commencing Git module on Circle 
+
+NOTES - GIT MODULE - CIRCLE 
+The Working Directory: Where  we actively edit files locally. This is our playground.
+The Staging Area: It’s a temporary holding  spot for changes before committing.
+The Local Repository: This is where  we store committed changes locally.
+The Remote Repository: A server like  GitHub for sharing and backing up code.
+Most git commands move files  between these four locations.
+-Git is a version control system 
+-There are 4 interaction points within the Git system. 
+WORKING DIRECTORY ########### STAGING AREA ############ LOCAL REPO ########### REMOTE REPO 
+-Git Add moves from working directory to staging area
+-Git Commit moves from staging area to local repo 
+-Git Push moves from local repo to remote repo 
+-Git fetch pulls from remote repo to local repo 
+-Git merge pulls from the local repo and merges into the working directory 
+-Git pull pulls from remote repo to working directory 
+	|->git pull, which fetches changes from the remote repository and merges  them into your local repository. 
+		|-> It combines two commands: git fetch, which  grabs the latest updates, and git merge,  which integrates these updates with your work.
+-Git clone pulls from remote repo to local repo (what's difference between fetch and pull?) 
+									
+-Git Init - Initialize an existing folder as a Git Repository 
+-Git Clone - Retrieve an entire repository from an existing hosted location via URL
+
+#####downloaded GitHub Desktop #####		--Downloaded Git Command Cheat Sheet--
+|->Focus on using without GitHub Desktop to learn CLI stylo 
+	|->Get savvy with CLI since coming from 0 makes that important. 
+		|->Use AI, visual aid, and other highly useful tools last - focus on developing fundamentals 
+
+
+username.github.io where username is your GitHub username. 
+The important thing to keep in mind is that your website will be hosted on GitHub as well.
+Hosting is a complicated topic, but for now just understand that GitHub allows you to host one site through their services for free and allows others to visit it, 
+as long as you title your repository correctly!
+
+As you can see on the GitHub Pages site - https://pages.github.com/ - you must create your repository with the name username.github.io where username is your GitHub username. Go ahead and follow the rest of this tutorial to initiate your repo and make sure you clone your repository to a folder on your computer that you’ll be able to find easily.
+
+I have 
+-installed VS Code, 
+-created the file directory tar0tscepter.github.io on my desktop 
+-created a github repository using that directory 
+-created 3 files within the directory 
+-I am going to exclusively use the items mentioned within the assessment's curriculum
+|-> particularly because I am new, I should be focusing on fundamentals and not trying anything beyond the curriculum's intended breadth 
+	|-> this will catalyze my learning and give me a controllable scope 
+This means I will only be using HTML, CSS, and JavaScript. 
+
+I have decided to press my 0 knowledge, 0 skill, procrastination flavored project as an advantage instead of a constraint. 
+This endeavor will serve myriad functions: 
+1) I will document my learning process both in this notepad, 
+as well as using Git versioning to both conduct standard versioning/branching advantagous fundamental operations as I learn them
+I will iterate and branch as I move past each stage, starting with skeletons for everything and then progressively fleshing out a final product 
+
+2) The final product will serve as a functional, real world application for the projects I've been theorycrafting in real life.
+These projects are: 
+The Tar0t Draw: A resource matching system designed to help homeless & incarcerated individuals match to opportunities that rate as close to 100/100 on Life Impact and 100/100 on Criteria Match 
+while also including multiple other metrics such as probability, time to completion, sought category match count, and more 
+The methodology I have right now is 
+I create a form which asks the individual a series of questions designed to cover all possible match/barrier criteria found in resources. For instance, I found Next Chapter 
+using this method by creating an expansive profile for myself in json by creating a MASSIVE questionaire (the one for public use will be more streamlined and less invasive) 
+it covers items like types of barriers (Felony? Misdemeanor? No criminal history? Rental Debt? Type of felony [violent? theft? drugs?] sex offender barrier not covered (sorry) 
+it asks what you want help with, what barriers you face, what your interests are, what type of work you've done, other stuff like that 
+also has an option to include your resume 
+offers categorical prompts as well, School, Career, Employment (seperate from career,) Housing, Social, Recreational, Physical, Hobby, Interest, Legal 
+Presenting a completely comprehensive approach to identifying every possible improvement an individual could obtain 
+For instance, my report led me to the following benefits by generating a "Dossier" which originally contained over 100 items, distilled it down to the best 3 per category, and yielded
+an action plan for each 
+I prototyped roughly on myself, which resulted in me initiating: 
+-Worksource (Free laptop, covered my GED expenses, is covering my IT/CS classes so that I can allocate my remaining scholarships and grants more strategically) 
+-PCC Adult Basic Education Classes 
+-Multiple housing programs I'm enrolled in and now on waitlists for 
+-Various other services that have escalated my priority 
+-A method to obtain free glasses 
+-A strategic wraparound for healthcare 
+-Legal solutions for absolving apartment debt 
+-Temporary housing solutions while I wait for waitlists 
+-Emergency housing solutions as last resorts if it takes too long to get into a place 
+-Next Chapter 
+-Planet Fitness discount membership 
+-RentWell program to absolve housing debt and aid me in getting into housing programs 
+-Oregon Health Plan's Flex Fund fully covering Gym Membership, Combat training, a second laptop, a portable battery, and backup items in reserve 
+-Oregon Health Plan's Housing Related Social Needs for various services - if I can get a down payment on housing and complete  
+-And several more items but I'm rambling on 
+
+SO the way it works is: 
+Individual completes intake form 
+They record an audio clip of themselves reading the questions out loud, then send the clip to my email. There is also an option to fill it out directly via text form and hit submit. 
+The audio clip/text form is sent to a dedicated intake inbox 
+Either Zapier or Make or similar automates the conversion of that file into a json 
+The json is stored in a dedicated drive folder with the format M.D.YYYY.FirstName.LastName
+I manually audit the json to ensure it's complete and doesn't have errors 
+Currently I need to figure out how I want to automate it past there, likely via local LLM or REST API once I learn how to do that. 
+Part of why I want to do NextChapter is to progress further in this and find a path to creating projects like this to help others 
+
+other projects include Second Wind, a social collective designed to function as a social outlet that employs myriad scientific backed methods to go beyond 
+simple mitigation of criminogenic recidivism and relapse factors, and focus on the potentiation of strengthening factors such as social outlet, hobbies, creative endeavors, and novel experience 
+which all structurally reinforce and take advantage of the neuroplasticity window during acute addiction recovery 
+
+I've designed a node system (not implemented still in theory phase) that makes this a replicatable entity
+I will use 4D Recovery as a venue for intake events, as it is adjacent and affiliated with Washington County Community Corrections Center 
+This will result in individuals ready to recover having the opportunity to indulge in a reoccuring event ran by Second Wind 
+which will be casual video game tournaments with a 12 step opening, meditation closing, and dinner/snacks cooked by me and the homies 
+
+I will also host my workout protocol, which is designed with recovery in mind, as well as mathematically including the vasoconstriction of nicotine use (most recovering individuals smoke cigarettes, like myself) 
+to calculate their true 1 Rep Maximum (maximum amount of weight you can push one time) with the vasoconstriction mechanic included 
+and also uses a few mechanisms to maximize gains without taxing the central nervous system more than can be recovered 
+
+I will also include my productivity engine, which is possibly an overcomplicated version of the Eisenhower Matrix 
+I will also include guides I've created for friends in treatment, such as my guide on utilizing the Flex Fund (our state's health insurance program which is designed to pay for items/servicesnot covered by traditional coverage as long as it can legitemately be contrived as being a boon to your medical diagnoses. If it is an indirect or complicated/unprecedented coorelation, they require you to provide Research Backed Studies/Clinical Trials. 
+I've included with the guide an engine in which you upload the files in a drive folder to a Perplexity or ChatGPT thread along with your completed FlexFund form, and it generates a citation list of research backed studies that validate your request 
+Included is examples of my final letter and instructions on ensuring that everything is tidy, and a guide to using AI enough to which they can follow the instructions 
+
+PHWEW 
+Anyway 
+FOR NOW. I'm just going to create a landing page with a blank skeleton and slots for me to put all of those things, give it a cyberpunk/gritty Run The Jewels status styl0 and $wag it out 
+Have a live intake form that's operational 
+Have a live services offered (pay what you want if you want, free by nature) 
+Have a live services offered (manual labor/other freelance work - manual labor paid, freelance work pay if you want so that i can learn by doing) 
+Have a live bio 
+Have a live blogpost section with at least one or two entries 
+and I think that should be enough for now, I might be overshooting my capacity 
+I'm going to learn as I go section by section, take notes, and start with the most basic iteration possible, then do branches as I add new components or revise items or integrate new concepts/techniques 
+This document will also be uploaded to the site to function as my project notes and part of my bio in some way 
+
+BACK TO THE PROJECT 
+
+GitHub installed. 
+Folder on desktop made.
+Repository made. 
+Project name is correct.
+VS Code is open 
+Live server plugin is installed 
+Prettier plugin is installed 
+ 
+I have created 3 files in the directory. 
+First is index.html
+Index.html functions as a blueprint that tells the browser :
+|->	what to show on the page. 
+|-> how to structure the page
+|-> which other files to use (style.css and script.js in this case) to style it and make it 
+
+
+MODULE NOTES 
+PERSONAL NOTES 
+First order of business - What the hell is HTML? 
+
+###Hyper Text Markup Language###
+index.html is a "markup language," not a "programming language" 
+The browser reads this file top to bottom and builds the page layout from it 
+https://www.w3schools.com/tags/
+https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements
+
+What is XML?
+HTML and XML are both markup (tree‑shaped, tag‑based structures) helps you later when you work with JSON, APIs, etc.
+XML = eXtensible Markup Language.
+It’s another markup language, like HTML, but:
+HTML has predefined tags (<p>, <div>, <form>) designed for web pages.
+XML lets you invent your own tags (<client>, <intakeForm>, <tarotDraw>) to structure data, not render pages.
+Browsers don’t display XML as a visual web page; it’s mainly use to store and transport structured data between systems (older APIs, config files, etc.).
+​<intake>
+  <name>John Doe</name>
+  <date>2026-02-20</date>
+  <service>Consultation</service>
+  <notes>Wants help with resources.</notes>
+</intake>
+
+An example XML snippet for your intake JSON idea might look like:
+I've created a skeleton using basic HTML 
+<!DOCTYPE html>
+Declaration that says: “This is an HTML5 document.”
+Helps the browser render the page using modern rules.
+
+<html lang="en">
+Opens the root <html> element.
+lang="en" tells the browser and screen readers the page language is English.
+
+<head>
+Start of the head section: invisible settings and metadata for the page.
+
+  <meta charset="UTF-8" />
+  Sets the character encoding to UTF‑8 so you can safely use normal text, symbols, etc.
+  
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+Tells mobile browsers to size the page properly on phones and tablets.
+
+Critical for making pages responsive.
+
+  <title>Tar0tscepter | Systems Lab</title>
+Sets the tab title and what shows in bookmarks/search results.
+
+<link rel="stylesheet" href="style.css" />
+Connects this HTML file to your style.css file.
+All your visual styling (colors, fonts, layout) will live there.
+
+</head>
+<body>
+Closes the head, opens the body: everything inside <body> is what actually appears on the screen.
+
+  <header>
+Defines the top section of the page (usually logo, title, navigation).
+    <h1>Tar0tscepter Systems Lab</h1>
+Main heading for the whole page (only one <h1> recommended).
+
+    <nav>
+      <a href="#profile">Profile</a>
+      <a href="#services">Services</a>
+      <a href="#blog">Blog</a>
+      <a href="#contact">Contact</a>
+    </nav>
+
+<nav> groups navigation links.
+
+Each <a> is a link; href="#profile" means “scroll to the element whose id is profile.”
+
+This creates in‑page navigation.
+​
+  </header>
+
+  <main>
+Wraps the primary content of the page.
+
+Helps with accessibility and SEO.
+​
+    <section id="profile">
+      <h2>Profile</h2>
+      <p>Your story goes here.</p>
+    </section>
+
+<section> is a logical block of content.
+
+id="profile" lets links (like the nav) and JavaScript refer to it directly.
+
+<h2> is a subsection heading; <p> is a paragraph of text.
+​
+    <section id="blog">
+      <h2>Blog</h2>
+      <p>Your guides and content go here.</p>
+    </section>
+Placeholder for your posts (later you’ll swap this for multiple entries).
+
+    <section id="contact">
+      <h2>Contact</h2>
+      <form id="intake-form">
+        <label>Name: <input type="text" name="name" required /></label>
+        <label>Email: <input type="email" name="email" required /></label>
+        <label>Message: <textarea name="message" required></textarea></label>
+        <button type="submit">Send Request</button>
+      </form>
+    </section>
+
+Contact section that contains a form.
+
+<form> will eventually be wired to send data to an email/API.
+
+Each <label> describes a field.
+
+<input> fields collect text and emails; required forces the user to fill them.
+
+<textarea> is a multi‑line input area.
+
+<button type="submit"> triggers the form submission, which you’ll intercept with JavaScript.
+  </main>
+
+  <footer>
+    <p>&copy; 2026 Tar0tscepter Systems Lab</p>
+  </footer>
+Footer content at the bottom of the page.
+
+&copy; is an HTML entity that displays the copyright symbol ©.
+​
+  <script src="script.js"></script>
+
+Attaches your JavaScript file at the end of the body.
+
+When the page loads, the browser loads and runs script.js to add behavior (validation, interactivity, etc.).
+</body>
+</html>
+Closes the body and the root html element.
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Tar0tscepter | Systems Lab</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <header>
+    <h1>Tar0tscepter Systems Lab</h1>
+    <nav>
+      <a href="#profile">Profile</a>
+      <a href="#services">Services</a>
+      <a href="#blog">Blog</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <main>
+    <section id="profile">
+      <h2>Profile</h2>
+      <p>Your story goes here.</p>
+    </section>
+
+    <section id="services">
+      <h2>Services</h2>
+      <p>Your services go here.</p>
+    </section>
+
+    <section id="blog">
+      <h2>Blog</h2>
+      <p>Your guides and content go here.</p>
+    </section>
+
+    <section id="contact">
+      <h2>Contact</h2>
+      <form id="intake-form">
+        <label>Name: <input type="text" name="name" required /></label>
+        <label>Email: <input type="email" name="email" required /></label>
+        <label>Message: <textarea name="message" required></textarea></label>
+        <button type="submit">Send Request</button>
+      </form>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2026 Tar0tscepter Systems Lab</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
+
+
+progression 
+
+<main>
+  <section id="profile">
+    <h2>Profile</h2>
+    <p>Hi! I go by <strong>tar0t</strong>. I'm four months sober, interested in physical fitness, cognitive progression, mental health, spiritual health, and in pursuit of systematic methods to help people.</p>
+    <p>I'm going hard into physical training, martial arts, getting my GED, then starting Computer Science courses. My current ambition is to get accepted into <strong>Next Chapter's bootcamp</strong>.</p>
+    <p>Next Chapter's coursework is guiding me through creating this website. <em>I am learning from the ground up with zero experience</em>, and intend to have a functional website before 1:00PM today. Here's to hoping!</p>
+  </section>
+
+  <section id="services">
+    <h2>Services</h2>
+    <h3>Manual Labor</h3>
+    <p>Physical work, Portland area. Paid.</p>
+
+    <h3>Digital Labor</h3>
+    <p>Tar0t Draw: Opportunity/resource matching service — designed for homeless individuals and individuals leaving incarceration.</p>
+    <p><em>Free by default, pay what you want (tips!)</em></p>
+
+    <ul>
+      <li><a href="#tarot">Tar0t Draw details</a></li>
+      <li><a href="#flexfund">FlexFund guide</a></li>
+    </ul>
+  </section>
+
+  <section id="blog">
+    <h2>Projects & Guides</h2>
+    <ul>
+      <li><a href="#nextchapter">Next Chapter Technical Assessment Project Notes</a></li>
+      <li><a href="#flexfund">FlexFund Citation Guide w/ examples + prompt</a></li>
+      <li><a href="#tarot">Example Tar0t Draw Dossier</a></li>
+      <li>Recovery Workout Protocol</li>
+      <li>Productivity Engine</li>
+      <li>Second Wind Social Collective</li>
+    </ul>
+  </section>
+
+  <section id="contact">
+    <h2>Contact / Intake</h2>
+    <form id="intake-form">
+      <label>Name: <input type="text" name="name" required /></label>
+      <label>Email: <input type="email" name="email" required /></label>
+      <label>Service:
+        <select name="service" required>
+          <option value="">Select...</option>
+          <option value="tarot">Tar0t Draw</option>
+          <option value="research">Research/FlexFund</option>
+          <option value="labor">Manual Labor</option>
+        </select>
+      </label>
+      <label>Message: <textarea name="message" rows="5" required></textarea></label>
+      <button type="submit">Send Request</button>
+    </form>
+  </section>
+</main>
+
+Had to update windows 
+OneDrive did some weird jank i think, it prompted me to backup and I foolishly decided to 
+I have to tweak settings later, but I was able to get everything working again (copied folder from cloud to desktop, ensured cloud is read/write instead of read only, directly dumped 
+folder into vs code 
+Git seems good 
+VS Code seems good 
+
+Back to it, commencing CSS 
+
+CyberPunk has always been my favorite stuff, even though I'm super not down for God-devouring-singularity or dystopian neurolink shananigans 
+but moving on
+
+Study every line. 
+
+OK. For the next week, I'm going to work on further understanding and practicing HTML, CSS and Javascript. I will use Git versioning and progress. I will find online training through 
+the platforms offered through the coursework assessment. I will acquire and implement as many techniques to further the development and launch of a final, v1 iteration of all of my projects. 
+I will document my learning progress as I go. 
+
+I will launch my project at all costs, but will use Next Chapter as a target to further my capabilities. 
+Everything is hinging on Next Chapter. 
+
+So to do this, I will document my progress, save my AI history, ensure that I understand every single line of code I use and can replicate it by hand. 
+I will use Git to version control and test specific components before implementing them, then merge them together as I progress. 
+
+If I can use the platforms they offered to learn more, and document my growth journey up to Next Chapter, then I will provide evidence of my grit, self teachability, and an honest and transparent 
+showcase of the progression. 
+If I leverage my past, my identity, my references, my ambition, my grit, my drive, my focus, my unrelenting nature - I am sure to succeed. I will not fail. 
+From henceforth, everything will be: Combat training, working these projects, reading books, and progressing towards Next Chapter. 
+I will complete my GED and ensure that I have that in the pocket in time. 
+I will also find multiple online platforms to learn and acquire credible certifications through platforms, showcasing that I am capable of learning and seek to learn as much as possible 
+as aggressively as possible. 
+School might have to wait a term.
+I need to start with Rolling Victory Engine so that I can track everything that I'm doing, integrate that into either Obsidian, Notion or both, have my profile snapshot complete 
+Secure housing, comply with probation, continue treatment, and also start combat training once a day 
+
+The project progression: 
+#0 Second Wind (Highest impact, lowest technical effort to initialize)
+Extraction from ChatLogs - Then complete my own intake profile 
+#1 Profile Snapshot/Intake Form(name the profile snapshot component) 
+#2 Rolling Victory Engine - Fine tune and complete Rolling Victory Engine (After snapshot is uploaded and task reservoir is complete. Complete this first so that I can track all skill/task/life goal progressions) 
+#3 tar0t draw - After the profile snapshot and intake form are done, fine tune the resource acquisition in its cloud AI platform iteration. Eventually, it should be a standalone app and function API calls, either local AI or open source cloud AI 
+#4 Workout protocol - Optimize it for recovery. Create an app out of it that has a glossary of adaptations, allows you to either select components to yield adaptations, or select adaptations to yield components. If I can atomize all of the proccesses of exercise programs by aggregating all of the methods used by top tier programs, then I can provide the ability to fine tune highly optimized programs for an individual by selecting components. 
+#5 Knowledge base - 
+#7 Content base - 
+#8 Resource database 
+#9 Self Training Methodology 
+#10 AI Smart Tutor (better than what exists) 
+#11 Content generation pipeline (Auto, semi auto, and manual. Generate content that can successfully standalone based on intake forms, forms i circulate in treatment, second wind, at the rc and in the street 
+#12 Get 4D Recovery on board 
+#14 Get The RC on board 
+#15 Get my PO on board 
+#17 Get Washington County Jail on board 
+#DealSealer - Find a way to monetize this whole $chab@ng so that it can self sustain its progression, scaling and mutation 
+##extra - Flex Fund Clinical Evidence Support Engine (Search pubmed etc., find supporting items, generate letter) 
+
+
+LONGER TERM PROJECTS: UNRELATED TO NEXT CHAPTER 
+~~Learning potentiation: use bineural beatz and sonic frequency properties to allocate certain resonance qualities that affect brainwave frequencies for audiobooks 
+~~~Ideal method, possibly: Create a program that allows you to select the properties you want, up to x amount of frequency layers including the sonic properties of the voice 
+~~~~Program then generates a audiobook from an ebook that has multiple clinically substantial resonant frequencies designed to potentiate retention and deep learning 
+To optimize my chances of succeeding, 
+The information video said that technical proficiency was only one of the relevant criteria for the admissions process. From what it sounds like, it's an aggregate of myriad datapoints; 
+Your story 
+Your work ethic 
+Your resolve
+Your character 
+Your skill-less proficiency (your ability to acquire skills, learn, problem solve, and map out solutions to problems as you encounter them - your ability to progress regardless of the circumstances) 
+I ace all of the criteria. My story kicks ass, I kick ass, my background kicks ass, and I'm a perfect fit. Justice involved like a mother fucker, and the fact that all of the projects i'm working on 
+directly revolve around helping people like me, and the fact that I intend to use Next Chapter to perpetuate my abilities for this purpose - should be an ace for fuckin sure 
+
+So to optimize, I think I need to: 
+Present the progression of all of my ideas from concept to documentation to artifact to functional prototype to launched item 
+Log the learning progression 
+Learn thoroughly as I go, identifying new skills or target problems that mandate new skills to be acquired 
+
+Taken a few day break from things 
+
+Been pursuing setting up local automation pipelines to distill my conversation history into usable materials (content skeletons, artifact skeletons, cross-polinated hybrids of adjacent domains' top tier knowledge (IE top tier books in multiple combat physiology + anatomy + addiction recovery) or automations that identify potential cross-pollinations, or other novel methods of combining information and forming genuinely useful novel material or presenting existing information in progressively more useful ways) 
+
+Current workflows i'd like to construct: 
+on demand workflows 
+
+ongoing passive workflows 
+
+ongoing utilities 
+

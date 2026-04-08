@@ -1,0 +1,1076 @@
+# BATCH 5 RAW EXTRACTION: Tools, Libraries, Software, and Frameworks
+
+## master_system_phase1.md
+- HIIT (High-Intensity Interval Training): Cardiovascular capacity foundation, 3x/week.
+- Farmer's Carry: Grip dominance training, 60+ seconds, 1.5x bodyweight.
+- Wrist flexion/extension curls: Forearm conditioning, 12-15 reps.
+- Grip training: 8-12 reps (heavy), 20+ reps (conditioning).
+- Knuckle conditioning: Progressive impact training (sandbag, rice bucket).
+- Forearm strikes: Repeated contact adaptation (iron palm equivalent).
+- Rotational medicine ball slams: Core power, 15 reps.
+- Cable woodchops: Rotational power, 12-15 reps.
+- Pallof presses: Core stability, 12-15 reps.
+- Anti-rotation holds: Core stability, 30-45 seconds.
+- Bent-over rows: Back strength foundation, 8-10 reps.
+- Lat pulldowns: Clinch dominance, 10-12 reps.
+- Face pulls: Shoulder health, 12-15 reps.
+- Seal rows: Back dominance, 10-12 reps.
+- Scapular pulls: Scapular control, 15+ reps.
+- Barbell back squats: Hip power foundation, 8-10 reps.
+- Romanian deadlifts: Posterior chain power, 10-12 reps.
+- Bulgarian split squats: Single-leg power, 10-12 reps.
+- Hip thrusts: Glute activation, 12-15 reps.
+- Leg press: Volume support, 10-12 reps.
+- Overhead press: Shoulder power, 8-10 reps.
+- Lateral raises: Shoulder endurance, 12-15 reps.
+- Reverse flyes: Rear delt training, 12-15 reps.
+- Band pull-aparts: Shoulder stability, 15-20 reps.
+- Shoulder dislocations: Mobility work, 20+ reps.
+- Bench Press: Upper body pressing power, 8-10 reps.
+- Burpees: HIIT exercise.
+- Mountain climbers: HIIT exercise.
+- Jump squats: HIIT exercise.
+- Push-up variations: HIIT exercise.
+- High knees: HIIT exercise.
+- Box jumps: HIIT exercise.
+- Battle ropes: HIIT exercise.
+- Kettlebell swings: HIIT exercise.
+- Pull-up variations: HIIT exercise.
+- Rowing machine: HIIT exercise.
+- Windshield wipers: Rotation-focused HIIT.
+- Rotational burpees: HIIT exercise.
+- Lateral movements: HIIT exercise.
+- Rotational strikes: HIIT exercise.
+- Explosive Push-Ups: Arm speed foundation, 8-12 reps.
+- Medicine Ball Throws: Upper body power, 10-12 reps.
+- Speed bag motion: HIIT exercise.
+- Arm circles explosive: HIIT exercise.
+- Jump rope: Recovery and HIIT exercise.
+- Shadowboxing: Speed and endurance conditioning.
+- Sled push: Recovery circuit.
+- Glute bridges: Recovery circuit.
+- Walking lunges: Recovery circuit.
+- Straw breathing: Respiratory muscle training to adapt to increased CO2.
+- Breath holds: Hypoxic adaptation protocol.
+- Ladder breathing: Advanced breathing technique for hypoxia.
+- IHIT (Advanced HIIT): Combined straw breathing and breath holds.
+
+## Memory Tools.md
+- Gemini CLI: Unified "Operator" interface.
+- LangGraph: Framework for building stateful, cyclic AI agents.
+- Mem0 (Self-hosted): Personalized memory layer for atomic fact extraction.
+- n8n (Self-hosted): Visual automation core for complex workflows.
+- Firecrawl (Open Source): Converts websites into clean Markdown.
+- Obsidian Local REST API: Bridge for external AI agents to interact with local notes.
+- mcp-server-google-calendar: MCP extension for Google Calendar management.
+- mcp-server-sqlite: Enables querying/populating local SQLite databases via MCP.
+- GPT Researcher: Autonomous multi-agent research system.
+- LongWriter-Zero: RL framework for 10,000+ word generation.
+- Crawl4AI: Python library for structured web data extraction.
+- Letta (formerly MemGPT): Virtual context management for infinite memory.
+- Zep (Graphiti): Temporal knowledge graph for goal/personality tracking.
+- LLM-AIx: Pipeline for converting PDFs/books into structured JSON.
+- LearnHouse: Self-hosted LMS with AI study tools.
+- ScrapeGraphAI: Natural language web scraping logic execution.
+- mcp-server-filesystem: Secure local filesystem access for Gemini CLI.
+- AgenticCognition: Rust-based engine for psychological profiling.
+- Stanford STORM: Multi-perspective research and article writing engine.
+- AutoGen (AG2): Microsoft framework for sub-agent orchestration.
+- ReCode: Recursive writing paradigm for long-form content.
+- Cognee: Semantic memory engine for relational understanding.
+- smolagents: Ultra-minimal library for lightweight Python tools.
+- Habo: Open-source habit tracker.
+- HomeBox: Free home inventory solution.
+- mcp-obsidian: MCP server for searching/fetching Obsidian vault content.
+- OpenAEON: Cognitive observability protocol.
+- AI-Researcher: Autonomous scientific research pipeline.
+- mcp-server-postgres: Production-grade database server for MCP.
+- TeleMem: Drop-in replacement for Mem0 with semantic deduplication.
+- ChromaDB: Local open-source vector store.
+- Docker: Containerization platform.
+- Python 3.13: Programming language.
+- Node.js: JavaScript runtime.
+- Graphiti: Temporal Knowledge Graph.
+- FalkorDB: Graph database backend.
+- Hindsight: Institutional learning tool.
+- Supermemory: Semantic compression tool.
+- LlamaIndex: RAG orchestration framework.
+- Qdrant: Vector similarity search engine.
+- Weaviate: AI-native vector database.
+- Milvus: Distributed vector database.
+- pgvector: Vector similarity search for Postgres.
+- KG MCP Server: Semantic Knowledge Graph for MCP.
+- Memvid: Video-encoded corpus tool.
+- Motia: Procedural workflow tool.
+- Temporal: Workflow continuity/state management.
+
+## postmanapi.md
+- ElevenLabs: Voice AI/API.
+- Netlify: Web hosting and automation platform.
+- Notion: Note-taking and collaboration platform.
+- OpenAI: AI research and deployment company (API).
+- Tavily: AI-optimized search engine.
+- SearchAPI: Search engine results API.
+- SerpAPI: Google search results API.
+- Serper.dev: Fast and cheap Google Search API.
+- Exa: Neural search engine and deep research tool.
+- Codex: Coding tool / Framework for MCP.
+- MCP (Model Context Protocol): Framework for AI tool integration.
+- OpenClaw: AI agent tool/extension.
+- WSL (Windows Subsystem for Linux): Linux environment on Windows.
+- Powershell: Task automation and configuration management framework.
+- cURL: Command line tool for transferring data with URLs.
+- Anthropic: AI safety and research company (Claude models).
+- GPT-4o: Large language model by OpenAI.
+- Claude-sonnet-4-20250514: Large language model by Anthropic.
+- exa_py: Official Python library for the Exa API.
+- exa-js: Official JavaScript library for the Exa API.
+
+## Probation and Parole System Mapping.md
+- PCRA (Post-Conviction Risk Assessment): Federal risk assessment tool.
+- COMPAS (Correctional Offender Management Profiling for Alternative Sanctions): Proprietary risk/need assessment software.
+- LS/CMI (Level of Service/Case Management Inventory): Integrated risk assessment and case management tool.
+- LSI-R: Level of Service Inventory-Revised.
+- STARR (Staff Training Aimed at Reducing Rearrest): Training program for core correctional practices.
+- Structured Sanctions Grid (OAR 291-058): Oregon statewide framework for violation response.
+
+## Source-Tool-WhattoExtract.md
+- ripgrep: Extremely fast recursive search.
+- LanceDB: Serverless vector database.
+- Docling (IBM): Markdown extraction tool for PDFs.
+- pandoc: Universal document converter.
+- jq: Command-line JSON processor.
+- Python: Programming language for data processing.
+- grep: Text search utility.
+- SQLite: Lightweight relational database.
+
+## SOVEREIGN_ARSENAL_COMPREHENSIVE_LIST.md / SOVEREIGN_ARSENAL_REAL.md
+- Arboreal Contextualization: The Leaf-to-Soil Protocol
+- Life Impact Metrics: LIM
+- Sherlock: CLI Intelligence / OSINT tool.
+- Scrapy: Web Framework.
+- Camelot: PDF Table Extractor.
+- NoScript: Browser Extension.
+- NumPy: Math Library.
+- SciPy: Science Library.
+- Scikit-Learn: Machine Learning Library.
+- Matplotlib: Visualization Library.
+- Seaborn: Visualization Library.
+- Plotly: Visualization Library.
+- Altair: Visualization Library.
+- Dask: Parallel Computing.
+- Vaex: Out-of-Core DataFrames for Python.
+- BeautifulSoup4: HTML Parser.
+- Modin: Data Library for scaling Pandas.
+- Yellowbrick: Machine Learning Visualization.
+- Statsmodels: Statistical modeling library.
+- XGBoost: Machine Learning algorithm.
+- LightGBM: Machine Learning algorithm.
+- CatBoost: Machine Learning algorithm.
+- NetworkX: Graph Library.
+- Geopandas: Geospatial data library.
+- Folium: Geospatial visualization.
+- Kepler.gl: Geospatial visualization.
+- Trafilatura: Web content extraction.
+- PyCaret: Low-code machine learning.
+- FeatureEngine: Feature engineering library.
+- Optuna: Hyperparameter optimization.
+- Streamlit: App Framework for ML.
+- Gradio: App Framework for ML UIs.
+- Dash: App Framework for data apps.
+- PyPDF2: PDF Library.
+- PDFMiner.six: PDF extraction.
+- Borb: PDF Library.
+- IronPDF: PDF Library.
+- Gallery-dl: Image Scraper.
+- Fitz (PyMuPDF): High performance PDF rendering.
+- OCRmyPDF: OCR Utility.
+- WeasyPrint: HTML to PDF conversion.
+- Python-Docx: Word document library.
+- Python-Pptx: PowerPoint library.
+- OpenPyXL: Excel data library.
+- XlsxWriter: Excel data library.
+- Diff-match-patch: Text comparison utility.
+- FuzzyWuzzy: Fuzzy string matching.
+- Levenshtein: String distance calculation.
+- Newspaper4k: Article extraction.
+- Tika-Python: Content ingestion.
+- Stripr: Text utility.
+- Unidecode: Unicode to ASCII conversion.
+- Phonenumbers: Phone number validation.
+- Arrow: Modern time library.
+- Validators: Data validation.
+- Schema: Data validation library.
+- Loguru: Modern logging library.
+- Rich: CLI formatting library.
+- Typer: CLI Library based on type hints.
+- Puppeteer: Browser Automation.
+- Click: CLI Library.
+- PyDub: Audio manipulation.
+- Librosa: Audio analysis.
+- SoundFile: Audio library.
+- MoviePy: Video editing library.
+- Vovox: Transcription tool.
+- DeepSpeech: Transcription tool.
+- Picard: Media library.
+- Tesseract-OCR: Optical Character Recognition.
+- Selectolax: Fast HTML parser.
+- EasyOCR: Python OCR library.
+- Keras-OCR: Vision/OCR library.
+- Rembg: Background removal tool.
+- Zxing-cpp: Barcode processing.
+- SimpleITK: Image processing.
+- Scikit-Image: Image processing.
+- PyAV: Media library.
+- Gstreamer-CLI: Media Framework.
+- Audacity-CLI: Audio Utility.
+- Auto-Editor: Video editing automation.
+- Pandas: Data analysis library.
+- Spleeter: Audio source separation.
+- WhisperX: Advanced transcription.
+- Coqui-TTS: Text-to-speech.
+- Manim: Mathematical animation engine.
+- Pygame: Game/Media development framework.
+- VLC-CLI: Media utility.
+- Temporal-CLI: Workflow orchestration.
+- Airflow-CLI: Workflow orchestration.
+- Prefect-CLI: Workflow orchestration.
+- N8n-CLI: Workflow orchestration.
+- Polars: Fast DataFrame library.
+- Apprise: Notification alerts.
+- Sentry-CLI: Error monitoring.
+- Puppeteer-Cluster: Scalable browser automation.
+- Aider: AI coding assistant.
+- GPT-Engineer: AI software engineer.
+- OpenInterpreter: Natural language CLI.
+- LocalStack-CLI: AWS local development.
+- Terraform-CLI: Infrastructure as Code.
+- Ansible-CLI: Configuration management.
+- Docker-CLI: Container management.
+- Podman-CLI: Daemonless container engine.
+- Tailscale-CLI: Private mesh VPN.
+- Ngrok-CLI: Reverse proxy.
+- Caddy-CLI: Web server.
+- ClamAV-CLI: Antivirus.
+- HashiCorp-Vault-CLI: Secrets management.
+- GnuPG-CLI: Encryption.
+- BleachBit-CLI: System cleaning.
+- Veracrypt-CLI: Disk encryption.
+- Tails-CLI: Privacy-focused OS tools.
+- Maigret: Username OSINT tool.
+- theHarvester: Reconnaissance tool.
+- Miller: Name-value pair processor (mlr).
+- Obsidian-CLI: Obsidian vault interaction.
+- PACER Tools: Court records scraper.
+- GovTrack API: Legislative tracking.
+- Open States: State legislative data.
+- VisiData: CLI data exploration.
+- DuckDB: In-process OLAP database.
+- CSVKit: CSV manipulation utility.
+- Tabula-py: PDF table extraction.
+- MarkItDown: File to Markdown conversion.
+- Pandoc: Universal document converter.
+- Tesseract: OCR Engine.
+- PyMuPDF: PDF rendering and manipulation.
+- PDFPlumber: PDF text extraction.
+- Unstructured: Document preprocessing for ML.
+- Docling: Document parsing for AI.
+- LlamaIndex: Data framework for LLM apps.
+- FFmpeg: Multimedia framework.
+- YT-DLP: Media downloader.
+- Faster-Whisper: Efficient transcription.
+- ImageMagick: Image processing.
+- ExifTool: Metadata editor.
+- OpenCV: Computer Vision library.
+- CrewAI: Multi-agent framework.
+- Holehe: Email OSINT tool.
+- Pillow: Image processing library.
+- IRSx: Nonprofit filing scraper.
+- AutoGen: Agentic AI framework.
+- Grants.gov API: Grant search scraper.
+- LangChain: LLM orchestration framework.
+- Socrata: Open data API.
+- Ollama: Local LLM runner.
+- MemGPT: LLM memory management.
+- LiteLLM: Unified LLM gateway.
+- Taskweaver: Code-first agent framework.
+- Haystack: NLP/RAG framework.
+- PydanticAI: Structured logic agents.
+- SpiderFoot: OSINT automation.
+- Semantic Kernel: LLM SDK.
+- Nmap: Network scanner.
+- Amass: Asset discovery.
+- Sublist3r: Subdomain enumeration.
+- WhatWeb: Web technology identifier.
+- FinalRecon: Web recon tool.
+- Photon: Fast crawler/recon tool.
+- LittleBrother: Information gathering tool.
+- Sniffed: Network analysis/OSINT.
+- Maltego-CLI: Link analysis and OSINT.
+- SocialScan: Social media availability check.
+- DomainAnalyzer: Domain reconnaissance.
+- HeartPy: Heart rate analysis.
+- DNSRecon: DNS enumeration.
+- Oura-Py: Oura Ring API library.
+- Metagoofil: Metadata extractor.
+- Instaloader: Instagram scraper.
+- Twint: Twitter scraper.
+- USDA-API-Wrapper: Food data scraper.
+- CheckId: Identity OSINT.
+- CloudFail: Cloudflare misconfiguration recon.
+- Knockpy: Subdomain scanner.
+- OSRF: OSINT tool.
+- Searchlight: Deep web search.
+- Recon-ng: Reconnaissance framework.
+- OnionScan: Tor network recon.
+- BillBuster: Bill/Receipt processing.
+- Censys-CLI: Internet asset search.
+- Shodan-CLI: Device search engine.
+- Zmap: Network scanner.
+- Buster: Email OSINT.
+- Cloudscraper: Anti-bot bypass.
+- Scrapoxy: Proxy manager.
+- Gevent: Concurrency library.
+- Splash: JavaScript rendering service.
+- 7z: High-compression archiver.
+- Lxml: XML/HTML processing.
+- Sophia Script: PowerShell optimization.
+- MVT: Mobile Verification Toolkit.
+- Feedparser: RSS feed processing.
+- Fiddler: HTTP debugging proxy.
+- PyQuery: jQuery-like library for Python.
+- Grab: Web scraping framework.
+- MechanicalSoup: State-aware web interaction.
+- Autopsy: Digital forensics platform.
+- Volatility 3: Memory forensics framework.
+- UrlLib3: HTTP client for Python.
+- Requests-HTML: HTML parsing for humans.
+- Apify-CLI: Web automation platform.
+- BrightData-CLI: Proxy/Scraping utility.
+- Signal: Private messaging.
+- VeraCrypt: Disk encryption.
+- ScrapingBee-CLI: Web scraping API.
+- StartMail: Private email.
+- Wire: Secure communication.
+- Threema: Secure messaging.
+- Playwright: Browser automation.
+- Estnltk: Estonian NLP.
+- Tox: Python testing automation.
+- RetroShare: Encrypted p2p communication.
+- I2P: Anonymous overlay network.
+- Freenet: P2P censorship-resistant storage.
+- ZeroNet: Decentralized websites.
+- IPFS: InterPlanetary File System.
+- Status.im: Private messenger/wallet.
+- Berty: P2P messenger.
+- Delta Chat: Chat over email.
+- SimpleX Chat: Privacy-focused chat.
+- TextBlob: Simple NLP library.
+- Matrix Protocol: Decentralized communication.
+- XMPP OMEMO: Secure chat protocol.
+- Conversations: Android XMPP client.
+- Gajim: Desktop XMPP client.
+- Dino: Modern XMPP client.
+- Profanity: CLI XMPP client.
+- Mcabber: Console XMPP client.
+- WeeChat: CLI chat client.
+- HexChat: IRC client.
+- Gensim: Topic modeling library.
+- AdiIRC: IRC client.
+- TruffleHog: Secret scanner.
+- Gitleaks: Secret scanner for Git.
+- Git-secrets: AWS key prevention in Git.
+- Whispers: Secret scanner.
+- Shhgit: Real-time secret monitoring.
+- Nosey Parker: Secret scanner.
+- CredoScan: Secret scanner.
+- Detect-secrets: Secret prevention.
+- SpaCy: Industrial-strength NLP.
+- Wraith: Secret scanner.
+- Gitrob: Github reconnaissance.
+- GitHound: GitHub secret dorking.
+- GitDorker: GitHub secret dorking.
+- Nightfall: DLP scanner.
+- Spectral: Infrastructure security scanner.
+- BluBracket: Code security.
+- Horangi: Cloud security.
+- ScanMyReg: Registry cleaning.
+- NLTK: Natural Language Toolkit.
+- PowerWhisper: PowerShell transcription.
+- DumpsterDiver: Secret scanner for varied files.
+- Skimmer: S3 bucket scanner.
+- CloudBrute: Cloud infrastructure enumeration.
+- S3Scanner: Open S3 bucket finder.
+- Bucket-stream: S3 bucket monitoring.
+- GrayhatWarfare: Public bucket search engine.
+- Shodan: Device search engine.
+- Censys: Asset search engine.
+- Sumy: Text summarization.
+- Fofa: Network search engine.
+- LeakLooker: Open data search.
+- PasteHunter: Pastebin monitoring.
+- Scavenger: Pastebin scraping.
+- BreachCompilation: Password leak database.
+- HIBP (Have I Been Pwned): Data breach checker.
+- DeHashed: Identity leak database.
+- IntelX (Intelligence X): Archival/OSINT search engine.
+- Snusbase: Leak search engine.
+- LeakCheck: Data breach checking.
+- FlashText: Keyword search/replace.
+- Vigilante.pw: Data breach repository.
+- Tor Browser: Anonymous browsing.
+- ProtonVPN: VPN service.
+- IVPN: Privacy-focused VPN.
+- Windscribe: VPN service.
+- Tailscale: Zero-config VPN.
+- ZeroTier: Virtual network controller.
+- WireGuard: Modern VPN protocol.
+- OpenVPN: Robust VPN protocol.
+- LangDetect: Language detection.
+- Shadowsocks: Encrypted proxy.
+- V2Ray: Network proxy platform.
+- Trojan: Network proxy.
+- Snowflake: Tor bypass plugin.
+- Obfsproxy: Pluggable transport.
+- Meek: Tor traffic obfuscation.
+- Lantern: Circumvention tool.
+- Psiphon: Censorship bypass tool.
+- GoodbyeDPI: Deep Packet Inspection bypass.
+- GreenTunnel: DPI bypass tool.
+- Polyglot: Multilingual NLP.
+- Zapret: DPI bypass.
+- Pi-hole: Network-wide ad blocker.
+- NextDNS: Cloud-based firewall.
+- ControlD: Smart DNS.
+- Quad9: Privacy DNS.
+- Cloudflare Warp: DNS/VPN tool.
+- Nitrokey App: Hardware security app.
+- USB Armory: Hardware security platform.
+- PyTiff: TIFF processing.
+- Ledger Live: Crypto wallet app.
+- Trezor Suite: Crypto wallet app.
+- BitBox: Hardware wallet tool.
+- Coldcard: Bitcoin hardware wallet.
+- Blockstream Jade: Bitcoin hardware wallet.
+- KeepKey: Hardware wallet.
+- SteelVault: Seed storage.
+- Seedor: Seed storage.
+- Privacy Badger: Tracker blocker.
+- uBlock Origin: Content blocker.
+- AI.JSX: JavaScript AI framework.
+- AITemplate: Neural network optimizer.
+- Accelerate: PyTorch training library.
+- Act: Local GitHub Actions runner.
+- Actiona: Desktop automation tool.
+- Age: File encryption.
+- Agenta: LLMOps platform.
+- Agents.js: JavaScript agent framework.
+- Airbyte: Data integration.
+- Airflow: Workflow orchestration.
+- Angr: Binary analysis platform.
+- Annoy: Vector similarity search.
+- Anthropic Python Library: Official Claude API.
+- AnyLLM: Unified LLM wrapper.
+- AnyScale: AI scaling platform.
+- Apache Beam: Unified data model.
+- Apache Flink: Stream processing.
+- Apache Kafka: Event streaming.
+- Apache NiFi: Data flow automation.
+- Apify (SDK): Web automation.
+- Apollo CLI: GraphQL CLI.
+- Appium: Mobile automation.
+- Aquatone: Visual reconnaissance.
+- Arduino CLI: IoT development.
+- ArgoCD: Kubernetes GitOps.
+- Arize Phoenix: AI observability.
+- AstraDB (Client): Vector database.
+- Atuin: Shell history manager.
+- Aubio: Audio annotation.
+- Audiowaveform: Waveform generation.
+- AutoGPT: Autonomous AI agent.
+- AutoGen Studio: AutoGen UI.
+- Avrdude: Microcontroller programming.
+- BFG Repo-Cleaner: Git repository cleaning.
+- Babel: JS compiler.
+- BabyAGI: Task management agent.
+- Baseten: ML infrastructure.
+- BentoML: Model serving framework.
+- Bettercap: Network recon/attack tool.
+- BigQuery (Client): Cloud data warehouse.
+- Binary Ninja (API): Binary analysis.
+- Bionic: AI agent architecture.
+- BitsAndBytes: Quantization library.
+- Black: Python formatter.
+- BloodHound: AD relationship mapper.
+- Bloop: AI code search.
+- Bokeh: Interactive visualization.
+- Botpress: Bot creation platform.
+- Bpytop: System monitor.
+- Braintrust: AI evaluation platform.
+- Bruno: API client.
+- Burp Suite (Community): Web proxy/scanner.
+- CAMEL: Multi-agent framework.
+- CTransformers: Transformer bindings for C/C++.
+- Capstone: Disassembly framework.
+- Cerberus: Data validation.
+- Chainlit: Python LLM UI.
+- ChatDev: Agentic software house.
+- Checkov: IaC security scanner.
+- Cheerio: Server-side jQuery.
+- Cirq: Quantum programming.
+- ClickHouse: OLAP database.
+- Clippy: Rust linter.
+- Commitizen: Git commit rules.
+- Consul (HashiCorp): Service discovery.
+- CopilotKit: Copilot platform.
+- Coq: Proof management system.
+- CrackMapExec: AD pentesting.
+- Crawlee: Scraping library.
+- Crossplane: Kubernetes control plane.
+- CurLie: Improved cURL.
+- Cutter: Reverse engineering UI.
+- DBT: Data transformation.
+- DSPy: Programmatic prompting.
+- Dagger: CI/CD engine.
+- Dagster: Data orchestrator.
+- Debezium: Change data capture.
+- DeepEval: LLM evaluation.
+- Deepspeed: DL optimization.
+- Detox: Mobile testing.
+- Devika: AI software engineer.
+- Dify: LLM development platform.
+- Doc2Dash: Documentation conversion.
+- DocTR: Document text recognition.
+- Docx2txt: Docx text extraction.
+- Dog: DNS client.
+- Dredd: API testing.
+- Dust: Rust `du` alternative.
+- ESLint: JS linter.
+- Earthly: Containerized build.
+- Elasticsearch: Search engine.
+- Empire: Post-exploitation framework.
+- Esbuild: JS bundler.
+- Esptool: ESP32 programming.
+- Essentia: Audio analysis.
+- Ethers.js: Ethereum library.
+- ExLlamaV2: Fast LLM inference.
+- FAISS: Vector similarity search.
+- FFmpeg-python: Python FFmpeg wrapper.
+- Faker: Data generation.
+- FastAPI: Python API framework.
+- Fivetran (API): Data movement.
+- Flake8: Python linter.
+- Flashrom: ROM programming.
+- Flowise: Low-code LLM builder.
+- Flux: Kubernetes GitOps.
+- Foundry: Ethereum toolkit.
+- Frida: Dynamic instrumentation.
+- Ganache: Personal blockchain.
+- Ghidra: Reverse engineering suite.
+- Git-crypt: Git file encryption.
+- Gitui: Terminal Git UI.
+- GnuPG (GPG): Encryption standard.
+- Gofmt: Go formatter.
+- Golangci-lint: Go linter.
+- Google Generative AI: Gemini API.
+- Gowitness: Web screenshot tool.
+- Gqrx: SDR receiver.
+- GraphQL CLI: GraphQL tools.
+- GraphicsMagick: Image processing.
+- Great Expectations: Data validation.
+- Griptape: Agentic framework.
+- Grobid: Document extraction.
+- Grype: Vulnerability scanner.
+- Guidance: LLM control language.
+- HandBrake CLI: Video transcoder.
+- Hardhat: Ethereum development.
+- Helicone: LLM observability.
+- Hoverfly: API simulation.
+- Hugging Face Hub: Model repository.
+- Hurl: HTTP testing.
+- Husky: Git hooks.
+- Hydra: Login cracker.
+- Hypothesis: Python testing.
+- IDA Free: Disassembler.
+- IPFS CLI: P2P storage tool.
+- Impacket: Network protocol library.
+- Infracost: Cloud cost estimation.
+- Insomnia (Inso CLI): API design.
+- Instructor (JS/TS): Structured LLM output.
+- Instructor: Structured LLM output.
+- JAX: Composable transformations.
+- Jsonschema: Schema validation.
+- Julia (Language): Technical computing.
+- Jupyter: Interactive notebooks.
+- Just: Task runner.
+- K9s: Kubernetes UI.
+- Kestra: Workflow orchestration.
+- Keystone: Assembler framework.
+- Kind: Kubernetes in Docker.
+- Kismet: Wireless sniffing.
+- LIEF: Executable format instrumentation.
+- LM Studio: Local LLM tool.
+- LMQL: LLM programming language.
+- LanceDB: Vector database.
+- Langflow: LangChain UI.
+- Langfuse: LLM engineering.
+- Lazydocker: Docker UI.
+- Lazygit: Git UI.
+- Lean: Theorem prover.
+- Lefthook: Git hooks.
+- Leftovergit: Git cleanup.
+- Lens: Kubernetes IDE.
+- Llama.cpp: C++ Llama runner.
+- LlamaAgents: Agent framework.
+- LlamaParse: Document parsing for RAG.
+- Llamafile: Single-file LLMs.
+- LoRA: Low-Rank Adaptation.
+- LocalTunnel: Localhost exposing.
+- Luigi: Batch task management.
+- MKVToolNix: MKV tools.
+- MLX: Apple silicon ML.
+- Mage.ai: Workflow orchestration.
+- Magentic: LLM as Python functions.
+- Maltego: Link analysis.
+- MarkdownIt: Markdown parser.
+- Marker: PDF to Markdown conversion.
+- Marqo: Tensor search.
+- Marvin: AI framework.
+- Mastra: TS AI framework.
+- Materialize: Streaming database.
+- Mcfly: Shell history manager.
+- MediaInfo: Media metadata display.
+- MegaParse: Scalable document parser.
+- Meilisearch: Search API.
+- Mesop: Python web app builder.
+- MetaGPT: Multi-agent framework.
+- Metabase: Business intelligence.
+- Metasploit Framework: Pentesting platform.
+- Microagents: Code-writing agents.
+- Milvus: Vector database.
+- Mimikatz: Credential harvester.
+- Minikube: Local Kubernetes.
+- Mkcert: SSL cert generator.
+- Modal: Serverless AI.
+- Mojo: AI programming language.
+- Mosquitto: MQTT broker.
+- Mypy: Python type checker.
+- Mythril: Smart contract security.
+- NMSLIB: Similarity search library.
+- Neutrino: LLM router.
+- Ngrok: Secure tunnels.
+- Ninja: Fast build system.
+- Nomad (HashiCorp): Workload orchestrator.
+- Nougat: Document understanding.
+- Nox: Python testing.
+- Nuclei: Vulnerability scanner.
+- Numpy: Scientific computing.
+- ONNX Runtime: ML inferencing.
+- OWASP ZAP: Web scanner.
+- Open Interpreter: Local AI interface.
+- OpenAI Python Library: Official GPT API.
+- OpenDevin: AI software engineer.
+- OpenOCD: On-chip debugger.
+- OpenRouter (API): Unified LLM API.
+- OpenSearch: Search and analytics.
+- Outlines: Structured LLM generation.
+- Papermill: Notebook parameterization.
+- Parcel: Zero-config bundler.
+- Peft: Fine-tuning library.
+- PennyLane: Quantum programming.
+- Phidata: AI assistant builder.
+- Pinecone (CLI/Client): Vector database.
+- PlatformIO: Embedded development.
+- Postman (CLI/Newman): API testing.
+- Pre-commit: Git hooks.
+- Prefect: Workflow orchestration.
+- Presto: SQL query engine.
+- Prettier: Code formatter.
+- Prism: API mocking.
+- Procs: Process viewer.
+- PromptLayer: Prompt management.
+- Promptflow: LLM workflow builder.
+- Psycopg2: Postgres adapter.
+- Pulumi: Infrastructure as Code.
+- Pwntools: Exploit development.
+- PyAudio: Audio I/O.
+- PyMongo: MongoDB driver.
+- PyPPTX: PowerPoint automation.
+- PySerial: Serial communication.
+- PyTesseract: Tesseract wrapper.
+- Pydantic: Data validation.
+- Pylint: Python linter.
+- Pytube: YouTube downloader.
+- Qiskit: Quantum SDK.
+- RabbitMQ: Message broker.
+- Radare2: Reverse engineering.
+- Ragas: RAG evaluation.
+- Rasa: Conversational AI.
+- Ray: Scaling framework.
+- Redash: Data visualization.
+- Redis (with RediSearch): In-memory database.
+- Redpanda: Streaming platform.
+- Replicate: AI API platform.
+- Responder: Network authentication harvester.
+- RestAssured: API testing.
+- Reviewdog: Code review tool.
+- Rivet: Visual AI builder.
+- Rizin: Reverse engineering.
+- Rollup: JS bundler.
+- Ropper: ROP gadget finder.
+- Rtl-sdr: SDR driver.
+- Ruff: Python linter/formatter.
+- Rustfmt: Rust formatter.
+- SGLang: Structured LLM generation.
+- SQLAlchemy: SQL Toolkit.
+- SQLite-vss: SQLite vector search.
+- SWC: Fast JS compiler.
+- SageMath: Mathematics software.
+- ScaNN: Similarity search.
+- Schemathesis: API testing.
+- Scikit-Image: Image processing.
+- Scipy: Scientific algorithms.
+- Seaborn: Visualization.
+- Selenium: Browser automation.
+- Semantic-release: Automated versioning.
+- Sentence-Transformers: BERT embeddings.
+- Shodan CLI: Device search.
+- Skaffold: Kubernetes development.
+- Slither: Solidity analyzer.
+- SmolAgents: Minimalist agent framework.
+- Snort: Network IDS.
+- Snowflake (Connector): Cloud data storage.
+- Solc: Solidity compiler.
+- SonarQube / SonarScanner: Static analysis.
+- Sops: Secrets management.
+- Sox: Audio processing.
+- Standard-version: Automated versioning.
+- Starship: Shell prompt.
+- Streamlit: Data app builder.
+- Stylelint: CSS linter.
+- SuperAGI: AI agent framework.
+- Superset: Data exploration.
+- Suricata: Network monitoring.
+- Sweep: AI bug fixer.
+- Syft: SBOM generator.
+- SymPy: Symbolic math.
+- TRL: RL for Transformers.
+- TaskWeaver: Code-first agents.
+- Taskfile: Task runner.
+- TensorRT-LLM: NVIDIA LLM optimizer.
+- Terraform: Infrastructure as Code.
+- Terragrunt: Terraform wrapper.
+- Tflint: Terraform linter.
+- Tig: Git UI.
+- Tiktoken: BPE tokenizer.
+- Tilt: Kubernetes dev tool.
+- Tmuxinator: Tmux session manager.
+- Tokei: Code counter.
+- Tokenizers: Fast BPE tokenizers.
+- Toolhouse: Agent tool framework.
+- Tox: Testing automation.
+- Transformers (Hugging Face): ML framework.
+- Transformers.js: Browser-based ML.
+- Trino: Distributed SQL.
+- Triton: GPU programming language.
+- Trivy: Security scanner.
+- TruLens: LLM evaluation.
+- Truffle: Blockchain development.
+- Trunk: Meta-linter/formatter.
+- TypeChat: Schema-based LLM logic.
+- TypeScript (tsc): Typed JS.
+- Typesense: Fuzzy search engine.
+- USearch: Vector search.
+- Unicorn: CPU emulator.
+- Unsloth: LLM fine-tuner.
+- Vald: Vector search engine.
+- Valkey: Redis alternative.
+- Vault (HashiCorp): Secrets management.
+- Vellum: AI application platform.
+- Vespa: Big data serving.
+- Vips: Image processing.
+- Vite: Frontend build tool.
+- Volatilty: Memory forensics.
+- Voy: WASM vector search.
+- Vyper: Smart contract language.
+- WakaTime: Productivity metrics.
+- Web3.py: Ethereum library.
+- WebLLM: Browser LLM inference.
+- Webpack: JS bundler.
+- Wfuzz: Web fuzzer.
+- Whisper: Speech-to-text.
+- Wifite: Wireless attack tool.
+- WireMock: API mocking.
+- WolframScript: Wolfram Engine CLI.
+- Yara: Malware pattern matching.
+- Z3 Theorem Prover: Theorem proving.
+- Zeek: Network analysis.
+- Zellij: Terminal workspace.
+- Zilliz (Client): Vector database.
+- Zoxide: Smart `cd`.
+- ack: Code search.
+- ag (The Silver Searcher): Fast code search.
+- aircrack-ng: WiFi security auditing.
+- ansible: IT automation.
+- artillery: Load testing.
+- at: Job scheduling.
+- awk: Text processing.
+- aws (AWS CLI): AWS management.
+- az (Azure CLI): Azure management.
+- bat: Modern `cat`.
+- bg: Background jobs.
+- blkid: Block device info.
+- broot: Directory navigation.
+- btm (bottom): System monitor.
+- bzr: Version control.
+- cal: Calendar.
+- cargo: Rust package manager.
+- cat: Concatenate files.
+- chai: JS assertions.
+- chef: Configuration management.
+- chmod: Permissions tool.
+- chown: Ownership tool.
+- clang / clang++: C/C++ compiler.
+- cmake: Build generator.
+- composer: PHP package manager.
+- cowsay: CLI cow speaker.
+- cron: Task scheduling.
+- curl: Data transfer tool.
+- cut: Text sectioning.
+- cypress: Browser testing.
+- date: System date tool.
+- df: Disk space report.
+- dig: DNS lookup.
+- dirb: Web content scanner.
+- dmesg: Kernel log viewer.
+- docker-compose: Multi-container runner.
+- doctl: DigitalOcean CLI.
+- du: Disk usage tool.
+- echo: Text output.
+- exa / eza: Modern `ls`.
+- fd: Modern `find`.
+- fdisk: Partition tool.
+- ffuf: Web fuzzer.
+- fg: Foreground jobs.
+- figlet: Large character display.
+- free: Memory usage report.
+- fzf: Fuzzy finder.
+- gcc / g++: GNU C/C++ compiler.
+- gcloud: Google Cloud CLI.
+- gdb: GNU Debugger.
+- gem: Ruby package manager.
+- gh: GitHub CLI.
+- ghz: gRPC benchmarking.
+- git: Version control.
+- glab: GitLab CLI.
+- glances: System monitor.
+- glow: Markdown renderer.
+- go: Go toolchain.
+- gobuster: Web discovery tool.
+- gradle: Build automation.
+- grep: Pattern matching.
+- groups: Group info.
+- grpcurl: gRPC cURL alternative.
+- hashcat: Password recovery.
+- head: File beginning output.
+- helm: Kubernetes package manager.
+- heroku: Heroku CLI.
+- hey: HTTP benchmarking.
+- hg: Version control.
+- htop: Process viewer.
+- httpie: Modern HTTP client.
+- hyperfine: CLI benchmarking.
+- id: User identity tool.
+- ifconfig: Network configuration.
+- iftop: Bandwidth monitor.
+- iotop: I/O monitor.
+- ip: Network management.
+- java: Java runner.
+- javac: Java compiler.
+- jest: JS testing.
+- jobs: Job control.
+- john (John the Ripper): Password cracker.
+- journalctl: Log query tool.
+- jq: JSON processor.
+- k6: Load testing.
+- kill: Process signal tool.
+- killall: Process termination.
+- kubectl: Kubernetes CLI.
+- less: File perusal.
+- lf: File manager.
+- llama-cpp-python: Llama.cpp bindings.
+- lldb: LLVM Debugger.
+- locust: Python load testing.
+- lolcat: Colorized output.
+- lsblk: Block device list.
+- lsof: Open file list.
+- ltrace: Library call tracer.
+- make: Build utility.
+- masscan: Port scanner.
+- maven (mvn): Java build tool.
+- mc (Midnight Commander): File manager.
+- mcp-server-aws: AWS MCP.
+- mcp-server-brave-search: Web search MCP.
+- mcp-server-confluence: Confluence MCP.
+- mcp-server-datadog: Monitoring MCP.
+- mcp-server-discord: Chat MCP.
+- mcp-server-docker: Docker MCP.
+- mcp-server-elastic: Search MCP.
+- mcp-server-fetch: URL fetching MCP.
+- mcp-server-filesystem: File access MCP.
+- mcp-server-github: GitHub MCP.
+- mcp-server-gitlab: GitLab MCP.
+- mcp-server-google-drive: Drive MCP.
+- mcp-server-hubspot: CRM MCP.
+- mcp-server-jira: Issue tracking MCP.
+- mcp-server-kubernetes: K8s management MCP.
+- mcp-server-linear: Issue tracking MCP.
+- mcp-server-memory: Memory MCP.
+- mcp-server-mongodb: Database MCP.
+- mcp-server-mysql: Database MCP.
+- mcp-server-notion: Note-taking MCP.
+- mcp-server-obsidian: Knowledge base MCP.
+- mcp-server-playwright: Browser MCP.
+- mcp-server-postgres: Database MCP.
+- mcp-server-puppeteer: Browser MCP.
+- mcp-server-redis: In-memory MCP.
+- mcp-server-salesforce: CRM MCP.
+- mcp-server-sentry: Error tracking MCP.
+- mcp-server-shell: CLI MCP.
+- mcp-server-slack: Messaging MCP.
+- mcp-server-splunk: Log searching MCP.
+- mcp-server-spotify: Music MCP.
+- mcp-server-sqlite: Database MCP.
+- mcp-server-stripe: Billing MCP.
+- mcp-server-tavily: Research MCP.
+- mcp-server-zendesk: Ticketing MCP.
+- mcp-server-zoom: Meeting MCP.
+- mdcat: Markdown `cat`.
+- mkfs: Filesystem creation.
+- mocha: JS testing.
+- more: File perusal.
+- mount: Filesystem mounting.
+- mq: Markdown extractor.
+- mtr: Network diagnostics.
+- navi: Interactive cheatsheet.
+- ncdu: Disk usage UI.
+- neofetch: System info.
+- netcat (nc): Network utility.
+- nethogs: Bandwidth per process.
+- nikto: Web scanner.
+- nmap: Network scanner.
+- nmon: Performance monitor.
+- nnn: File manager.
+- node: Node.js runtime.
+- nohup: Persistent command runner.
+- npm: JS package manager.
+- nslookup: Name server lookup.
+- oci (Oracle Cloud CLI): Oracle Cloud management.
+- packer: Image builder.
+- pdfplumber: PDF data extraction.
+- peco: Filtering tool.
+- perf: Linux performance tool.
+- perl: Perl interpreter.
+- php: PHP runtime.
+- ping: ICMP connectivity.
+- pip: Python package manager.
+- pkill: Process signal tool.
+- playwright-test: Web testing.
+- pnpm: Fast JS package manager.
+- printf: Formatted output.
+- ps: Process snapshot.
+- puppet: Configuration management.
+- pytest: Python testing.
+- python / python3: Python interpreter.
+- ranger: File manager.
+- rclone: Cloud copy tool.
+- responses: Python request mocking.
+- ripgrep (rg): Fast text search.
+- rsync: Remote file copy.
+- ruby: Ruby interpreter.
+- rustc: Rust compiler.
+- sar: Activity report.
+- scp: Secure copy.
+- screen: Terminal multiplexer.
+- sd: Intuitive find/replace.
+- sed: Stream editor.
+- sftp: Secure file transfer.
+- socat: Network relay.
+- sort: Line sorting.
+- sqlmap: SQLi tool.
+- ssh: Remote login.
+- strace: System call tracer.
+- stress-ng: Load tester.
+- stress: Load tester.
+- svn: Version control.
+- sysbench: Performance benchmark.
+- systemctl: Service manager.
+- tail: File end output.
+- tar: Archiver.
+- tcpdump: Network sniffer.
+- terraform: Infrastructure as Code.
+- theHarvester: Recon tool.
+- thefuck: CLI correction tool.
+- tldr: Simplified man pages.
+- tmux: Terminal multiplexer.
+- top: Process monitor.
+- tr: Text translator.
+- traceroute: Path trace tool.
+- umount: Filesystem unmounting.
+- uniq: Line uniqueness tool.
+- unittest: Python testing.
+- uptime: System run time.
+- vLLM: LLM server.
+- vagrant: Dev environment tool.
+- valgrind: Memory profiler.
+- vcrpy: HTTP mocking.
+- vegeta: Load testing.
+- vifm: File manager.
+- vitest: JS testing.
+- vnstat: Traffic monitor.
+- watch: Periodic executor.
+- wc: Line/word counter.
+- wget: File downloader.
+- whoami: Identity tool.
+- wireshark / tshark: Protocol analyzer.
+- wpscan: WordPress scanner.
+- wrk: HTTP benchmarking.
+- x64dbg: Windows debugger.
+- xargs: Command builder.
+- xh: Modern HTTP client.
+- yarn: JS package manager.
+- yq: YAML/JSON processor.
+- z: Directory jumper.
+- zip / unzip: Archivers.
+- zmap: Internet scanner.
+
+## System Setup Guide.md
+- Windows 11: Implied Host OS.
+- WSL (Windows Subsystem for Linux): Primary Linux toolchain environment.
+- PowerShell: Windows-native wrapper and host integration environment.
+- bash: Linux shell.
+- Temporal: Durable execution / control loop.
+- OpenClaw: Exoskeleton layer / Agent worker layer.
+- LangGraph: Agentic graph orchestration.
+- AutoGen: Multi-agent framework.
+- Mem0: Semantic memory layer.
+- AlloyDB: Cloud database infrastructure.
+- Postgres: Relational database.
+- Gemini CLI: Main operator interface and runtime.
+- CrewAI: Agent orchestrator.
+- Microsoft Agent Framework: Agentic framework.
+- Obsidian: Knowledge base / Truth base.
+- Docker: Containerization.
+- n8n: Automation engine.
+- Git: Version control and backup.
+- Claude Code: AI coding tool.
+- Codex: AI coding assistant / MCP framework.
+- Mise: Polyglot tool manager.
+- Pipx: Python application installer.
+- Uv: Fast Python package manager.
+- Maestro-Gemini: Agent orchestrator for Gemini CLI.
+- ripgrep-all: Search through varied file formats.
+- study-ai/pdf-reader: PDF reading extension.
+- Exa MCP: Search tool for MCP.
+- co-reer: AI career assistant.
+- BGPT MCP: Browser-based GPT MCP.

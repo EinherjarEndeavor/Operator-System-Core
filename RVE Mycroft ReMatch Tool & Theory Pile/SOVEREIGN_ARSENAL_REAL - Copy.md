@@ -1,0 +1,1308 @@
+# Sovereign Arsenal Master List (God-Tier Extraction)
+
+- 1. Arboreal Contextualization: The Leaf-to-Soil Protocol
+- 1. Life Impact Metrics: LIM
+- 1. Orchestrate the Next Wave: 1001-2000
+- 1. Sherlock: CLI Intelligence
+- 1. Sherlock: OSINT
+- 1. ToolName: Tool type
+- 10. Scrapy: Web Framework
+- 100. Camelot: PDF Table Extractor
+- 1000. NoScript: Browser Ext
+- 101. NumPy: Math
+- 101. NumPy: Math Library
+- 102. SciPy: Science Library
+- 103. Scikit-Learn: Machine Learning
+- 104. Matplotlib: Visualization
+- 105. Seaborn: Visualization
+- 106. Plotly: Visualization
+- 107. Altair: Visualization
+- 108. Dask: Parallel Computing
+- 109. Vaex: Data Library
+- 11. BeautifulSoup4: HTML Parser
+- 11. BeautifulSoup4: HTML Parser  │
+- 11. BeautifulSoup4: Scraping
+- 110. Modin: Data Library
+- 111. Yellowbrick: Machine Learning
+- 112. Statsmodels: Statistics
+- 113. XGBoost: Machine Learning
+- 114. LightGBM: Machine Learning
+- 115. CatBoost: Machine Learning
+- 116. NetworkX: Graph Library
+- 117. Geopandas: Geospatial
+- 118. Folium: Geospatial
+- 119. Kepler.gl: Geospatial
+- 12. Trafilatura: Content Extraction
+- 120. PyCaret: Machine Learning
+- 121. FeatureEngine: Data Library
+- 122. Optuna: Optimization
+- 123. Streamlit: App Framework
+- 124. Gradio: App Framework
+- 125. Dash: App Framework
+- 126. PyPDF2: PDF Library
+- 127. PDFMiner.six: PDF Extraction
+- 128. Borb: PDF Library
+- 129. IronPDF: PDF Library
+- 13. Gallery-dl: Image Scraper
+- 130. Fitz: PyMuPDF
+- 131. OCRmyPDF: OCR Utility
+- 132. WeasyPrint: Conversion Tool
+- 133. Python-Docx: Document Library
+- 134. Python-Pptx: Document Library
+- 135. OpenPyXL: Data Library
+- 136. XlsxWriter: Data Library
+- 137. Diff-match-patch: Text Utility
+- 138. FuzzyWuzzy: Text Utility
+- 139. Levenshtein: Text Utility
+- 14. Newspaper4k: Article Extraction
+- 140. Tika-Python: Ingestion
+- 141. Stripr: Text Utility
+- 142. Unidecode: Text Utility
+- 143. Phonenumbers: Data Library
+- 144. Arrow: Time Library
+- 145. Validators: Data Library
+- 146. Schema: Data Library
+- 147. Loguru: Logging
+- 148. Rich: CLI Library
+- 149. Typer: CLI Library
+- 15. Puppeteer: Browser Automation
+- 150. Click: CLI Library
+- 151. PyDub: Audio
+- 151. PyDub: Audio Library
+- 152. Librosa: Audio Library
+- 153. SoundFile: Audio Library
+- 154. MoviePy: Video Library
+- 155. Vovox: Transcription
+- 156. DeepSpeech: Transcription
+- 157. Picard: Media Library
+- 159. Tesseract-OCR: Vision
+- 16. Selectolax: HTML Parser
+- 160. EasyOCR: Vision
+- 161. Keras-OCR: Vision
+- 162. Rembg: Vision
+- 163. Zxing-cpp: Vision
+- 164. SimpleITK: Vision
+- 165. Scikit-Image: Vision
+- 166. PyAV: Media Library
+- 167. Gstreamer-CLI: Media Framework
+- 168. Audacity-CLI: Audio Utility
+- 169. Auto-Editor: Video Utility
+- 17. Pandas: Data
+- 17. Pandas: Data Library
+- 170. Spleeter: Audio Utility
+- 171. WhisperX: Transcription
+- 172. Coqui-TTS: Voice
+- 173. Manim: Animation
+- 174. Pygame: Media Framework
+- 175. VLC-CLI: Media Utility
+- 176. Temporal-CLI: Workflow
+- 177. Airflow-CLI: Workflow
+- 178. Prefect-CLI: Workflow
+- 179. N8n-CLI: Workflow
+- 18. Polars: Data Library
+- 180. Apprise: Alerts
+- 181. Sentry-CLI: Monitoring
+- 182. Puppeteer-Cluster: Automation
+- 183. Aider: Coding Agent
+- 184. GPT-Engineer: Coding Agent
+- 185. OpenInterpreter: Automation
+- 186. LocalStack-CLI: Cloud
+- 187. Terraform-CLI: Infrastructure
+- 188. Ansible-CLI: Automation
+- 189. Docker-CLI: Containerization
+- 19. jq: JSON
+- 19. jq: JSON Processor
+- 19. jq: JSON Processor  │
+- 190. Podman-CLI: Containerization
+- 191. Tailscale-CLI: Networking
+- 192. Ngrok-CLI: Networking
+- 193. Caddy-CLI: Web Server
+- 194. ClamAV-CLI: Security
+- 195. HashiCorp-Vault-CLI: Security
+- 196. GnuPG-CLI: Privacy
+- 197. BleachBit-CLI: Privacy
+- 198. Veracrypt-CLI: Privacy
+- 199. Tails-CLI: Privacy
+- 2. Existing tools: Unstructured, Docling, etc.
+- 2. Maigret: CLI Intelligence
+- 2. Maigret: OSINT
+- 2. Research Findings: Generalist Agent
+- 2. The Re.Match Pivot: The Alchemy of Constraint
+- 20. Miller: mlr
+- 200. Obsidian-CLI: Knowledge
+- 201. PACER Tools: Scraper
+- 205. GovTrack API: Intel
+- 21. VisiData: CLI Data Tool
+- 210. Open States: Scraper
+- 22. DuckDB: OLAP Database
+- 23. CSVKit: CLI     │
+- 23. CSVKit: CLI Utility
+- 24. Tabula-py: PDF Table Extractor
+- 25. MarkItDown: Conversion Tool
+- 25. MarkItDown: Ingestion
+- 26. Pandoc: Conversion
+- 26. Pandoc: Universal Converter
+- 27. Tesseract: OCR Engine
+- 28. PyMuPDF: PDF Library
+- 29. PDFPlumber: PDF Extraction
+- 29. PDFPlumber: PDF Extraction  │
+- 3. Existing prompts: Chain-of-Density
+- 3. THE ARSENAL: TOOLS 1
+- 3. theHarvester: Recon
+- 3. theHarvester: Reconnaissance
+- 3. theHarvester: Reconnaissance Tool
+- 30. Unstructured: Document Preprocessor
+- 30. Unstructured: Preprocessor
+- 31. Docling: Ingestion
+- 31. Docling: Layout Analysis
+- 32. LlamaIndex: Data Framework
+- 33. FFmpeg: Multimedia Framework
+- 34. YT-DLP: Media Downloader
+- 35. Faster-Whisper: Transcription
+- 35. Faster-Whisper: Transcription Tool
+- 36. ImageMagick: Image Processor
+- 37. ExifTool: Metadata Editor
+- 37. ExifTool: │
+- 38. OpenCV: Computer Vision
+- 38. OpenCV: Computer Vision │
+- 39. MoviePy: Video Editing
+- 4. Existing agents: CrewAI, LangGraph
+- 4. Holehe: Intel
+- 4. Holehe: Intelligence
+- 4. The Operational Arsenal: 1,000 Tools
+- 40. Pillow: Image Library
+- 401. IRSx: Scraper
+- 41. AutoGen: Agent Framework
+- 41. AutoGen: Agents
+- 415. Grants.gov API: Scraper
+- 42. CrewAI: Agent Orchestrator
+- 43. LangChain: Orchestration
+- 430. Socrata: API
+- 44. Ollama: Local LLM
+- 44. Ollama: Local LLM Runner
+- 45. MemGPT: Memory Management
+- 46. LiteLLM: LLM Gateway
+- 47. Taskweaver: Code-First Agent
+- 47. Taskweaver: │
+- 48. Haystack: RAG Framework
+- 49. PydanticAI: Structured Logic
+- 5. Digital Forensics: DFIR
+- 5. SpiderFoot: Automation
+- 50. Semantic Kernel: SDK
+- 51. Nmap: Network Scanner
+- 52. Amass: Reconnaissance
+- 53. Sublist3r: Reconnaissance
+- 54. WhatWeb: Web Scanner
+- 55. FinalRecon: Reconnaissance
+- 56. Photon: Web Crawler
+- 57. LittleBrother: Intelligence
+- 58. Sniffed: Intelligence
+- 59. Maltego-CLI: Graph Analysis
+- 6. SocialScan: CLI         │
+- 6. SocialScan: CLI Intelligence
+- 60. DomainAnalyzer: Intelligence
+- 601. HeartPy: Library
+- 61. DNSRecon: Reconnaissance
+- 615. Oura-Py: API
+- 62. Metagoofil: Metadata
+- 63. Instaloader: Scraper
+- 64. Twint: Scraper
+- 640. USDA-API-Wrapper: Scraper
+- 65. CheckId: Intelligence
+- 66. CloudFail: Reconnaissance
+- 67. Knockpy: Reconnaissance
+- 68. OSRF: Intelligence
+- 69. Searchlight: OSINT
+- 7. Recon-ng: Framework
+- 70. OnionScan: Reconnaissance
+- 71. BillBuster: OSINT
+- 72. Censys-CLI: Intelligence
+- 73. Shodan-CLI: Intelligence
+- 74. Zmap: Network Scanner
+- 75. Buster: Intelligence
+- 76. Cloudscraper: Scraper
+- 77. Scrapoxy: Proxy Manager
+- 78. Gevent: Networking
+- 79. Splash: Scraper
+- 7z: A file archiver with a high compression ratio
+- 8. GHunt: Intelligence
+- 80. Lxml: HTML Parser
+- 801. Sophia Script: PS Module
+- 807. MVT: Mobile Verification Toolkit
+- 81. Feedparser: Scraper
+- 818. Fiddler: Proxy
+- 82. PyQuery: HTML Parser
+- 83. Grab: Web Framework
+- 84. MechanicalSoup: Browser Simulation
+- 841. Autopsy: Winget
+- 844. Volatility 3: Pip
+- 85. UrlLib3: Networking
+- 86. Requests-HTML: Scraper
+- 87. Apify-CLI: Scraper
+- 88. BrightData-CLI: Proxy Utility
+- 881. Signal: Winget
+- 887. VeraCrypt: Winget
+- 89. ScrapingBee-CLI: Scraper
+- 896. StartMail: Web
+- 897. Wire: Winget
+- 898. Threema: App/Web
+- 9. Playwright: Browser Automation
+- 9. Playwright: Scraping
+- 90. Estnltk: NLP
+- 900. Tox: qTox
+- 901. RetroShare: Winget
+- 902. I2P: Winget
+- 903. Freenet: Java/CLI
+- 904. ZeroNet: Pip/Python
+- 905. IPFS: InterPlanetary File System
+- 906. Status.im: App
+- 907. Berty: App
+- 908. Delta Chat: Winget  │
+- 909. SimpleX Chat: CLI/App
+- 91. TextBlob: NLP
+- 910. Matrix Protocol: Specification │
+- 911. XMPP OMEMO: Specification
+- 912. Conversations: Android App
+- 913. Gajim: Winget
+- 914. Dino: Linux/Win
+- 915. Profanity: CLI
+- 916. Mcabber: CLI
+- 918. WeeChat: CLI
+- 919. HexChat: Winget
+- 92. Gensim: NLP
+- 920. AdiIRC: Winget
+- 921. TruffleHog: Winget
+- 921. TruffleHog: │
+- 922. Gitleaks: Winget/CLI
+- 923. Git-secrets: CLI
+- 924. Whispers: Pip/Python
+- 925. Shhgit: CLI
+- 926. Nosey Parker: CLI
+- 927. CredoScan: CLI
+- 928. Detect-secrets: Pip/Python
+- 93. SpaCy: NLP
+- 930. Wraith: CLI
+- 931. Gitrob: CLI
+- 932. GitHound: CLI
+- 933. GitDorker: Pip/Python
+- 935. Nightfall: CLI/SaaS
+- 936. Spectral: CLI/SaaS
+- 937. BluBracket: SaaS
+- 938. Horangi: │
+- 939. ScanMyReg: CLI/PS
+- 94. NLTK: NLP
+- 940. PowerWhisper: PowerShell
+- 941. DumpsterDiver: Pip/Python
+- 942. Skimmer: CLI
+- 943. CloudBrute: CLI │
+- 944. S3Scanner: Pip/Python
+- 945. Bucket-stream: CLI
+- 946. GrayhatWarfare: │
+- 947. Shodan: Pip/Python
+- 948. Censys: Pip/Python
+- 95. Sumy: NLP
+- 950. Fofa: CLI/API
+- 951. LeakLooker: Pip/Python
+- 952. PasteHunter: Pip/Python
+- 953. Scavenger: CLI
+- 954. BreachCompilation: │
+- 955. HIBP: Have I Been Pwned
+- 956. DeHashed: API/Web
+- 957. IntelX: Intelligence X
+- 958. Snusbase: API/Web
+- 959. LeakCheck: │
+- 96. FlashText: NLP
+- 960. Vigilante.pw: API/Web
+- 961. Tor Browser: Winget
+- 963. ProtonVPN: Winget
+- 964. IVPN: Winget
+- 965. Windscribe: Winget
+- 966. Tailscale: Winget
+- 967. ZeroTier: Winget
+- 968. WireGuard: Winget
+- 969. OpenVPN: Winget
+- 97. LangDetect: NLP
+- 970. Shadowsocks: CLI/GUI
+- 971. V2Ray: CLI
+- 972. Trojan: │
+- 973. Snowflake: Tor Extension
+- 974. Obfsproxy: Tor Component
+- 975. Meek: Tor Bridge
+- 976. Lantern: GUI
+- 977. Psiphon: GUI
+- 978. GoodbyeDPI: │
+- 979. GreenTunnel: CLI
+- 98. Polyglot: NLP
+- 980. Zapret: CLI
+- 981. Pi-hole: Docker
+- 983. NextDNS: SaaS
+- 984. ControlD: SaaS
+- 985. Quad9: DNS
+- 986. Cloudflare Warp: Winget
+- 988. Nitrokey App: Winget
+- 989. USB Armory: Hardware
+- 99. PyTiff: Image Processing
+- 990. Ledger Live: Winget
+- 991. Trezor Suite: Winget
+- 992. BitBox: GUI/Hardware
+- 993. Coldcard: Hardware
+- 994. Blockstream Jade: Hardware
+- 995. KeepKey: Hardware
+- 996. SteelVault: Hardware
+- 997. Seedor: │
+- 998. Privacy Badger: Browser Ext
+- 999. uBlock Origin: Browser Ext
+- AI.JSX: The AI Application Framework for Javascript
+- AITemplate: Python framework which renders neural network into high performance CUDA/HIP C++ code
+- Accelerate: A simple way to train and use PyTorch models with multi-GPU, TPU, mixed-precision
+- Act: Run your GitHub Actions locally
+- Actiona: Cross-platform automation tool
+- Age: A simple, modern and secure file encryption tool, format, and Go library
+- Agenta: The end-to-end open source platform for LLMOps
+- Agents.js: AI agents in JavaScript
+- Aider: AI pair programming in your terminal
+- Airbyte: Open-source data integration platform
+- Airflow: Platform to programmatically author, schedule and monitor workflows
+- Altair: Declarative statistical visualization library for Python
+- Amass: In-depth Attack Surface Mapping and Asset Discovery
+- Angr: A powerful and user-friendly binary analysis platform
+- Annoy: Approximate Nearest Neighbors Oh Yeah
+- Anthropic Python Library: The official Python library for the Anthropic API
+- AnyLLM: Unified API wrapper for multiple LLM providers
+- AnyScale: Platform for scaling AI
+- Apache Beam: An advanced unified programming model
+- Apache Flink: Stateful computations over data streams
+- Apache Kafka: Distributed event streaming platform
+- Apache NiFi: Automate the flow of data between systems
+- Apify (SDK): The web scraping and web automation platform
+- Apollo CLI: Apollo CLI
+- Appium: Automation for iOS, Android, and Windows Apps
+- Aquatone: A tool for visual inspection of websites across a large amount of hosts
+- Arduino CLI: Command-line interface for the Arduino platform
+- ArgoCD: Declarative continuous deployment for Kubernetes
+- Arize Phoenix: Open-source AI observability and evaluation
+- AstraDB (Client): Vector-enabled database
+- Atuin: Magical shell history with sync
+- Aubio: A tool designed for the extraction of annotations from audio signals
+- Audiowaveform: C++ program to generate waveform data and render waveform images from audio files
+- AutoGPT: An experimental open-source attempt to make GPT-4 fully autonomous
+- AutoGen Studio: A UI for AutoGen
+- AutoGen: Enabling Next-Gen LLM Applications
+- Autopsy: Digital forensics platform and graphical interface to The Sleuth Kit
+- Avrdude: Software for programming Atmel AVR microcontrollers
+- BFG Repo-Cleaner: Removes large or troublesome blobs like git-filter-branch does, but faster
+- Babel: The compiler for next generation JavaScript
+- BabyAGI: Task-driven autonomous agent
+- Baseten: Fast, scalable infrastructure for ML models
+- BeautifulSoup4: Screen-scraping library
+- BentoML: Unified Model Serving Framework
+- Bettercap: The Swiss Army knife for 802.11, BLE and Ethernet networks reconnaissance and MITM attacks
+- BigQuery (Client): Google's fully managed, serverless data warehouse
+- Binary Ninja (API): A reverse engineering platform
+- Bionic: Open source architecture for building AI agents
+- BitsAndBytes: 8-bit optimizers, matrix multiplication (INT8, FP8), quantization
+- Black: The uncompromising Python code formatter
+- BloodHound: Six Degrees of Domain Admin
+- Bloop: AI-powered code search
+- Bokeh: Interactive visualization library
+- Botpress: The open-source bot creator
+- Bpytop: Linux/OSX/FreeBSD resource monitor
+- Braintrust: Enterprise-grade AI evals, logging, and data management
+- Bruno: Fast and Git-Friendly Opensource API client
+- Burp Suite (Community): Web vulnerability scanner
+- CAMEL: Communicative Agents for Mind Exploration of Large Scale Sceience Society
+- CTransformers: Python bindings for the Transformer models implemented in C/C++
+- Camelot: PDF Table Extraction for Humans
+- Capstone: Lightweight multi-platform, multi-architecture disassembly framework
+- Cerberus: Lightweight, extensible data validation library for Python
+- Chainlit: Build Python LLM apps in minutes
+- ChatDev: Communicative agents for software development
+- Checkov: Static code analysis tool for infrastructure-as-code
+- Cheerio: Fast, flexible, and lean implementation of core jQuery designed specifically for the server
+- ChromaDB: The open-source embedding database
+- Cirq: A Python framework for creating, editing, and invoking Noisy Intermediate Scale Quantum (NISQ) circuits
+- ClickHouse: Fast open-source OLAP database management system
+- Clippy: A bunch of lints to catch common mistakes and improve your Rust code
+- Commitizen: Tool to create committing rules for projects
+- Consul (HashiCorp): Service Networking for Any Cloud or Runtime
+- CopilotKit: The open-source Copilot platform
+- Coq: A formal proof management system
+- CrackMapExec: A swiss army knife for pentesting networks
+- Crawlee: A web scraping and browser automation library
+- CrewAI: Framework for orchestrating role-playing, autonomous AI agents
+- Crossplane: The Cloud Native Control Plane
+- CurLie: The power of curl, the ease of use of httpie
+- Cutter: Free and open-source reverse engineering platform powered by rizin
+- DBT: Data build tool
+- DSPy: Programming—not prompting—Foundation Models
+- Dagger: A programmable CI/CD engine that runs your pipelines in containers
+- Dagster: A data orchestrator for machine learning, analytics, and ETL
+- Dask: Parallel computing with task scheduling
+- Debezium: Change data capture for a variety of databases
+- DeepEval: The open-source evaluation framework for LLMs
+- Deepspeed: Deep learning optimization library
+- Detox: Gray box end-to-end testing and automation framework for mobile apps
+- Devika: An open-source AI software engineer
+- Dify: An open-source LLM app development platform
+- Doc2Dash: Converts documentations into Dash docsets
+- DocTR: Document Text Recognition
+- Docling: Fast and accurate document parsing for AI
+- Docx2txt: A pure python-based utility to extract text and images from docx files
+- Dog: A command-line DNS client
+- Dredd: Language-agnostic HTTP API Testing Tool
+- DuckDB: An in-process SQL OLAP database management system
+- Dust: A more intuitive version of du in rust
+- ESLint: Find and fix problems in your JavaScript code
+- Earthly: Build automation for the container era
+- EasyOCR: Ready-to-use OCR with 80+ supported languages and all popular writing scripts
+- Elasticsearch: Distributed, RESTful search and analytics engine
+- Empire: PowerShell and Python post-exploitation agent
+- Esbuild: An extremely fast bundler for the web
+- Esptool: ESP8266 and ESP32 serial bootloader utility
+- Essentia: C++ library for audio and music analysis, description and synthesis
+- Ethers.js: A complete Ethereum wallet implementation and utilities in JavaScript
+- ExLlamaV2: Fast inference for Llama models
+- ExifTool: Read, write and edit meta information in a wide variety of files
+- FAISS: A library for efficient similarity search and clustering of dense vectors
+- FFmpeg-python: Python bindings for FFmpeg
+- Faker: A Python package that generates fake data for you
+- FastAPI: Modern, fast (high-performance), web framework for building APIs with Python
+- Faster-Whisper: Faster Whisper transcription with CTranslate2
+- Fivetran (API): Automated data movement
+- Flake8: Your Tool For Style Guide Enforcement
+- Flashrom: Utility for reading, writing, erasing and verifying flash ROM chips
+- Flowise: Drag & drop UI to build your customized LLM flow
+- Flux: The GitOps family of projects
+- Foundry: A blazing fast, portable and modular toolkit for Ethereum application development written in Rust
+- Frida: Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers
+- GPT-Engineer: Specify what you want it to build, the AI asks for clarification, and then builds it
+- Ganache: Personal blockchain for Ethereum development
+- Ghidra: A software reverse engineering (SRE) suite of tools developed by NSA
+- Git-crypt: Transparent file encryption in git
+- Gitui: Blazing fast terminal-ui for git written in rust
+- GnuPG (GPG): Complete and free implementation of the OpenPGP standard
+- Gofmt: Formats Go programs
+- Golangci-lint: Fast linters Runner for Go
+- Google Generative AI: Google's Gemini API client
+- Gowitness: A web screenshot utility written in Go
+- Gqrx: Software defined radio receiver
+- Gradio: Create UIs for your machine learning model in Python in 3 minutes
+- GraphQL CLI: Command line tool for common GraphQL development workflows
+- GraphicsMagick: The swiss army knife of image processing
+- Great Expectations: Data quality and documentation
+- Griptape: Enterprise-grade AI framework for agents, pipelines, and workflows
+- Grobid: A machine learning library for extracting, parsing and re-structuring raw documents
+- Grype: A vulnerability scanner for container images and filesystems
+- Guidance: A guidance language for controlling large language models
+- HandBrake CLI: Open source video transcoder
+- Hardhat: Ethereum development environment for professionals
+- Haystack: Open source NLP framework to build search systems
+- Helicone: Open-source LLM observability platform
+- Hoverfly: Lightweight, open source API simulation tool
+- Hugging Face Hub: Download and publish models and other files on the huggingface.co hub
+- HuggingFace Datasets: Access and share datasets for audio, computer vision, and NLP tasks
+- Hurl: Run and test HTTP requests with plain text
+- Husky: Git hooks made easy (Node.js)
+- Hydra: Network logon cracker
+- Hypothesis: Property-based testing for Python
+- IDA Free: Interactive Disassembler (Free version)
+- IPFS CLI: InterPlanetary File System command-line tool
+- ImageMagick: Create, edit, compose, or convert bitmap images
+- Impacket: A collection of Python classes for working with network protocols
+- Infracost: Cloud cost estimates for Terraform in pull requests
+- Insomnia (Inso CLI): CLI for Insomnia API design platform
+- Instructor (JS/TS): Structured LLM outputs for JavaScript
+- Instructor: Structured outputs for LLMs
+- JAX: Composable transformations of Python+NumPy programs
+- Jsonschema: An implementation of JSON Schema for Python
+- Julia (Language): A fresh approach to numerical computing
+- Jupyter: Web-based interactive computing platform
+- Just: A handy way to save and run project-specific commands
+- K9s: Kubernetes CLI To Manage Your Clusters In Style
+- Kestra: Infinitely scalable orchestration and scheduling platform
+- Keystone: Lightweight multi-platform, multi-architecture assembler framework
+- Kind: Kubernetes IN Docker
+- Kismet: Wireless network detector, sniffer, and intrusion detection system
+- LIEF: Library to Instrument Executable Formats
+- LM Studio: Discover, download, and run local LLMs
+- LMQL: Programming language for language models
+- LanceDB: Developer-friendly, serverless vector database
+- LangChain: Building applications with LLMs through composability
+- LangGraph: Build resilient language agents as graphs
+- Langflow: UI for LangChain
+- Langfuse: Open source LLM engineering platform
+- Lazydocker: The lazier way to manage everything docker
+- Lazygit: Simple terminal UI for git commands
+- Lean: An open source theorem prover and programming language
+- Lefthook: Fast and powerful Git hooks manager for any type of project
+- Leftovergit: A tool to clean up your git branches
+- Lens: The Kubernetes IDE
+- Librosa: Python library for audio and music analysis
+- LiteLLM: Call all LLM APIs using the OpenAI format
+- Llama.cpp: Port of Facebook's LLaMA model in C/C++
+- LlamaAgents: Async agent framework
+- LlamaIndex: Data framework for LLM applications
+- LlamaParse: Parsing documents specifically for RAG applications
+- Llamafile: Distribute and run LLMs with a single file
+- LoRA: Low-Rank Adaptation of Large Language Models (Concepts/Libs)
+- LocalTunnel: Expose your localhost to the world for easy testing and sharing
+- Luigi: Python module that helps you build complex pipelines of batch jobs
+- Lxml: XML and HTML with Python
+- MKVToolNix: A set of tools to create, alter and inspect Matroska files
+- MLX: An array framework for Apple silicon
+- Mage.ai: The modern replacement for Airflow
+- Magentic: Seamlessly integrate LLMs as Python functions
+- Maltego: Interactive data mining tool that renders directed graphs for link analysis
+- MarkItDown: Microsoft's tool for converting files to Markdown
+- MarkdownIt: Markdown parser, done right. 100% CommonMark support
+- Marker: Convert PDF to markdown quickly with high accuracy
+- Marqo: Tensor search for humans
+- Marvin: A lightweight AI engineering framework
+- Mastra: The TypeScript AI agent framework
+- Materialize: Streaming database for real-time applications
+- Matplotlib: Comprehensive library for creating static, animated, and interactive visualizations in Python
+- Mcfly: Fly through your shell history
+- MediaInfo: A convenient unified display of the most relevant technical and tag data for video and audio files
+- MegaParse: Open-source scalable parser
+- Meilisearch: A lightning-fast search API that fits effortlessly into your apps
+- MemGPT: Teaching LLMs memory management for unbounded context
+- Mesop: Rapidly build web apps in Python
+- MetaGPT: The Multi-Agent Framework
+- Metabase: The easiest way to share data and analytics inside your company
+- Metasploit Framework: Penetration testing software
+- Microagents: Agents capable of writing and executing code dynamically
+- Milvus: Vector database built for scalable similarity search
+- Mimikatz: A little tool to play with Windows security
+- Minikube: Run Kubernetes locally
+- Mkcert: A simple zero-config tool to make locally trusted development certificates
+- Modal: Serverless computing for AI
+- Mojo: A new programming language for all AI developers
+- Mosquitto: An open source message broker that implements the MQTT protocol
+- MoviePy: Video editing with Python
+- Mypy: Optional static typing for Python
+- Mythril: Security analysis tool for EVM bytecode
+- NMSLIB: Non-Metric Space Library
+- Neutrino: An intelligent router for Large Language Models
+- Ngrok: Secure introspectable tunnels to localhost
+- Ninja: A small build system with a focus on speed
+- Nomad (HashiCorp): A simple and flexible workload orchestrator
+- Nougat: Neural Optical Understanding for Academic Documents
+- Nox: Flexible test automation for Python
+- Nuclei: Fast and customisable vulnerability scanner based on simple YAML based DSL
+- Numpy: The fundamental package for scientific computing with Python
+- ONNX Runtime: Cross-platform, high performance ML inferencing and training accelerator
+- OWASP ZAP: Open-source web application security scanner
+- Ollama: Get up and running with large language models locally
+- Open Interpreter: A natural language interface for your computer's general-purpose capabilities
+- OpenAI Python Library: The official Python library for the OpenAI API
+- OpenCV: Open Source Computer Vision Library
+- OpenDevin: Open source autonomous AI software engineer
+- OpenOCD: Open On-Chip Debugger
+- OpenPyXL: A Python library to read/write Excel 2010 xlsx/xlsm files
+- OpenRouter (API): A unified API for all major LLMs
+- OpenSearch: Open source distributed and RESTful search engine
+- Outlines: Fast and reliable neural text generation
+- Pandas: Powerful Python data analysis toolkit
+- Pandoc: A universal document converter
+- Papermill: Parameterize, execute, and analyze Jupyter Notebooks
+- Parcel: The zero configuration build tool for the web
+- Peft: Parameter-Efficient Fine-Tuning
+- PennyLane: A cross-platform Python library for differentiable programming of quantum computers
+- Pgvector: Open-source vector similarity search for Postgres
+- Phidata: Build AI Assistants with memory, knowledge and tools
+- Pillow (PIL): Python Imaging Library
+- Pinecone (CLI/Client): Vector database for machine learning applications
+- PlatformIO: Professional collaborative platform for embedded development
+- Playwright: Node.js library to automate Chromium, Firefox and WebKit with a single API
+- Plotly: Interactive graphing library
+- Polars: Blazingly fast DataFrames in Rust and Python
+- Portkey: LLM routing, observability, and management
+- Postman (CLI/Newman): Command-line collection runner for Postman
+- Pre-commit: A framework for managing and maintaining multi-language pre-commit hooks
+- Prefect: Dataflow automation platform
+- Presto: Distributed SQL query engine for big data
+- Prettier: Opinionated Code Formatter
+- Prism: Open-source API mocking and contract testing with OpenAPI
+- Procs: A modern replacement for ps written in Rust
+- PromptLayer: Middleware for prompt engineering
+- Promptflow: A suite of development tools designed to streamline the end-to-end cycle of LLM-based AI applications
+- Psycopg2: PostgreSQL database adapter for the Python programming language
+- Pulumi: Universal Infrastructure as Code
+- Puppeteer: Headless Chrome Node.js API
+- Pwntools: CTF framework and exploit development library
+- PyAudio: Cross-platform audio I/O
+- PyMongo: Python driver for MongoDB
+- PyMuPDF (fitz): High performance PDF and document rendering
+- PyPDF2: A utility to read and write PDFs with Python
+- PyPPTX: Create and update PowerPoint (.pptx) files
+- PySerial: Python serial port access library
+- PySpark: Python API for Apache Spark
+- PyTesseract: Python-tesseract is an optical character recognition (OCR) tool for python
+- Pydantic: Data validation using Python type hints
+- PydanticAI: Agent framework based on Pydantic
+- Pydub: Manipulate audio with a simple and easy high level interface
+- Pylint: A Python static code analysis tool
+- Python-docx: Create and update Microsoft Word .docx files
+- Pytube: A lightweight, dependency-free Python library for downloading YouTube videos
+- Qdrant: Vector Similarity Search Engine and Vector Database
+- Qiskit: An open-source SDK for working with quantum computers at the level of pulses, circuits, and application modules
+- RabbitMQ: Open source message broker
+- Radare2: UNIX-like reverse engineering framework and command-line toolset
+- Ragas: Retrieval Augmented Generation Assessment
+- Rasa: Open source machine learning framework for automated text and voice-based conversations
+- Ray: A unified framework for scaling AI and Python applications
+- Recon-ng: Full-featured Web Reconnaissance framework written in Python
+- Redash: Make Sense of Your Data
+- Redis (with RediSearch): In-memory data structure store with vector similarity capabilities
+- Redis-py: Redis Python Client
+- Redpanda: A Kafka-compatible streaming data platform that is proven to be 10x faster
+- Replicate: Run AI with an API
+- Responder: A LLMNR, NBT-NS and MDNS poisoner, with built-in HTTP/SMB/MSSQL/FTP/LDAP rogue authentication server
+- RestAssured: Testing and validating REST services in Java
+- Reviewdog: Automated code review tool integrated with any code analysis tools
+- Rivet: Visual AI programming environment
+- Rizin: UNIX-like reverse engineering framework and command-line toolset
+- Rollup: Next-generation ES module bundler
+- Ropper: You can use ropper to look at information about files in different formats
+- Rtl-sdr: Software to receive DVB-T dongles based on the RTL2832U chip
+- Ruff: An extremely fast Python linter, written in Rust
+- Rustfmt: A tool for formatting Rust code according to style guidelines
+- SGLang: Structured Generation Language for LLMs
+- SQLAlchemy: The Python SQL Toolkit and Object Relational Mapper
+- SQLite-vss: A SQLite extension for vector search
+- SWC: Speedy web compiler
+- SageMath: Open-source mathematics software system built on top of many existing open-source packages
+- ScaNN: Scalable Nearest Neighbors
+- Schemathesis: Property-based testing tool for OpenAPI and GraphQL apps
+- Scikit-Image: Image processing in Python
+- Scikit-learn: Machine learning in Python
+- Scipy: Fundamental algorithms for scientific computing in Python
+- Scrapy: A fast high-level web crawling & scraping framework for Python
+- Seaborn: Statistical data visualization
+- Selenium: A browser automation framework and ecosystem
+- Semantic Kernel: Integrate cutting-edge LLM technology quickly and easily into your apps
+- Semantic-release: Fully automated version management and package publishing
+- Sentence-Transformers: Multilingual Sentence & Image Embeddings with BERT
+- Shodan CLI: Command-line interface for Shodan
+- Skaffold: Easy and Repeatable Kubernetes Development
+- Slither: Solidity static analysis framework
+- SmolAgents: A minimalist agent framework
+- Snort: Network intrusion detection system (NIDS)
+- Snowflake (Connector): Cloud data platform
+- Snyk: Find and automatically fix vulnerabilities in your code
+- Solc: Solidity compiler
+- SonarQube / SonarScanner: Continuous Inspection
+- Sops: Simple and flexible tool for managing secrets
+- Sox: The Swiss Army knife of sound processing programs
+- SpiderFoot: Automates OSINT collection
+- Standard-version: Automate versioning and CHANGELOG generation
+- Starship: The minimal, blazing-fast, and infinitely customizable prompt for any shell
+- Statsmodels: Statistical models, hypothesis tests, and data exploration
+- Streamlit: The fastest way to build and share data apps
+- Stylelint: A mighty, modern linter that helps you avoid errors and enforce conventions in your styles
+- Sublist3r: Fast subdomains enumeration tool for penetration testers
+- SuperAGI: A dev-first open source autonomous AI agent framework
+- Superset: Modern, enterprise-ready business intelligence web application
+- Suricata: Network IDS, IPS and Network Security Monitoring engine
+- Sweep: AI junior developer for bug fixes and features
+- Syft: CLI tool and library for generating a Software Bill of Materials from container images and filesystems
+- SymPy: A Python library for symbolic mathematics
+- TRL: Transformer Reinforcement Learning
+- Tabula-py: Extract table from PDF into pandas DataFrame
+- TaskWeaver: A code-first agent framework
+- Taskfile: A task runner / simpler Make alternative written in Go
+- TensorRT-LLM: TensorRT large language model
+- Terraform: Write, Plan, and Create Infrastructure as Code
+- Terragrunt: A thin wrapper for Terraform that provides extra tools for keeping your configurations DRY
+- Tesseract OCR: Optical Character Recognition engine
+- Testcontainers: A library that provides throwaway, lightweight instances of databases, message brokers, web browsers, or just about anything that can run in a Docker container
+- Text-Generation-WebUI: A Gradio web UI for Large Language Models
+- Tflint: A Pluggable Terraform Linter
+- Tig: Text-mode interface for git
+- Tiktoken: Fast BPE tokeniser for use with OpenAI's models
+- Tilt: A multi-service dev environment for teams on Kubernetes
+- Tmuxinator: Manage complex tmux sessions easily
+- Tokei: A program that allows you to count your code, quickly
+- Tokenizers: Fast State-of-the-Art Tokenizers optimized for Research and Production
+- Toolhouse: Tool execution framework for agents
+- Tox: Generic virtualenv management and test command line tool
+- Transformers (Hugging Face): State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX
+- Transformers.js: State-of-the-art Machine Learning for the web
+- Trino: Fast distributed SQL query engine for big data analytics
+- Triton: Programming language for neural network computations
+- Trivy: A Simple and Comprehensive Vulnerability Scanner for Containers and other Artifacts
+- TruLens: Evaluation and tracking for LLM apps
+- Truffle: A world class development environment, testing framework and asset pipeline for blockchains
+- Trunk: Blazingly fast meta code checker and formatter
+- TypeChat: Replace prompt engineering with schema engineering
+- TypeScript (tsc): Typed superset of JavaScript that compiles to plain JavaScript
+- Typesense: Fast, typo tolerant, fuzzy search engine
+- USearch: Smaller & Faster Single-File Vector Search Engine
+- Unicorn: Lightweight multi-platform, multi-architecture CPU emulator framework
+- Unsloth: Finetune Llama 3, Mistral, Gemma models faster
+- Unstructured: Open source libraries and APIs to build custom preprocessing pipelines for ML
+- Vaex: Out-of-Core DataFrames for Python
+- Vald: A Highly Scalable Distributed Vector Search Engine
+- Valkey: Open source Redis alternative
+- Vault (HashiCorp): Manage Secrets and Protect Sensitive Data
+- Vellum: The developer platform for advanced AI applications
+- Vespa: The open big data serving engine
+- Vips: A demand-driven, horizontally threaded image processing library
+- Vite: Next generation frontend tooling
+- Volatilty: An advanced memory forensics framework
+- Voy: A WASM vector similarity search engine
+- Vyper: Contract-oriented, pythonic programming language that targets the Ethereum Virtual Machine
+- WakaTime: Metrics, insights, and time tracking automatically generated from your programming activity
+- Weaviate: AI-native vector database
+- Web3.py: A Python library for interacting with Ethereum
+- WebLLM: High-performance In-browser LLM Inference Engine
+- Webpack: A bundler for javascript and friends
+- Wfuzz: The web bruteforcer
+- Whisper: Robust Speech Recognition via Large-Scale Weak Supervision
+- Wifite: Automated wireless attack tool
+- WireMock: A flexible tool for building mock APIs
+- WolframScript: Command-line interface to the Wolfram Engine
+- Yara: The pattern matching swiss knife for malware researchers
+- Yt-dlp: A youtube-dl fork with additional features and fixes
+- Z3 Theorem Prover: A high-performance theorem prover
+- Zeek: A powerful network analysis framework that is much different from the typical IDS you may know
+- Zellij: A terminal workspace with batteries included
+- Zilliz (Client): Fully managed vector database
+- Zoxide: A smarter cd command
+- ack: A tool like grep, optimized for programmers
+- ag (The Silver Searcher): A code-searching tool similar to ack, but faster
+- aircrack-ng: WiFi security auditing tools suite
+- ansible: IT automation tool
+- artillery: Cloud-native load testing and continuous verification
+- at: Queue, examine, or delete jobs for later execution
+- awk: Pattern scanning and processing language
+- aws (AWS CLI): Universal Command Line Interface for Amazon Web Services
+- az (Azure CLI): Azure Command-Line Interface
+- bat: A cat(1) clone with wings (syntax highlighting)
+- bg: Put a job in the background
+- blkid: Locate/print block device attributes
+- broot: A new way to see and navigate directory trees
+- btm (bottom): Yet another cross-platform graphical process/system monitor
+- bzr: Bazaar version control system
+- cal: Displays a calendar
+- cargo: The Rust package manager
+- cat: Concatenate files and print on the standard output
+- chai: BDD / TDD assertion framework for node.js and the browser
+- chef: A systems integration framework
+- chmod: Change file mode bits
+- chown: Change file owner and group
+- clang / clang++: C, C++, and Objective-C compiler
+- cmake: Cross-Platform Makefile Generator
+- composer: Dependency Manager for PHP
+- cowsay: Configurable talking cow
+- cron: Daemon to execute scheduled commands (Vixie Cron)
+- curl: Command line tool and library for transferring data with URLs
+- cut: Remove sections from each line of files
+- cypress: Fast, easy and reliable testing for anything that runs in a browser
+- date: Print or set the system date and time
+- df: Report file system disk space usage
+- dig: DNS lookup utility
+- dirb: A web content scanner
+- dmesg: Print or control the kernel ring buffer
+- docker-compose: Define and run multi-container applications with Docker
+- docker: A self-sufficient runtime for containers
+- doctl: The official command line interface for the DigitalOcean API
+- du: Estimate file space usage
+- echo: Display a line of text
+- exa / eza: A modern replacement for ls
+- fd: A simple, fast and user-friendly alternative to find
+- fdisk: Manipulate disk partition table
+- ffuf: Fast web fuzzer written in Go
+- fg: Put a job in the foreground
+- figlet: Displays large characters made up of ordinary screen characters
+- free: Display amount of free and used memory in the system
+- fzf: A command-line fuzzy finder
+- gcc / g++: GNU project C and C++ compiler
+- gcloud: Command-line tools for Google Cloud Platform
+- gdb: The GNU Debugger
+- gem: Ruby package manager
+- gh: GitHub CLI
+- ghz: Simple gRPC benchmarking and load testing tool
+- git: the stupid content tracker
+- glab: GitLab CLI
+- glances: An Eye on your system
+- glow: Render markdown on the CLI
+- go: Tool for managing Go source code
+- gobuster: Directory/File, DNS and VHost busting tool written in Go
+- gradle: Open-source build automation tool
+- grep: Print lines that match patterns
+- groups: Print the groups a user is in
+- grpcurl: Like cURL, but for gRPC
+- hashcat: World's fastest and most advanced password recovery utility
+- head: Output the first part of files
+- helm: The Kubernetes Package Manager
+- heroku: Heroku CLI
+- hey: HTTP load generator, ApacheBench (ab) replacement
+- hg: Mercurial source code management system
+- htop: An interactive process viewer
+- http://repo.darmajaya.ac.id/4637/1/Social%20Engineering_%20The%20Science%20of%20Human%20Hacking%20(%20PDFDrive%20).pdf
+- http://staff.ustc.edu.cn/~xiangyangli/paper/Journal/COUPON.pdf
+- httpie: A modern, user-friendly command-line HTTP client for the API era
+- https://952a2907-a-62cb3a1a-s-sites.googlegroups.com/site/aawsw123swdw/azxc/Field-Manual-FM-312-FM-338-.pdf
+- https://academy.hackthebox.com/
+- https://academy.tcm-sec.com/p/practical-malware-analysis-triage
+- https://any.run/
+- https://archive.org/details/PropagandaBernays
+- https://archive.org/details/TheArtOfWarSunTzu
+- https://archive.org/details/TheCuckoo%E2%80%99sEggTrackingAPacketThief
+- https://archive.org/details/ThePrinceMachiavelli
+- https://armyoe.com/wp-content/uploads/2018/03/1990-fm-22-100.pdf
+- https://armypubs.army.mil/
+- https://assets.publishing.service.gov.uk/media/61702155e90e07197867eb93/20210625-Red_Teaming_Handbook.pdf
+- https://attack.mitre.org
+- https://attack.mitre.org/
+- https://attack.mitre.org/groups/
+- https://attack.mitre.org/resources/
+- https://attack.mitre.org/software/
+- https://attack.mitre.org/tactics/enterprise/
+- https://aws.amazon.com/compliance/shared-responsibility-model/
+- https://bdigital.uvhm.edu.mx/wp-content/uploads/2020/07/Reverse-Engineering-for-Beginners.pdf
+- https://behavior.rare.org/
+- https://behavior.rare.org/wp-content/uploads/2024/08/Levers-of-Behavior-Change-Guide-8-2024.pdf
+- https://bja.ojp.gov/doc/rosa-resource-guide.pdf
+- https://blackdotsolutions.com/blog/read-the-osint-handbook
+- https://blueteamlabs.online/
+- https://bomitsolutions.co.uk/wp-content/uploads/vm-for-dummies-2nd-edition.pdf
+- https://casala.org/wp-content/uploads/2015/01/A-Guide-to-Community-Based-Gang-Intervention.pdf
+- https://catalog.data.gov/dataset/?tags=crime
+- https://ccsecuritytraining.com/wp-content/uploads/2019/09/Corelan_Bootcamp_Exploit_Development.pdf
+- https://cdn.nca.gov.sa/api/public/cms/files/ccea5a8c-a237-4fb8-be67-8e6e8d9dc12f_Standard_Secure_Coding_standrd-controls_Templat...
+- https://cdn.ttgtmedia.com/rms/pdf/SearchSecurity.in_EXP_writing_tutorial.02.pdf
+- https://censys.io/
+- https://centrepoint.org.uk/sites/default/files/2023-06/escaping-the-trap.pdf
+- https://cert.lv/uploads/ThretHunt/Threat_Hunt_Playbook.pdf
+- https://ceur-ws.org/Vol-2061/paper6.pdf
+- https://cgsc.contentdm.oclc.org/digital/api/collection/p16040coll2/id/32/download
+- https://ciaotest.cc.columbia.edu/olj/sa/sa_jan02srm01.html
+- https://clinic.cyber.harvard.edu/wp-content/uploads/2020/10/Security_Researchers_Guide-2.pdf
+- https://cloud.google.com/security/overview/whitepaper
+- https://cloudsecurityalliance.org/research/cloud-controls-matrix
+- https://crackmes.one/
+- https://crypto.stanford.edu/~dabo/courses/OnlineCrypto/
+- https://cryptohack.org/
+- https://cryptome.org/
+- https://cryptopals.com/
+- https://cryptozombies.io/
+- https://csl.armywarcollege.edu/pubs/Publications/Strategic_Cyberspace_Operations_Primer-2023_Dec_18.pdf
+- https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final
+- https://ctfd.io
+- https://ctftime.org/
+- https://cwe.mitre.org/
+- https://cyberdefenders.org/blueteam-ctf-challenges/
+- https://digitalcommons.unl.edu/usarmyfieldmanuals/
+- https://digitallibrary.vassar.edu/sites/default/files/2022-01/Move_It_Along_The_Social_Spatial_Imaginaries_of_Urban_Spaces_and_t...
+- https://discovery.ucl.ac.uk/id/eprint/10193466/1/Rethinking%20the%20policing%20of%20homelessness%20%20navigating%20the%20urban%20game.pdf
+- https://dn790002.ca.archive.org/0/items/Fm21-76SurvivalManual/FM21-76_SurvivalManual.pdf
+- https://docs.flexera.com/svr/pdf/SVR_UG_January2024.pdf
+- https://docs.tenable.com/vulnerability-management/Content/PDF/Tenable_Vulnerability_Management-User_Guide.pdf
+- https://elhacker.info/Cursos/Certified%20Red%20Team%20Analyst%20-%20CRTA/PDF/Red%20Team%20Analyst%20Course.pdf
+- https://eprints.soton.ac.uk/69173/1/cities_proofed.pdf
+- https://escholarship.org/content/qt7gn2j60q/qt7gn2j60q.pdf
+- https://f.hubspotusercontent20.net/hubfs/3875471/Ebooks/Social-Engineering-History-MitnickSecurity.pdf
+- https://forensicswiki.xyz/wiki/index.php?title=Main_Page
+- https://frida.re/
+- https://github.com/0xor0ne/awesome-list
+- https://github.com/A-poc/RedTeam-Tools
+- https://github.com/Astrosp/Awesome-OSINT-For-Everything
+- https://github.com/DavidProbinsky/RedTeam-Physical-Tools
+- https://github.com/FourCoreLabs/firedrill
+- https://github.com/Jieyab89/OSINT-Cheat-sheet
+- https://github.com/LiveGray/awesome-physec
+- https://github.com/MobSF/Mobile-Security-Framework-MobSF
+- https://github.com/NerdChip/AtomicThreatProfile
+- https://github.com/Netflix/dispatch
+- https://github.com/NextronSystems/APTSimulator
+- https://github.com/OWASP/owasp-mastg
+- https://github.com/OWASP/secure-coding-practices-quick-reference-guide
+- https://github.com/RPISEC/MBE
+- https://github.com/RPISEC/Malware
+- https://github.com/Reconnaishawnce/Red-Team
+- https://github.com/Rootkitsmm/Awesome-DFIR
+- https://github.com/The-Osint-Toolbox/Social-Media-OSINT
+- https://github.com/TheHive-Project/TheHive
+- https://github.com/alphasoc/flightsim
+- https://github.com/awesomelistsio/awesome-osint
+- https://github.com/bettercap/bettercap
+- https://github.com/carpedm20/awesome-hacking
+- https://github.com/center-for-threat-informed-defense/adversary_emulation_library
+- https://github.com/certsocietegenerale/IRM
+- https://github.com/cugu/awesome-forensics
+- https://github.com/danieldurnea/FBI-tools
+- https://github.com/davidbombal/red-python-scripts
+- https://github.com/decalage2/awesome-security-hardening
+- https://github.com/denx921/privacy-protection-tools
+- https://github.com/enaqx/awesome-pentest
+- https://github.com/esri/dynamic-situational-awareness-qt
+- https://github.com/fabrimagic72/malware-samples
+- https://github.com/facebookincubator/TTPForge
+- https://github.com/firmianay/CTF-All-In-One
+- https://github.com/foolOnTheHill/cryptography-resources
+- https://github.com/giuliacassara/awesome-social-engineering
+- https://github.com/google/grr
+- https://github.com/hslatman/awesome-threat-intelligence
+- https://github.com/ibr0wse/RedTeam-PenTest-Cheatsheet-Checklist
+- https://github.com/jacobdjwilson/awesome-annual-security-reports
+- https://github.com/jivoi/awesome-ml-for-cybersecurity
+- https://github.com/jivoi/awesome-osint
+- https://github.com/keitersecurity/awesome-infosec
+- https://github.com/lanmaster53/recon-ng
+- https://github.com/laramies/theHarvester
+- https://github.com/malincwg/cybersec_resources
+- https://github.com/meirwah/awesome-incident-response
+- https://github.com/mikeroyal/Open-Source-Security-Guide
+- https://github.com/mitre-attack/attack-navigator
+- https://github.com/mitre/caldera
+- https://github.com/mytechnotalent/Reverse-Engineering
+- https://github.com/onethawt/reverseengineering-reading-list
+- https://github.com/onlurking/awesome-infosec
+- https://github.com/paulaime/awesome-privacy
+- https://github.com/preludeorg/community
+- https://github.com/redcanaryco/atomic-red-team
+- https://github.com/ricardojoserf/wifi-pentesting-guide
+- https://github.com/rshipp/awesome-malware-analysis
+- https://github.com/s0md3v/Photon
+- https://github.com/sam-b/Exploit-Development-Resources
+- https://github.com/sbilly/awesome-security
+- https://github.com/sensepost/objection
+- https://github.com/sherlock-project/sherlock
+- https://github.com/sindresorhus/awesome
+- https://github.com/smicallef/spiderfoot
+- https://github.com/sobolevn/awesome-cryptography
+- https://github.com/specterops/adversary_emulation_library
+- https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet
+- https://github.com/tctlrd/awesome-physical-access-control
+- https://github.com/toniblyx/prowler
+- https://github.com/topics/osint
+- https://github.com/topics/penetration-testing
+- https://github.com/topics/red-team
+- https://github.com/trustedsec/social-engineer-toolkit
+- https://github.com/tylerha97/awesome-reversing
+- https://github.com/v1s1t0r1sh3r3/airgeddon
+- https://github.com/vaib25vicky/awesome-mobile-security
+- https://github.com/volatilityfoundation/volatility
+- https://github.com/wtsxDev/reverse-engineering
+- https://github.com/yogsec/Physical-Pentesting-Tools
+- https://home.army.mil/wood/6115/8222/0759/RedTeamHB.pdf
+- https://homes.cs.ru.ac.za/b.irwin/Theses/Rule%202014%20Msc.pdf
+- https://info.publicintelligence.net/
+- https://info.publicintelligence.net/USArmy-PsyOpsTactics.pdf
+- https://info.publicintelligence.net/USJFCOM-CODIAC.pdf
+- https://inteltechniques.com/tools/
+- https://irp.fas.org/doddir/army/fm3-05-70.pdf
+- https://irp.fas.org/doddir/dod/jp3_12.pdf
+- https://it.ie/wp-content/uploads/2023/05/A-Guide-to-Social-Engineering.pdf
+- https://labex.io
+- https://learn.microsoft.com/en-us/azure/security/
+- https://letsdefend.io/
+- https://livecrimetracker.norc.org
+- https://malware.news/
+- https://mas.owasp.org/MASTG/
+- https://mas.owasp.org/MASVS/
+- https://media.defense.gov/2020/Oct/28/2002524944/-1/-1/0/JP%203-13.3-OPSEC.PDF
+- https://medium.com/tag/osint
+- https://medium.com/tag/red-team
+- https://mirror.unhabitat.org/documents/HS-599x.pdf
+- https://mitre-attack.github.io/attack-navigator/
+- https://navyseals.com/wp-content/uploads/2012/12/naval-special-warfare-physical-training-guide.pdf
+- https://newandimproved.com/wp-content/uploads/2014/04/ufmcs_red_team_handbook_apr2011.pdf
+- https://nsarchive.gwu.edu/
+- https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-61r3.ipd.pdf
+- https://obsint.eu/wp-content/uploads/2023/04/Guidelines-for-Open-Source-Intelligence-Organisations.pdf
+- https://ondefend.com/wp-content/uploads/2021/08/OnDefend-Network-Penetration-Testing-Data-Sheet.pdf
+- https://osintframework.com/
+- https://otx.alienvault.com/
+- https://overthewire.org/wargames/
+- https://owasp.org/www-project-mobile-app-security/
+- https://owasp.org/www-project-wi-fi-security-testing-guide/
+- https://pentesterlab.com/
+- https://picoctf.org
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC12609681/
+- https://polarisproject.org/wp-content/uploads/2018/08/A-Roadmap-for-Systems-and-Industries-to-Prevent-and-Disrupt-Human-Traffick...
+- https://portswigger.net/web-security
+- https://ptgmedia.pearsoncmg.com/images/9781587052088/samplepages/1587052083.pdf
+- https://pwnable.kr/
+- https://pwnable.tw/
+- https://reversing.kr/
+- https://risk.lexisnexis.com/products/community-crime-map
+- https://start.me/p/DPYPMz/the-ultimate-osint-collection
+- https://theanarchistlibrary.org/category/topic/security-culture
+- https://theanarchistlibrary.org/library
+- https://theanarchistlibrary.org/listing
+- https://toc.cryptobook.us/
+- https://training.dfirdiva.com/listing-category/digital-forensics
+- https://tryhackme.com/
+- https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=51198
+- https://urlscan.io/
+- https://web-assets.eset.com/fileadmin/ESET/INT/Landing/2021/Project_progress/ESET-Social_engineering_handbook.pdf
+- https://web.cecs.pdx.edu/~nbulusu/papers/spots10.pdf
+- https://wildnisschule-lupus.de/wp-content/uploads/2021/01/The-US-Navy-Seal-Survival-Handbook.pdf
+- https://www.13cubed.com/
+- https://www.academia.edu/35862170/Gangs_and_Space
+- https://www.afpc.af.mil/portals/70/documents/FITNESS/
+- https://www.aircrack-ng.org/
+- https://www.amazon.com/48-Laws-of-Power-Robert-Greene/dp/0143125444
+- https://www.amazon.com/Influence-Psychology-of-Persuasion-Robert-Cialdini/dp/006124189X
+- https://www.amazon.com/Manufacturing-Consent-Propaganda-Control-Political-/dp/1250041047
+- https://www.amazon.com/Sandworm-Attack-America-Cyberwar-Story/dp/1524759769
+- https://www.amazon.com/Thinking-Fast-and-Slow-Daniel-Kahneman/dp/037453355X
+- https://www.amazon.com/This-Is-How-They-Tell-Me-the-World-Ends/dp/1250826939
+- https://www.armyresilience.army.mil/ard/images/pdf/Policy/AR%20350-1%20Army%20Training%20and%20Leader%20Development.pdf
+- https://www.armyupress.army.mil/Portals/7/PDF-UA-docs/Khachadoorian-Military-Student-1-UA.pdf
+- https://www.atsec.cn/downloads/pdf/secure-coding-guidelines.pdf
+- https://www.autopsy.com/
+- https://www.begin.re/
+- https://www.bellingcat.com/resources/
+- https://www.benning.army.mil/Infantry/199th/CATD/MTFC/Content/PDF/MTFC-StudentBattlebook.pdf
+- https://www.bi.team/
+- https://www.bi.team/publications
+- https://www.bi.team/wp-content/uploads/2014/04/BIT-EAST-handbook.pdf
+- https://www.bits.de/NRANEU/others/amd-us-archive/FM6-20(58).pdf
+- https://www.bits.de/NRANEU/others/amd-us-archive/fm3-12(2017).pdf
+- https://www.bjs.ojp.gov/
+- https://www.cia.gov/readingroom/
+- https://www.cia.gov/readingroom/docs/
+- https://www.cia.gov/readingroom/docs/CIA-RDP89B01354R000200310017-8.pdf
+- https://www.cia.gov/resources/csi/static/Pyschology-of-Intelligence-Analysis.pdf
+- https://www.cisa.gov/cybersecurity-best-practices
+- https://www.cisa.gov/resources-tools
+- https://www.cisa.gov/sites/default/files/publications/Federal_Government_Cybersecurity_Incident_and_Vulnerability_Response_Playbooks_508C.pdf
+- https://www.cisecurity.org/controls
+- https://www.coursera.org/learn/crypto
+- https://www.coursera.org/learn/crypto2
+- https://www.cryptohack.org/
+- https://www.cse.iitd.ac.in/~srsarangi/files/papers/acm_tosn_GPS.pdf
+- https://www.cyber.gc.ca/en/guidance
+- https://www.cyber5w.com/
+- https://www.cyberdefenders.org/
+- https://www.cybersecuritychallenge.org.uk/
+- https://www.dhs.gov/cybersecurity
+- https://www.dni.gov/files/NCSC/documents/nittf/OPSEC_Program_Plan_Template_1.pdf
+- https://www.dni.gov/index.php/what-we-do/ic-on-the-record-database
+- https://www.dst.defence.gov.au/sites/default/files/publications/documents/DST-Group-TR-3335.pdf
+- https://www.exploit-db.com/papers/
+- https://www.extrahop.com/blog/free-cryptography-class
+- https://www.fbi.gov/investigate/cyber
+- https://www.fireeye.com/blog/threat-research.html
+- https://www.gbainsurance.com/sites/default/files/2016-06/Social%20Engineering%20Guide%20From%20Chubb.pdf
+- https://www.govinfo.gov/content/pkg/GOVPUB-D214-PURL-gpo130684/pdf/GOVPUB-D214-PURL-gpo130684.pdf
+- https://www.hackthebox.com/
+- https://www.hybrid-analysis.com/
+- https://www.ialeia.org/docs/Psychology_of_Intelligence_Analysis.pdf
+- https://www.icpsr.umich.edu/icpsrweb/NACJD/
+- https://www.icpsr.umich.edu/icpsrweb/NACJD/series/57
+- https://www.immersiveabs.com/
+- https://www.justice.gov/developer
+- https://www.kali.org/tools/wifite/
+- https://www.kismetwireless.net/
+- https://www.malware-traffic-analysis.net/
+- https://www.mandiant.com/insights
+- https://www.marines.mil/Portals/1/MCWP%203-35.3.pdf
+- https://www.marines.mil/Portals/1/Publications/
+- https://www.marines.mil/Portals/1/Publications/FM%203-21.8%20%20The%20Infantry%20Rifle%20Platoon%20and%20Squad_1.pdf
+- https://www.marines.mil/Portals/1/Publications/MCTP%207-20A.pdf
+- https://www.marines.mil/Portals/1/Publications/MCTP%208-10B%20GN.pdf
+- https://www.mcso.us/reported-crime-data-dashboard
+- https://www.milsci.ucsb.edu/sites/default/files/sitefiles/resources/Ranger%20Handbook.pdf
+- https://www.ncsc.gov.uk/collection/incident-management
+- https://www.nist.gov/cyberframework
+- https://www.nitttrchd.ac.in/imee/Labmanuals/The%20Art%20of%20Social%20Engineering.pdf
+- https://www.nsa.gov/Press-Room/Cybersecurity-Advisories-Guidance/
+- https://www.nsa.gov/Press-Room/Press-Releases/
+- https://www.offensive-security.com/labs/
+- https://www.ojp.gov/pdffiles/164273.pdf
+- https://www.openstreetmap.org/
+- https://www.osint.industries
+- https://www.owasp.org/index.php/OWASP_Secure_Coding_Practices_-_Quick_Reference_Guide
+- https://www.portland.gov/police/open-data/reported-crime-data
+- https://www.rangeforce.com/free-edition
+- https://www.reddit.com/r/OSINT/
+- https://www.reddit.com/r/netsec/
+- https://www.reddit.com/r/redteamsec/
+- https://www.root-me.org/
+- https://www.sans.org/cybersecurity-focus-areas/digital-forensics-incident-response
+- https://www.sans.org/white-papers/incident-handlers-handbook/
+- https://www.scribd.com/document/390312297/Combat-Hunter-Profiling-1
+- https://www.scribd.com/document/408582410/Introduction-to-Combat-Hunter-pdf
+- https://www.scribd.com/document/939691754/Threat-Hunt-Playbook
+- https://www.securecoding.cert.org/
+- https://www.shodan.io/
+- https://www.sleuthkit.org/
+- https://www.socom.mil/FOIA/
+- https://www.socom.mil/FOIA/Documents/
+- https://www.theblackvault.com/documents/cia/CIA-RDP96-00789R003300210001-2.pdf
+- https://www.threatminer.org/
+- https://www.ushahidi.com/
+- https://www.virustotal.com/gui/home/upload
+- https://www.volatilityfoundation.org/
+- https://www.vulnhub.com/
+- hub: git wrapper that extends it with features that make it better for GitHub
+- hyperfine: A command-line benchmarking tool
+- id: Print real and effective user and group IDs
+- ifconfig: Configure a network interface
+- iftop: Display bandwidth usage on an interface
+- iotop: Simple top-like I/O monitor
+- ip: Show / manipulate routing, network devices, interfaces and tunnels
+- java: The Java application launcher
+- javac: The Java programming language compiler
+- jest: Delightful JavaScript Testing
+- jobs: Display status of jobs in the current session
+- john (John the Ripper): password cracker
+- journalctl: Query the systemd journal
+- jq: Command-line JSON processor
+- k6: Modern load testing for developers and APIs in the cloud era
+- kill: Send a signal to a process
+- killall: Kill processes by name
+- kubectl: Kubernetes command-line tool
+- less: Opposite of more
+- lf: Terminal file manager
+- llama-cpp-python: Python bindings for llama.cpp
+- lldb: The LLDB Debugger
+- locust: Scalable user load testing tool written in Python
+- lolcat: Rainbows and unicorns!
+- lsblk: List block devices
+- lsof: List open files
+- ltrace: A library call tracer
+- make: GNU make utility to maintain groups of programs
+- masscan: TCP port scanner, spews SYN packets asynchronously
+- maven (mvn): Apache Maven
+- mc (Midnight Commander): Visual file manager
+- mcp-server-aws: AWS API MCP server
+- mcp-server-brave-search: Web search using Brave Search API
+- mcp-server-confluence: Confluence API MCP server
+- mcp-server-datadog: Datadog metrics and logs access MCP
+- mcp-server-discord: Discord API integration MCP
+- mcp-server-docker: Docker management MCP server
+- mcp-server-elastic: Elasticsearch / Kibana querying MCP
+- mcp-server-fetch: Simple URL fetching MCP server
+- mcp-server-filesystem: Local filesystem access MCP server
+- mcp-server-github: GitHub API MCP server for reading repos, issues, PRs
+- mcp-server-gitlab: GitLab API MCP server
+- mcp-server-google-drive: Google Drive API MCP server
+- mcp-server-hubspot: HubSpot CRM data access MCP
+- mcp-server-jira: Jira API MCP server
+- mcp-server-kubernetes: Kubernetes management MCP server
+- mcp-server-linear: Linear API MCP server for issue tracking
+- mcp-server-memory: Long term memory storage for agents via MCP
+- mcp-server-mongodb: MongoDB MCP server
+- mcp-server-mysql: MySQL MCP server
+- mcp-server-notion: Notion API MCP server for reading/writing pages
+- mcp-server-obsidian: Obsidian vault access MCP server
+- mcp-server-playwright: Advanced browser automation MCP server
+- mcp-server-postgres: PostgreSQL database MCP server
+- mcp-server-puppeteer: Browser automation MCP server
+- mcp-server-redis: Redis MCP server
+- mcp-server-salesforce: Salesforce data access MCP
+- mcp-server-sentry: Sentry issue and error reporting MCP
+- mcp-server-shell: Command line execution MCP server
+- mcp-server-slack: Slack API MCP server for reading/sending messages
+- mcp-server-splunk: Splunk log searching MCP
+- mcp-server-spotify: Spotify API integration MCP
+- mcp-server-sqlite: SQLite database MCP server for querying local DBs
+- mcp-server-stripe: Stripe billing and customer API MCP
+- mcp-server-tavily: Web research using Tavily API
+- mcp-server-zendesk: Zendesk ticketing system MCP
+- mcp-server-zoom: Zoom API for meetings and recordings MCP
+- mdcat: cat for markdown
+- mkfs: Build a Linux filesystem
+- mocha: Simple, flexible, fun javascript test framework for node.js & the browser
+- mock: A library for testing in Python
+- more: File perusal filter for crt viewing
+- mount: Mount a filesystem
+- mq: Advanced CLI tool for querying markdown files and extracting structural elements
+- mtr: A network diagnostic tool
+- navi: An interactive cheatsheet tool for the command-line
+- ncdu: NCurses Disk Usage
+- neofetch: A command-line system information tool
+- netcat (nc): Arbitrary TCP and UDP connections and listens
+- nethogs: Net top tool grouping bandwidth per process
+- nikto: Web server scanner
+- nmap: Network exploration tool and security / port scanner
+- nmon: Nigel's performance Monitor
+- nnn: Tiny, lightning fast, feature-packed file manager
+- node: Server-side JavaScript runtime
+- nohup: Run a command immune to hangups, with output to a non-tty
+- npm: A package manager for JavaScript
+- nslookup: Query Internet name servers interactively
+- oci (Oracle Cloud CLI): Oracle Cloud Infrastructure Command Line Interface
+- packer: Tool for creating identical machine images for multiple platforms
+- pdfplumber: Plumb a PDF for detailed information about each text character, rectangle, and line
+- peco: Simplistic interactive filtering tool
+- perf: Performance analysis tools for Linux
+- perl: The Perl 5 language interpreter
+- php: Hypertext Preprocessor
+- ping: Send ICMP ECHO_REQUEST to network hosts
+- pip: The Python package installer
+- pkill: Look up or signal processes based on name and other attributes
+- playwright-test: Playwright Test provides a testing framework for Web Apps
+- pnpm: Fast, disk space efficient package manager
+- printf: Format and print data
+- ps: Report a snapshot of the current processes
+- puppet: Server automation framework and application
+- pytest: The pytest framework makes it easy to write small tests, yet scales to support complex functional testing
+- python / python3: An interpreted, interactive, object-oriented programming language
+- ranger: A VIM-inspired filemanager for the console
+- rclone: Rysnc for cloud storage
+- responses: A utility library for mocking out the requests Python library
+- ripgrep (rg): Recursively searches directories for a regex pattern (extremely fast)
+- rsync: A fast, versatile, remote (and local) file-copying tool
+- ruby: Interpreted object-oriented scripting language
+- rustc: The Rust compiler
+- sar: Collect, report, or save system activity information
+- scp: Secure copy (remote file copy program)
+- screen: Screen manager with VT100/ANSI terminal emulation
+- sd: Intuitive find & replace CLI (sed alternative)
+- sed: Stream editor for filtering and transforming text
+- sftp: Secure file transfer program
+- socat: Multipurpose relay (SOcket CAT)
+- sort: Sort lines of text files
+- sqlmap: Automatic SQL injection and database takeover tool
+- ssh: OpenSSH SSH client (remote login program)
+- strace: Trace system calls and signals
+- stress-ng: Tool to load and stress a computer system
+- stress: Tool to impose load on and stress test a computer system
+- svn: Subversion command line client tool
+- sysbench: Scriptable database and system performance benchmark
+- systemctl: Control the systemd system and service manager
+- tail: Output the last part of files
+- tar: An archiving utility
+- tcpdump: Dump traffic on a network
+- terraform: Infrastructure as Code tool
+- theHarvester: E-mails, subdomains and names Harvester
+- thefuck: Magnificent app which corrects your previous console command
+- tldr: Simplified and community-driven man pages
+- tmux: A terminal multiplexer
+- top: Display Linux processes
+- tr: Translate or delete characters
+- traceroute: Print the route packets trace to network host
+- umount: Unmount file systems
+- uniq: Report or omit repeated lines
+- unittest: The built-in testing framework in Python
+- uptime: Tell how long the system has been running
+- vLLM: A high-throughput and memory-efficient LLM serving engine
+- vagrant: Tool for building and distributing development environments
+- valgrind: A suite of tools for debugging and profiling
+- vcrpy: Automatically mock your HTTP interactions to simplify and speed up testing
+- vegeta: HTTP load testing tool and library
+- vifm: Vi[m] like file manager
+- vitest: A blazing fast unit test framework powered by Vite
+- vnstat: Network traffic monitor
+- watch: Execute a program periodically, showing output fullscreen
+- wc: Print newline, word, and byte counts for each file
+- wget: Non-interactive network downloader
+- whoami: Print effective userid
+- wireshark / tshark: Network protocol analyzer
+- wpscan: WordPress security scanner
+- wrk: Modern HTTP benchmarking tool
+- x64dbg: An open-source x64/x32 debugger for windows
+- xargs: Build and execute command lines from standard input
+- xh: Friendly and fast tool for sending HTTP requests
+- yarn: Fast, reliable, and secure dependency management
+- yq: Portable command-line YAML, JSON, XML, CSV and properties processor
+- z: jump around
+- zip / unzip: Package and compress (archive) files
+- zmap: The Internet Scanner

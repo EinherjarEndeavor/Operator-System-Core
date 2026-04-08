@@ -1,0 +1,104 @@
+### EXTRACTION FROM BATCH 3 (Onboarding Files)
+
+**TOOLS, LIBRARIES, SOFTWARE, AND FRAMEWORKS**
+
+1. **Inter** - Font used for UI/UX (clinical/sovereign aesthetic).
+2. **NN/g (Nielsen Norman Group)** - Source of usability and form best practices guidelines.
+3. **WCAG (Web Content Accessibility Guidelines)** - Standards for web accessibility.
+4. **ARIA (Accessible Rich Internet Applications)** - Suite of attributes for web accessibility.
+5. **Google Analytics** - Analytics platform for tracking form interactions.
+6. **GA4 (Google Analytics 4)** - Specific version of Google Analytics recommended for event tracking.
+7. **NVDA** - Screen reader software for accessibility testing.
+8. **VoiceOver** - Screen reader software for accessibility testing.
+9. **W3C (World Wide Web Consortium)** - Organization providing labeling and grouping tutorials.
+10. **W3C WAI (Web Accessibility Initiative)** - Accessibility resource provider.
+11. **Gemini CLI** - CLI tool for interacting with Gemini models and extensions.
+12. **Gemini** - LLM/reasoning engine used for synthesis, planning, and research.
+13. **LangGraph** - Framework/runtime for human-in-the-loop and durable execution.
+14. **OpenSearch** - Search engine supporting vector and lexical search; supports Docker deployment.
+15. **Milvus** - Open-source (OSS) vector database.
+16. **Weaviate** - Open-source (OSS) vector database.
+17. **Scrapy** - Web crawling and ingestion framework.
+18. **Playwright** - Browser automation and crawling tool; used in Firecrawl's microservices.
+19. **trafilatura** - Tool for web content extraction.
+20. **Apache Tika** - Tool for structured data extraction from various file formats.
+21. **Docker** - Containerization platform for deployment (e.g., OpenSearch).
+22. **ChatGPT** - AI service/interface; supports "Deep Research" mode.
+23. **STORM (Stanford University)** - Synthesis of Topic Outlines through Retrieval and Multi‑perspective question asking; research prototype/Python package/web demo.
+24. **Co-STORM** - Human‑AI collaborative version of STORM for knowledge curation.
+25. **GPT Researcher** - Open-source multi-agent research agent (pip installable).
+26. **Chroma** - Vector database.
+27. **Firecrawl** - Web acquisition and extraction API for LLM-ready data.
+28. **Exa** - Neural web search engine API with deep research/reasoning modes.
+29. **Tavily** - Web access layer API for agents (search, extract, crawl, map, research).
+30. **Research GPTs** - Agentic research workflows implemented within ChatGPT.
+31. **DPR (Dense dual-encoder retrieval)** - Retrieval method for neural/semantic search.
+32. **BEIR** - Benchmark for zero-shot evaluation of retrieval models.
+33. **FAISS** - Library for efficient similarity search and indexing of dense vectors.
+34. **GAIA** - Benchmark for general AI assistants (reasoning, browsing, tool use).
+35. **MultiHop-RAG** - Benchmark/dataset for multi-hop retrieval and reasoning.
+36. **Spark 1 Mini/Pro** - Models selectable within the Firecrawl agent endpoint.
+37. **FIRE-1** - Action agent/model for complex navigation in Firecrawl.
+38. **Redis** - Used for queues in Firecrawl self-hosting infrastructure.
+39. **PostgreSQL** - Database used in Firecrawl configuration.
+40. **OpenAI** - AI provider; API used for various AI-augmented tasks.
+41. **SearXNG** - Search engine endpoint used as fallback/option in Firecrawl.
+42. **Google** - Search engine used for discovery.
+43. **Browserbase** - Browser cloud layer for deterministic rendering and extraction.
+44. **LangChain** - Orchestration framework for agents and RAG.
+45. **CrewAI** - Multi-agent orchestration framework.
+46. **LlamaIndex** - Data framework/orchestrator for LLM applications.
+47. **Rust** - Programming language used for Exa's highlights server/internals.
+48. **Python** - Programming language used for Zilliz DeepSearcher and other agents.
+49. **exa-research / exa-research-pro** - Specific model variants in the Exa Research API.
+50. **SimpleQA** - OpenAI benchmark for short, fact-seeking queries.
+51. **GPT-4.1** - Version of GPT-4 mentioned in Tavily's SimpleQA benchmark reports.
+52. **Haystack** - Orchestration framework for LLM pipelines.
+53. **Perplexity Sonar** - API/Model used for search and comparison.
+54. **MSMARCO** - Dataset for information retrieval.
+55. **Wikipedia** - Source used for RAG and research benchmarks.
+56. **Open Deep Research (LangChain)** - Community-led research agent/prototype.
+57. **GPT-4** - Large language model.
+58. **Llama-2** - Large language model.
+59. **Open Agent Platform (OAP)** - Platform for running agent demos.
+60. **GitHub** - Platform for hosting code (e.g., STORM, GPT Researcher).
+61. **SerqAI Deep Researcher** - Free web-based research assistant.
+62. **Zilliz DeepSearcher** - Open-source library and CLI from the creators of Milvus.
+63. **GAIR DeepResearcher** - Academic research model trained with reinforcement learning.
+64. **SATs (Structured Analytic Techniques)** - Intelligence analysis methods (ACH, KAC, Red Team, etc.).
+65. **ACH (Analysis of Competing Hypotheses)** - Diagnostic technique for evaluating multiple hypotheses.
+66. **KAC (Key Assumptions Check)** - Technique for identifying and testing underlying assumptions.
+67. **DRACO** - Deep Research Accuracy, Completeness, and Objectivity benchmark.
+68. **PICOS (Population-Intervention-Comparison-Outcome-Setting)** - Framework for gap analysis.
+69. **GRADE** - Framework for grading evidence quality and certainty.
+70. **Claude 3.5 Haiku** - Model used in cascading routing for cost optimization.
+71. **GPT-4o** - Model used for complex reasoning/synthesis.
+72. **Bifrost** - Intelligent model router for multi-provider cost optimization.
+73. **LiteLLM** - Proxy/router for multi-provider LLM integration.
+74. **vLLM** - Semantic router/inference engine.
+75. **PubMed** - Specialized database for medical/scientific research.
+76. **arXiv** - Specialized database for scientific preprints.
+77. **Minto Pyramid** - Rhetorical structure for logical writing and synthesis.
+78. **McKinsey SCR (Situation-Complication-Resolution)** - Strategy framework for memos.
+79. **SCITT (Supply Chain Integrity and Trust)** - Ledger framework for artifacts/claims/evidence.
+80. **EviLedger** - Verifiable evidence ledger for governing clinical AI.
+81. **G-Eval** - LLM-as-a-judge framework using chain-of-thought for scoring.
+82. **Paged-RAG** - Evaluation framework for long-form reports.
+83. **QAG (Question-Answer-Generation)** - Scoring method for RAG metrics.
+84. **CTR Annex I** - Standard for clinical trial application dossiers.
+85. **CTIS (Clinical Trials Information System)** - System for managing clinical trial dossiers.
+86. **SNOMED** - Clinical domain ontology/terminology.
+87. **RxNorm** - Clinical domain ontology/terminology for medications.
+88. **SHA-256** - Hashing algorithm for evidence integrity/provenance.
+89. **Claude** - Large language model (Anthropic).
+90. **Hugging Face** - Platform for sharing models and papers.
+91. **Scribd** - Document sharing platform.
+92. **ResearchGate** - Academic research sharing platform.
+93. **MDPI** - Academic publishing platform.
+94. **NCBI** - Source for research gap frameworks.
+95. **Azure Confidential Ledger** - Microsoft service for secure evidence management.
+96. **SEC Filings** - Source for corporate/financial research.
+97. **Voter Records** - Source for entity/person research.
+98. **Property Deeds** - Source for entity/person research.
+99. **Google Learning Path** - Resource for autodidactic technical mastery.
+100. **Einherjar System / Yggdrasil Curriculum** - Frameworks for autonomous productivity and mastery.

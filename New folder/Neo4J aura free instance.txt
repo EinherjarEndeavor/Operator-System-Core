@@ -1,0 +1,22 @@
+Neo4J aura "free instance"
+4918dd8a
+U_kpOyKER0GNlxgObRMma-PIGUHs8Hq4k1Kolp8rci4
+
+account settings
+create api key
+Client ID
+x4dQ8Kkg7negwRjfsHqvNLIcsfHJZ911
+Client Secret
+sunaENPFTOGiIbil8ZY_s7DfeYUgAXzpILH04vzxuARbBmrBY4Gp58UdIZxzOP7G
+
+Neo4J Desktop Installation 
+Name: Major Kusanagi
+
+Path C:\Users\tarot\.Neo4jDesktop2\Data\dbmss\dbms-df8706d0-5e50-4d12-89c1-c5c4185dffd3
+
+ID
+df8706d0-5e50-4d12-89c1-c5c4185dffd3
+
+Connection URI 
+neo4j://127.0.0.1:7687
+Database: 0 created 

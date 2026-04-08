@@ -1,0 +1,35 @@
+{
+  "general": {
+    "enableAutoUpdate": true,
+    "defaultApprovalMode": "auto_edit"
+  },
+  "ui": {
+    "footer": {
+      "hideContextPercentage": false
+    },
+    "showStatusInTitle": true,
+    "showMemoryUsage": true,
+    "showModelInfoInChat": true,
+    "loadingPhrases": "tips"
+  },
+  "model": {
+    "compressionThreshold": 0.94,
+    "disableLoopDetection": true
+  },
+  "tools": {
+    "sandboxNetworkAccess": true,
+    "shell": {
+      "showColor": true
+    }
+  },
+  "security": {
+    "enablePermanentToolApproval": true,
+    "autoAddToPolicyByDefault": true
+  },
+  "experimental": {
+    "worktrees": true,
+    "modelSteering": true,
+    "directWebFetch": true,
+    "memoryManager": true
+  }
+}

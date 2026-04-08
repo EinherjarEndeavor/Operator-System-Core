@@ -1,0 +1,514 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Windows Power Architecture — Personal AI Intelligence System</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300..800&family=JetBrains+Mono:wght@400;600;800&display=swap" rel="stylesheet">
+<style>
+:root{
+--bg:#0a0d12;--surface:#101621;--surface2:#151d2b;--surface3:#1b2536;--border:#253249;--text:#e8eefc;--muted:#9aa8c7;--faint:#60708f;
+--blue:#62a0ff;--bluebg:#0f2f63;--violet:#9c7cff;--violetbg:#271a52;--green:#46d39a;--greenbg:#0f3528;--amber:#f4c35d;--amberbg:#43330e;--red:#ff7b7b;--redbg:#4a1515;
+--radius:16px;--radius-sm:8px;--shadow:0 16px 40px rgba(0,0,0,.35);
+}
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:Inter,system-ui,sans-serif;background:linear-gradient(180deg,#0a0d12 0%,#0d121a 100%);color:var(--text);line-height:1.7}
+code,pre{font-family:'JetBrains Mono',monospace}
+a{color:var(--blue);text-decoration:none} a:hover{text-decoration:underline}
+header{position:sticky;top:0;z-index:10;background:rgba(10,13,18,.9);backdrop-filter:blur(14px);border-bottom:1px solid var(--border);padding:16px 28px;display:flex;justify-content:space-between;align-items:center;gap:16px}
+.logo{display:flex;align-items:center;gap:12px;font-weight:800;letter-spacing:-.02em}.logo span{color:var(--blue)}
+nav{display:flex;gap:18px;flex-wrap:wrap} nav a{font-size:.78rem;text-transform:uppercase;letter-spacing:.08em;color:var(--muted)}
+.hero{max-width:1200px;margin:0 auto;padding:64px 28px 40px;display:grid;grid-template-columns:1.3fr .7fr;gap:28px;align-items:start}
+.hero-card,.panel,.card,.code,.matrix{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);box-shadow:var(--shadow)}
+.hero-card{padding:32px}.hero h1{font-size:clamp(2rem,1.1rem + 3vw,4rem);line-height:1.05;letter-spacing:-.05em;margin-bottom:16px}.hero h1 span{color:var(--blue)}
+.hero p{max-width:68ch;color:var(--muted);margin-bottom:16px}.pill{display:inline-block;padding:6px 10px;border-radius:999px;border:1px solid var(--blue);background:var(--bluebg);color:var(--blue);font-size:.75rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;margin-bottom:16px}
+.hero-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:14px}.mini{background:var(--surface2);border:1px solid var(--border);border-radius:12px;padding:14px}.mini h4{font-size:.8rem;margin-bottom:6px}.mini p{font-size:.82rem;color:var(--muted);margin:0}
+.layout{max-width:1200px;margin:0 auto;padding:0 28px 60px;display:grid;grid-template-columns:260px 1fr;gap:28px}
+aside{position:sticky;top:86px;height:max-content}.panel{padding:20px}.panel h3{font-size:.8rem;color:var(--faint);text-transform:uppercase;letter-spacing:.1em;margin-bottom:12px}.toc a{display:block;padding:8px 10px;border-radius:10px;color:var(--muted);font-size:.9rem}.toc a:hover{background:var(--surface2);color:var(--blue);text-decoration:none}
+main section{margin-bottom:28px}.section{padding:26px}.section-head{display:flex;align-items:center;gap:14px;margin-bottom:18px}.num{width:38px;height:38px;border-radius:12px;display:grid;place-items:center;font-weight:800;font-family:'JetBrains Mono',monospace}.n1{background:var(--bluebg);color:var(--blue);border:1px solid var(--blue)}.n2{background:var(--violetbg);color:var(--violet);border:1px solid var(--violet)}.n3{background:var(--greenbg);color:var(--green);border:1px solid var(--green)}.n4{background:var(--amberbg);color:var(--amber);border:1px solid var(--amber)}.n5{background:#17304a;color:#82c7ff;border:1px solid #82c7ff}.n6{background:var(--redbg);color:var(--red);border:1px solid var(--red)}
+.section h2{font-size:1.45rem;letter-spacing:-.03em}.section p{margin-bottom:14px;color:var(--muted)}
+strong{color:var(--text)}
+.grid2,.grid3,.grid4{display:grid;gap:14px}.grid2{grid-template-columns:repeat(2,1fr)}.grid3{grid-template-columns:repeat(3,1fr)}.grid4{grid-template-columns:repeat(4,1fr)}
+.card{padding:16px;background:linear-gradient(180deg,var(--surface2),var(--surface))}.card h4{font-size:.95rem;margin-bottom:8px}.card p{font-size:.88rem;margin:0;color:var(--muted)}
+.badge{display:inline-block;padding:3px 8px;border-radius:999px;font-size:.72rem;font-weight:800;letter-spacing:.05em}.bblue{background:var(--bluebg);color:var(--blue)}.bgreen{background:var(--greenbg);color:var(--green)}.bamber{background:var(--amberbg);color:var(--amber)}.bred{background:var(--redbg);color:var(--red)}.bviolet{background:var(--violetbg);color:var(--violet)}
+.tablewrap{overflow:auto;border:1px solid var(--border);border-radius:16px}.matrix table{width:100%;border-collapse:collapse;min-width:860px}.matrix th,.matrix td{padding:14px 12px;border-bottom:1px solid var(--border);vertical-align:top}.matrix th{background:var(--surface2);font-size:.76rem;text-transform:uppercase;letter-spacing:.08em;color:var(--faint);text-align:left}.matrix td{font-size:.9rem;color:var(--muted)}.matrix td:first-child{color:var(--text);font-family:'JetBrains Mono',monospace;font-weight:700}
+.callout{padding:16px 18px;border-radius:14px;border:1px solid var(--border);margin:16px 0}.info{background:#0f2038}.warn{background:#34290d}.success{background:#0d2c22}.danger{background:#351515}
+.code{overflow:hidden;margin:16px 0}.codehead{display:flex;justify-content:space-between;padding:10px 14px;background:var(--surface3);border-bottom:1px solid var(--border);font-size:.75rem;text-transform:uppercase;letter-spacing:.08em;color:var(--faint)} pre{padding:18px;overflow:auto;font-size:.83rem;line-height:1.7;color:#d8e3ff}
+ul.clean{padding-left:18px;margin:12px 0 16px} ul.clean li{margin-bottom:8px;color:var(--muted)}
+footer{max-width:1200px;margin:0 auto;padding:0 28px 60px;color:var(--faint);font-size:.84rem}
+@media (max-width:1000px){.hero,.layout,.grid4,.grid3,.grid2{grid-template-columns:1fr}.hero-grid{grid-template-columns:1fr 1fr}aside{position:static}}
+@media (max-width:640px){header{padding:14px 16px}.hero,.layout,footer{padding-left:16px;padding-right:16px}.hero-grid{grid-template-columns:1fr}nav{display:none}}
+</style>
+</head>
+<body>
+<header>
+  <div class="logo">
+    <svg width="28" height="28" viewBox="0 0 28 28" fill="none" aria-label="logo"><rect width="28" height="28" rx="8" fill="#0f2f63"/><path d="M6 8h7l3 6-3 6H6l3-6-3-6Z" fill="#62a0ff"/><path d="M15 8h7l-3 6 3 6h-7l3-6-3-6Z" fill="#9c7cff"/></svg>
+    Windows <span>AI ARCH</span>
+  </div>
+  <nav>
+    <a href="#windows-core">Windows Core</a>
+    <a href="#db">Databases</a>
+    <a href="#memory">Memory</a>
+    <a href="#pipelines">Pipelines</a>
+    <a href="#mcp">MCP</a>
+    <a href="#stack">Power Stack</a>
+    <a href="#models">Models</a>
+  </nav>
+</header>
+
+<section class="hero">
+  <div class="hero-card">
+    <div class="pill">Windows-First · April 2026</div>
+    <h1>Personal AI Intelligence System for <span>Windows</span><br>Double the depth. Four times the power.</h1>
+    <p>This version is designed for a Windows-native operator running PowerShell, WSL2, Gemini CLI, Obsidian, and local models. It expands the original architecture into a full command center: dual-runtime execution, local-first databases, retrieval memory, file intelligence, MCP orchestration, automation tooling, and Windows-specific hardening.</p>
+    <p><strong>Core principle:</strong> Windows is the orchestration plane, WSL is the execution plane, SQLite/LanceDB/DuckDB are the knowledge plane, and Gemini CLI is the reasoning plane.</p>
+  </div>
+  <div class="hero-grid">
+    <div class="mini"><h4>Plane 1 — Control</h4><p>PowerShell 7, Windows Terminal, Task Scheduler, VS Code, native filesystem automation.</p></div>
+    <div class="mini"><h4>Plane 2 — Compute</h4><p>WSL2 Ubuntu, uv, Python, Node 22, Docker Desktop, Ollama, model services.</p></div>
+    <div class="mini"><h4>Plane 3 — Knowledge</h4><p>SQLite + DuckDB + LanceDB + optional Qdrant, backed by vault + exports + logs.</p></div>
+    <div class="mini"><h4>Plane 4 — Agency</h4><p>Gemini CLI + MCP servers + shell tools + local scripts + scheduled ingestion loops.</p></div>
+  </div>
+</section>
+
+<div class="layout">
+  <aside>
+    <div class="panel">
+      <h3>Contents</h3>
+      <div class="toc">
+        <a href="#windows-core">01 · Windows Core Architecture</a>
+        <a href="#db">02 · Multi-Database Design</a>
+        <a href="#memory">03 · Persistent Memory System</a>
+        <a href="#pipelines">04 · File Intelligence Pipelines</a>
+        <a href="#mcp">05 · MCP Server Arsenal</a>
+        <a href="#stack">06 · Full Windows/WSL Stack</a>
+        <a href="#models">07 · Model Routing Strategy</a>
+      </div>
+    </div>
+  </aside>
+
+  <main>
+    <section id="windows-core" class="section hero-card">
+      <div class="section-head"><div class="num n1">01</div><h2>Windows-First Core Architecture</h2></div>
+      <p>For maximum power on Windows, do <strong>not</strong> treat Windows and WSL as competitors. Treat them as separate layers with different jobs. Microsoft positions WSL as the preferred Linux-based development environment on Windows, while Windows-native AI tooling increasingly covers local inference, app integration, and GPU access. [web:27]</p>
+      <div class="grid3">
+        <div class="card"><h4>Windows Native Layer</h4><p>PowerShell 7, Windows Terminal, VS Code, Everything, PowerToys, Obsidian, local GUI apps, scheduled tasks, browser automation, file association workflows.</p></div>
+        <div class="card"><h4>WSL2 Layer</h4><p>Gemini CLI, Python pipelines, MCP servers, embedding jobs, DuckDB/LanceDB scripts, OCR, shell automation, Docker-hosted services.</p></div>
+        <div class="card"><h4>Bridge Layer</h4><p>Use <code>/mnt/c/Users/&lt;you&gt;</code> only for shared user content; keep heavy repos and databases inside the Linux filesystem for performance and inode sanity.</p></div>
+      </div>
+      <div class="callout info"><strong>Best-practice split:</strong> Windows manages interface, automation launch points, and local model apps; WSL handles package ecosystems, Unix tooling, and most AI pipelines. This gives you stronger tooling, fewer path issues, and better reproducibility. [web:27]</div>
+      <div class="grid2">
+        <div class="card"><h4>Recommended Directory Map</h4><p><code>C:\Users\Shane\Obsidian</code> for notes you edit in GUI apps; <code>~/ai</code> inside WSL for scripts, environments, models, and databases; <code>C:\Users\Shane\Exports</code> for raw chat/bookmark/PDF drops.</p></div>
+        <div class="card"><h4>Execution Pattern</h4><p>PowerShell launches WSL commands, scheduled jobs, and GUI integrations; WSL executes the heavy data transforms; results sync back to Obsidian and SQLite.</p></div>
+      </div>
+      <div class="code">
+        <div class="codehead"><span>powershell</span><span>Bootstrap Windows → WSL execution bridge</span></div>
+<pre>$env:AI_HOME = "$HOME\AI"
+New-Item -ItemType Directory -Force -Path $env:AI_HOME, "$HOME\Exports", "$HOME\Obsidian" | Out-Null
+wsl --install -d Ubuntu
+wsl --set-default-version 2
+wsl
+
+# From PowerShell, call Linux jobs directly
+wsl bash -lc "mkdir -p ~/ai/{bin,data,db,logs,pipelines,memory,ingest}"
+wsl bash -lc "echo 'AI bridge ready'"</pre>
+      </div>
+    </section>
+
+    <section id="db" class="section hero-card">
+      <div class="section-head"><div class="num n2">02</div><h2>Multi-Database Design — Four Layers Instead of One</h2></div>
+      <p>The strongest Windows personal AI system uses <strong>database specialization</strong>, not database purity. SQLite is the system-of-record, LanceDB is semantic memory, DuckDB is the analysis engine, and Qdrant is the scale-up server. ChromaDB remains acceptable for prototypes, but it is no longer the best anchor for a serious local-first stack. [web:1][web:4][web:5]</p>
+      <div class="matrix tablewrap">
+        <table>
+          <thead><tr><th>Database</th><th>Role</th><th>Best Data</th><th>Strength</th><th>Weakness</th><th>Verdict</th></tr></thead>
+          <tbody>
+            <tr><td>SQLite</td><td>Canonical store</td><td>Chats, tags, exercise logs, clinical entries, opportunities, bookmarks, metadata</td><td>Universal, tiny, stable, transactional</td><td>No native vector-first design</td><td><span class="badge bgreen">Mandatory</span></td></tr>
+            <tr><td>LanceDB</td><td>Local vector layer</td><td>Chunked notes, PDFs, exported chats, summaries, principles</td><td>Embedded, fast, disk-native, local-first, strong Python ergonomics</td><td>Less battle-tested than SQLite for generic structured workloads</td><td><span class="badge bgreen">Primary Vector</span></td></tr>
+            <tr><td>DuckDB</td><td>Analysis engine</td><td>Parquet, CSV, SQLite exports, aggregated metrics, report tables</td><td>Columnar analytics, absurdly fast local SQL, joins across files</td><td>Not your transactional source-of-truth DB</td><td><span class="badge bgreen">Mandatory</span></td></tr>
+            <tr><td>Qdrant</td><td>Scale server</td><td>Large semantic corpora, API-served retrieval, metadata-heavy search</td><td>Excellent filtering and production-grade vector ops</td><td>Needs service management / Docker</td><td><span class="badge bamber">Add When Needed</span></td></tr>
+            <tr><td>ChromaDB</td><td>Prototype layer</td><td>Experiments, temporary indexing, quick tests</td><td>Simple startup experience</td><td>Weaker long-term fit than LanceDB/Qdrant</td><td><span class="badge bred">Prototype Only</span></td></tr>
+          </tbody>
+        </table>
+      </div>
+      <div class="grid4">
+        <div class="card"><h4>tools.db</h4><p>Installed tools, CLIs, MCP servers, package metadata, tags, notes, invocation hints.</p></div>
+        <div class="card"><h4>life.db</h4><p>Housing leads, recovery tasks, deadlines, appointments, benefit programs, contacts.</p></div>
+        <div class="card"><h4>body.db</h4><p>Exercise logs, sleep, weight, nutrition, symptoms, subjective energy, injury notes.</p></div>
+        <div class="card"><h4>content.db</h4><p>Ideas, blog fragments, hooks, product seeds, extracted principles, monetization candidates.</p></div>
+      </div>
+      <div class="callout success"><strong>Power move:</strong> store raw chunks in LanceDB, but also write every extraction result into SQLite with foreign keys back to file, chunk, source domain, and embedding row. This gives you semantic retrieval plus auditable provenance.</div>
+      <div class="code">
+        <div class="codehead"><span>bash</span><span>WSL install — database stack</span></div>
+<pre>sudo apt update
+sudo apt install -y sqlite3 libsqlite3-dev unzip
+curl -L https://github.com/duckdb/duckdb/releases/latest/download/duckdb_cli-linux-amd64.zip -o duckdb.zip
+unzip duckdb.zip && sudo mv duckdb /usr/local/bin/
+
+curl -LsSf https://astral.sh/uv/install.sh | sh
+source $HOME/.local/bin/env
+uv venv ~/ai/.venv
+source ~/ai/.venv/bin/activate
+uv pip install lancedb duckdb chromadb sentence-transformers pandas pyarrow
+
+# Optional scale-up
+docker pull qdrant/qdrant
+docker run -d --name qdrant -p 6333:6333 -v $HOME/ai/qdrant:/qdrant/storage qdrant/qdrant</pre>
+      </div>
+      <div class="code">
+        <div class="codehead"><span>sql</span><span>SQLite schema backbone</span></div>
+<pre>CREATE TABLE sources (
+  id INTEGER PRIMARY KEY,
+  path TEXT UNIQUE,
+  source_type TEXT,
+  domain TEXT,
+  created_at TEXT,
+  modified_at TEXT,
+  checksum TEXT
+);
+
+CREATE TABLE chunks (
+  id INTEGER PRIMARY KEY,
+  source_id INTEGER NOT NULL,
+  chunk_index INTEGER NOT NULL,
+  text TEXT NOT NULL,
+  tokens INTEGER,
+  summary TEXT,
+  FOREIGN KEY(source_id) REFERENCES sources(id)
+);
+
+CREATE TABLE extractions (
+  id INTEGER PRIMARY KEY,
+  chunk_id INTEGER NOT NULL,
+  extraction_type TEXT NOT NULL,
+  value TEXT NOT NULL,
+  confidence REAL,
+  model TEXT,
+  created_at TEXT,
+  FOREIGN KEY(chunk_id) REFERENCES chunks(id)
+);</pre>
+      </div>
+    </section>
+
+    <section id="memory" class="section hero-card">
+      <div class="section-head"><div class="num n3">03</div><h2>Persistent Memory System — Working, Episodic, Semantic, Procedural</h2></div>
+      <p>Gemini CLI supports persistent context through <code>GEMINI.md</code> files and memory commands, with user and project config scopes in <code>~/.gemini/settings.json</code> and <code>.gemini/settings.json</code>. [web:6][web:16]</p>
+      <p>To make it far more powerful, build a <strong>four-memory system</strong>:</p>
+      <div class="grid4">
+        <div class="card"><h4>Working Memory</h4><p><code>~/.gemini/GEMINI.md</code> — identity, priorities, preferences, current missions, stable constraints.</p></div>
+        <div class="card"><h4>Episodic Memory</h4><p>Session summaries written after each major work block: what happened, what changed, what to do next.</p></div>
+        <div class="card"><h4>Semantic Memory</h4><p>LanceDB collection of facts, lessons, notes, principles, concepts, and retrieval summaries.</p></div>
+        <div class="card"><h4>Procedural Memory</h4><p>Reusable playbooks: install steps, prompts, troubleshooting trees, pipelines, automation recipes.</p></div>
+      </div>
+      <div class="callout info"><strong>Critical distinction:</strong> chat history is not memory. History is a transcript. Memory is a compressed, queryable representation of enduring utility.</div>
+      <ul class="clean">
+        <li><strong>Working memory</strong> should stay small, explicit, and human-edited.</li>
+        <li><strong>Episodic memory</strong> should be appended automatically after sessions.</li>
+        <li><strong>Semantic memory</strong> should be embedded and retrievable by meaning.</li>
+        <li><strong>Procedural memory</strong> should be stored as versioned Markdown and linked to domains.</li>
+      </ul>
+      <div class="code">
+        <div class="codehead"><span>markdown</span><span>~/.gemini/GEMINI.md structure</span></div>
+<pre># Identity
+Name: Shane Johns
+Operating Mode: Direct, technical, no filler
+Current Stack: Windows + WSL2 + PowerShell + Gemini CLI + Obsidian
+
+# Priority Objectives
+1. Build personal AI intelligence infrastructure
+2. Secure housing and stability systems
+3. Build monetizable content automation
+4. Maintain recovery integrity and forward motion
+
+# Preferences
+- Prefer commands over explanations
+- Prefer layered system design
+- Prefer local-first and auditable data flows
+- Cross-pollinate domains whenever useful
+
+# Active Systems
+- tools.db, life.db, body.db, content.db
+- LanceDB semantic memory
+- Obsidian vault as human-facing knowledge layer</pre>
+      </div>
+      <div class="code">
+        <div class="codehead"><span>powershell</span><span>Post-session summary automation</span></div>
+<pre>$stamp = Get-Date -Format "yyyy-MM-dd_HH-mm"
+$note = "$HOME\Obsidian\System\Session-Summaries\$stamp.md"
+@"
+# Session Summary
+- What was worked on:
+- What changed:
+- Decisions made:
+- Open loops:
+- Next action:
+"@ | Set-Content $note
+
+# Mirror into WSL semantic ingest queue
+wsl bash -lc "mkdir -p ~/ai/ingest/session_summaries && cp /mnt/c/Users/$env:USERNAME/Obsidian/System/Session-Summaries/$stamp.md ~/ai/ingest/session_summaries/"</pre>
+      </div>
+      <div class="code">
+        <div class="codehead"><span>python</span><span>semantic memory retriever</span></div>
+<pre>import lancedb, sys
+from sentence_transformers import SentenceTransformer
+
+db = lancedb.connect("/home/shane/ai/db/lancedb")
+tbl = db.open_table("semantic_memory")
+model = SentenceTransformer("all-MiniLM-L6-v2")
+q = " ".join(sys.argv[1:])
+vec = model.encode(q).tolist()
+res = tbl.search(vec).limit(8).to_list()
+for r in res:
+    print(f"[{r['domain']}] {r['text']}\n")</pre>
+      </div>
+    </section>
+
+    <section id="pipelines" class="section hero-card">
+      <div class="section-head"><div class="num n4">04</div><h2>File Intelligence Pipelines — Obsidian, PDFs, Chats, Bookmarks, Drafts</h2></div>
+      <p>To get four times the power, stop treating file analysis as “open file, ask model.” Build <strong>multi-stage extraction pipelines</strong>: ingest → normalize → chunk → extract → embed → score → route → store.</p>
+      <div class="grid3">
+        <div class="card"><h4>Ingest Layer</h4><p>Watch export folders on Windows, then copy into WSL staging folders. Use checksum-based dedupe before processing.</p></div>
+        <div class="card"><h4>Normalize Layer</h4><p>Convert everything possible to Markdown or structured JSON. Markdown becomes the universal substrate.</p></div>
+        <div class="card"><h4>Extraction Layer</h4><p>Run regex, metadata parsers, and LLM extraction passes to identify principles, URLs, emails, products, gaps, and opportunities.</p></div>
+      </div>
+      <div class="matrix tablewrap">
+        <table>
+          <thead><tr><th>Input</th><th>Normalizer</th><th>Fast Extractors</th><th>LLM Extractors</th><th>Where It Lands</th></tr></thead>
+          <tbody>
+            <tr><td>Obsidian Markdown</td><td>None / frontmatter parse</td><td>rg, yq, Python AST-like parsing</td><td>Axioms, principles, content seeds, missing links</td><td>SQLite + LanceDB + backlink note</td></tr>
+            <tr><td>PDFs</td><td>Docling to Markdown</td><td>Regex, title/heading parser, citation/URL parser</td><td>Summary, tactics, frameworks, unresolved questions</td><td>SQLite + LanceDB</td></tr>
+            <tr><td>Chat exports JSON</td><td>jq / Python JSON flatten</td><td>Role filtering, timestamp extraction, turn grouping</td><td>Decisions, preferences, recurring themes, reusable prompts</td><td>SQLite + LanceDB + session summaries</td></tr>
+            <tr><td>Bookmarks HTML</td><td>HTML parse to CSV/JSON</td><td>Domain extraction, title cleanup, tag inference</td><td>Resource clustering, monetization leads, study maps</td><td>SQLite + DuckDB</td></tr>
+            <tr><td>DOCX / drafts</td><td>Pandoc to Markdown</td><td>Title/heading parser, quote and link extraction</td><td>Hooks, offers, threads, scripts, product ideas</td><td>content.db + Obsidian</td></tr>
+          </tbody>
+        </table>
+      </div>
+      <div class="callout success"><strong>Key upgrade:</strong> run two extraction passes, not one. Pass 1 is deterministic and cheap: regex, metadata, headings, dates, entities. Pass 2 is model-based: principles, monetization angles, missing-piece diagnostics, causal structure.</div>
+      <div class="code">
+        <div class="codehead"><span>bash</span><span>WSL install — file intelligence stack</span></div>
+<pre>source ~/ai/.venv/bin/activate
+uv pip install docling pymupdf pdfplumber pytesseract beautifulsoup4 lxml python-frontmatter markdownify mailboxextract
+sudo apt install -y pandoc tesseract-ocr ripgrep jq fd-find poppler-utils
+
+# Useful shell primitives
+rg -o 'https?://[^\s)"\]]+' ~/ai/ingest/ > ~/ai/data/all_urls.txt
+rg -o '[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}' ~/ai/ingest/ > ~/ai/data/all_emails.txt</pre>
+      </div>
+      <div class="code">
+        <div class="codehead"><span>powershell</span><span>Windows watcher — move exports into the pipeline</span></div>
+<pre>$source = "$HOME\Exports"
+$action = {
+  $path = $Event.SourceEventArgs.FullPath
+  wsl bash -lc "mkdir -p ~/ai/ingest/raw && cp '/mnt/c${path.Replace(':','').Replace('\\','/')}' ~/ai/ingest/raw/"
+}
+$fsw = New-Object IO.FileSystemWatcher $source, '*.*'
+$fsw.IncludeSubdirectories = $true
+Register-ObjectEvent $fsw Created -Action $action | Out-Null</pre>
+      </div>
+      <div class="code">
+        <div class="codehead"><span>python</span><span>Universal extraction prompt shape</span></div>
+<pre>prompt = f"""
+Analyze this document chunk and return strict JSON with:
+- axioms: universal truths or durable claims
+- principles: reusable heuristics or rules
+- urls: any links or cited resources
+- emails: any contact addresses
+- monetizable_fragments: anything that could become a post, product, service, course, guide, system
+- missing_pieces: what the document assumes but does not explain
+- action_items: concrete next moves implied by the text
+Text:\n{text[:6000]}
+"""</pre>
+      </div>
+      <div class="grid2">
+        <div class="card"><h4>Missing-Piece Diagnostics</h4><p>Ask the model: “What would someone need to implement this in real life that is absent here?” This surfaces hidden dependencies, unstated steps, and missing prerequisites.</p></div>
+        <div class="card"><h4>Monetization Distillation</h4><p>Ask the model: “Which fragments here can become paid assets?” Then classify into service, course, ebook, thread, newsletter sequence, worksheet, audit, or toolkit.</p></div>
+      </div>
+    </section>
+
+    <section id="mcp" class="section hero-card">
+      <div class="section-head"><div class="num n5">05</div><h2>MCP Server Arsenal — Maximum Power on Gemini CLI</h2></div>
+      <p>Gemini CLI supports MCP server setup via commands and persistent JSON config at user or project scope. The user config lives at <code>~/.gemini/settings.json</code> and project config at <code>.gemini/settings.json</code>. [web:6]</p>
+      <p>The top-tier 2026 setup is not just “install a few servers.” It is a <strong>tool-routing fabric</strong>.</p>
+      <div class="grid3">
+        <div class="card"><h4>Filesystem MCP</h4><p>Absolute baseline. Gives the model durable file read/write/search capability inside approved paths.</p></div>
+        <div class="card"><h4>Fetch / Web MCP</h4><p>Lets the model ingest live documentation and articles into reasoning loops.</p></div>
+        <div class="card"><h4>SQLite MCP</h4><p>Turns structured memory and logs into directly queryable context.</p></div>
+        <div class="card"><h4>GitHub MCP</h4><p>Repo search, issue triage, file reading, PR workflows, codebase operations.</p></div>
+        <div class="card"><h4>Memory MCP</h4><p>Knowledge graph-style entities and observations; useful for named facts and relationship maps.</p></div>
+        <div class="card"><h4>Obsidian MCP</h4><p>Transforms your vault into an active AI-editable knowledge surface.</p></div>
+      </div>
+      <div class="callout warn"><strong>Power expansion:</strong> add one custom MCP server of your own that exposes your personal databases and retrieval scripts. This is where the system stops being generic and becomes yours.</div>
+      <div class="code">
+        <div class="codehead"><span>powershell</span><span>Windows-side prerequisites</span></div>
+<pre>winget install Microsoft.PowerShell
+winget install Microsoft.WindowsTerminal
+winget install Git.Git
+winget install Microsoft.VisualStudioCode
+winget install Docker.DockerDesktop
+winget install Obsidian.Obsidian
+winget install JanDeDobbeleer.OhMyPosh</pre>
+      </div>
+      <div class="code">
+        <div class="codehead"><span>bash</span><span>WSL-side prerequisites for MCP</span></div>
+<pre>source ~/ai/.venv/bin/activate
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.0/install.sh | bash
+source ~/.nvm/nvm.sh
+nvm install 22
+npm i -g @google/gemini-cli
+uv tool install mcp-server-fetch
+
+# Common official servers
+npm i -g @modelcontextprotocol/server-filesystem
+npm i -g @modelcontextprotocol/server-github
+npm i -g @modelcontextprotocol/server-sqlite
+npm i -g @modelcontextprotocol/server-memory
+npm i -g @modelcontextprotocol/server-brave-search</pre>
+      </div>
+      <div class="code">
+        <div class="codehead"><span>json</span><span>~/.gemini/settings.json — power setup</span></div>
+<pre>{
+  "model": "gemini-2.5-pro",
+  "mcpServers": {
+    "filesystem": {
+      "command": "npx",
+      "args": ["-y", "@modelcontextprotocol/server-filesystem", "/home/shane", "/mnt/c/Users/Shane"]
+    },
+    "sqlite": {
+      "command": "npx",
+      "args": ["-y", "@modelcontextprotocol/server-sqlite", "--db-path", "/home/shane/ai/db/main.db"]
+    },
+    "github": {
+      "command": "npx",
+      "args": ["-y", "@modelcontextprotocol/server-github"],
+      "env": { "GITHUB_PERSONAL_ACCESS_TOKEN": "$GITHUB_TOKEN" }
+    },
+    "brave": {
+      "command": "npx",
+      "args": ["-y", "@modelcontextprotocol/server-brave-search"],
+      "env": { "BRAVE_API_KEY": "$BRAVE_API_KEY" }
+    },
+    "fetch": {
+      "command": "uvx",
+      "args": ["mcp-server-fetch"]
+    },
+    "memory": {
+      "command": "npx",
+      "args": ["-y", "@modelcontextprotocol/server-memory"]
+    }
+  }
+}</pre>
+      </div>
+      <div class="code">
+        <div class="codehead"><span>python</span><span>Custom personal MCP concept</span></div>
+<pre># Expose tools like:
+# - search_semantic_memory(query)
+# - get_recent_session_summaries(limit)
+# - list_housing_leads(status)
+# - get_content_fragments(tag)
+# - run_missing_piece_analysis(file_id)
+# This turns your private system into a first-class agent environment.</pre>
+      </div>
+    </section>
+
+    <section id="stack" class="section hero-card">
+      <div class="section-head"><div class="num n6">06</div><h2>Full Windows / WSL Power Stack</h2></div>
+      <p>This is the expanded stack: Windows-native operator tools, WSL compute tools, local model runtime, search, transformation, automation, and observability.</p>
+      <div class="matrix tablewrap">
+        <table>
+          <thead><tr><th>Layer</th><th>Tool</th><th>Purpose</th><th>Windows Install</th><th>WSL Install</th></tr></thead>
+          <tbody>
+            <tr><td>Shell</td><td>PowerShell 7</td><td>Primary Windows orchestration shell</td><td>winget install Microsoft.PowerShell</td><td>—</td></tr>
+            <tr><td>Terminal</td><td>Windows Terminal</td><td>Multi-pane control center</td><td>winget install Microsoft.WindowsTerminal</td><td>—</td></tr>
+            <tr><td>Search</td><td>ripgrep</td><td>Fast corpus search</td><td>winget install BurntSushi.ripgrep or choco install ripgrep [web:32]</td><td>sudo apt install ripgrep</td></tr>
+            <tr><td>Search</td><td>fd</td><td>Modern find</td><td>scoop install fd</td><td>sudo apt install fd-find</td></tr>
+            <tr><td>Fuzzy</td><td>fzf</td><td>Interactive selection</td><td>winget install junegunn.fzf</td><td>sudo apt install fzf</td></tr>
+            <tr><td>JSON</td><td>jq</td><td>Parse JSON outputs</td><td>winget install jqlang.jq</td><td>sudo apt install jq</td></tr>
+            <tr><td>YAML</td><td>yq</td><td>Parse YAML/frontmatter</td><td>winget install MikeFarah.yq</td><td>sudo snap install yq or pip install yq</td></tr>
+            <tr><td>Docs</td><td>pandoc</td><td>Convert docs to Markdown</td><td>winget install JohnMacFarlane.Pandoc</td><td>sudo apt install pandoc</td></tr>
+            <tr><td>Python</td><td>uv</td><td>Fast env/package manager</td><td>winget install astral-sh.uv</td><td>curl -LsSf https://astral.sh/uv/install.sh | sh</td></tr>
+            <tr><td>Node</td><td>Node 22</td><td>MCP server runtime</td><td>winget install OpenJS.NodeJS.LTS</td><td>nvm install 22</td></tr>
+            <tr><td>Databases</td><td>DuckDB</td><td>Fast local analytics</td><td>winget install DuckDB.cli</td><td>manual latest CLI zip</td></tr>
+            <tr><td>Databases</td><td>SQLite</td><td>Canonical structured store</td><td>winget install SQLite.SQLite</td><td>sudo apt install sqlite3</td></tr>
+            <tr><td>Models</td><td>Ollama</td><td>Local model runtime on Windows</td><td>winget install Ollama.Ollama</td><td>optional</td></tr>
+            <tr><td>Models</td><td>LM Studio</td><td>GUI local model management</td><td>winget install LMStudio.LMStudio</td><td>—</td></tr>
+            <tr><td>Container</td><td>Docker Desktop</td><td>Qdrant and service containers</td><td>winget install Docker.DockerDesktop</td><td>docker cli inside WSL</td></tr>
+            <tr><td>Notes</td><td>Obsidian</td><td>Human-facing knowledge layer</td><td>winget install Obsidian.Obsidian</td><td>—</td></tr>
+            <tr><td>OCR</td><td>Tesseract</td><td>Scanned PDFs/images</td><td>winget install UB-Mannheim.TesseractOCR</td><td>sudo apt install tesseract-ocr</td></tr>
+            <tr><td>Navigation</td><td>zoxide</td><td>Smart jump between projects</td><td>winget install ajeetdsouza.zoxide</td><td>curl install script</td></tr>
+            <tr><td>Prompt</td><td>oh-my-posh / starship</td><td>Context-rich shell prompt</td><td>winget install JanDeDobbeleer.OhMyPosh</td><td>curl -sS https://starship.rs/install.sh | sh</td></tr>
+          </tbody>
+        </table>
+      </div>
+      <div class="callout info"><strong>Windows-local models:</strong> Ollama now has strong Windows workflows, and local model apps can expose an API at <code>localhost</code> for Obsidian and other tools. [web:37][web:40]</div>
+      <div class="code">
+        <div class="codehead"><span>powershell</span><span>One-shot Windows package bootstrap</span></div>
+<pre>winget install Microsoft.PowerShell
+winget install Microsoft.WindowsTerminal
+winget install Git.Git
+winget install Microsoft.VisualStudioCode
+winget install BurntSushi.ripgrep
+winget install junegunn.fzf
+winget install jqlang.jq
+winget install MikeFarah.yq
+winget install JohnMacFarlane.Pandoc
+winget install astral-sh.uv
+winget install SQLite.SQLite
+winget install Ollama.Ollama
+winget install Obsidian.Obsidian
+winget install Docker.DockerDesktop
+winget install ajeetdsouza.zoxide
+winget install JanDeDobbeleer.OhMyPosh</pre>
+      </div>
+      <div class="code">
+        <div class="codehead"><span>powershell</span><span>Profile upgrades</span></div>
+<pre>notepad $PROFILE
+
+# Add:
+Invoke-Expression (& { (zoxide init powershell | Out-String) })
+oh-my-posh init pwsh | Invoke-Expression
+Set-Alias grep rg
+Set-Alias ll ls
+function wlg { wsl bash -lc $args }
+function aimg { wsl bash -lc "source ~/ai/.venv/bin/activate && $args" }</pre>
+      </div>
+      <div class="code">
+        <div class="codehead"><span>powershell</span><span>Ollama on Windows</span></div>
+<pre>ollama pull llama4:scout
+ollama pull qwen2.5-coder
+ollama run llama4:scout
+# Local API lives on http://localhost:11434 [web:37]</pre>
+      </div>
+    </section>
+
+    <section id="models" class="section hero-card">
+      <div class="section-head"><div class="num n1">07</div><h2>Model Routing Strategy — Frontier + Local Hybrid</h2></div>
+      <p><strong>Best overall model for your use case in April 2026: Gemini 2.5 Pro.</strong> It is the strongest fit for a Gemini CLI-centered agentic loop because it combines native CLI integration, long context, strong reasoning, strong code performance, and excellent long-document analysis. [web:10][web:13]</p>
+      <div class="grid3">
+        <div class="card"><h4>Gemini 2.5 Pro</h4><p>Main synthesis model: deep research, planning, codebase reasoning, large-doc analysis, final architecture decisions.</p></div>
+        <div class="card"><h4>Gemini 2.5 Flash</h4><p>High-throughput worker model: extraction loops, batch summaries, classification, corpus triage, cost-sensitive automation.</p></div>
+        <div class="card"><h4>Local Models via Ollama</h4><p>Privacy-sensitive or offline tasks, quick drafts, rough coding, local note interaction, and fallback when bandwidth or API budget is constrained.</p></div>
+      </div>
+      <div class="callout success"><strong>Best routing pattern:</strong> use Flash for ingest-time processing, Pro for deliberation-time reasoning, and a local model for offline or low-stakes supportive tasks.</div>
+      <div class="grid2">
+        <div class="card"><h4>Recommended Local Models</h4><p><strong>Llama 4 Scout</strong> for giant-context offline analysis; <strong>Qwen coder family</strong> for local coding and scripting; <strong>Gemma 3</strong> for light local note assistance inside Obsidian workflows. Local Obsidian+Ollama setups are increasingly common in 2026. [web:37]</p></div>
+        <div class="card"><h4>Agent Loop Design</h4><p>1) Gather with MCP and shell tools. 2) Retrieve semantic memory. 3) Hand working set to Pro. 4) Write outputs to SQLite/Obsidian. 5) Auto-summarize the session into episodic memory.</p></div>
+      </div>
+      <div class="code">
+        <div class="codehead"><span>text</span><span>Operational model routing policy</span></div>
+<pre>- If task = bulk extraction, use Gemini 2.5 Flash
+- If task = system architecture, research synthesis, hard debugging, use Gemini 2.5 Pro
+- If task = offline/private draft or rough support, use Ollama local model
+- If task = indexing pipeline, use local embeddings + deterministic parsers first, model second</pre>
+      </div>
+      <div class="callout danger"><strong>Do not let the frontier model do work that grep, SQL, regex, parsers, or deterministic transforms can do more cheaply and more reliably.</strong> The model should sit on top of the toolchain, not replace it.</div>
+    </section>
+  </main>
+</div>
+
+<footer>
+  Windows-first AI architecture reference for PowerShell + WSL + Gemini CLI. Expanded for local-first knowledge systems, automation, and high-agency operation.
+</footer>
+</body>
+</html>

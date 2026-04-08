@@ -1,0 +1,1748 @@
+# Agentic Arsenal Tools
+
+A massive, highly structured repository of command-line tools, Python libraries, Node.js packages, frameworks, MCP servers, and CLI utilities. Designed to be orchestrated by AI agents or directly by users.
+
+## Table of Contents
+- [Agent Orchestration Frameworks](#agent-orchestration-frameworks)
+- [AI & LLM Utilities](#ai--llm-utilities)
+- [Phase 1: Information Acquisition & Harvesting](#phase-1-information-acquisition--harvesting)
+- [Phase 2: Processing & Normalization](#phase-2-processing--normalization)
+- [Phase 3: Content Synthesis & Distillation](#phase-3-content-synthesis--distillation)
+- [Phase 4: Memetic Publication & Monetization](#phase-4-memetic-publication--monetization)
+- [Document Parsing & Manipulation](#document-parsing--manipulation)
+- [Semantic Search & Vector Databases](#semantic-search--vector-databases)
+- [CLI Utilities & System Automation](#cli-utilities--system-automation)
+- [Data Analysis & Scraping](#data-analysis--scraping)
+- [Developer Tools & Git Utilities](#developer-tools--git-utilities)
+- [Testing & Validation](#testing--validation)
+- [Infrastructure as Code & DevOps](#infrastructure-as-code--devops)
+- [Reverse Engineering & Binary Analysis](#reverse-engineering--binary-analysis)
+- [Network Forensics & Advanced OSINT](#network-forensics--advanced-osint)
+- [Cyber Security & Penetration Testing](#cyber-security--penetration-testing)
+- [Specialized API Wrappers & Niche LLM Routing](#specialized-api-wrappers--niche-llm-routing)
+- [Data Engineering & Event Streaming](#data-engineering--event-streaming)
+- [API Testing & Development](#api-testing--development)
+- [Multimedia, Audio & Video Processing](#multimedia-audio--video-processing)
+- [Quantum & Advanced Math Utilities](#quantum--advanced-math-utilities)
+- [Hardware & IoT Interfacing](#hardware--iot-interfacing)
+- [Web3 & Blockchain Utilities](#web3--blockchain-utilities)
+- [Python AI & ML Ecosystem](#python-ai--ml-ecosystem)
+- [Node.js & JavaScript Tooling](#nodejs--javascript-tooling)
+- [Go CLIs & Automation](#go-clis--automation)
+- [Rust Utilities & Systems](#rust-utilities--systems)
+- [Emerging Open-Source AI Frameworks](#emerging-open-source-ai-frameworks)
+- [MCP (Model Context Protocol) Servers](#mcp-model-context-protocol-servers)
+- [100 Tools for Harvesting](#100-tools-for-harvesting)
+- [100 Tools for OSINT](#100-tools-for-osint)
+- [100 Tools for Research](#100-tools-for-research)
+- [100 Tools for Operating on Local Documents](#100-tools-for-operating-on-local-documents)
+- [100 Tools for Longform/Content Writing](#100-tools-for-longformcontent-writing)
+- [50 Tools for Scraping Gigboards and Job Boards](#50-tools-for-scraping-gigboards-and-job-boards)
+- [50 Tools for Scraping Social Media & "State of the World"](#50-tools-for-scraping-social-media--state-of-the-world)
+
+---
+
+## Agent Orchestration Frameworks
+
+- **LangChain**: Building applications with LLMs through composability
+- **LlamaIndex**: Data framework for LLM applications
+- **AutoGen**: Enabling Next-Gen LLM Applications
+- **CrewAI**: Framework for orchestrating role-playing, autonomous AI agents
+- **Semantic Kernel**: Integrate cutting-edge LLM technology quickly and easily into your apps
+- **Haystack**: Open source NLP framework to build search systems
+- **BabyAGI**: Task-driven autonomous agent
+- **AutoGPT**: An experimental open-source attempt to make GPT-4 fully autonomous
+- **ChatDev**: Communicative agents for software development
+- **MetaGPT**: The Multi-Agent Framework
+- **SuperAGI**: A dev-first open source autonomous AI agent framework
+- **CAMEL**: Communicative Agents for Mind Exploration of Large Scale Sceience Society
+- **Magentic**: Seamlessly integrate LLMs as Python functions
+- **Outlines**: Fast and reliable neural text generation
+- **Guidance**: A guidance language for controlling large language models
+- **LMQL**: Programming language for language models
+- **Aider**: AI pair programming in your terminal
+- **GPT-Engineer**: Specify what you want it to build, the AI asks for clarification, and then builds it
+- **MemGPT**: Teaching LLMs memory management for unbounded context
+- **TaskWeaver**: A code-first agent framework
+- **OpenDevin**: Open source autonomous AI software engineer
+- **Sweep**: AI junior developer for bug fixes and features
+- **Griptape**: Enterprise-grade AI framework for agents, pipelines, and workflows
+- **DSPy**: Programming—not prompting—Foundation Models
+- **SmolAgents**: A minimalist agent framework
+- **Phidata**: Build AI Assistants with memory, knowledge and tools
+- **Mastra**: The TypeScript AI agent framework
+- **AI.JSX**: The AI Application Framework for Javascript
+- **CopilotKit**: The open-source Copilot platform
+- **Rivet**: Visual AI programming environment
+- **Flowise**: Drag & drop UI to build your customized LLM flow
+- **Langflow**: UI for LangChain
+- **Promptflow**: A suite of development tools designed to streamline the end-to-end cycle of LLM-based AI applications
+- **Bionic**: Open source architecture for building AI agents
+- **TypeChat**: Replace prompt engineering with schema engineering
+- **Agents.js**: AI agents in JavaScript
+- **Toolhouse**: Tool execution framework for agents
+- **Open Interpreter**: A natural language interface for your computer's general-purpose capabilities
+- **Microagents**: Agents capable of writing and executing code dynamically
+- **Devika**: An open-source AI software engineer
+- **Agenta**: The end-to-end open source platform for LLMOps
+- **PydanticAI**: Agent framework based on Pydantic
+- **LlamaAgents**: Async agent framework
+- **LangGraph**: Build resilient language agents as graphs
+- **AutoGen Studio**: A UI for AutoGen
+- **Bloop**: AI-powered code search
+
+## AI & LLM Utilities
+
+- **LiteLLM**: Call all LLM APIs using the OpenAI format
+- **Ollama**: Get up and running with large language models locally
+- **LM Studio**: Discover, download, and run local LLMs
+- **vLLM**: A high-throughput and memory-efficient LLM serving engine
+- **Text-Generation-WebUI**: A Gradio web UI for Large Language Models
+- **CTransformers**: Python bindings for the Transformer models implemented in C/C++
+- **Llama.cpp**: Port of Facebook's LLaMA model in C/C++
+- **ExLlamaV2**: Fast inference for Llama models
+- **OpenAI Python Library**: The official Python library for the OpenAI API
+- **Anthropic Python Library**: The official Python library for the Anthropic API
+- **Google Generative AI**: Google's Gemini API client
+- **Hugging Face Hub**: Download and publish models and other files on the huggingface.co hub
+- **Transformers (Hugging Face)**: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX
+- **Sentence-Transformers**: Multilingual Sentence & Image Embeddings with BERT
+- **Tokenizers**: Fast State-of-the-art Tokenizers optimized for Research and Production
+- **Peft**: Parameter-Efficient Fine-Tuning
+- **TRL**: Transformer Reinforcement Learning
+- **BitsAndBytes**: 8-bit optimizers, matrix multiplication (INT8, FP8), quantization
+- **Accelerate**: A simple way to train and use PyTorch models with multi-GPU, TPU, mixed-precision
+- **Deepspeed**: Deep learning optimization library
+- **Triton**: Programming language for neural network computations
+- **ONNX Runtime**: Cross-platform, high performance ML inferencing and training accelerator
+- **TensorRT-LLM**: TensorRT large language model
+- **FastAPI**: Modern, fast (high-performance), web framework for building APIs with Python
+- **Gradio**: Create UIs for your machine learning model in Python in 3 minutes
+- **Streamlit**: The fastest way to build and share data apps
+- **Chainlit**: Build Python LLM apps in minutes
+- **Mesop**: Rapidly build web apps in Python
+- **AnyScale**: Platform for scaling AI
+- **BentoML**: Unified Model Serving Framework
+- **Ray**: A unified framework for scaling AI and Python applications
+- **Modal**: Serverless computing for AI
+- **Replicate**: Run AI with an API
+- **Baseten**: Fast, scalable infrastructure for ML models
+- **Instructor**: Structured outputs for LLMs
+- **Marvin**: A lightweight AI engineering framework
+- **Tiktoken**: Fast BPE tokeniser for use with OpenAI's models
+- **Transformers.js**: State-of-the-art Machine Learning for the web
+- **WebLLM**: High-performance In-browser LLM Inference Engine
+- **MLX**: An array framework for Apple silicon
+- **Llamafile**: Distribute and run LLMs with a single file
+- **llama-cpp-python**: Python bindings for llama.cpp
+- **SGLang**: Structured Generation Language for LLMs
+- **LoRA**: Low-Rank Adaptation of Large Language Models (Concepts/Libs)
+- **Unsloth**: Finetune Llama 3, Mistral, Gemma models faster
+- **AITemplate**: Python framework which renders neural network into high performance CUDA/HIP C++ code
+- **Valkey**: Open source Redis alternative
+- **Instructor (JS/TS)**: Structured LLM outputs for JavaScript
+- **Mojo**: A new programming language for all AI developers
+
+## Phase 1: Information Acquisition & Harvesting
+
+- **GPTResearcher**: Comprehensive autonomous internet research agent for long-form data gathering.
+- **STORM (Stanford)**: Synthesis of Topic Outlines through Retrieval and Multi-perspective Question Asking.
+- **Scrapegraph-ai**: Web scraping using LLMs to create scraping pipelines from dynamic prompts.
+- **Browser-use**: Enable AI agents to use web browsers natively with visual and DOM contexts.
+- **Firecrawl**: Turn entire websites into LLM-ready markdown or structured data streams.
+- **Jina Reader API**: Extract web content natively formatted for clean LLM consumption.
+- **Trafilatura**: Rapid web scraping, text extraction, and metadata harvesting library.
+- **Newspaper3k**: News, full-text, and article metadata extraction in Python.
+- **Goose3**: HTML content/article extractor focused on web scraping.
+- **Diffbot**: AI-driven web scraping and data extraction API for complex structures.
+- **Zyte**: Advanced scraping API with automated browser rendering and anti-bot bypassing.
+- **ScraperAPI**: Proxy and scraping API designed to seamlessly bypass anti-bot systems.
+- **PhantomBuster**: Data extraction and automation for massive social media harvesting.
+- **Octoparse**: Visual scraping tool capable of complex navigation and pagination mapping.
+- **Apify Actors**: Thousands of micro-services designed for specific platform data extraction.
+- **Snscrape**: Social networking service scraper in Python bypassing standard APIs.
+- **Osintgram**: OSINT tool on Instagram for robust data and footprint harvesting.
+- **Tweepy**: Python library for accessing the Twitter/X API officially.
+- **Praw**: Python Reddit API Wrapper for deep community data mining.
+- **Instaloader**: Download pictures/videos and metadata from Instagram profiles.
+- **Youtube-transcript-api**: Python API for grabbing YouTube video transcripts instantly.
+- **WhisperX**: Fast automatic speech recognition with word-level timestamps and speaker diarization.
+- **Pyannote.audio**: Neural building blocks for speaker diarization and audio processing.
+- **You-tldr**: Extract summaries and transcripts from YouTube videos quickly.
+- **Feedparser**: Universal feed parser for RSS, Atom, and RDF feeds.
+- **RSSHub**: Extensible RSS feed generator for nearly any website on the internet.
+- **Scrapy-redis**: Redis-based components for Scrapy distributed massive crawling.
+- **Playwright-extra**: Plugin framework for Playwright, incredibly useful for stealth.
+- **Puppeteer-extra-plugin-stealth**: Evasion techniques to prevent Puppeteer detection.
+- **Undetected-chromedriver**: Selenium Chromedriver patch to consistently evade anti-bot mechanisms.
+- **Selenium-wire**: Extends Selenium's bindings to give access to underlying network requests.
+- **Pyppeteer**: Unofficial, pure Python port of the Puppeteer ecosystem.
+- **Helium**: Lightweight Python wrapper around Selenium for intuitive web automation.
+- **Mechanize**: Stateful programmatic web browsing in Python without a rendering engine.
+- **Colly**: Fast and elegant scraping framework for Gophers.
+- **Goquery**: Brings jQuery syntax and features to Go for DOM parsing.
+- **Soup**: DOM traversal and manipulation in Rust.
+- **Reqwest**: An ergonomic, batteries-included HTTP Client for Rust.
+- **HTTPX**: Next-generation HTTP client for Python with async capabilities.
+- **Aiohttp**: Asynchronous HTTP client/server framework for asyncio and Python.
+- **Grequests**: Allows you to use Requests with Gevent to make asynchronous HTTP requests easily.
+- **Scrapli**: Fast, flexible, synchronous/asynchronous, SSH/Telnet screen scraping library.
+- **Nornir**: Pluggable multi-threaded framework with inventory management for network devices.
+- **Netmiko**: Multi-vendor library to simplify Paramiko SSH connections to network devices.
+- **Outscraper**: Scrape Google Maps and other prominent local business directories.
+- **ParseHub**: Free web scraping tool that extracts data from dynamic SPA websites.
+- **Scrapinghub**: Cloud-based web crawling platform (now Zyte ecosystem).
+- **Grab**: High-performance web scraping framework in Python.
+- **MechanicalSoup**: A Python library for automating interaction with legacy websites.
+- **RoboBrowser**: A simple, Pythonic library for browsing the web without a standalone web browser.
+- **Twint**: Advanced Twitter scraping tool (historically significant, maintained in forks).
+- **TwitterAPI**: Minimal wrapper for the Twitter API.
+- **Facebook SDK**: Official and unofficial endpoints for FB scraping.
+- **Instagram Private API**: Reverse-engineered Instagram client.
+- **TikTokApi**: Unofficial TikTok API wrapper in Python.
+- **asyncpraw**: Asynchronous wrapper for the Reddit API.
+- **linkedin-api**: Unofficial API for LinkedIn profile and post scraping.
+- **PyGithub**: Python library for the full GitHub REST API.
+- **python-gitlab**: Python wrapper for the GitLab API.
+- **slack-sdk**: Official Python SDK for comprehensive Slack APIs.
+- **discord.py**: API wrapper for building Discord bots and scrapers.
+- **discord.js**: Node.js interface for the Discord API.
+- **python-telegram-bot**: Pure Python interface for the Telegram Bot API.
+- **telethon**: Pure Python 3 MTProto API Telegram client library for user-bots.
+- **pyrogram**: Elegant, modern Telegram MTProto API client framework in Python.
+- **whatsapp-web.js**: WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app.
+- **signal-cli**: Command-line and D-Bus interface for Signal and OSINT.
+- **matrix-nio**: Matrix client library for Python.
+- **notion-client**: Official Python client for the Notion API.
+- **obsidian-local-rest-api**: Interface for harvesting Obsidian vault data.
+- **Roam Research API**: Unofficial wrappers for pulling Roam graphs.
+- **Evernote API**: Data extraction from Evernote notes.
+- **OneNote API**: Microsoft Graph bindings for OneNote.
+- **Google Docs API**: Extract structured content from Docs.
+- **Google Sheets API**: Read and write massive tabular data.
+- **Google Drive API**: Harvest files and metadata.
+- **Microsoft Graph API**: Universal endpoint for Microsoft 365 data.
+
+## Phase 2: Processing & Normalization
+
+- **Neo4j**: World's leading transactional graph database for mapping harvested entity relationships.
+- **NebulaGraph**: Distributed, scalable, lightning-fast graph database for massive datasets.
+- **TigerGraph**: Native parallel graph database designed for deep link analytics.
+- **Dgraph**: Horizontally scalable and distributed GraphQL database with a native graph backend.
+- **ArangoDB**: Native multi-model database with flexible data models for documents, graphs, and key-values.
+- **Memgraph**: In-memory graph database compatible with Neo4j workflows and Cypher.
+- **RDFLib**: Python library for working with RDF and semantic web ontologies.
+- **SPARQLWrapper**: SPARQL Endpoint interface to Python for querying remote knowledge bases.
+- **PyVis**: Python library to create and visualize interactive network graphs in the browser.
+- **NetworkX**: Python package for the creation, manipulation, and study of complex networks.
+- **Graph-tool**: Fast graph manipulation and statistical analysis written in C++ with Python bindings.
+- **Gephi**: The open graph viz platform for exploring massive network diagrams.
+- **Kuzu**: In-process graph database management system optimized for rapid queries.
+- **Relik**: Fast and accurate entity linking and relation extraction from raw text.
+- **Spacy**: Industrial-strength natural language processing in Python for NER and POS tagging.
+- **NLTK**: Leading platform for building Python programs to work with human language data.
+- **TextBlob**: Simplified text processing and sentiment analysis for Python.
+- **Gensim**: Topic modeling and document similarity for humans.
+- **Stanza**: Official Stanford NLP Python library for over 60 human languages.
+- **AllenNLP**: Open-source NLP research library built on PyTorch for complex linguistic tasks.
+- **Flair**: A very simple framework for state-of-the-art NLP and sequence labeling.
+- **CoreNLP**: Your one stop shop for natural language processing in Java.
+- **Pattern**: Web mining module, NLP, and machine learning for Python.
+- **Polyglot**: Natural language pipeline that supports massive multilingual applications.
+- **Kor**: Extract structured data from text using LLMs and strictly typed schemas.
+- **Guardrails AI**: Adds structure, type, and quality guarantees to LLM outputs programmatically.
+- **LM-format-enforcer**: Enforce output formats for local language models (JSON, Regex).
+- **Jsonformer**: A bulletproof way to generate structured JSON from huggingface language models.
+- **Zod**: TypeScript-first schema declaration and validation library for agent outputs.
+- **Yup**: Dead simple Object schema validation.
+- **Joi**: The most powerful data validation library for JavaScript ecosystems.
+- **Marshmallow**: Object serialization and deserialization in Python for data sanitization.
+- **Schematics**: Python Data Structures for validation and normalization.
+- **Cohere API**: State-of-the-art text generation and enterprise embedding API.
+- **Voyage AI API**: Cutting-edge embedding models heavily optimized for RAG setups.
+- **Jina Embeddings**: Open-source and API-based multilingual embedding models.
+- **BGE (BAAI General Embedding)**: Top-tier open-source embedding model suite.
+- **E5 (Emb)**: Text embeddings from weakly-supervised contrastive pre-training.
+- **Nomic Embeddings**: High-performance, fully auditable, open-data embedding models.
+- **Instructor-embedding**: Instruction-finetuned text embeddings that adapt to domains.
+- **MTEB**: Massive Text Embedding Benchmark utility to evaluate vector quality.
+- **Snorkel**: A system for rapidly creating, modeling, and managing programmatic training data.
+- **Fonduer**: Knowledge base construction from richly formatted, multi-modal data.
+- **YAGO**: A huge semantic knowledge base derived from Wikipedia, WordNet, and GeoNames.
+- **DBPedia Spotlight**: Tool for automatically annotating text documents with DBpedia URIs.
+- **BabelNet**: Multilingual encyclopedic dictionary and semantic network.
+- **LayoutParser**: A unified toolkit for Deep Learning Based Document Image Analysis.
+- **PaddleOCR**: Awesome multilingual OCR toolkits based on PaddlePaddle framework.
+- **Surya**: High-precision multilingual document OCR and line detection toolkit.
+- **GOT-OCR**: General OCR Theory model for varied, edge-case text extraction.
+- **Mathpix**: Extract math equations and text from images directly to LaTeX or Markdown.
+- **Textract (AWS)**: Extract text, handwriting, and structural data from scanned documents.
+- **Azure Form Recognizer**: AI-powered document extraction and schema mapping service.
+- **Google Cloud Document AI**: Understand and parse your documents with Google's AI models.
+- **Unstructured API**: Standard API for parsing diverse document types into clean text blocks.
+- **LLM Sherpa**: Extract layout-preserving text from complex, multi-column PDFs.
+
+## Phase 3: Content Synthesis & Distillation
+
+- **AutoResearcher**: AI research agent that reads academic papers and autonomously produces reviews.
+- **Chat-with-repo**: Chat with an entire GitHub repository using LLMs to synthesize architectural summaries.
+- **PrivateGPT**: Interact privately with your documents using the power of local LLMs for secure distillation.
+- **LocalGPT**: Chat with your local data offline using highly-tuned LLMs.
+- **Quiver**: Your second brain empowered by Generative AI for unified knowledge synthesis.
+- **AnythingLLM**: The all-in-one desktop application for managing LLMs, RAG, and workspaces.
+- **Pegasus**: State-of-the-art model for abstractive text summarization by Google.
+- **BART**: Denoising sequence-to-sequence pre-training for NLP summarization and translation.
+- **T5**: Exploring the limits of transfer learning with a unified text-to-text transformer for multi-task distillation.
+- **BERTSum**: Extractive summarization highly optimized using BERT architectures.
+- **Sumy**: Module for automatic summarization of text documents and HTML pages.
+- **PyTeaser**: Summarize news articles natively in Python.
+- **ReportLab**: The proven open-source PDF generation engine for Python reporting.
+- **WeasyPrint**: Visual rendering engine for HTML and CSS that perfectly exports to PDF.
+- **Pdfkit**: Wkhtmltopdf python wrapper to convert HTML to high-fidelity PDFs.
+- **Xhtml2pdf**: A library for converting HTML into PDFs directly using Python.
+- **Jinja2**: A very fast, expressive, and extensible template engine for prompt generation.
+- **Mako**: Super-fast templating language in Python for dynamic document assembly.
+- **Pug**: Robust, elegant, feature rich template engine for Node.js workflows.
+- **EJS**: Embedded JavaScript templating for rapid report structuring.
+- **Handlebars**: Minimal templating on steroids for agentic content merging.
+- **Mustache**: Logic-less templates for universally compatible prompt injection.
+- **TextWeaver**: Modular AI writing assistant toolkit for long-form content.
+- **AI-Writer**: Autonomous content generation platform SDKs.
+- **Jasper API**: Programmatic AI copywriter and content generator interface.
+- **Copy.ai API**: Automated copywriting and marketing text generation API.
+- **Grammarly SDK**: Add automated writing assistance and tone adjustment to your application.
+- **ProWritingAid API**: Deep grammar checking, styling, and readability improvement API.
+- **LanguageTool**: Open source grammar and spell checker for final content polishing.
+- **Continue.dev**: Open-source AI autopilot native to your IDE.
+- **Cursor**: The AI-first code editor redefining code synthesis and refactoring.
+- **Tabnine**: AI code assistant predicting entire functions.
+- **GitHub Copilot CLI**: Translate natural language into CLI commands and scripts.
+- **CodiumAI**: Synthesize meaningful code tests automatically for busy devs.
+- **Mutmut**: Mutation testing system for Python to ensure synthesis robustness.
+- **Vulture**: Find dead Python code created by hallucinating agents.
+- **Bandit**: Security oriented static analyzer to check synthesized Python code.
+- **Radon**: Compute various code metrics to validate synthesized script complexity.
+- **Isort**: A Python utility to cleanly sort synthesized imports.
+- **Autopep8**: Automatically formats Python code to conform to the strict PEP 8 style guide.
+- **Yapf**: A formatter for Python files from Google.
+- **Prettier**: Opinionated Code Formatter for syntactically perfect JS/TS/CSS output.
+- **ESLint**: Find and fix problems dynamically in synthesized JavaScript code.
+- **Stylelint**: A mighty linter that helps you avoid errors in generated CSS styles.
+
+## Phase 4: Memetic Publication & Monetization
+
+- **Buffer API**: Social media management API for scheduling cross-platform publications.
+- **Hootsuite API**: Enterprise platform API for social media integration and analytics.
+- **Mastodon.py**: Python wrapper for the Mastodon API for federated publishing.
+- **Atproto (Bluesky)**: Python client for the AT Protocol to automate Bluesky posting.
+- **Mattermost API**: Interact with and publish to Mattermost messaging servers.
+- **Hugo**: The world’s fastest framework for building high-performance static websites.
+- **Jekyll**: Transform your plain text into static websites and blogs instantly via GitHub Pages.
+- **Gatsby**: Build fast, secure, and powerful websites using React and GraphQL.
+- **Next.js**: The React Framework for the Web, optimized for SEO and SSR.
+- **Nuxt.js**: The Intuitive Vue Framework for rapid web deployment.
+- **SvelteKit**: Web development, streamlined for minimal bundle sizes and fast loads.
+- **Astro**: Build faster content-focused websites with zero client-side Javascript.
+- **11ty**: A simpler, highly flexible static site generator for pure HTML output.
+- **Docusaurus**: Easy to maintain open source documentation websites optimized by Meta.
+- **MkDocs**: Project documentation built natively from Markdown files.
+- **Sphinx**: Python documentation generator that outputs beautiful technical sites.
+- **Pelican**: Static site generator powered by Python.
+- **Hexo**: A fast, simple & powerful blog framework powered by Node.js.
+- **VuePress**: Vue-powered static site generator for minimal docs.
+- **VitePress**: Vite & Vue powered static site generator with blazing fast HMR.
+- **Zola**: A fast static site generator in a single binary with everything built-in (Rust).
+- **Cobalt**: Static site generator written in Rust focusing on speed and simplicity.
+- **Read the Docs**: Host and publish software documentation seamlessly.
+- **GitBook**: Where software teams build, publish, and monetize their documentation.
+- **Mintlify**: Beautiful documentation that converts, maintained via code.
+- **Swimm**: Code documentation that stays up to date with continuous integration.
+- **Doxygen**: Generate extensive API documentation from source code across languages.
+- **Javadoc**: Standard Java documentation generator for enterprise publishing.
+- **TypeDoc**: Documentation generator tailored for TypeScript projects.
+- **Pdoc**: Auto-generate API documentation natively for Python projects.
+- **MkDocs-Material**: The premiere Material Design theme for MkDocs publication.
+- **Stripe CLI**: Manage, test, and trigger your Stripe monetization integrations from the terminal.
+- **PayPal SDK**: Official PayPal SDKs for global payment gateways.
+- **Coinbase Commerce**: Accept cryptocurrency payments natively in automated platforms.
+- **Vercel CLI**: Deploy your frontend projects and serverless APIs instantly to Vercel.
+- **Netlify CLI**: Deploy, manage, and scale Netlify sites from automated pipelines.
+- **Render CLI**: Programmatically interact with Render.com hosting services.
+- **Flyctl**: Command line interface for deploying edge applications on Fly.io.
+- **Serverless Framework**: Build applications on AWS Lambda and monetize API usage.
+- **AWS SAM**: Serverless Application Model CLI for robust cloud deployments.
+- **Chalice**: Python Serverless Microframework for AWS deployments.
+- **Zappa**: Serverless Python for deploying WSGI apps to AWS Lambda + API Gateway.
+- **Architect**: The simplest, most powerful way to build serverless applications and monetizable backends.
+- **Ghost API**: Modern headless publishing platform API for newsletters and blogs.
+- **Substack API (unofficial)**: Extract analytics and publish directly to Substack audiences.
+- **Mailchimp SDK**: API clients for managing massive Mailchimp email lists.
+- **SendGrid**: Transactional and marketing email delivery service API.
+- **Mailgun**: Powerful Email API service for developers.
+- **Postmark**: Lightning-fast transactional email delivery API.
+- **Hashnode API**: Headless CMS and blogging API to reach developer audiences.
+- **Dev.to API**: Forem API for publishing tech articles programmatically.
+- **Medium API**: Publish thought-leadership articles to Medium programmatically.
+- **WordPress REST API**: Interact with, update, and publish to WordPress CMS installations.
+- **Ghost Admin API**: Manage all content, memberships, and tiers on a Ghost instance.
+
+## Document Parsing & Manipulation
+
+- **mq**: Advanced CLI tool for querying markdown files and extracting structural elements
+- **PyPDF2**: A utility to read and write PDFs with Python
+- **pdfplumber**: Plumb a PDF for detailed information about each text character, rectangle, and line
+- **PyMuPDF (fitz)**: High performance PDF and document rendering
+- **Unstructured**: Open source libraries and APIs to build custom preprocessing pipelines for ML
+- **LlamaParse**: Parsing documents specifically for RAG applications
+- **Marker**: Convert PDF to markdown quickly with high accuracy
+- **Nougat**: Neural Optical Understanding for Academic Documents
+- **Tesseract OCR**: Optical Character Recognition engine
+- **EasyOCR**: Ready-to-use OCR with 80+ supported languages and all popular writing scripts
+- **DocTR**: Document Text Recognition
+- **Pandoc**: A universal document converter
+- **MarkdownIt**: Markdown parser, done right. 100% CommonMark support
+- **BeautifulSoup4**: Screen-scraping library
+- **Lxml**: XML and HTML with Python
+- **Pydantic**: Data validation using Python type hints
+- **Cerberus**: Lightweight, extensible data validation library for Python
+- **Jsonschema**: An implementation of JSON Schema for Python
+- **OpenPyXL**: A Python library to read/write Excel 2010 xlsx/xlsm files
+- **Pandas**: Powerful Python data analysis toolkit
+- **Docx2txt**: A pure python-based utility to extract text and images from docx files
+- **Python-docx**: Create and update Microsoft Word .docx files
+- **PyPPTX**: Create and update PowerPoint (.pptx) files
+- **Tabula-py**: Extract table from PDF into pandas DataFrame
+- **Camelot**: PDF Table Extraction for Humans
+- **Grobid**: A machine learning library for extracting, parsing and re-structuring raw documents
+- **Docling**: Fast and accurate document parsing for AI
+- **Whisper**: Robust Speech Recognition via Large-Scale Weak Supervision
+- **Faster-Whisper**: Faster Whisper transcription with CTranslate2
+- **PyAudio**: Cross-platform audio I/O
+- **FFmpeg-python**: Python bindings for FFmpeg
+- **Pydub**: Manipulate audio with a simple and easy high level interface
+- **MoviePy**: Video editing with Python
+- **Pillow (PIL)**: Python Imaging Library
+- **OpenCV**: Open Source Computer Vision Library
+- **Scikit-Image**: Image processing in Python
+- **PyTesseract**: Python-tesseract is an optical character recognition (OCR) tool for python
+- **MarkItDown**: Microsoft's tool for converting files to Markdown
+- **MegaParse**: Open-source scalable parser
+- **Doc2Dash**: Converts documentations into Dash docsets
+- **GnuPG (GPG)**: Complete and free implementation of the OpenPGP standard
+- **Age**: A simple, modern and secure file encryption tool, format, and Go library
+- **Sops**: Simple and flexible tool for managing secrets
+- **Yara**: The pattern matching swiss knife for malware researchers
+
+## Semantic Search & Vector Databases
+
+- **ChromaDB**: The open-source embedding database
+- **FAISS**: A library for efficient similarity search and clustering of dense vectors
+- **Qdrant**: Vector Similarity Search Engine and Vector Database
+- **Milvus**: Vector database built for scalable similarity search
+- **Weaviate**: AI-native vector database
+- **Pinecone (CLI/Client)**: Vector database for machine learning applications
+- **Vespa**: The open big data serving engine
+- **Pgvector**: Open-source vector similarity search for Postgres
+- **Redis (with RediSearch)**: In-memory data structure store with vector similarity capabilities
+- **Meilisearch**: A lightning-fast search API that fits effortlessly into your apps
+- **Typesense**: Fast, typo tolerant, fuzzy search engine
+- **Elasticsearch**: Distributed, RESTful search and analytics engine
+- **OpenSearch**: Open source distributed and RESTful search engine
+- **LanceDB**: Developer-friendly, serverless vector database
+- **DuckDB**: An in-process SQL OLAP database management system
+- **SQLite-vss**: A SQLite extension for vector search
+- **Marqo**: Tensor search for humans
+- **Vald**: A Highly Scalable Distributed Vector Search Engine
+- **ScaNN**: Scalable Nearest Neighbors
+- **Annoy**: Approximate Nearest Neighbors Oh Yeah
+- **NMSLIB**: Non-Metric Space Library
+- **USearch**: Smaller & Faster Single-File Vector Search Engine
+- **Voy**: A WASM vector similarity search engine
+- **Zilliz (Client)**: Fully managed vector database
+- **AstraDB (Client)**: Vector-enabled database
+
+## CLI Utilities & System Automation
+
+- **jq**: Command-line JSON processor
+- **yq**: Portable command-line YAML, JSON, XML, CSV and properties processor
+- **ripgrep (rg)**: Recursively searches directories for a regex pattern (extremely fast)
+- **fzf**: A command-line fuzzy finder
+- **tmux**: A terminal multiplexer
+- **htop**: An interactive process viewer
+- **btm (bottom)**: Yet another cross-platform graphical process/system monitor
+- **glances**: An Eye on your system
+- **bat**: A cat(1) clone with wings (syntax highlighting)
+- **exa / eza**: A modern replacement for ls
+- **fd**: A simple, fast and user-friendly alternative to find
+- **sd**: Intuitive find & replace CLI (sed alternative)
+- **awk**: Pattern scanning and processing language
+- **sed**: Stream editor for filtering and transforming text
+- **grep**: Print lines that match patterns
+- **xargs**: Build and execute command lines from standard input
+- **curl**: Command line tool and library for transferring data with URLs
+- **wget**: Non-interactive network downloader
+- **httpie**: A modern, user-friendly command-line HTTP client for the API era
+- **xh**: Friendly and fast tool for sending HTTP requests
+- **rsync**: A fast, versatile, remote (and local) file-copying tool
+- **rclone**: Rysnc for cloud storage
+- **tar**: An archiving utility
+- **zip / unzip**: Package and compress (archive) files
+- **7z**: A file archiver with a high compression ratio
+- **ssh**: OpenSSH SSH client (remote login program)
+- **scp**: Secure copy (remote file copy program)
+- **sftp**: Secure file transfer program
+- **nmap**: Network exploration tool and security / port scanner
+- **netcat (nc)**: Arbitrary TCP and UDP connections and listens
+- **socat**: Multipurpose relay (SOcket CAT)
+- **tcpdump**: Dump traffic on a network
+- **wireshark / tshark**: Network protocol analyzer
+- **dig**: DNS lookup utility
+- **nslookup**: Query Internet name servers interactively
+- **ping**: Send ICMP ECHO_REQUEST to network hosts
+- **traceroute**: Print the route packets trace to network host
+- **mtr**: A network diagnostic tool
+- **ip**: Show / manipulate routing, network devices, interfaces and tunnels
+- **ifconfig**: Configure a network interface
+- **cut**: Remove sections from each line of files
+- **sort**: Sort lines of text files
+- **uniq**: Report or omit repeated lines
+- **tr**: Translate or delete characters
+- **wc**: Print newline, word, and byte counts for each file
+- **head**: Output the first part of files
+- **tail**: Output the last part of files
+- **less**: Opposite of more
+- **more**: File perusal filter for crt viewing
+- **cat**: Concatenate files and print on the standard output
+- **echo**: Display a line of text
+- **printf**: Format and print data
+- **date**: Print or set the system date and time
+- **cal**: Displays a calendar
+- **uptime**: Tell how long the system has been running
+- **whoami**: Print effective userid
+- **id**: Print real and effective user and group IDs
+- **groups**: Print the groups a user is in
+- **chmod**: Change file mode bits
+- **chown**: Change file owner and group
+- **df**: Report file system disk space usage
+- **du**: Estimate file space usage
+- **free**: Display amount of free and used memory in the system
+- **top**: Display Linux processes
+- **ps**: Report a snapshot of the current processes
+- **kill**: Send a signal to a process
+- **pkill**: Look up or signal processes based on name and other attributes
+- **killall**: Kill processes by name
+- **jobs**: Display status of jobs in the current session
+- **bg**: Put a job in the background
+- **fg**: Put a job in the foreground
+- **nohup**: Run a command immune to hangups, with output to a non-tty
+- **screen**: Screen manager with VT100/ANSI terminal emulation
+- **watch**: Execute a program periodically, showing output fullscreen
+- **cron**: Daemon to execute scheduled commands (Vixie Cron)
+- **at**: Queue, examine, or delete jobs for later execution
+- **systemctl**: Control the systemd system and service manager
+- **journalctl**: Query the systemd journal
+- **dmesg**: Print or control the kernel ring buffer
+- **lsblk**: List block devices
+- **blkid**: Locate/print block device attributes
+- **fdisk**: Manipulate disk partition table
+- **mkfs**: Build a Linux filesystem
+- **mount**: Mount a filesystem
+- **umount**: Unmount file systems
+- **lsof**: List open files
+- **strace**: Trace system calls and signals
+- **ltrace**: A library call tracer
+- **gdb**: The GNU Debugger
+- **lldb**: The LLDB Debugger
+- **valgrind**: A suite of tools for debugging and profiling
+- **perf**: Performance analysis tools for Linux
+- **make**: GNU make utility to maintain groups of programs
+- **cmake**: Cross-Platform Makefile Generator
+- **gcc / g++**: GNU project C and C++ compiler
+- **clang / clang++**: C, C++, and Objective-C compiler
+- **rustc**: The Rust compiler
+- **cargo**: The Rust package manager
+- **go**: Tool for managing Go source code
+- **python / python3**: An interpreted, interactive, object-oriented programming language
+- **pip**: The Python package installer
+- **node**: Server-side JavaScript runtime
+- **npm**: A package manager for JavaScript
+- **yarn**: Fast, reliable, and secure dependency management
+- **pnpm**: Fast, disk space efficient package manager
+- **ruby**: Interpreted object-oriented scripting language
+- **gem**: Ruby package manager
+- **perl**: The Perl 5 language interpreter
+- **php**: Hypertext Preprocessor
+- **composer**: Dependency Manager for PHP
+- **java**: The Java application launcher
+- **javac**: The Java programming language compiler
+- **maven (mvn)**: Apache Maven
+- **gradle**: Open-source build automation tool
+- **docker**: A self-sufficient runtime for containers
+- **docker-compose**: Define and run multi-container applications with Docker
+- **kubectl**: Kubernetes command-line tool
+- **helm**: The Kubernetes Package Manager
+- **terraform**: Infrastructure as Code tool
+- **ansible**: IT automation tool
+- **puppet**: Server automation framework and application
+- **chef**: A systems integration framework
+- **vagrant**: Tool for building and distributing development environments
+- **packer**: Tool for creating identical machine images for multiple platforms
+- **aws (AWS CLI)**: Universal Command Line Interface for Amazon Web Services
+- **az (Azure CLI)**: Azure Command-Line Interface
+- **gcloud**: Command-line tools for Google Cloud Platform
+- **oci (Oracle Cloud CLI)**: Oracle Cloud Infrastructure Command Line Interface
+- **doctl**: The official command line interface for the DigitalOcean API
+- **heroku**: Heroku CLI
+- **gh**: GitHub CLI
+- **glab**: GitLab CLI
+- **hub**: git wrapper that extends it with features that make it better for GitHub
+- **git**: the stupid content tracker
+- **svn**: Subversion command line client tool
+- **hg**: Mercurial source code management system
+- **bzr**: Bazaar version control system
+- **ncdu**: NCurses Disk Usage
+- **tldr**: Simplified and community-driven man pages
+- **thefuck**: Magnificent app which corrects your previous console command
+- **z**: jump around
+- **ag (The Silver Searcher)**: A code-searching tool similar to ack, but faster
+- **ack**: A tool like grep, optimized for programmers
+- **peco**: Simplistic interactive filtering tool
+- **navi**: An interactive cheatsheet tool for the command-line
+- **broot**: A new way to see and navigate directory trees
+- **mc (Midnight Commander)**: Visual file manager
+- **ranger**: A VIM-inspired filemanager for the console
+- **nnn**: Tiny, lightning fast, feature-packed file manager
+- **lf**: Terminal file manager
+- **vifm**: Vi[m] like file manager
+- **glow**: Render markdown on the CLI
+- **mdcat**: cat for markdown
+- **figlet**: Displays large characters made up of ordinary screen characters
+- **cowsay**: Configurable talking cow
+- **lolcat**: Rainbows and unicorns!
+- **neofetch**: A command-line system information tool
+- **nmon**: Nigel's performance Monitor
+- **iotop**: Simple top-like I/O monitor
+- **iftop**: Display bandwidth usage on an interface
+- **nethogs**: Net top tool grouping bandwidth per process
+- **vnstat**: Network traffic monitor
+- **sar**: Collect, report, or save system activity information
+- **sysbench**: Scriptable database and system performance benchmark
+- **stress**: Tool to impose load on and stress test a computer system
+- **stress-ng**: Tool to load and stress a computer system
+- **hyperfine**: A command-line benchmarking tool
+- **wrk**: Modern HTTP benchmarking tool
+- **hey**: HTTP load generator, ApacheBench (ab) replacement
+- **vegeta**: HTTP load testing tool and library
+- **k6**: Modern load testing for developers and APIs in the cloud era
+- **locust**: Scalable user load testing tool written in Python
+- **artillery**: Cloud-native load testing and continuous verification
+- **sqlmap**: Automatic SQL injection and database takeover tool
+- **masscan**: TCP port scanner, spews SYN packets asynchronously
+- **zmap**: The Internet Scanner
+- **gobuster**: Directory/File, DNS and VHost busting tool written in Go
+- **ffuf**: Fast web fuzzer written in Go
+- **dirb**: A web content scanner
+- **nikto**: Web server scanner
+- **wpscan**: WordPress security scanner
+- **aircrack-ng**: WiFi security auditing tools suite
+- **hashcat**: World's fastest and most advanced password recovery utility
+- **john (John the Ripper)**: password cracker
+- **Tmuxinator**: Manage complex tmux sessions easily
+- **Zellij**: A terminal workspace with batteries included
+- **Starship**: The minimal, blazing-fast, and infinitely customizable prompt for any shell
+- **Atuin**: Magical shell history with sync
+- **Mcfly**: Fly through your shell history
+- **Zoxide**: A smarter cd command
+- **Dust**: A more intuitive version of du in rust
+- **Procs**: A modern replacement for ps written in Rust
+- **Dog**: A command-line DNS client
+- **CurLie**: The power of curl, the ease of use of httpie
+- **Bpytop**: Linux/OSX/FreeBSD resource monitor
+- **Lazydocker**: The lazier way to manage everything docker
+- **Actiona**: Cross-platform automation tool
+
+## Data Analysis & Scraping
+
+- **Scrapy**: A fast high-level web crawling & scraping framework for Python
+- **Selenium**: A browser automation framework and ecosystem
+- **Playwright**: Node.js library to automate Chromium, Firefox and WebKit with a single API
+- **Puppeteer**: Headless Chrome Node.js API
+- **Polars**: Blazingly fast DataFrames in Rust and Python
+- **Dask**: Parallel computing with task scheduling
+- **Vaex**: Out-of-Core DataFrames for Python
+- **PySpark**: Python API for Apache Spark
+- **Numpy**: The fundamental package for scientific computing with Python
+- **Scipy**: Fundamental algorithms for scientific computing in Python
+- **Scikit-learn**: Machine learning in Python
+- **Statsmodels**: Statistical models, hypothesis tests, and data exploration
+- **Matplotlib**: Comprehensive library for creating static, animated, and interactive visualizations in Python
+- **Seaborn**: Statistical data visualization
+- **Plotly**: Interactive graphing library
+- **Bokeh**: Interactive visualization library
+- **Altair**: Declarative statistical visualization library for Python
+- **HuggingFace Datasets**: Access and share datasets for audio, computer vision, and NLP tasks
+- **SQLAlchemy**: The Python SQL Toolkit and Object Relational Mapper
+- **Psycopg2**: PostgreSQL database adapter for the Python programming language
+- **PyMongo**: Python driver for MongoDB
+- **Redis-py**: Redis Python Client
+- **Jupyter**: Web-based interactive computing platform
+- **Papermill**: Parameterize, execute, and analyze Jupyter Notebooks
+- **Airflow**: Platform to programmatically author, schedule and monitor workflows
+- **Luigi**: Python module that helps you build complex pipelines of batch jobs
+- **Prefect**: Dataflow automation platform
+- **Dagster**: A data orchestrator for machine learning, analytics, and ETL
+- **Great Expectations**: Data quality and documentation
+- **DBT**: Data build tool
+- **Superset**: Modern, enterprise-ready business intelligence web application
+- **Metabase**: The easiest way to share data and analytics inside your company
+- **Redash**: Make Sense of Your Data
+- **Cheerio**: Fast, flexible, and lean implementation of core jQuery designed specifically for the server
+- **Apify (SDK)**: The web scraping and web automation platform
+- **Crawlee**: A web scraping and browser automation library
+
+## Developer Tools & Git Utilities
+
+- **Lazygit**: Simple terminal UI for git commands
+- **Tig**: Text-mode interface for git
+- **Gitui**: Blazing fast terminal-ui for git written in rust
+- **Pre-commit**: A framework for managing and maintaining multi-language pre-commit hooks
+- **Husky**: Git hooks made easy (Node.js)
+- **Lefthook**: Fast and powerful Git hooks manager for any type of project
+- **Commitizen**: Tool to create committing rules for projects
+- **Semantic-release**: Fully automated version management and package publishing
+- **Standard-version**: Automate versioning and CHANGELOG generation
+- **Ninja**: A small build system with a focus on speed
+- **Just**: A handy way to save and run project-specific commands
+- **Taskfile**: A task runner / simpler Make alternative written in Go
+- **Babel**: The compiler for next generation JavaScript
+- **TypeScript (tsc)**: Typed superset of JavaScript that compiles to plain JavaScript
+- **Webpack**: A bundler for javascript and friends
+- **Vite**: Next generation frontend tooling
+- **Rollup**: Next-generation ES module bundler
+- **Esbuild**: An extremely fast bundler for the web
+- **Parcel**: The zero configuration build tool for the web
+- **SWC**: Speedy web compiler
+- **Ruff**: An extremely fast Python linter, written in Rust
+- **Black**: The uncompromising Python code formatter
+- **Flake8**: Your Tool For Style Guide Enforcement
+- **Pylint**: A Python static code analysis tool
+- **Mypy**: Optional static typing for Python
+- **ESLint**: Find and fix problems in your JavaScript code
+- **Prettier**: Opinionated Code Formatter
+- **Stylelint**: A mighty, modern linter that helps you avoid errors and enforce conventions in your styles
+- **Golangci-lint**: Fast linters Runner for Go
+- **Gofmt**: Formats Go programs
+- **Clippy**: A bunch of lints to catch common mistakes and improve your Rust code
+- **Rustfmt**: A tool for formatting Rust code according to style guidelines
+- **SonarQube / SonarScanner**: Continuous Inspection
+- **Snyk**: Find and automatically fix vulnerabilities in your code
+- **Trivy**: A Simple and Comprehensive Vulnerability Scanner for Containers and other Artifacts
+- **Grype**: A vulnerability scanner for container images and filesystems
+- **Syft**: CLI tool and library for generating a Software Bill of Materials from container images and filesystems
+- **Git-crypt**: Transparent file encryption in git
+- **BFG Repo-Cleaner**: Removes large or troublesome blobs like git-filter-branch does, but faster
+- **Tokei**: A program that allows you to count your code, quickly
+- **WakaTime**: Metrics, insights, and time tracking automatically generated from your programming activity
+- **Earthly**: Build automation for the container era
+- **Dagger**: A programmable CI/CD engine that runs your pipelines in containers
+- **Act**: Run your GitHub Actions locally
+- **Trunk**: Blazingly fast meta code checker and formatter
+- **Reviewdog**: Automated code review tool integrated with any code analysis tools
+- **Leftovergit**: A tool to clean up your git branches
+
+## Testing & Validation
+
+- **pytest**: The pytest framework makes it easy to write small tests, yet scales to support complex functional testing
+- **unittest**: The built-in testing framework in Python
+- **mock**: A library for testing in Python
+- **responses**: A utility library for mocking out the requests Python library
+- **vcrpy**: Automatically mock your HTTP interactions to simplify and speed up testing
+- **jest**: Delightful JavaScript Testing
+- **mocha**: Simple, flexible, fun javascript test framework for node.js & the browser
+- **chai**: BDD / TDD assertion framework for node.js and the browser
+- **vitest**: A blazing fast unit test framework powered by Vite
+- **cypress**: Fast, easy and reliable testing for anything that runs in a browser
+- **playwright-test**: Playwright Test provides a testing framework for Web Apps
+- **Tox**: Generic virtualenv management and test command line tool
+- **Nox**: Flexible test automation for Python
+- **Hypothesis**: Property-based testing for Python
+- **Faker**: A Python package that generates fake data for you
+- **Appium**: Automation for iOS, Android, and Windows Apps
+- **Detox**: Gray box end-to-end testing and automation framework for mobile apps
+- **Testcontainers**: A library that provides throwaway, lightweight instances of databases, message brokers, web browsers, or just about anything that can run in a Docker container
+
+## Infrastructure as Code & DevOps
+
+- **Terraform**: Write, Plan, and Create Infrastructure as Code
+- **Tflint**: A Pluggable Terraform Linter
+- **Checkov**: Static code analysis tool for infrastructure-as-code
+- **Infracost**: Cloud cost estimates for Terraform in pull requests
+- **Terragrunt**: A thin wrapper for Terraform that provides extra tools for keeping your configurations DRY
+- **Pulumi**: Universal Infrastructure as Code
+- **K9s**: Kubernetes CLI To Manage Your Clusters In Style
+- **Lens**: The Kubernetes IDE
+- **Minikube**: Run Kubernetes locally
+- **Kind**: Kubernetes IN Docker
+- **Ngrok**: Secure introspectable tunnels to localhost
+- **LocalTunnel**: Expose your localhost to the world for easy testing and sharing
+- **Mkcert**: A simple zero-config tool to make locally trusted development certificates
+- **Crossplane**: The Cloud Native Control Plane
+- **ArgoCD**: Declarative continuous deployment for Kubernetes
+- **Flux**: The GitOps family of projects
+- **Skaffold**: Easy and Repeatable Kubernetes Development
+- **Tilt**: A multi-service dev environment for teams on Kubernetes
+- **Vault (HashiCorp)**: Manage Secrets and Protect Sensitive Data
+- **Consul (HashiCorp)**: Service Networking for Any Cloud or Runtime
+- **Nomad (HashiCorp)**: A simple and flexible workload orchestrator
+
+## Reverse Engineering & Binary Analysis
+
+- **Ghidra**: A software reverse engineering (SRE) suite of tools developed by NSA
+- **Radare2**: UNIX-like reverse engineering framework and command-line toolset
+- **IDA Free**: Interactive Disassembler (Free version)
+- **Binary Ninja (API)**: A reverse engineering platform
+- **Cutter**: Free and open-source reverse engineering platform powered by rizin
+- **Rizin**: UNIX-like reverse engineering framework and command-line toolset
+- **x64dbg**: An open-source x64/x32 debugger for windows
+- **Capstone**: Lightweight multi-platform, multi-architecture disassembly framework
+- **Keystone**: Lightweight multi-platform, multi-architecture assembler framework
+- **Unicorn**: Lightweight multi-platform, multi-architecture CPU emulator framework
+- **Frida**: Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers
+- **LIEF**: Library to Instrument Executable Formats
+- **Ropper**: You can use ropper to look at information about files in different formats
+- **Pwntools**: CTF framework and exploit development library
+- **Angr**: A powerful and user-friendly binary analysis platform
+
+## Network Forensics & Advanced OSINT
+
+- **Maltego**: Interactive data mining tool that renders directed graphs for link analysis
+- **SpiderFoot**: Automates OSINT collection
+- **theHarvester**: E-mails, subdomains and names Harvester
+- **Shodan CLI**: Command-line interface for Shodan
+- **Recon-ng**: Full-featured Web Reconnaissance framework written in Python
+- **Amass**: In-depth Attack Surface Mapping and Asset Discovery
+- **Zeek**: A powerful network analysis framework that is much different from the typical IDS you may know
+- **Suricata**: Network IDS, IPS and Network Security Monitoring engine
+- **Snort**: Network intrusion detection system (NIDS)
+- **Kismet**: Wireless network detector, sniffer, and intrusion detection system
+- **Bettercap**: The Swiss Army knife for 802.11, BLE and Ethernet networks reconnaissance and MITM attacks
+- **Wifite**: Automated wireless attack tool
+- **Volatilty**: An advanced memory forensics framework
+- **Autopsy**: Digital forensics platform and graphical interface to The Sleuth Kit
+
+## Cyber Security & Penetration Testing
+
+- **Metasploit Framework**: Penetration testing software
+- **Burp Suite (Community)**: Web vulnerability scanner
+- **OWASP ZAP**: Open-source web application security scanner
+- **Nuclei**: Fast and customisable vulnerability scanner based on simple YAML based DSL
+- **Hydra**: Network logon cracker
+- **Mimikatz**: A little tool to play with Windows security
+- **BloodHound**: Six Degrees of Domain Admin
+- **Responder**: A LLMNR, NBT-NS and MDNS poisoner, with built-in HTTP/SMB/MSSQL/FTP/LDAP rogue authentication server
+- **Empire**: PowerShell and Python post-exploitation agent
+- **CrackMapExec**: A swiss army knife for pentesting networks
+- **Impacket**: A collection of Python classes for working with network protocols
+- **Gowitness**: A web screenshot utility written in Go
+- **Aquatone**: A tool for visual inspection of websites across a large amount of hosts
+- **Sublist3r**: Fast subdomains enumeration tool for penetration testers
+- **Wfuzz**: The web bruteforcer
+
+## Specialized API Wrappers & Niche LLM Routing
+
+- **Portkey**: LLM routing, observability, and management
+- **Helicone**: Open-source LLM observability platform
+- **PromptLayer**: Middleware for prompt engineering
+- **Langfuse**: Open source LLM engineering platform
+- **Arize Phoenix**: Open-source AI observability and evaluation
+- **TruLens**: Evaluation and tracking for LLM apps
+- **Ragas**: Retrieval Augmented Generation Assessment
+- **DeepEval**: The open-source evaluation framework for LLMs
+- **Braintrust**: Enterprise-grade AI evals, logging, and data management
+- **Vellum**: The developer platform for advanced AI applications
+- **Neutrino**: An intelligent router for Large Language Models
+- **OpenRouter (API)**: A unified API for all major LLMs
+- **AnyLLM**: Unified API wrapper for multiple LLM providers
+- **Dify**: An open-source LLM app development platform
+- **Botpress**: The open-source bot creator
+- **Rasa**: Open source machine learning framework for automated text and voice-based conversations
+
+## Data Engineering & Event Streaming
+
+- **Apache Kafka**: Distributed event streaming platform
+- **RabbitMQ**: Open source message broker
+- **Redpanda**: A Kafka-compatible streaming data platform that is proven to be 10x faster
+- **Apache Flink**: Stateful computations over data streams
+- **Apache Beam**: An advanced unified programming model
+- **Debezium**: Change data capture for a variety of databases
+- **Apache NiFi**: Automate the flow of data between systems
+- **Mage.ai**: The modern replacement for Airflow
+- **Kestra**: Infinitely scalable orchestration and scheduling platform
+- **Airbyte**: Open-source data integration platform
+- **Fivetran (API)**: Automated data movement
+- **Snowflake (Connector)**: Cloud data platform
+- **BigQuery (Client)**: Google's fully managed, serverless data warehouse
+- **ClickHouse**: Fast open-source OLAP database management system
+- **Trino**: Fast distributed SQL query engine for big data analytics
+- **Presto**: Distributed SQL query engine for big data
+- **Materialize**: Streaming database for real-time applications
+
+## API Testing & Development
+
+- **Postman (CLI/Newman)**: Command-line collection runner for Postman
+- **Insomnia (Inso CLI)**: CLI for Insomnia API design platform
+- **Hurl**: Run and test HTTP requests with plain text
+- **Bruno**: Fast and Git-Friendly Opensource API client
+- **RestAssured**: Testing and validating REST services in Java
+- **Schemathesis**: Property-based testing tool for OpenAPI and GraphQL apps
+- **Dredd**: Language-agnostic HTTP API Testing Tool
+- **Prism**: Open-source API mocking and contract testing with OpenAPI
+- **WireMock**: A flexible tool for building mock APIs
+- **Hoverfly**: Lightweight, open source API simulation tool
+- **GraphQL CLI**: Command line tool for common GraphQL development workflows
+- **Apollo CLI**: Apollo CLI
+- **grpcurl**: Like cURL, but for gRPC
+- **ghz**: Simple gRPC benchmarking and load testing tool
+
+## Multimedia, Audio & Video Processing
+
+- **Sox**: The Swiss Army knife of sound processing programs
+- **ImageMagick**: Create, edit, compose, or convert bitmap images
+- **GraphicsMagick**: The swiss army knife of image processing
+- **Vips**: A demand-driven, horizontally threaded image processing library
+- **ExifTool**: Read, write and edit meta information in a wide variety of files
+- **MediaInfo**: A convenient unified display of the most relevant technical and tag data for video and audio files
+- **MKVToolNix**: A set of tools to create, alter and inspect Matroska files
+- **HandBrake CLI**: Open source video transcoder
+- **Audiowaveform**: C++ program to generate waveform data and render waveform images from audio files
+- **Aubio**: A tool designed for the extraction of annotations from audio signals
+- **Essentia**: C++ library for audio and music analysis, description and synthesis
+- **Librosa**: Python library for audio and music analysis
+- **Pytube**: A lightweight, dependency-free Python library for downloading YouTube videos
+- **Yt-dlp**: A youtube-dl fork with additional features and fixes
+
+## Quantum & Advanced Math Utilities
+
+- **Qiskit**: An open-source SDK for working with quantum computers at the level of pulses, circuits, and application modules
+- **Cirq**: A Python framework for creating, editing, and invoking Noisy Intermediate Scale Quantum (NISQ) circuits
+- **PennyLane**: A cross-platform Python library for differentiable programming of quantum computers
+- **SymPy**: A Python library for symbolic mathematics
+- **SageMath**: Open-source mathematics software system built on top of many existing open-source packages
+- **WolframScript**: Command-line interface to the Wolfram Engine
+- **Z3 Theorem Prover**: A high-performance theorem prover
+- **Coq**: A formal proof management system
+- **Lean**: An open source theorem prover and programming language
+- **Julia (Language)**: A fresh approach to numerical computing
+- **JAX**: Composable transformations of Python+NumPy programs
+
+## Hardware & IoT Interfacing
+
+- **Arduino CLI**: Command-line interface for the Arduino platform
+- **PlatformIO**: Professional collaborative platform for embedded development
+- **Esptool**: ESP8266 and ESP32 serial bootloader utility
+- **OpenOCD**: Open On-Chip Debugger
+- **Flashrom**: Utility for reading, writing, erasing and verifying flash ROM chips
+- **Avrdude**: Software for programming Atmel AVR microcontrollers
+- **PySerial**: Python serial port access library
+- **Gqrx**: Software defined radio receiver
+- **Rtl-sdr**: Software to receive DVB-T dongles based on the RTL2832U chip
+- **Mosquitto**: An open source message broker that implements the MQTT protocol
+
+## Web3 & Blockchain Utilities
+
+- **Foundry**: A blazing fast, portable and modular toolkit for Ethereum application development written in Rust
+- **Hardhat**: Ethereum development environment for professionals
+- **Truffle**: A world class development environment, testing framework and asset pipeline for blockchains
+- **Ganache**: Personal blockchain for Ethereum development
+- **Ethers.js**: A complete Ethereum wallet implementation and utilities in JavaScript
+- **Web3.py**: A Python library for interacting with Ethereum
+- **IPFS CLI**: InterPlanetary File System command-line tool
+- **Solc**: Solidity compiler
+- **Vyper**: Contract-oriented, pythonic programming language that targets the Ethereum Virtual Machine
+- **Slither**: Solidity static analysis framework
+- **Mythril**: Security analysis tool for EVM bytecode
+
+## Python AI & ML Ecosystem
+
+- **FastAI**: Deep learning library which provides practitioners with high-level components.
+- **PyTorch Lightning**: The lightweight PyTorch wrapper for high-performance AI research.
+- **Ignite**: High-level library to help with training and evaluating neural networks in PyTorch flexibly.
+- **Catalyst**: High-level utils for PyTorch DL & RL research.
+- **Optuna**: An open source hyperparameter optimization framework to automate hyperparameter search.
+- **Ray Tune**: Scalable hyperparameter tuning.
+- **Hyperopt**: Distributed Asynchronous Hyperparameter Optimization in Python.
+- **MLflow**: Open source platform for the machine learning lifecycle.
+- **Weights & Biases (Wandb)**: Developer tools for machine learning logging and evaluation.
+- **Neptune.ai**: Metadata store for MLOps, built for teams that run a lot of experiments.
+- **TensorBoard**: TensorFlow's visualization toolkit.
+- **ClearML**: Auto-magical CI/CD to streamline your ML workflow.
+- **Modin**: Speed up your Pandas workflows by changing a single line of code.
+- **Koalas**: Pandas API on Apache Spark.
+- **Ray Dataset**: Distributed data processing for machine learning.
+- **Awkward Array**: Manipulate JSON-like data with NumPy-like idioms.
+- **Xarray**: N-D labeled arrays and datasets in Python.
+- **Zarr**: Cloud-native arrays for scalable multidimensional data.
+- **H5py**: Read and write HDF5 files from Python.
+
+## Node.js & JavaScript Tooling
+
+- **TensorFlow.js**: A WebGL accelerated JavaScript library for training and deploying ML models.
+- **Brain.js**: Neural networks in JavaScript.
+- **Synaptic**: Architecture-free neural network library for node.js and the browser.
+- **Mind**: A flexible neural network library for Node.js.
+- **ConvNetJS**: Deep Learning in Javascript. Train Convolutional Neural Networks (or ordinary ones) in your browser.
+- **Natural**: General natural language facilities for node.
+- **NLP.js**: An NLP library for building bots, with entity extraction, sentiment analysis, automatic language identify, and so more.
+- **Compromise**: Modest natural-language processing in Javascript.
+- **Franc**: Natural language detection.
+- **Retext**: Natural language processor powered by plugins.
+- **Remark**: Markdown processor powered by plugins.
+- **Rehype**: HTML processor powered by plugins.
+- **Unified**: Text processing interface for parsing, inspecting, transforming, and serializing content through syntax trees.
+- **Prisma**: Next-generation Node.js and TypeScript ORM.
+- **Drizzle**: Headless TypeScript ORM that runs anywhere.
+- **Sequelize**: Promise-based Node.js ORM for Postgres, MySQL, MariaDB, SQLite and Microsoft SQL Server.
+- **TypeORM**: ORM for TypeScript and JavaScript (ES7, ES6, ES5).
+- **Mongoose**: Elegant mongodb object modeling for node.js.
+- **Objection.js**: An SQL-friendly ORM for Node.js.
+- **Knex.js**: A batteries-included SQL query & schema builder.
+- **Express**: Fast, unopinionated, minimalist web framework for Node.js.
+- **Koa**: Next generation web framework for node.js.
+- **Fastify**: Fast and low overhead web framework, for Node.js.
+- **Hapi**: The Simple, Secure Framework Developers Trust.
+- **NestJS**: A progressive Node.js framework for building efficient, reliable and scalable server-side applications.
+- **LoopBack**: A highly extensible Node.js and TypeScript framework for building APIs and microservices.
+- **Sails.js**: Realtime MVC Framework for Node.js.
+- **Meteor**: The incredibly fast way to build complete web apps in pure JavaScript.
+- **Socket.io**: Real-time bidirectional event-based communication.
+- **WS**: Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js.
+
+## Go CLIs & Automation
+
+- **Gorgonia**: A library that helps facilitate machine learning in Go.
+- **GoLearn**: Machine Learning for Go.
+- **Gonum**: A set of numeric libraries for the Go programming language.
+- **Gota**: DataFrames and data wrangling in Go.
+- **GoCV**: Go package for computer vision using OpenCV 4 and beyond.
+- **Go-nlp**: Natural language processing tools for Go.
+- **Prose**: A Golang library for text processing, including tokenization, part-of-speech tagging, and named-entity extraction.
+- **Go-elasticsearch**: Official Go client for Elasticsearch.
+- **Blevesearch**: Modern text indexing and search library for Go.
+- **Gin**: HTTP web framework written in Go (Golang).
+- **Fiber**: An Express-inspired web framework written in Go.
+- **Echo**: High performance, minimalist Go web framework.
+- **Beego**: An open-source, high-performance web framework for the Go programming language.
+- **Revel**: A high productivity, full-stack web framework for the Go language.
+- **Gorm**: The fantastic ORM library for Golang.
+- **Ent**: An entity framework for Go.
+- **Sqlc**: Generate type-safe code from SQL.
+
+## Rust Utilities & Systems
+
+- **Tch-rs**: Rust bindings for the C++ api of PyTorch.
+- **Burn**: A new comprehensive dynamic Deep Learning Framework built using Rust.
+- **Candle**: Minimalist ML framework for Rust.
+- **Linfa**: A Rust machine learning framework.
+- **Smartcore**: A comprehensive library for machine learning and numerical computing in Rust.
+- **Rust-bert**: Rust native ready-to-use NLP pipelines and transformer-based models (BERT, DistilBERT, GPT2...).
+- **Ndarray**: N-dimensional tensor library for Rust.
+- **Nalgebra**: Linear algebra library for Rust.
+- **Tokio**: An asynchronous runtime for the Rust programming language.
+- **Actix**: Actor framework for Rust.
+- **Axum**: Ergonomic and modular web framework built with Tokio, Tower, and Hyper.
+- **Rocket**: A web framework for Rust that makes it simple to write fast, secure web applications without compromising on flexibility.
+- **Warp**: A super-easy, composable, web server framework for warp speeds.
+- **Diesel**: A safe, extensible ORM and Query Builder for Rust.
+- **SeaORM**: An async & dynamic ORM for Rust.
+- **Sqlx**: The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL.
+- **Clap**: A full featured, fast Command Line Argument Parser for Rust.
+- **Ratatui**: A Rust library that's all about cooking up terminal user interfaces.
+- **Crossterm**: A cross-platform terminal library written in Rust.
+- **Indicatif**: A command line progress reporting library for Rust.
+- **Dialoguer**: A Rust library for command line prompts and dialogs.
+
+## Emerging Open-Source AI Frameworks
+
+- **JAX**: Composable transformations of Python+NumPy programs for high-performance machine learning research.
+- **Flax**: A neural network library and ecosystem for JAX designed for flexibility.
+- **Haiku**: Sonnet for JAX, a simple neural network library by DeepMind.
+- **Optax**: A gradient processing and optimization library for JAX.
+- **RLlib**: Industry-grade reinforcement learning library offering high scalability.
+- **Stable Baselines3**: Reliable implementations of reinforcement learning algorithms in PyTorch.
+- **CleanRL**: High-quality single-file implementations of Deep Reinforcement Learning algorithms.
+- **Triton Inference Server**: An open-source software that provides a cloud inferencing solution optimized for both CPUs and GPUs.
+- **Seldon Core**: An MLOps framework to package, deploy, monitor and manage thousands of production machine learning models.
+- **KServe**: Highly scalable and standards based Model Inference Platform on Kubernetes.
+- **Cortex**: Machine learning deployment platform on AWS.
+- **MLRun**: An open-source MLOps orchestration framework.
+- **Kubeflow**: The Machine Learning Toolkit for Kubernetes.
+- **Hopsworks**: An open-source enterprise platform for developing and operating machine learning models at scale.
+- **Feast**: An open source feature store for machine learning.
+- **Tecton**: An enterprise feature store that manages the complete lifecycle of ML features.
+- **DVC (Data Version Control)**: Git for Data & Models.
+- **Pachyderm**: Data versioning and reproducible machine learning pipelines.
+- **Dolt**: It's Git for Data.
+- **LakeFS**: Data version control that scales.
+
+## MCP (Model Context Protocol) Servers
+
+- **mcp-server-sqlite**: SQLite database MCP server for querying local DBs
+- **mcp-server-postgres**: PostgreSQL database MCP server
+- **mcp-server-github**: GitHub API MCP server for reading repos, issues, PRs
+- **mcp-server-gitlab**: GitLab API MCP server
+- **mcp-server-slack**: Slack API MCP server for reading/sending messages
+- **mcp-server-linear**: Linear API MCP server for issue tracking
+- **mcp-server-notion**: Notion API MCP server for reading/writing pages
+- **mcp-server-google-drive**: Google Drive API MCP server
+- **mcp-server-filesystem**: Local filesystem access MCP server
+- **mcp-server-brave-search**: Web search using Brave Search API
+- **mcp-server-tavily**: Web research using Tavily API
+- **mcp-server-memory**: Long term memory storage for agents via MCP
+- **mcp-server-puppeteer**: Browser automation MCP server
+- **mcp-server-playwright**: Advanced browser automation MCP server
+- **mcp-server-fetch**: Simple URL fetching MCP server
+- **mcp-server-shell**: Command line execution MCP server
+- **mcp-server-docker**: Docker management MCP server
+- **mcp-server-kubernetes**: Kubernetes management MCP server
+- **mcp-server-aws**: AWS API MCP server
+- **mcp-server-jira**: Jira API MCP server
+- **mcp-server-confluence**: Confluence API MCP server
+- **mcp-server-obsidian**: Obsidian vault access MCP server
+- **mcp-server-mongodb**: MongoDB MCP server
+- **mcp-server-redis**: Redis MCP server
+- **mcp-server-mysql**: MySQL MCP server
+- **mcp-server-datadog**: Datadog metrics and logs access MCP
+- **mcp-server-sentry**: Sentry issue and error reporting MCP
+- **mcp-server-discord**: Discord API integration MCP
+- **mcp-server-zoom**: Zoom API for meetings and recordings MCP
+- **mcp-server-spotify**: Spotify API integration MCP
+- **mcp-server-stripe**: Stripe billing and customer API MCP
+- **mcp-server-zendesk**: Zendesk ticketing system MCP
+- **mcp-server-hubspot**: HubSpot CRM data access MCP
+- **mcp-server-salesforce**: Salesforce data access MCP
+- **mcp-server-elastic**: Elasticsearch / Kibana querying MCP
+- **mcp-server-splunk**: Splunk log searching MCP
+
+## 100 Tools for Harvesting
+
+- **Portia**: Visual scraping tool for Scrapy.
+- **Frontera**: A scalable, distributed web crawling framework.
+- **Scrapy-Splash**: Scrapy + Splash for JS rendering.
+- **Scrapy-Selenium**: Scrapy + Selenium for JS rendering.
+- **Cloudscraper**: Python module to bypass Cloudflare's anti-bot page.
+- **FlareSolverr**: Proxy server to bypass Cloudflare and DDoS-Guard protection.
+- **Gotenberg**: A Docker-powered stateless API for PDF conversion.
+- **Webcopy**: Copy partial or full websites to your local hard drive.
+- **HTTrack**: Offline browser utility to download World Wide Web sites.
+- **Wayback Machine Downloader**: Download entire websites from the Internet Archive Wayback Machine.
+- **Archive.org CLI**: Command-line tool for interacting with Archive.org.
+- **SingleFile**: Web Extension to save a complete page into a single HTML file.
+- **Monolith**: Bundle any web page into a single HTML file.
+- **Readability.js**: A standalone version of the readability library used in Firefox.
+- **Mercury Parser**: Extract content from web pages.
+- **Full-Text RSS**: Extract article content from news sites and blogs.
+- **FiveFilters**: Content extraction and RSS generation tools.
+- **Huginn**: Create agents that monitor and act on your behalf.
+- **Beehive**: A flexible agent system for modular automation.
+- **n8n**: Workflow automation tool with extensive scraping integrations.
+- **Appsmith**: Build internal tools and scraping dashboards.
+- **ToolJet**: Open-source low-code framework for scraping apps.
+- **Budibase**: Low-code platform for building business apps and data views.
+- **Windmill**: Developer-first alternative to Retool and Zapier.
+- **Pipedream**: Integration platform for developers to build scraping workflows.
+- **Zapier CLI**: Build custom Zapier integrations for harvesting.
+- **Make (formerly Integromat)**: Visual automation platform for data harvesting.
+- **Activepieces**: Open-source alternative to Zapier/Make.
+- **Browserless**: Headless Chrome as a service for massive scraping.
+- **Zyte Smart Proxy**: Rotating proxy for bypassing bans.
+- **Oxylabs API**: Real-time scraper and proxy infrastructure.
+- **BrightData SDK**: Advanced web data collection and proxy management.
+- **SmartProxy**: Proxy network for high-performance scraping.
+- **ProxyCrawl**: Scrape websites without being blocked or solved captchas.
+- **Crawlbase**: Data crawling and scraping platform.
+- **WebScraper.io**: Browser extension and cloud scraper.
+- **Dexi.io**: Enterprise-grade web scraping and automation.
+- **ParseHub API**: Interface for the ParseHub visual scraper.
+- **Import.io**: Platform for transforming websites into data.
+- **Content Grabber**: Scalable web scraping and web automation software.
+- **SeleniumBase**: All-in-one framework for web automation and scraping.
+- **PySimpleGUI-Web**: Create web-based GUIs for scrapers.
+- **Streamlit-Browser-Agent**: Integrate browser agents into Streamlit apps.
+- **Agentql**: AI-powered element selection for web automation.
+- **MultiOn**: Agentic browsing API for autonomous web tasks.
+- **Skyvern**: AI-powered browser automation for complex workflows.
+- **LaVague**: Open-source Large Action Model framework for web automation.
+- **Open-Web-Browser-Agent**: Agentic control of web browsers.
+- **Auto-GPT-Web**: Web-focused version of Auto-GPT.
+- **Browse AI**: The easiest way to extract and monitor data from any website.
+- **Hexomatic**: No-code web scraping and work automation.
+- **Simplescraper**: Fast and free web scraper for any website.
+- **Listly**: Turn any website into Excel with one click.
+- **DataMiner**: Extract data from any website into CSV or Excel.
+- **WebHarvy**: Visual web scraper for any website.
+- **Agenty**: Cloud-based web scraping, OCR and data extraction.
+- **Webhose.io**: Structured web data as an API (now Webz.io).
+- **Webz.io**: Live data feeds from the open, deep, and dark web.
+- **NewsAPI**: Simple HTTP API for searching and retrieving news articles.
+- **Mediastack**: Real-time news API for global news and blogs.
+- **GNews**: Global News API for searching and extracting articles.
+- **Contextual Web Search**: Real-time search engine API.
+- **Faroo**: Distributed search engine with a public API.
+- **Gigablast**: Independent search engine and web crawler.
+- **Mojeek**: Privacy-focused search engine with API access.
+- **Common Crawl CLI**: Tools for processing Common Crawl datasets.
+- **WARC tools**: Tools for manipulating Web ARChive files.
+- **Heritrix**: The Internet Archive's open-source, extensible web crawler.
+- **Nutch**: Highly extensible, scalable open source web crawler.
+- **StormCrawler**: SDK for building distributed web crawlers with Apache Storm.
+- **Bixo**: High-performance web mining toolkit for Hadoop.
+- **Crawler4j**: Open source Java crawler for web scraping.
+- **Abot**: A minimalist web crawler written in Golang.
+- **Goscrape**: A powerful web scraper for Golang.
+- **Hakrawler**: Fast web crawler for discovering endpoints and assets.
+- **Gau (Get All Urls)**: Fetch known URLs from AlienVault's OTX, the Wayback Machine, and Common Crawl.
+- **Waybackurls**: Fetch all URLs that the Wayback Machine knows about for a domain.
+- **ParamSpider**: Mining parameters from dark corners of Web Archives.
+- **Arjun**: HTTP parameter discovery suite.
+- **Katana**: Next-generation crawling and spidering framework.
+- **Photon**: Incredibly fast crawler designed for OSINT.
+- **FinalRecon**: All-in-one web reconnaissance tool.
+- **Spiderfoot CLI**: Command-line interface for the Spiderfoot OSINT tool.
+- **Maryam**: Open-source Intelligence (OSINT) Framework.
+- **GasMask**: All-in-one OSINT gathering tool.
+- **BlackWidow**: A web application scanner and crawler.
+- **Blazy**: Modern login bruteforcer and fuzzer.
+- **Dirsearch**: Web path scanner.
+- **Patator**: Multi-purpose brute-forcer with a modular design.
+- **Brutespray**: Brute-forcing service credentials from Nmap output.
+- **Medusa**: Fast, modular, parallel network login brute-forcer.
+- **Ncrack**: High-speed network authentication cracking tool.
+- **Crowbar**: Brute-forcing tool for RDP, SSH, VNC, and more.
+- **Scrapy-Puppeteer**: Scrapy + Puppeteer integration.
+- **Crawlee (Python)**: The web scraping and browser automation library for Python.
+- **Autoscraper**: A smart, automatic, fast and lightweight web scraper for Python.
+- **Ferret**: A declarative web scraping language and runtime for Go.
+- **Webmagic**: A scalable web crawler framework for Java.
+- **Pypoman**: A library for scraping and parsing academic data.
+- **Aiohttp-Retry**: Retry plugin for aiohttp.
+
+## 100 Tools for OSINT
+
+- **Sherlock**: Hunt down social media accounts by username.
+- **Maigret**: Collect a dossier on a person by username across thousands of sites.
+- **WhatsMyName**: Tool to find usernames across social media.
+- **Namechk**: Check if a username is available across the internet.
+- **Username-Search**: Command-line tool for username footprinting.
+- **Holehe**: Check if an email is used on 120+ sites.
+- **Ghunt**: OSINT tool to extract information from any Google Account using an email.
+- **Toutatis**: Extract information from Instagram accounts.
+- **Social-Analyzer**: API/CLI for analyzing a person's profile across 1000+ social media.
+- **EagleEye**: Stalk your friends find their social media profiles using Image Recognition.
+- **PhoneInfoga**: One of the most advanced tools to scan international phone numbers.
+- **TrueCallerJS**: TrueCaller API wrapper in Node.js.
+- **Ignorant**: Check if a phone number is registered on different social media.
+- **Libresignage**: Open-source digital signage for intelligence display.
+- **FOCA**: Tool to find metadata and hidden information in documents.
+- **Metagoofil**: Metadata harvester for documents found in search engines.
+- **Censys CLI**: Command-line interface for Censys search engine.
+- **Zoomeye CLI**: Command-line interface for ZoomEye.
+- **BinaryEdge CLI**: Command-line interface for BinaryEdge API.
+- **GreyNoise CLI**: Command-line interface for GreyNoise intelligence.
+- **Onyphe**: Cyber Defense Search Engine API for OSINT.
+- **Wigle**: Wireless Network Mapping and OSINT.
+- **Intelx**: Intelligence X API for data leak search.
+- **FullContact**: Customer intelligence and contact management API.
+- **Hunter.io CLI**: Find email addresses in seconds.
+- **RocketReach**: Find email, phone, and social media for professionals.
+- **Clearbit**: Enriched contact and company data API.
+- **AnyMail Finder**: Verify and find email addresses.
+- **Skymem**: Find email addresses for a domain.
+- **EmailPermutator**: Generate possible email addresses based on name and domain.
+- **Infoga**: Email information gathering tool.
+- **MailBoxLayer**: Free, simple and powerful JSON API for email validation.
+- **HaveIBeenPwned CLI**: Check if an email has been in a data breach.
+- **BreachDirectory**: Search through data breaches and leaked databases.
+- **Snusbase API**: Access billions of leaked records from various data breaches.
+- **Leak-Lookup**: Search through thousands of data breaches.
+- **DeHashed API**: View leaked credentials from hacks and data breaches.
+- **VigilantePW**: Data breach monitoring and OSINT.
+- **Pastebin-Scraper**: Monitor Pastebin for sensitive data leaks.
+- **DumpsterDiver**: Tool to find hardcoded secrets in various file types.
+- **GitRob**: Reconnaissance tool for GitHub organizations.
+- **TruffleHog**: Search through git repositories for high entropy strings and secrets.
+- **Gitleaks**: Scan git repos for secrets like passwords, api keys, and tokens.
+- **GitHound**: Batch-scan GitHub for exposed API keys using pattern matching.
+- **SecretScanner**: Find secrets and passwords in container images and file systems.
+- **Git-all-secrets**: A tool to capture all secrets from git repositories.
+- **Shhgit**: Find GitHub secrets in real-time.
+- **EarlyBird**: Sensitive data detection tool for CI/CD.
+- **NoseyParker**: Fast, modular secret scanner for git history and files.
+- **TruffleHog-v3**: The latest version of the secret scanning tool.
+- **Certspotter**: Certificate transparency log monitor.
+- **Crt.sh**: Certificate search engine.
+- **Censys-enumeration**: Enumerate subdomains using Censys.
+- **Sublist3r**: Fast subdomains enumeration tool.
+- **Knockpy**: Python tool designed to enumerate subdomains.
+- **MassDNS**: High-performance DNS stub resolver.
+- **Altdns**: Generates permutations of subdomains and resolves them.
+- **Dnscan**: A python wordlist-based DNS subdomain scanner.
+- **Findomain**: The fastest and cross-platform subdomain enumerator.
+- **Subjack**: Hostile subdomain takeover tool.
+- **Takeover**: Subdomain takeover tool for multiple services.
+- **CloudEnum**: Multi-cloud OSINT tool to find public buckets, sites, and more.
+- **S3Scanner**: Scan for open AWS S3 buckets and dump their contents.
+- **Bucket-stream**: Find S3 buckets by watching certificate transparency logs.
+- **Grayhatwarfare CLI**: Search engine for public S3 buckets.
+- **Lazys3**: A ruby script to brute-force for AWS S3 buckets.
+- **S3-Inspector**: Tool to check AWS S3 bucket permissions.
+- **BucketLoot**: Tool to find secrets and data in S3 buckets.
+- **DumpsterFire**: A modular, menu-driven, multi-platform tool for custom OSINT.
+- **Orbital**: OSINT tool for intelligence collection and analysis.
+- **Carbon14**: OSINT tool for dating web pages.
+- **Web-Check**: All-in-one OSINT tool for websites.
+- **Check-Host**: Online tool for checking websites, IP addresses, and DNS.
+- **DNS Dumpster**: Domain research tool to find host-related information.
+- **ViewDNS**: Multiple DNS and domain related tools in one place.
+- **BuiltWith CLI**: Find what websites are built with.
+- **Wappalyzer CLI**: Identify technologies on websites.
+- **WhatWeb**: Next generation web scanner.
+- **BlindElephant**: Web application fingerprinter.
+- **Retire.js**: Scan a web app for vulnerable JS libraries.
+- **Snallygaster**: Tool to scan for secret files on HTTP servers.
+- **Dmitry**: Deepmagic Information Gathering Tool.
+- **Amap**: Application mapper for identifying services on ports.
+- **Ike-scan**: IKE scanner for VPN discovery.
+- **Snmpcheck**: SNMP enumeration tool.
+- **Braa**: Mass SNMP scanner.
+- **Onesixtyone**: Fast SNMP scanner.
+- **Nbtscan**: Scan networks for NetBIOS name information.
+- **Enum4linux**: Tool for enumerating information from Windows and Samba systems.
+- **Smbmap**: SMB enumeration tool.
+- **CrackMapExec**: A swiss army knife for pentesting networks.
+- **Rpcbind-scanner**: Scan for RPC services.
+- **Nfsshell**: Tool for interacting with NFS exports.
+- **Showmount**: List NFS exports.
+- **Raccoon**: High performance offensive security tool for reconnaissance.
+- **Discover**: Custom bash scripts for automated reconnaissance.
+- **Tiaa**: Total Intelligence Analysis Agent.
+- **Hunchly**: Web capture tool for OSINT investigations.
+- **Maltego-Transforms**: Custom transforms for Maltego.
+- **OSINT Framework**: A collection of OSINT tools and resources.
+
+## 100 Tools for Research
+
+- **Semantic Scholar API**: Access a massive corpus of academic papers.
+- **CrossRef API**: Search and retrieve metadata for millions of scholarly items.
+- **CORE API**: The world's largest collection of open access research papers.
+- **arXiv API**: Programmatic access to pre-print research in physics, math, and CS.
+- **PubMed API**: Search the MEDLINE database of life sciences and biomedical information.
+- **Unpaywall API**: Find open access versions of paywalled research papers.
+- **OpenAlex API**: A fully open catalog of the global research system.
+- **DBLP API**: Computer science bibliography API.
+- **Google Scholar Scraper**: Unofficial tools for extracting Google Scholar data.
+- **Zotero CLI**: Manage and sync your Zotero research library from the terminal.
+- **Mendeley API**: Access your Mendeley research library programmatically.
+- **JabRef**: Open-source bibliography reference manager.
+- **BibDesk**: Reference management for macOS.
+- **BibTeX**: Format for bibliographies in LaTeX.
+- **Citation-js**: Read and write citations in various formats.
+- **Anystyle**: Fast and smart citation parser.
+- **Grobid**: Machine learning library for parsing academic documents.
+- **Science-Parse**: Extract information from scientific papers.
+- **CERMINE**: Content Extractor and Citation Meta-data Extractor.
+- **Scholarcy**: AI-powered summarizer for academic papers.
+- **ResearchRabbit**: AI-powered discovery for research papers.
+- **Connected Papers**: Visual tool to explore connected academic papers.
+- **Litmaps**: Visual search and discovery for research literature.
+- **Inciteful**: Graph-based search for academic papers.
+- **Perplexity Sonar**: API for real-time web-grounded research.
+- **You.com Research API**: AI-powered search for deep research.
+- **Tavily API**: Search engine optimized for LLMs and AI agents.
+- **Exa API**: Neural search for finding high-quality research links.
+- **Serper.dev**: Fast Google Search API for research.
+- **SearchApi**: Real-time SERP API for multiple search engines.
+- **ValueSerp**: Low-cost Google Search API.
+- **Scale AI Research**: Tools for high-quality data labeling and research.
+- **Labelbox**: Data labeling platform for AI research.
+- **Snorkel Flow**: Platform for programmatic data labeling.
+- **Argilla**: Open-source data labeling for NLP.
+- **Prodigy**: Scriptable annotation tool for AI researchers.
+- **Doccano**: Open-source text annotation for humans.
+- **Label Studio**: Multi-modal data labeling and annotation.
+- **Mechanical Turk CLI**: Automate human-in-the-loop research tasks.
+- **Prolific API**: Recruit high-quality research participants.
+- **Qualtrics API**: Build and manage complex research surveys.
+- **SurveyMonkey API**: Integration for survey data harvesting.
+- **Typeform API**: Conversational research surveys.
+- **Google Forms API**: Automate data collection via Google Forms.
+- **AirTable Research DB**: Flexible database for research project management.
+- **Notion Research DB**: All-in-one workspace for research notes and data.
+- **Obsidian Research DB**: Local-first knowledge base for research.
+- **Logseq**: Privacy-first, open-source knowledge base.
+- **Tana**: The node-based workspace for professionals.
+- **Mem.ai**: AI-powered workspace for self-organizing notes.
+- **Heptabase**: Visual note-taking for complex research.
+- **Scrivener**: The premiere long-form writing and research tool.
+- **Citavi**: Reference management and knowledge organization.
+- **NVivo**: Qualitative data analysis software.
+- **ATLAS.ti**: Qualitative research tool for massive datasets.
+- **MAXQDA**: Software for qualitative and mixed methods research.
+- **Dedoose**: Web-based qualitative and mixed methods research.
+- **RQDA**: R package for qualitative data analysis.
+- **Taguette**: Open-source qualitative text analysis.
+- **Orange**: Data mining and visualization for research.
+- **RapidMiner**: Data science platform for researchers.
+- **KNIME**: Open source data analytics, reporting and integration.
+- **Weka**: Machine learning software for data mining.
+- **GDELT Project**: Real-time monitor of global news and events.
+- **EventRegistry**: Global news intelligence API.
+- **NewsCatcher**: Real-time news API for research and monitoring.
+- **NewsData.io**: Search and track news from across the web.
+- **ContextualWeb**: Search engine for news and web content.
+- **FinancialModelingPrep**: Financial market data API.
+- **AlphaVantage**: Stock market data API for researchers.
+- **Yahoo Finance (yfinance)**: Python wrapper for Yahoo Finance data.
+- **Quandl**: Financial and economic datasets.
+- **IEX Cloud**: Real-time financial data for research.
+- **Polygon.io**: Market data for stocks, crypto, and forex.
+- **Tiingo**: Financial data platform for researchers.
+- **CryptoWatch**: Real-time crypto market data API.
+- **CoinGecko API**: Cryptocurrency data and analytics.
+- **CoinMarketCap API**: Global crypto market data.
+- **Glassnode**: On-chain data and metrics for crypto research.
+- **Dune Analytics**: SQL-based crypto research platform.
+- **Flipside Crypto**: Community-enabled crypto analytics.
+- **Nansen**: Blockchain analytics for professional researchers.
+- **Messari**: Crypto research, data, and tools.
+- **Statista Scraper**: Extract data and charts from Statista.
+- **World Bank API**: Access global development data.
+- **IMF API**: International Monetary Fund data API.
+- **OECD API**: Economic and social data from OECD countries.
+- **UN Data API**: United Nations statistical database access.
+- **Kaggle CLI**: Interact with Kaggle datasets and competitions.
+- **UCI Machine Learning Repo**: Source for machine learning datasets.
+- **AWS Public Datasets**: Massive datasets hosted on AWS for research.
+- **Google Dataset Search**: Search for datasets from across the web.
+- **Hugging Face Datasets**: Community-curated datasets for AI research.
+- **OpenML**: Collaborative machine learning platform.
+- **Zenodo**: Open-source research data repository.
+- **Figshare**: Store, share and discover research.
+- **Dryad**: Curated resource for research data.
+- **Open Science Framework (OSF)**: Free and open source project management for researchers.
+- **Sci-Hub**: Direct access to research papers (Concepts).
+- **LibGen**: Massive digital library for research books and papers (Concepts).
+
+## 100 Tools for Operating on Local Documents
+
+- **GraphRAG (Microsoft)**: Knowledge graph-based RAG for deep document understanding.
+- **LightRAG**: Lightweight graph-based RAG for local files.
+- **FastGraphRAG**: Optimized GraphRAG implementation for speed.
+- **NanoGraphRAG**: Minimalist GraphRAG for small to medium local datasets.
+- **Auto-GraphRAG**: Automated knowledge graph construction and retrieval.
+- **LlamaIndex Agentic Workflows**: Multi-step reasoning over local data.
+- **LangGraph Local**: Build stateful, multi-agent flows for local document research.
+- **Haystack Local**: Build production-ready RAG pipelines locally.
+- **RAGatouille**: ColBERT-powered RAG for high-quality retrieval.
+- **ColBERT**: Fast and accurate retrieval model for local documents.
+- **PLAID**: Efficient indexing and retrieval for late interaction models.
+- **BGE-Reranker**: State-of-the-art reranking model for local RAG.
+- **FlashRank**: Ultra-fast reranking for local search results.
+- **RankGPT**: Using LLMs to rerank local search results.
+- **LLM-Ranker**: LLM-based ranking for deep research.
+- **Verba**: Personal assistant for your data using Weaviate.
+- **RAGFlow**: Open-source RAG engine based on deep document understanding.
+- **Kotaemon**: Clean UI for RAG over local documents.
+- **Open WebUI**: Local RAG interface for Ollama and other local models.
+- **LibreChat**: Advanced chatbot UI with local RAG capabilities.
+- **Danswer**: Enterprise search for your internal documents.
+- **Onyx**: The successor to Danswer for local AI search.
+- **Ambar**: Full-text search engine for local documents.
+- **Sist2**: Lightning-fast search engine for local static files.
+- **Recoll**: Desktop full-text search for Unix/Linux.
+- **DocFetcher**: Portable desktop search application.
+- **Ripgrep-all (rga)**: Ripgrep, but also for PDFs, EBooks, Word, etc.
+- **Fzf Preview**: Fuzzy find files with content preview.
+- **Usearch**: Single-file vector search engine for local indexing.
+- **Faiss**: Efficient similarity search and clustering of dense vectors.
+- **ChromaDB Local**: Embedded vector database for local document storage.
+- **LanceDB**: Open-source database for vector search, built on Apache Arrow.
+- **DuckDB**: Local SQL database for structured document metadata.
+- **SQLite-vec**: Vector search extension for SQLite.
+- **Pgvector Local**: Dockerized Postgres with vector search for local RAG.
+- **Qdrant Local**: Local vector database with rich filtering.
+- **Milvus Lite**: Lightweight version of Milvus for local use.
+- **Weaviate Embedded**: Run Weaviate directly in your Python process.
+- **ObjectBox**: High-performance embedded database for local AI.
+- **Xapian**: Open source search engine library.
+- **Whoosh**: Fast, feature-rich full-text indexing and searching library in Python.
+- **Tantivy**: Full-text search engine library written in Rust.
+- **Meilisearch Local**: Fast, typo-tolerant search engine for local files.
+- **ZincSearch**: Lightweight alternative to Elasticsearch for local search.
+- **Typesense Local**: Fast, open-source search engine.
+- **Bleve**: Text indexing and search library for Go.
+- **Bluge**: Next-generation indexing and search library for Go.
+- **Pyserini**: Python toolkit for reproducible information retrieval.
+- **PyTerrier**: Python interface for the Terrier retrieval engine.
+- **Rank-BM25**: Classic BM25 ranking algorithm for local search.
+- **Semantic Router**: Semantic decision-making and routing for RAG.
+- **Unstructured Local**: Parse diverse local document types.
+- **Marker (PDF to MD)**: High-speed PDF to Markdown conversion.
+- **Docling**: Fast and accurate document parsing for AI.
+- **Surya**: OCR and document layout analysis.
+- **Nougat**: Neural Optical Understanding for Academic Documents.
+- **GOT-OCR2**: Advanced OCR model for edge cases.
+- **PaddleOCR**: Versatile multilingual OCR.
+- **Tesseract**: The classic open-source OCR engine.
+- **EasyOCR**: Python-based OCR with support for many languages.
+- **DocTR**: Document Text Recognition toolkit.
+- **LayoutParser**: Deep learning for document image analysis.
+- **PyMuPDF**: High-speed PDF processing.
+- **Pdfplumber**: Detailed PDF text and structure extraction.
+- **Pdfminer.six**: Tool for extracting information from PDF documents.
+- **Borb**: Python library for reading, creating and manipulating PDF files.
+- **Pikepdf**: Python library for reading and writing PDF files based on QPDF.
+- **Camelot**: PDF table extraction for humans.
+- **Tabula-py**: Extract tables from PDF into Pandas DataFrames.
+- **DeepSearch-Toolkit**: IBM's toolkit for deep document conversion.
+- **Docx2python**: Extract data from docx files.
+- **Python-pptx**: Create and update PowerPoint files.
+- **Odfpy**: Python library to manipulate OpenDocument files.
+- **EbookLib**: Python library for working with EPUB2/EPUB3 files.
+- **Calibre CLI**: Management and conversion of local ebook libraries.
+- **Pandoc**: The universal document converter.
+- **TextGrocery**: A short text classification tool.
+- **TextHero**: From zero to hero in NLP.
+- **Clean-Text**: Preprocess your text for NLP.
+- **Ftfy**: Fixes Unicode that's been broken in various ways.
+- **Textdistance**: Library for comparing distance between two or more sequences.
+- **Jellyfish**: Python library for doing approximate and phonetic matching of strings.
+- **FuzzyWuzzy (TheFuzz)**: Fuzzy string matching in Python.
+- **RapidFuzz**: Rapid fuzzy string matching.
+- **Dedupe.io**: Find duplicate records in local datasets.
+- **RecordLinkage**: Python library for record linkage and data matching.
+- **Graphein**: Tool for graph-based modeling of biological documents.
+- **Pykeen**: Reproducible knowledge graph embeddings.
+- **Ampligraph**: Knowledge graph embeddings and link prediction.
+- **StellarGraph**: Machine learning on graphs.
+- **DeepGraphLibrary (DGL)**: High-performance graph neural networks.
+- **PyTorch Geometric**: Geometric deep learning for graphs.
+- **Spektral**: Graph neural networks in Keras.
+- **Grakn (TypeDB)**: Strongly-typed database for intelligent systems.
+- **TerminusDB**: Graph database with Git-like features.
+- **KuzuDB**: Embedded graph database for deep research.
+- **LangChain-Text-Splitters**: Advanced chunking strategies for local RAG.
+- **Semantic-Chunking**: Logic-based chunking using embeddings.
+- **Knowledge-Graph-Maker**: Turn local text into knowledge graphs.
+- **Graph-RAG-SDK**: Build custom GraphRAG applications.
+
+## 100 Tools for Longform/Content Writing
+
+- **NovelCrafter**: Comprehensive platform for novel writing with AI.
+- **Sudowrite**: AI writing assistant specifically for fiction.
+- **Scrivener**: The industry standard for long-form writing and structure.
+- **Ulysses**: Focused writing app for Apple devices with automation.
+- **Plottr**: Visual book planning and outlining.
+- **Aeon Timeline**: Timeline software for world-building and narratives.
+- **Campfire Technology**: World-building and story management tools.
+- **World Anvil**: Comprehensive world-building API and platform.
+- **StoryEngine**: AI-powered narrative engine.
+- **Narrative Device**: AI tool for generating story ideas and prompts.
+- **Character.ai API**: Interactive character building and dialogue.
+- **SillyTavern**: Advanced local UI for interacting with writing models.
+- **KoboldCPP**: Local LLM backend for creative writing.
+- **Text-Generation-WebUI**: All-in-one local writing interface.
+- **Faraday.dev**: Native desktop app for local AI characters.
+- **Backyard.ai**: Local AI for immersive storytelling.
+- **LM Studio**: Run local models for focused writing sessions.
+- **GPT4All**: Privacy-focused writing with local LLMs.
+- **LocalAI**: Community-driven local API for writing.
+- **Fabric CLI**: CLI tool for structured writing patterns.
+- **LangChain Writing Chains**: Sequences for automated content generation.
+- **CrewAI Writing Squads**: Multi-agent squads for research and writing.
+- **AutoGen Creative Agents**: Autonomous agents for creative collaboration.
+- **ChatDev Writing**: Multi-agent software for documentation and stories.
+- **MetaGPT Writing**: Standardized agent workflows for content.
+- **Cursor for Writing**: AI-first markdown and content editor.
+- **Obsidian Writing Plugins**: Extend Obsidian for professional writing.
+- **Logseq Writing**: Networked thought for long-form content.
+- **Zettlr**: Markdown editor for academic and professional writing.
+- **Typora**: Minimalist, distraction-free markdown editor.
+- **MarkText**: Next-generation markdown editor.
+- **Ghost CMS**: Headless publishing for modern writers.
+- **Strapi**: Open-source headless CMS for content management.
+- **Contentful**: Enterprise-grade headless CMS API.
+- **Sanity.io**: Composable content cloud for structured writing.
+- **Directus**: Open-source data platform for content.
+- **Payload CMS**: TypeScript-first headless CMS.
+- **Keystatic**: Git-based CMS for local content.
+- **TinaCMS**: Headless CMS with visual editing for writers.
+- **Jekyll**: Static site generator for writers and bloggers.
+- **Hugo**: Fast static site generator for content heavy sites.
+- **Eleventy**: Simple and flexible static site generator.
+- **Astro**: Content-focused web framework.
+- **Pelican**: Static site generator for Python lovers.
+- **MkDocs**: Project documentation for writers.
+- **Sphinx**: Technical documentation and book generator.
+- **Asciidoctor**: Text processor for AsciiDoc content.
+- **Docutils**: Text processing system for reStructuredText.
+- **GitBook**: Modern documentation and publishing platform.
+- **Calibre-CLI**: Command-line ebook creation and management.
+- **Pandoc EPUB**: Convert markdown to high-quality EPUB files.
+- **Sigil**: Open-source EPUB ebook editor with automation.
+- **KindleGen**: Amazon's official Kindle book generator.
+- **KindleUnpack**: Extract and inspect Kindle book contents.
+- **EpubCheck**: Validate EPUB files for publishing.
+- **FB2Librarian**: Management for FictionBook2 libraries.
+- **ComicRack**: Advanced comic book management and scripting.
+- **Mylar3**: Automated comic book downloader and organizer.
+- **Readarr**: Book automation and library management.
+- **Bazarr**: Automated subtitle management for video content.
+- **Prowlarr**: Indexer manager for book and content discovery.
+- **Apprise**: Multi-platform notification for writing events.
+- **Gotify**: Self-hosted notification server for writers.
+- **Ntfy**: HTTP-based pub-sub notification service.
+- **Pushover**: Instant notifications for writing milestones.
+- **Pushbullet**: Sync writing notes and notifications across devices.
+- **IFTTT**: Connect writing apps and automate workflows.
+- **Zapier Writing Workflows**: Automate publishing and distribution.
+- **Make.com Writing Flows**: Visual automation for content creators.
+- **Pipedream for Writing**: Serverless integration for writing platforms.
+- **Activepieces Writing**: Open-source automation for writers.
+- **Huginn for Content**: Monitor sites and generate content alerts.
+- **Beehive for Narratives**: Modular agent system for story building.
+- **n8n for Publishing**: Automated cross-platform publishing.
+- **Windmill for AI**: Build custom AI writing tools.
+- **Appsmith Content Dashboards**: Manage writing projects visually.
+- **ToolJet for Writers**: Build custom content management tools.
+- **Budibase for Writing**: Low-code apps for writing teams.
+- **FlutterFlow for Apps**: Build content-focused mobile apps.
+- **Supabase for Writers**: Backend for writing and publishing apps.
+- **Pocketbase**: Open-source backend for local writing apps.
+- **Draftbit**: Build content apps visually.
+- **Retool for Content**: Internal tools for publishing teams.
+- **SuperTokens**: Auth for writing platforms.
+- **Clerk**: Modern authentication for content sites.
+- **Auth0**: Enterprise identity for publishing platforms.
+- **Jasper API**: Programmatic AI copywriter.
+- **Copy.ai API**: Automated marketing and content generation.
+- **WriteSonic API**: AI writing and image generation.
+- **Rytr API**: Affordable AI writing assistant.
+- **Anyword API**: Data-driven copywriting.
+- **Frase API**: Content optimization and AI writing.
+- **Surfer SEO API**: SEO-optimized content generation.
+- **Grammarly SDK**: Add real-time writing assistance.
+- **ProWritingAid API**: In-depth writing analysis.
+- **LanguageTool API**: Multilingual grammar and style checking.
+- **Hemingway Editor**: Improve readability and style (Concepts).
+- **Paperrater API**: Plagiarism and grammar checking.
+- **Copyscape API**: Professional plagiarism detection.
+- **Turnitin API**: Academic integrity and writing feedback.
+
+## 50 Tools for Scraping Gigboards and Job Boards
+
+- **Upwork-API Unofficial**: Python scripts for Upwork job monitoring.
+- **LinkedIn-Jobs-Scraper**: Node.js tool for scraping LinkedIn job listings.
+- **Indeed-Scraper-Python**: Extract job details from Indeed.
+- **Glassdoor-Scraper-CLI**: Scrape job listings and reviews from Glassdoor.
+- **Monster-Scraper**: Simple scraper for Monster.com.
+- **ZipRecruiter-Scraper**: Extract data from ZipRecruiter jobs.
+- **Dice-Scraper**: Tech job scraping for Dice.com.
+- **CareerBuilder-Scraper**: Scrape CareerBuilder job listings.
+- **SimplyHired-Scraper**: Extract job data from SimplyHired.
+- **Reed-Scraper**: UK job scraping for Reed.co.uk.
+- **TotalJobs-Scraper**: UK job scraping for TotalJobs.
+- **Jobsite-Scraper**: Extract job listings from Jobsite.
+- **Otta-Scraper**: Tech job scraping for Otta.com.
+- **Levels.fyi-Scraper**: Extract salary and job data from Levels.fyi.
+- **Blind-Scraper**: Scrape professional discussions and job info from Blind.
+- **Wellfound-Scraper**: Extract startup jobs from Wellfound.
+- **YCombinator-Jobs-Scraper**: Scrape the YC Job board.
+- **WorkAtAStartup-Scraper**: Extract jobs from Work at a Startup.
+- **RemoteOK-Scraper**: Real-time remote job scraping.
+- **WeWorkRemotely-Scraper**: Scrape remote job listings.
+- **WorkingNomads-Scraper**: Remote job scraping for digital nomads.
+- **FlexJobs-Scraper**: Scrape remote and flexible jobs.
+- **Remotive-Scraper**: Remote job board scraping.
+- **Jobspresso-Scraper**: Scrape high-quality remote jobs.
+- **Outsourcely-Scraper**: Extract jobs for remote workers.
+- **Freelancer-Scraper**: Scrape project listings from Freelancer.com.
+- **Guru-Scraper**: Extract project data from Guru.com.
+- **PeoplePerHour-Scraper**: Scrape freelance tasks from PeoplePerHour.
+- **Toptal-Scraper**: Monitor elite freelance network listings (Concepts).
+- **Gun.io-Scraper**: Tech job scraping for Gun.io.
+- **Hired-Scraper**: Extract job offers from Hired.com.
+- **Vettery-Scraper**: Scrape job matching data from Vettery.
+- **Triplebyte-Scraper**: Monitor tech talent listings.
+- **Codility-Scraper**: Scrape coding challenge data.
+- **HackerRank-Scraper**: Extract job and challenge data from HackerRank.
+- **LeetCode-Scraper**: Monitor LeetCode job listings.
+- **Salary.com-Scraper**: Extract market salary data.
+- **PayScale-Scraper**: Scrape salary and compensation data.
+- **Greenhouse-Scraper**: Extract jobs from Greenhouse-powered boards.
+- **Lever-Scraper**: Extract jobs from Lever-powered boards.
+- **Workday-Scraper**: Automated navigation for Workday job portals.
+- **Taleo-Scraper**: Extract jobs from Taleo-powered portals.
+- **ICIMS-Scraper**: Extract jobs from ICIMS-powered portals.
+- **BambooHR-Scraper**: Scrape job listings from BambooHR.
+- **BreezyHR-Scraper**: Extract jobs from BreezyHR boards.
+- **Recruitee-Scraper**: Scrape job listings from Recruitee.
+- **Teamtailor-Scraper**: Extract jobs from Teamtailor boards.
+- **Ashby-Scraper**: Scrape job listings from Ashby.
+- **Pinpoint-Scraper**: Extract jobs from Pinpoint-powered boards.
+- **Job-Board-RSS-Gen**: Turn job search results into RSS feeds.
+
+## 50 Tools for Scraping Social Media & "State of the World"
+
+- **Snscrape Social**: Scrape Twitter, Reddit, and more without API.
+- **Twint-Zero**: Lightweight Twitter scraper using anonymous guest tokens.
+- **Twitter-Scraper-Selenium**: Selenium-based Twitter scraper for dynamic content.
+- **Nitter-Scraper**: Extract data from Nitter instances for privacy-focused scraping.
+- **Libreddit-Scraper**: Scrape Reddit via Libreddit frontend.
+- **Teddit-Scraper**: Scrape Reddit via Teddit frontend.
+- **Invidious-Scraper**: Extract YouTube data via Invidious instances.
+- **Piped-Scraper**: Scrape YouTube via Piped instances.
+- **Bibliogram-Scraper**: Extract Instagram data via Bibliogram.
+- **Quora-Scraper**: Scrape questions and answers from Quora.
+- **Pinterest-Scraper**: Extract pins and boards from Pinterest.
+- **Tumblr-Scraper**: Scrape posts and images from Tumblr blogs.
+- **Flickr-Scraper**: Extract photos and metadata from Flickr.
+- **DeviantArt-Scraper**: Scrape art and comments from DeviantArt.
+- **Behance-Scraper**: Extract creative projects from Behance.
+- **Dribbble-Scraper**: Scrape design shots from Dribbble.
+- **ArtStation-Scraper**: Extract artwork and portfolios from ArtStation.
+- **Pixiv-Scraper**: Scrape illustrations and comments from Pixiv.
+- **Danbooru-Scraper**: Extract images and tags from Danbooru.
+- **Gelbooru-Scraper**: Scrape images and tags from Gelbooru.
+- **Konachan-Scraper**: Extract images and tags from Konachan.
+- **Yande.re-Scraper**: Scrape images and tags from Yande.re.
+- **Safebooru-Scraper**: Extract images and tags from Safebooru.
+- **Rule34-Scraper**: Scrape images and tags from Rule34.
+- **E621-Scraper**: Extract images and tags from E621.
+- **NHentai-Scraper**: Scrape manga and tags from NHentai.
+- **Hitomi.la-Scraper**: Extract manga and tags from Hitomi.la.
+- **ExHentai-Scraper**: Scrape manga and tags from ExHentai.
+- **MangaDex-Scraper**: Extract manga and comments from MangaDex.
+- **MangaRock-Scraper**: Historical scraper for MangaRock content.
+- **Tachiyomi-Core**: Use Tachiyomi extension logic for massive scraping.
+- **Aniyomi-Core**: Use Aniyomi extension logic for video scraping.
+- **Komga API**: Extract data from Komga media servers.
+- **Kavita API**: Scrape data from Kavita digital libraries.
+- **Ubooquity-Scraper**: Extract metadata from Ubooquity servers.
+- **Calibre-Web-Scraper**: Scrape metadata from Calibre-Web libraries.
+- **LazyLibrarian-Scraper**: Automated metadata scraping for books.
+- **Mylar3-Scraper**: Automated metadata scraping for comics.
+- **Medusa-Scraper**: TV show metadata harvesting.
+- **SickChill-Scraper**: TV show metadata and discovery.
+- **CouchPotato-Scraper**: Movie metadata harvesting.
+- **Headphones-Scraper**: Music metadata harvesting.
+- **Lidarr-Scraper**: Music discovery and metadata.
+- **Readarr-Scraper**: Book discovery and metadata.
+- **Bazarr-Scraper**: Subtitle metadata harvesting.
+- **Prowlarr-Scraper**: Multi-indexer scraping and monitoring.
+- **FlareSolverr-Proxy**: Bypass social media protection.
+- **Jackett-Scraper**: Scrape torrent indexers for content trends.
+- **Hydra2-Scraper**: Meta-search engine for content harvesting.
+- **Social-Sentiment-Scraper**: Real-time sentiment analysis of social feeds.
+
+---
+*End of Arsenal Document*

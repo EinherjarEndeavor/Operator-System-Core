@@ -1,0 +1,11 @@
+Where we are at currently: 
+I just reinstalled Gemini CLI and four extensions
+I was preparing the workspace, trying to gather all of the tool lists into one file - The goal being to set up a final system that I can stick to. 
+
+In one terminal, I encountered problems (as expected) extracting information from files on the computer. I asked it to guide me through it. 
+
+In the other terminal window, I asked it to install extensions and it deferred to the CLI agent. 
+
+I uploaded both of these terminal sessions to Perplexity, which gave me adjustments to the system prompt, and the gemini.md files to correct these permanently - they are all good recommendations. 
+
+The system prompt is not exporting. 

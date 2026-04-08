@@ -1,0 +1,181 @@
+{
+  "guide_metadata": {
+    "target_audience": "Female, Disability, SNAP recipient, Mother",
+    "location": "Washington County, Oregon",
+    "topic": "Ignition Interlock (IID) Financial Assistance & Community Resources",
+    "generated_date": "2025-12-08",
+    "legal_basis": "Oregon Revised Statutes (ORS) 813.603 - Indigent Waiver Standards"
+  },
+  "section_1_iid_financial_waiver_process": {
+    "overview": "SNAP recipients automatically meet 'Indigence Standards' for a full or partial waiver of IID costs. A court order is typically required to force vendors to honor this.",
+    "steps": [
+      {
+        "step": 1,
+        "title": "Obtain Affidavit of Indigency",
+        "instructions": "Go to Washington County Circuit Court. Ask the clerk for the 'Motion and Order for Waiver of IID Costs'.",
+        "required_documents": ["SNAP Award Letter", "Disability Award Letter"]
+      },
+      {
+        "step": 2,
+        "title": "Secure Judge's Signature",
+        "instructions": "Fill out the motion at the courthouse. A judge must sign it. This order legally compels the vendor to waive fees."
+      },
+      {
+        "step": 3,
+        "title": "Contact Vendor",
+        "instructions": "Call the local number (not the national hotline if possible). State clearly: 'I have a court order for an indigent fee waiver and I am on SNAP.'"
+      }
+    ]
+  },
+  "section_2_approved_iid_vendors": [
+    {
+      "company": "LifeSafer",
+      "locations": [
+        {
+          "city": "Hillsboro",
+          "address": "631 SW Baseline St, Hillsboro, OR 97123",
+          "phone": "(800) 328-9890",
+          "notes": "Located inside Fuel Monkey Performance"
+        },
+        {
+          "city": "Tigard",
+          "address": "8168 SW Durham Rd, Tigard, OR 97224",
+          "phone": "(800) 328-9890"
+        }
+      ]
+    },
+    {
+      "company": "Intoxalock",
+      "locations": [
+        {
+          "city": "Hillsboro",
+          "address": "561 SE 3rd Ave, Hillsboro, OR 97123",
+          "phone": "(515) 331-7513",
+          "notes": "Located inside PK’s Garage"
+        },
+        {
+          "city": "Beaverton",
+          "address": "12195 SW Canyon Rd, Beaverton, OR 97005",
+          "phone": "(503) 672-9585",
+          "notes": "Located inside Car Toys"
+        }
+      ]
+    },
+    {
+      "company": "Smart Start",
+      "locations": [
+        {
+          "city": "Portland (Nearest)",
+          "address": "7491 SE Overland St, Portland, OR 97222",
+          "phone": "(503) 473-0076"
+        }
+      ]
+    }
+  ],
+  "section_3_community_resources": {
+    "holiday_assistance": [
+      {
+        "name": "Tualatin Valley Fire & Rescue 'Toy & Joy'",
+        "description": "Toys for children.",
+        "action": "Call for local partner agency referral.",
+        "phone": "(503) 649-8577"
+      },
+      {
+        "name": "Salvation Army Washington County",
+        "description": "Angel Tree toys and holiday food boxes.",
+        "address": "1440 SE 21st Ave, Hillsboro, OR 97123",
+        "phone": "(503) 640-4311"
+      },
+      {
+        "name": "Santa's Posse",
+        "description": "Food and toy delivery by local law enforcement.",
+        "action": "Contact child's school counselor for referral."
+      }
+    ],
+    "food_and_groceries": [
+      {
+        "name": "Double Up Food Bucks",
+        "description": "Matches SNAP spent on produce $1-for-$1 (up to $20/day).",
+        "location": "Participating stores (e.g., WinCo) and Farmers Markets."
+      },
+      {
+        "name": "St. Vincent de Paul Hillsboro",
+        "description": "Shopping-style food pantry.",
+        "address": "442 SE 3rd Ave, Hillsboro, OR 97123",
+        "phone": "(503) 693-7528",
+        "hours": "Mon-Fri 9:00 AM – 11:30 AM"
+      },
+      {
+        "name": "Urban Gleaners (Vose Elementary Market)",
+        "description": "Free fresh food market, no ID required.",
+        "address": "11350 SW Denney Rd, Beaverton, OR",
+        "website": "urbangleaners.org"
+      }
+    ],
+    "mother_and_child": [
+      {
+        "name": "Mother & Child Education Center",
+        "description": "Free diapers, wipes, baby clothes (0-5T), maternity wear.",
+        "phone": "(503) 249-5801"
+      },
+      {
+        "name": "PDX Diaper Bank",
+        "description": "Free diapers and incontinence supplies.",
+        "action": "Must get referral from DHS Caseworker or WIC officer."
+      },
+      {
+        "name": "Clothes for Kids",
+        "description": "Free school wardrobe for Beaverton School District students.",
+        "action": "Contact school secretary."
+      },
+      {
+        "name": "WIC Washington County",
+        "description": "Nutrition for moms and kids under 5.",
+        "address": "266 W Main St, Hillsboro, OR",
+        "phone": "(503) 846-3555"
+      }
+    ],
+    "health_and_disability": [
+      {
+        "name": "Washington County DAVS",
+        "description": "Disability, Aging & Veteran Services - central hub for benefits counseling.",
+        "phone": "(503) 846-3060"
+      },
+      {
+        "name": "Virginia Garcia Memorial Health Center",
+        "description": "Medical and dental care on sliding scale (often $0).",
+        "address": "226 SE 8th Ave, Hillsboro, OR 97123",
+        "phone": "(503) 601-7400"
+      },
+      {
+        "name": "Ride Connection",
+        "description": "Free door-to-door transportation for seniors/disabled.",
+        "phone": "(503) 226-0700"
+      }
+    ],
+    "legal_and_housing": [
+      {
+        "name": "Washington County Circuit Court",
+        "description": "Venue for filing fee waivers.",
+        "address": "150 NE 3rd Ave, Hillsboro, OR 97124",
+        "phone": "(503) 846-8888"
+      },
+      {
+        "name": "Legal Aid Services of Oregon (Hillsboro)",
+        "description": "Free legal help for low-income clients.",
+        "address": "230 NE 2nd Ave, Suite F, Hillsboro, OR 97124",
+        "phone": "(503) 640-4115"
+      },
+      {
+        "name": "Community Action Energy Assistance",
+        "description": "Utility bill assistance.",
+        "phone": "(503) 615-0771"
+      }
+    ]
+  },
+  "section_4_faq": {
+    "question": "Can the housing coordinator's 'Declaration of Homelessness' form be used for IID waivers?",
+    "answer": "No. While the eligibility criteria are similar, IID vendors and the Court require a specific 'Motion and Order for Waiver of IID Costs'.",
+    "corrective_action": "Use the housing form as proof of status to obtain the correct court order from the Washington County Circuit Court."
+  }
+}

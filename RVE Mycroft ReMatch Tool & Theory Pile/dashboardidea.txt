@@ -1,0 +1,11 @@
+Have a dashboard on startup 
+
+Hello Baron Von Einherjar! 
+We were last working on : 
+Your current projects flagged as critical are: 
+Your current to do list reservoir (non-atomized) is: 
+Would you like to see the atomized version of your to do list reservoir? 
+Would you like to be recommended a project to train a new skill? 
+Would you like to add a journal entry? 
+Here is your progress, as inferred from a comparison from 48 hours ago to 24 hours ago: 
+Based on your current standing and snapshot, I can recommend that: 

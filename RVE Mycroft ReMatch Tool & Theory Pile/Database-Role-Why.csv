@@ -1,0 +1,5 @@
+"Database","Role","Why"
+"SQLite","Structured data — logs, tags, metadata, exercise, opportunities","Zero-config, in-process, universal"
+"LanceDB","Primary local vector store — all semantic/RAG retrieval","Best embedded vector DB as of 2026; zero-copy, versioned, disk-indexed encore"
+"DuckDB","Analytical queries across files/databases","Jan 2026 update enables SQL-native hybrid queries over LanceDB: SELECT * FROM docs WHERE vector_search(...) letsdatascience"
+"Qdrant (Docker)","Scale option when a collection exceeds ~500K docs","Rust-based, rich payload filtering, dense+sparse hybrid index since v1.15 altexsoft"
