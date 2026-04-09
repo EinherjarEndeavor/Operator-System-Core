@@ -267,6 +267,14 @@
   },
   "active": "4f4352bd0ad4388f",
   "lastOpenFiles": [
+    "Control/exports/context-latest.json",
+    "Control/exports",
+    "Control/Scripts/rve_core.py",
+    "Control/Scripts/patch_rve_schema.py",
+    "Control/Docs/RVE-IMPLEMENTATION-PATCH-CHECKLIST.md",
+    "Control/Docs/RVE-DIFF-ROLLOUT-VS-CANON.md",
+    "Control/Docs/RVE-CANON-REFERENCE-MAP.md",
+    "Control/Docs/SYSTEMS-AND-TOOLS-UPGRADE-ROADMAP.md",
     "Control/Scripts/commit_final_deltas.py",
     "Control/ProposedDeltas/DELTAS_FINAL_POPULATION_SOURCE.md",
     "Control/ProposedDeltas/DELTAS_FINAL_MASTER.md",
@@ -295,14 +303,6 @@
     "GitCom starring Dracula Backwards/Wave1Canon/ShaneWJohnsData/CERTIFICATE (1).html",
     "GitCom starring Dracula Backwards/Wave1Canon/ShaneWJohnsData",
     "ShaneWJohnsData/RESUME (1).html",
-    "ShaneWJohnsData/COVER_LETTER (1).html",
-    "ShaneWJohnsData/ShaneJohnsRe.MatchAnswers4.8.26.txt",
-    "ShaneWJohnsData/CERTIFICATE (1).html",
-    "ShaneWJohnsData",
-    "Control/SOVEREIGN_DOCTRINE.md",
-    "Control/Docs/EXHAUSTIVE_FAILURE_AUDIT.md",
-    "Control/Docs/SYSTEMIC_FAILURE_ANALYSIS_V2.md",
-    "Control/Docs/SYSTEMIC_FAILURE_ANALYSIS.md",
     "GitCom starring Dracula Backwards/passover notes in image form unfortunately.png"
   ]
 }

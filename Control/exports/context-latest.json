@@ -1,0 +1,236 @@
+{
+  "identity": [
+    {
+      "fact": "User Age",
+      "value": "35"
+    },
+    {
+      "fact": "Sobriety Anchor",
+      "value": "2025-09-19"
+    },
+    {
+      "fact": "Location",
+      "value": "Hillsboro OR (Shelter)"
+    },
+    {
+      "fact": "Legal Status",
+      "value": "Probation (Washington County)"
+    },
+    {
+      "fact": "PO Name",
+      "value": "Asianna 'Asia' Nelson"
+    },
+    {
+      "fact": "Current Goal",
+      "value": "AI/ML Engineering & Autonomous Systems"
+    },
+    {
+      "fact": "Income Mode",
+      "value": "Gig/Freelance (Target $2k/mo)"
+    },
+    {
+      "fact": "Mailing Address",
+      "value": "1710 SW Harvey Way, Aloha, OR"
+    },
+    {
+      "fact": "Contact Phone",
+      "value": "971-490-1351"
+    },
+    {
+      "fact": "Medical Constraint",
+      "value": "Nerve compression palsy (left hand)"
+    },
+    {
+      "fact": "Debt - Landlord",
+      "value": "$15,000"
+    },
+    {
+      "fact": "Debt - Banks",
+      "value": "$2,000"
+    },
+    {
+      "fact": "Treatment Status",
+      "value": "Intensive Outpatient @ CODA (Mandated)"
+    },
+    {
+      "fact": "Education Goal",
+      "value": "Summer term enrollment (Plan by 5/1/26)"
+    },
+    {
+      "fact": "Fitness Habit",
+      "value": "Weight training, HIIT, Zone 2, Stairmaster"
+    },
+    {
+      "fact": "Psychological Profile",
+      "value": "ADHD, Hyperfocus patterns, Self-directed"
+    },
+    {
+      "fact": "age",
+      "value": "35"
+    },
+    {
+      "fact": "gender",
+      "value": "Male"
+    },
+    {
+      "fact": "location",
+      "value": "Hillsboro, OR shelter; Beaverton/Portland range"
+    },
+    {
+      "fact": "housing",
+      "value": "Secured shelter indefinitely; stable for now"
+    },
+    {
+      "fact": "transport",
+      "value": "Bus or MAX"
+    },
+    {
+      "fact": "mailing_address",
+      "value": "1710 SW Harvey Way, Aloha, OR"
+    },
+    {
+      "fact": "internet_access",
+      "value": "Active; access everywhere"
+    },
+    {
+      "fact": "id_checklist",
+      "value": "ID and Social Security Card possessed"
+    },
+    {
+      "fact": "medical",
+      "value": "Nerve compression palsy left hand; arms fall asleep; spinal/neck deviations; bad back; feet conditions; 5 teeth extracted"
+    },
+    {
+      "fact": "mental_health",
+      "value": "Diagnosed depression, SUD, ADHD; hyperfocus patterns; psychosis history"
+    },
+    {
+      "fact": "insurance",
+      "value": "OHP / CareOregon (Dental, Vision, Mental, Physical)"
+    },
+    {
+      "fact": "recovery_status",
+      "value": "6 months sober (Fentanyl, Alcohol, Meth) as of Apr 2026"
+    },
+    {
+      "fact": "treatment_type",
+      "value": "Intensive Outpatient at CODA"
+    },
+    {
+      "fact": "income_mode",
+      "value": "None; wants gig/freelance/temp; eligible for disability/SSI"
+    },
+    {
+      "fact": "income_goal",
+      "value": "$2,000/month"
+    },
+    {
+      "fact": "outstanding_fines",
+      "value": "$15,000 (Apt); $2,000 (Banks); $50 (Library)"
+    },
+    {
+      "fact": "legal_status",
+      "value": "On probation (Washington County); monthly meetings"
+    },
+    {
+      "fact": "skills",
+      "value": "AI/ML, Prompt Engineering, Agentic AI, CLI, Python, Linux, OSINT"
+    },
+    {
+      "fact": "age",
+      "value": "35"
+    },
+    {
+      "fact": "gender",
+      "value": "Male"
+    },
+    {
+      "fact": "location",
+      "value": "Hillsboro, OR shelter; Beaverton/Portland range"
+    },
+    {
+      "fact": "housing",
+      "value": "Secured shelter indefinitely; stable for now"
+    },
+    {
+      "fact": "transport",
+      "value": "Bus or MAX"
+    },
+    {
+      "fact": "mailing_address",
+      "value": "1710 SW Harvey Way, Aloha, OR"
+    },
+    {
+      "fact": "internet_access",
+      "value": "Active; access everywhere"
+    },
+    {
+      "fact": "id_checklist",
+      "value": "ID and Social Security Card possessed"
+    },
+    {
+      "fact": "medical",
+      "value": "Nerve compression palsy left hand; arms fall asleep; spinal/neck deviations; bad back; feet conditions; 5 teeth extracted"
+    },
+    {
+      "fact": "mental_health",
+      "value": "Diagnosed depression, SUD, ADHD; hyperfocus patterns; psychosis history"
+    },
+    {
+      "fact": "insurance",
+      "value": "OHP / CareOregon (Dental, Vision, Mental, Physical)"
+    },
+    {
+      "fact": "recovery_status",
+      "value": "6 months sober (Fentanyl, Alcohol, Meth) as of Apr 2026"
+    },
+    {
+      "fact": "treatment_type",
+      "value": "Intensive Outpatient at CODA"
+    },
+    {
+      "fact": "income_mode",
+      "value": "None; wants gig/freelance/temp; eligible for disability/SSI"
+    },
+    {
+      "fact": "income_goal",
+      "value": "$2,000/month"
+    },
+    {
+      "fact": "outstanding_fines",
+      "value": "$15,000 (Apt); $2,000 (Banks); $50 (Library)"
+    },
+    {
+      "fact": "legal_status",
+      "value": "On probation (Washington County); monthly meetings"
+    },
+    {
+      "fact": "skills",
+      "value": "AI/ML, Prompt Engineering, Agentic AI, CLI, Python, Linux, OSINT"
+    }
+  ],
+  "active_projects": [],
+  "ready_tasks": [],
+  "obligations": [
+    {
+      "title": "Morning Coffee",
+      "start_time": "05:30",
+      "day_pattern": "DAILY"
+    },
+    {
+      "title": "CODA IOP",
+      "start_time": "10:00",
+      "day_pattern": "M-T-W-TH"
+    },
+    {
+      "title": "Daily Exercise",
+      "start_time": "08:00",
+      "day_pattern": "DAILY"
+    },
+    {
+      "title": "Evening Review",
+      "start_time": "21:30",
+      "day_pattern": "DAILY"
+    }
+  ]
+}
