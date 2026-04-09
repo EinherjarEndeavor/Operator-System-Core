@@ -1,4 +1,4 @@
-﻿# Tar0tscepter Systems Lab
+# Tar0tscepter Systems Lab
 
 **Live Site:** [https://tar0tscepter.github.io/](https://tar0tscepter.github.io/)
 

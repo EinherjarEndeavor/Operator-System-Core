@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GitCom starring Dracula Backwards/RVE Mycroft ReMatch Tool & Theory Pile/Comprehensive_Archive_Shane.md",
+                "file": "Control/ProposedDeltas/batch_01_tasks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Comprehensive_Archive_Shane"
+              "title": "batch_01_tasks"
             }
           }
         ],
@@ -267,6 +267,14 @@
   },
   "active": "4f4352bd0ad4388f",
   "lastOpenFiles": [
+    "Control/ProposedDeltas/batch_07_second_wind.md",
+    "Control/ProposedDeltas/batch_03_passover_canon.md",
+    "Control/ProposedDeltas/batch_06_professional_context.md",
+    "Control/ProposedDeltas/batch_05_rematch_deep.md",
+    "Control/ProposedDeltas/batch_04_system_blueprint.md",
+    "Control/ProposedDeltas/batch_02_raw_canon.md",
+    "Control/ProposedDeltas/batch_01_tasks.md",
+    "GitCom starring Dracula Backwards/RVE Mycroft ReMatch Tool & Theory Pile/Comprehensive_Archive_Shane.md",
     "GitCom starring Dracula Backwards/Wave1Canon/ShaneWJohnsData/ShaneJohnsRe.MatchAnswers4.8.26.txt",
     "GitCom starring Dracula Backwards/Wave1Canon/ShaneWJohnsData/RESUME (1).html",
     "GitCom starring Dracula Backwards/Wave1Canon/ShaneWJohnsData/COVER_LETTER (1).html",
@@ -277,7 +285,6 @@
     "ShaneWJohnsData/ShaneJohnsRe.MatchAnswers4.8.26.txt",
     "ShaneWJohnsData/CERTIFICATE (1).html",
     "ShaneWJohnsData",
-    "New folder",
     "Control/SOVEREIGN_DOCTRINE.md",
     "Control/Docs/EXHAUSTIVE_FAILURE_AUDIT.md",
     "Control/Docs/SYSTEMIC_FAILURE_ANALYSIS_V2.md",
@@ -296,13 +303,6 @@
     "GitCom starring Dracula Backwards/RVE Mycroft ReMatch Tool & Theory Pile/deep-research-report (2).md",
     "GitCom starring Dracula Backwards/RVE Mycroft ReMatch Tool & Theory Pile/DeepResearch DeepResearchReport(5).md",
     "GitCom starring Dracula Backwards/RVE Mycroft ReMatch Tool & Theory Pile/Re.Match Form Audit (DeepResearchReport).md",
-    "GitCom starring Dracula Backwards/RVE Mycroft ReMatch Tool & Theory Pile/Deep Research Workflow Ideas.md",
-    "GitCom starring Dracula Backwards/RVE Mycroft ReMatch Tool & Theory Pile/Deep Research Tools.md",
-    "GitCom starring Dracula Backwards/RVE Mycroft ReMatch Tool & Theory Pile/deep-research-report5.md",
-    "GitCom starring Dracula Backwards/UNIVERSAL_COGNITIVE_ARCHITECTURE_V4.md",
-    "GitCom starring Dracula Backwards/Untitled.md",
-    "GitCom starring Dracula Backwards/System Prompt & Slash Commands.md",
-    "GitCom starring Dracula Backwards/SlashCommands&CombosRAW.md",
     "GitCom starring Dracula Backwards/passover notes in image form unfortunately.png"
   ]
 }
