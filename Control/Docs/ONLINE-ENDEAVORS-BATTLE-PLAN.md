@@ -1,110 +1,75 @@
 # ONLINE ENDEAVORS BATTLE PLAN
 
-Status: Proposed canon plan
-Purpose: Turn scattered online ambitions into a unified campaign map tied to portfolio, income, visibility, and mission.
+Status: Reinforced canon plan
+Purpose: Turn scattered online ambitions into a unified campaign map tied to portfolio, income, visibility, and mission. Define core audiences, flagship outputs, and strict anti-drift rules.
 
 ## 1. Core objective
 
-Use the internet not as a distraction sink, but as a leverage layer for:
-- proving capability
-- generating opportunities
-- publishing useful artifacts
-- building income paths
-- attracting aligned collaborators and institutions
+Use the internet not as a distraction sink, but as a leverage layer for: proving capability, generating opportunities, publishing useful artifacts, building income paths, and attracting aligned collaborators and institutions.
 
-## 2. Major online fronts
+## 2. Core Audiences
 
-### Front A — Portfolio and proof
-Goal: create visible proof that the operator can build systems, synthesize doctrine, and ship useful artifacts.
+- **Audience A — Programs / admissions / institutions:** Need evidence of seriousness, follow-through, coherent project explanations, and credible recovery narrative.
+- **Audience B — Collaborators / engineers / builders:** Need clean repos, feature-driven specs, example artifacts, and clarity of what exists vs planned.
+- **Audience C — Constrained end-users / clients:** Need clarity, usefulness, direct next steps, and outputs that reduce overwhelm.
+- **Audience D — Opportunity providers / supporters / partners:** Need mission clarity, proof of utility, believable scope, and evidence the work helps real people.
 
-Outputs:
-- clean GitHub repos
-- concise canon docs
-- public-facing website improvements
-- selected case-study artifacts
+## 3. Flagship Output Types
 
-### Front B — Opportunity capture
-Goal: use online presence to improve applications, partnerships, scholarship access, and program admission.
+The online layer should prioritize these flagship artifact classes:
+1. Project canon / README-quality overviews
+2. Case-study artifacts
+3. Service explainers
+4. Research-to-canon transformation examples
+5. Selected public-facing proof pages
 
-Outputs:
-- polished application materials
-- tailored dossiers
-- strong project descriptions
-- coherent narrative of recovery + capability + systems work
+## 4. Publish / Private Split
 
-### Front C — Service utility
-Goal: create useful outputs for others through Re.Match, recovery/reentry tools, and structured guidance assets.
+**Publish-ready by default:**
+- project overviews
+- feature-driven specs with sensitive details removed
+- selected case studies
+- general methodology docs
+- public portfolio artifacts
 
-Outputs:
-- intake-based dossiers
-- resource maps
-- process docs
-- small service offerings
+**Private by default:**
+- raw personal corpus
+- sensitive constraints and legal specifics unless necessary
+- internal control docs with operational security implications
+- draft mission prose that is not yet sharp
 
-### Front D — Content and thought assets
-Goal: transform research, notes, and doctrine into usable public artifacts.
+## 5. Major Online Fronts & Campaign Priorities
 
-Outputs:
-- explainers
-- guides
-- reports
-- feature writeups
-- educational system docs
+### Campaign 1 — Proof of competence (Front A: Portfolio and proof)
+Goal: show the operator can turn chaos into clean deliverables.
+Artifacts: portfolio canon, RVE feature canon, research-to-canon examples.
 
-### Front E — Income experiments
-Goal: identify small online earning paths that reinforce the portfolio instead of distracting from it.
+### Campaign 2 — Service legitimacy (Front C: Service utility)
+Goal: make Re.Match legible as a real service idea rather than a passionate monologue.
+Artifacts: service explainer, intake contract, dossier structure.
 
-Possible channels:
-- freelance technical / research assistance
-- dossier / systems consulting
-- writing and synthesis services
-- portfolio-driven opportunity capture
+### Campaign 3 — Recovery-to-capability narrative (Front D: Content and thought assets)
+Goal: demonstrate reconstruction and disciplined skill-building are real.
+Artifacts: concise mission pieces, selected story fragments anchored in proof, project outputs.
 
-## 3. What to avoid
+### Campaign 4 — Opportunity capture (Front B & E: Capture & Income)
+Goal: improve odds for admissions, partnerships, scholarships, and gigs.
+Artifacts: tailored application materials, proof-of-work docs, focused project pages, small service offerings.
 
-- posting scattered half-finished identity experiments
-- overexplaining unfinished infrastructure
-- building huge public-facing promises before the workflow is stable
-- spreading effort across too many platforms at once
+## 6. Output Cadence & Operational Principle
 
-## 4. Current campaign priorities
+- **Cadence:** Maintain canon internally first. Promote only sharpened artifacts outward. Prefer one strong flagship output over five scattered posts.
+- **Operational Principle:** Online endeavors should reinforce the main projects. If an online action does not produce proof, opportunity, income, artifact reuse, or mission-aligned network growth, deprioritize it.
 
-### Priority 1 — Canon and portfolio clarity
-First the system must become understandable.
-If the work is scattered and contradictory, the online layer cannot convert it into opportunity.
+## 7. Anti-Drift Rules & Red-Team Warning
 
-### Priority 2 — RVE operational proof
-Being able to show a functioning personal operating system / execution engine is powerful proof.
+**Anti-drift rules:**
+1. Do not publish architecture fantasies as if they are shipped systems.
+2. Do not let branding outrun product clarity.
+3. Do not create more channels than flagship artifacts.
+4. Every public artifact should strengthen one of the core projects.
+5. If a public-facing effort produces no proof, no opportunity, and no reuse, deprioritize it.
 
-### Priority 3 — Re.Match service proof
-A small number of strong examples beat a vague huge mission.
+**Success Condition:** The online layer is working when a stranger can understand what the main projects are, what is real today, what problem each solves, and why the operator is worth taking seriously.
 
-### Priority 4 — Research-to-canon proof
-Demonstrate the ability to convert chaotic source piles into clean, actionable doctrine.
-
-## 5. Suggested near-term outputs
-
-1. one clean project portfolio canon
-2. one public-facing concise project map
-3. one RVE case-study page or README-quality artifact
-4. one Re.Match service explainer and example dossier structure
-5. one or two strong research-to-canon examples
-
-## 6. Operational principle
-
-Online endeavors should reinforce the main projects.
-If an online action does not produce one of the following, deprioritize it:
-- proof
-- opportunity
-- income
-- artifact reuse
-- mission-aligned network growth
-
-## 7. Red-team warning
-
-The internet layer fails when it becomes:
-- performative productivity
-- endless branding before product clarity
-- too many channels with no flagship outputs
-
-The internet layer wins when each public-facing artifact strengthens at least one core project and creates leverage beyond the immediate post.
+**Red-team warning:** The internet layer fails when it becomes performative productivity or endless branding before product clarity. It wins when each public-facing artifact strengthens a core project.

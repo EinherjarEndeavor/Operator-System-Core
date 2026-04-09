@@ -1,14 +1,13 @@
 # REMATCH FEATURE-DRIVEN CANON SPEC
 
-Status: Proposed canon spec
-Purpose: Convert the Re.Match concept from scattered mission prose into a buildable service definition.
+Status: Reinforced MVP Contract
+Purpose: Convert the Re.Match concept from scattered mission prose into a buildable service definition, detailing the minimum viable matching logic and dossier output contract.
 
 ## 1. Product definition
 
-Re.Match is a constraint-based resource and opportunity matching service for justice-involved, recovery, housing-insecure, and otherwise highly constrained people.
+Re.Match is a constraint-based resource and opportunity matching service for justice-involved, recovery, housing-insecure, and otherwise highly constrained people. It doesn't just "find jobs"—it utilizes the specific "constellation of circumstance" to unlock high-tier scholarships, specialized grants, and opportunities that others cannot access.
 
-It is not generic job search.
-It is profile-aware matching plus dossier generation.
+It is not generic job search. It is profile-aware matching plus dossier generation.
 
 ## 2. Primary user promise
 
@@ -24,52 +23,83 @@ If a client provides a complete enough profile, Re.Match can return a prioritize
 6. action-plan packaging
 7. follow-up updates as circumstances change
 
-## 4. Core features
+## 4. Intake Domains
 
-### Feature 1 — Full-spectrum intake
-The intake must capture enough information to fill out or qualify against many different forms and programs.
+A usable intake must cover these domains:
+1. identity/contact
+2. location/transportation
+3. housing status and barriers
+4. legal / supervision constraints
+5. recovery / treatment status
+6. education and training
+7. employment / income / benefits
+8. health / insurance / support needs
+9. goals, interests, and affinities
+10. immediate deadlines / active applications / near-term priorities
 
-The profile should include:
-- identity / contact basics
-- location and transportation
-- housing status and housing barriers
-- legal and justice-system history where relevant
-- recovery / treatment status
-- education / employment / goals
-- benefits and insurance
-- income and financial constraints
-- interests, affinities, and growth directions
-- deadlines, active applications, and near-term priorities
+## 5. Opportunity Record Minimum Fields
 
-### Feature 2 — Constraint-aware matching
-Matching must account for:
-- hard eligibility
-- exclusions / disqualifiers
-- geography
-- timing
-- barriers
-- likely life impact
+Each opportunity/support record should have, at minimum:
+- title
+- category/domain
+- geographic scope
+- hard eligibility criteria
+- likely fit dimensions
+- action steps
+- key deadlines or timing constraints
+- source/provenance
+- notes / cautions / common blockers
 
-### Feature 3 — No-redundancy logic
-The system should avoid returning opportunities already pursued, completed, or known unless there is a new reason to revisit them.
+## 6. Matching Logic Order
 
-### Feature 4 — Dossier output
-Output is not just a list.
-It is a dossier organized by life category with:
-- recommendation name
-- why it fits
-- eligibility basis
-- required next step
-- deadlines / prerequisites
-- notes and cautions
+Match in this order:
+1. hard eligibility
+2. hard disqualifiers
+3. geography / access fit
+4. timing fit
+5. barrier compatibility
+6. likely life-impact potential
+7. redundancy check
 
-### Feature 5 — Opportunity knowledge base
-The service needs a maintained opportunity database so every case does not require full deep research from scratch.
+**Rule:** A recommendation must not appear simply because it is generally good. It must fit the specific profile and current circumstance.
 
-### Feature 6 — Humanly useful output
-The dossier must be understandable by a stressed user with limited time, limited tech fluency, and limited executive bandwidth.
+## 7. Recommendation Classes
 
-## 5. Non-goals for current phase
+- **CLASS A — Immediate action:** Fits now, actionable now, high life impact.
+- **CLASS B — Near-term setup:** Not immediately actionable, but should be prepared now for later use.
+- **CLASS C — Monitor / revisit:** Potentially relevant later, but not worth current action.
+
+## 8. Redundancy Rules & Review Triggers
+
+**Redundancy Rules:** Do not recommend items that are already completed, actively pursued, or known and exhausted, UNLESS:
+- eligibility situation changed
+- timing window changed
+- prior attempt failed for a now-resolved reason
+
+**Review Triggers:** Require review before inclusion when:
+- eligibility is uncertain
+- geography/access is unclear
+- recommendation is prestige-oriented but weakly actionable
+- recommendation duplicates another item with lower value
+
+## 9. Dossier Contract
+
+Output is not just a list. Each dossier should include:
+
+**Section 1 — Summary**
+- client snapshot, most important constraints, most important opportunities, immediate next-step emphasis
+
+**Section 2 — Category recommendations**
+For each category:
+- recommendation title, why it fits, eligibility basis, why it matters, action steps, notes/cautions
+
+**Section 3 — Immediate action queue**
+Top 3–7 next actions across the whole dossier.
+
+**Section 4 — Deferred / monitor list**
+Items worth keeping in view but not pursuing immediately.
+
+## 10. Non-goals for current phase
 
 Re.Match does not currently need:
 - perfect end-to-end automation
@@ -77,47 +107,20 @@ Re.Match does not currently need:
 - production-scale client ops stack
 - fancy ML matching beyond strong rule-based and AI-assisted reasoning
 
-## 6. Current MVP operational mode
+## 11. Acceptance criteria & Go-Live
 
-The likely MVP is:
-- structured intake form
-- manually/AI-assisted profile normalization
-- curated opportunity knowledge base
-- dossier generation with explicit action steps
+Re.Match MVP is successful when:
+1. one intake profile is normalized cleanly
+2. one dossier is generated with clear category structure using existing opportunity knowledge
+3. each recommendation has a traceable reason for inclusion and is non-redundant
+4. the dossier contains an immediate action queue that would actually help the user
 
-This is already enough to create value.
+## 12. Red-team warning
 
-## 7. What must be canonized next
+Re.Match fails when:
+- it becomes generic internet searching with better rhetoric
+- it recommends the same stale resources repeatedly
+- dossiers become long but not decisive
+- intake captures many details but the output still feels vague
 
-### Intake canon
-A definitive intake schema with required and optional fields.
-
-### Opportunity canon
-A normalized schema for opportunities and supports.
-
-### Matching canon
-Rules for:
-- eligibility
-- fit ranking
-- redundancy checking
-- dossier composition
-
-### Output canon
-A dossier format that remains consistent across clients.
-
-## 8. Acceptance criteria
-
-Re.Match current phase is successful when:
-1. one intake profile can be normalized cleanly
-2. one dossier can be generated from that profile using existing opportunity knowledge
-3. the dossier is clear, actionable, and non-redundant
-4. the service can explain why each recommendation was included
-
-## 9. Red-team warning
-
-Re.Match fails when it becomes:
-- a giant social-mission essay with no repeatable workflow
-- a database fantasy before intake and dossier formats are stable
-- generic search disguised as matching
-
-Re.Match wins when a constrained user receives a materially useful, accurate next-step package that they would not have found alone.
+Re.Match wins when the recipient gets a materially better, more targeted next-step package than they could have assembled alone.
