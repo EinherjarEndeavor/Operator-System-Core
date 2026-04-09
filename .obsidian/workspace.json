@@ -267,6 +267,7 @@
   },
   "active": "4f4352bd0ad4388f",
   "lastOpenFiles": [
+    "Control/Scripts/sovereign_population.py",
     "Control/Scripts/rve_cli.py",
     "Control/Scripts/harden_rve_schema.py",
     "Control/Docs/RVE-SCHEMA-MIGRATION-PLAN.md",
@@ -302,7 +303,6 @@
     "GitCom starring Dracula Backwards/Wave1Canon/ShaneWJohnsData/ShaneJohnsRe.MatchAnswers4.8.26.txt",
     "GitCom starring Dracula Backwards/Wave1Canon/ShaneWJohnsData/RESUME (1).html",
     "GitCom starring Dracula Backwards/Wave1Canon/ShaneWJohnsData/COVER_LETTER (1).html",
-    "GitCom starring Dracula Backwards/Wave1Canon/ShaneWJohnsData/CERTIFICATE (1).html",
     "GitCom starring Dracula Backwards/passover notes in image form unfortunately.png"
   ]
 }
