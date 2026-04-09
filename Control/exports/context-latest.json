@@ -1,5 +1,7 @@
 {
-  "identity": [
+  "projects": [],
+  "top_tasks": [],
+  "profile": [
     {
       "fact": "User Age",
       "value": "35"
@@ -207,30 +209,6 @@
     {
       "fact": "skills",
       "value": "AI/ML, Prompt Engineering, Agentic AI, CLI, Python, Linux, OSINT"
-    }
-  ],
-  "active_projects": [],
-  "ready_tasks": [],
-  "obligations": [
-    {
-      "title": "Morning Coffee",
-      "start_time": "05:30",
-      "day_pattern": "DAILY"
-    },
-    {
-      "title": "CODA IOP",
-      "start_time": "10:00",
-      "day_pattern": "M-T-W-TH"
-    },
-    {
-      "title": "Daily Exercise",
-      "start_time": "08:00",
-      "day_pattern": "DAILY"
-    },
-    {
-      "title": "Evening Review",
-      "start_time": "21:30",
-      "day_pattern": "DAILY"
     }
   ]
 }

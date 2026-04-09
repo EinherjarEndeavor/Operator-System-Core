@@ -267,6 +267,10 @@
   },
   "active": "4f4352bd0ad4388f",
   "lastOpenFiles": [
+    "Control/Scripts/rve_cli.py",
+    "Control/Scripts/harden_rve_schema.py",
+    "Control/Docs/RVE-SCHEMA-MIGRATION-PLAN.md",
+    "Control/Docs/RVE-COMMAND-BEHAVIOR-CONTRACT.md",
     "Control/exports/context-latest.json",
     "Control/exports",
     "Control/Scripts/rve_core.py",
@@ -295,14 +299,10 @@
     "Control/Docs/WAVE1CANON-CANONIZATION-PIPELINE.md",
     "Control/Docs/RVE-FEATURE-DRIVEN-CANON-SPEC.md",
     "Control/Docs/REMATCH-FEATURE-DRIVEN-CANON-SPEC.md",
-    "Control/Docs/ONLINE-ENDEAVORS-BATTLE-PLAN.md",
-    "GitCom starring Dracula Backwards/RVE Mycroft ReMatch Tool & Theory Pile/Comprehensive_Archive_Shane.md",
     "GitCom starring Dracula Backwards/Wave1Canon/ShaneWJohnsData/ShaneJohnsRe.MatchAnswers4.8.26.txt",
     "GitCom starring Dracula Backwards/Wave1Canon/ShaneWJohnsData/RESUME (1).html",
     "GitCom starring Dracula Backwards/Wave1Canon/ShaneWJohnsData/COVER_LETTER (1).html",
     "GitCom starring Dracula Backwards/Wave1Canon/ShaneWJohnsData/CERTIFICATE (1).html",
-    "GitCom starring Dracula Backwards/Wave1Canon/ShaneWJohnsData",
-    "ShaneWJohnsData/RESUME (1).html",
     "GitCom starring Dracula Backwards/passover notes in image form unfortunately.png"
   ]
 }
