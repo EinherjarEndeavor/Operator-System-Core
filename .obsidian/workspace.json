@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Control/ProposedDeltas/batch_05_rematch_deep.md",
+                "file": "Control/ProposedDeltas/batch_01_tasks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "batch_05_rematch_deep"
+              "title": "batch_01_tasks"
             }
           }
         ],
@@ -267,13 +267,16 @@
   },
   "active": "4f4352bd0ad4388f",
   "lastOpenFiles": [
-    "Control/ProposedDeltas/batch_04_system_blueprint.md",
-    "Control/ProposedDeltas/batch_01_tasks.md",
+    "Control/ProposedDeltas/batch_08_compliance_narrative.md",
     "Control/ProposedDeltas/batch_02_raw_canon.md",
     "Control/ProposedDeltas/batch_03_passover_canon.md",
+    "Control/ProposedDeltas/batch_04_system_blueprint.md",
     "Control/ProposedDeltas/batch_07_second_wind.md",
     "Control/ProposedDeltas/batch_06_professional_context.md",
     "Control/ProposedDeltas/batch_05_rematch_deep.md",
+    "Control/Docs/RVE-MVP-OPERATIONAL-CONTRACT.md",
+    "Control/Docs/PROJECT-PORTFOLIO-GOVERNANCE.md",
+    "Control/ProposedDeltas/batch_01_tasks.md",
     "Control/Docs/WAVE1CANON-CANONIZATION-PIPELINE.md",
     "Control/Docs/RVE-FEATURE-DRIVEN-CANON-SPEC.md",
     "Control/Docs/REMATCH-FEATURE-DRIVEN-CANON-SPEC.md",
@@ -300,9 +303,6 @@
     "GitCom starring Dracula Backwards/RVE Mycroft ReMatch Tool & Theory Pile/What Gemini CLI extensions are there to help with.md",
     "GitCom starring Dracula Backwards/RVE Mycroft ReMatch Tool & Theory Pile/SIDE PROMPT — FEED THIS TO A SEPARATE THREAD_THREA.md",
     "GitCom starring Dracula Backwards/RVE Mycroft ReMatch Tool & Theory Pile/SOVEREIGN_ARSENAL_COMPREHENSIVE_LIST - Copy.md",
-    "GitCom starring Dracula Backwards/RVE Mycroft ReMatch Tool & Theory Pile/SOVEREIGN_ARSENAL_COMPREHENSIVE_LIST.md",
-    "GitCom starring Dracula Backwards/RVE Mycroft ReMatch Tool & Theory Pile/SOVEREIGN_ARSENAL_REAL - Copy.md",
-    "GitCom starring Dracula Backwards/RVE Mycroft ReMatch Tool & Theory Pile/MegaManX System Design1.md",
     "GitCom starring Dracula Backwards/passover notes in image form unfortunately.png"
   ]
 }
