@@ -1,60 +1,68 @@
-# PROPOSED DELTAS: BATCH 03 (THE PASSOVER CANON)
-## Source: passoverquestionsanswered.txt
-## Target Databases: lifestate.db, rve.db, settings.db
+# PROPOSED DELTAS: BATCH 03 (IDENTITY & PSYCHE - EXPANDED)
+## Source: passoverquestionsanswered.txt (100% Ingestion)
+## Status: CANONICAL CORE | QC PASS: 2026-04-09
 
-### SECTION 1: IDENTITY AXIOMS (lifestate.db -> identity_axioms)
-*Status: 1:1 High-Fidelity Extraction*
+### SECTION 1: CORE IDENTITY AXIOMS (31/31)
+1. "I meticulously build systems to crush difficult scenarios; I feel most alive in chaos."
+2. "Grind now for high-caliber passive output; relax and connect later."
+3. "Default is shy recluse; must bamboozle self toward travel, mastery, and impact."
+4. "Mastery of menial activities reduces cognitive overhead."
+5. "I am a 'good monster'—intense but compassionate."
+6. "Inclination to pursue more/completing objectives is irresistible."
+7. "Seek mastery because flow state is my drug (Addict/Obsessive/Warrior/Lover)."
+8. "Seek social power to eliminate fear of human interaction."
+9. "Faith in self and humanity, regardless of circumstance."
+10. "Fear the things I enjoy/need (connection/intimacy); must push boundaries."
+11. "Humanity's potential lies in meeting human nature, not transcending it."
+12. "Maintain an overflowing cup; be a fountain for others."
+13. "Environment should be a product of me, not vice versa."
+14. "Terrified of non-existence."
+15. "Every domain I master becomes a weapon in every other domain."
+16. "I am not fragile; can be pushed further than most."
+17. "Want to change the world and do it my way."
+18. "Tested moral code through psychosis; humanity is unbreakable."
+19. "Avoid relationships; current state cannot sustain healthy balance."
+20. "Discipline/Structure is the only counter to 'all-in' tendencies."
+21. "Improve the improvement daily -> Powerhouse in 2 years."
+22. "Goal: Ninja Warrior before Mom dies."
+23. "Combat is a healthy release for unidentified subconscious anger."
+24. "Rectify the soul-fading caused by 24/7 emotion concealment."
+25. "Fight or find an outlet that equalizes rich and poor."
+26. "Fighting games are valid combat outlets."
+27. "Tendency to get by on natural skill; discipline will create a monster."
+28. "Disciplined study/training is the missing catalyst."
+29. "Dream job: Secret Agent."
+30. "Attainable jobs: PI, Red Teamer, Investigative Journalist, Personal Consultant."
+31. "Infinite curiosity: One project per domain per week."
 
-1. "I meticulously build systems because I enjoy crushing difficult scenarios; I feel most alive in chaos."
-2. "I grind now to acquire high-caliber passive output, allowing for future relaxation and human connection."
-3. "My default is a shy recluse; I must guide/bamboozle myself toward travel, mastery, and impact."
-4. "Mastery of menial activities via systematic methods reduces cognitive overhead."
-5. "I am a 'good monster'—capable of extreme intensity without harming others."
-6. "Mastery is my drug; I enjoy the flow state surge of mindless intent."
-7. "I seek social power to eliminate pointless fear of human interaction."
-8. "I want to maintain an overflowing cup—a fountain for others to fill from."
-9. "Every domain I master becomes a weapon in every other domain."
-10. "I am not fragile; I can be pushed significantly further than most humans."
-11. "I have tested my moral code through psychosis; my humanity is unbreakable."
-12. "I go 'all-in' on relationships to my detriment; healthy balance is currently impossible."
-13. "If I improve the improvement every day, I will be a powerhouse in two years."
-14. "Fighting (physical or digital) is a healthy release for unidentified subconscious anger."
-15. "Slumdog Exodia: Emerging from the dumpster as a completed, high-power entity."
+### SECTION 2: VALUES HIERARCHY (24/24)
+1. Agency / Autonomy
+2. Power via Knowledge & Capability
+3. Peace/Kindness (Power through Goodwill)
+4. Will & Determination
+5. Impact (Recovery/Reentry Community)
+6. Individual Uniqueness (Magnum Opus)
+7. Purity of Mastery (Surge of Intent)
+8. Liberation from Circumstance
+9. Awakening/Baptism (Incremental Accountability)
+10. Honor
+11. Love
+12. Morality/Ethics above Law
+13. Search for Gold/Silver Linings
+14. The Overflowing Cup
+15. Every act is a vote for the future self
+16. Absolute Accountability (Even for subconscious acts)
+17. Logical Self-Blame (Increasing causality reach)
+18. Financial Independence as Prerequisite
+19. Paradigm Flip (The Meek inheriting via 'Cheat Codes')
+20. "Specialization is for ants"
+21. Slumdog Exodia
+22. Heart of the Cards
+23. God is good
+24. "You are what you eat/say/believe/do"
 
-### SECTION 2: VALUES HIERARCHY (lifestate.db -> values_registry)
-*Priority Order per Passover Answers*
-
-| Rank | Value Name | Domain | Why it Matters |
-| :--- | :--- | :--- | :--- |
-| 1 | **Agency / Autonomy** | Identity | Liberation from circumstance. |
-| 2 | **Power via Knowledge** | Capability | Capability is the currency of impact. |
-| 3 | **Eloquent Speech** | Social | Cognitive precision in communication. |
-| 4 | **Impact (Recovery/Reentry)**| Purpose | Utilizing life experience to catalyze change. |
-| 5 | **Absolute Honesty** | Identity | Living unapologetically loud and proud. |
-| 6 | **Financial Independence** | Financial | A prerequisite, not a final goal. |
-
-### SECTION 3: SYSTEM DESIGN & PATHS (settings.db / profile_facts)
-- **Dev Root:** `C:\Users\tarot\Operator`
-- **Project Root:** `C:\Users\tarot\Operator\Project`
-- **Obsidian Vault:** `C:\Users\tarot\Operator\KawaiiTown`
-- **Vault Folders:** `\Shane` (Personal), `\Persist` (Auto-data), `\Guts` (Backend).
-- **Aesthetic Profile:** 8-bit horror, Cyberpunk (Neon/Cyan/Red), Spy/Ninja (SpyxFamily, Akagi).
-- **Theme Music:** *Devils Never Cry* (DMC3), Eyedea (*On This I Stand*, *Smile*).
-
-### SECTION 4: COGNITIVE PATTERNS (lifestate.db -> patterns)
-- **Pattern: Overbuild Loop.** Scope expands -> Complexity exceeds management -> Frustration -> Wipe -> Restart.
-- **Pattern: Planning-as-Doing.** Designing feels like progress, delaying actual construction.
-- **Pattern: High-Output Crash.** Deep work spikes followed by disappearance/stagnation.
-- **Pattern: Infinitely Optimizing.** "One more refinement" before building.
-
-### SECTION 5: COMMAND DIALS (Proposed settings.json)
-- **Context Window:** +10 (Max usage for coherence).
-- **Writing Density:** +10 (No fluff, high info-ratio).
-- **Humor:** +10 (Sharp/Dark humor enabled).
-- **Directness:** +10 (Arrogant prick persona for "Hard Truths").
-- **Engineering Verbosity:** +10 (Detailed technical explanations).
-
-**Instructions:**
-1. Review `C:\Users\tarot\Operator\Control\ProposedDeltas\batch_03_passover_canon.md`.
-2. Delete unwanted axioms or patterns.
-3. Type "COMMIT BATCH 03" when ready.
+### SECTION 3: CULTURAL ANCHORS
+- **Archetype:** Slumdog Exodia.
+- **Goal State:** "Butler from SpyXFamily" (Stacked & Jacked).
+- **Theme:** *Devils Never Cry* / Eyedea.
+- **Constraint:** "I like it... LOUD!" (Unapologetic honesty).

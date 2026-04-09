@@ -1,51 +1,45 @@
-# PROPOSED DELTAS: BATCH 04 (SYSTEM BLUEPRINT & ENTITY MAP)
-## Sources: ThisIsTheReportStandard.md.txt, passovercontinued.txt
-## Target Databases: rve.db, lifestate.db
+# PROPOSED DELTAS: BATCH 04 (SYSTEM BLUEPRINT - EXPANDED)
+## Source: passovercontinued.txt, passovernotesmore.txt
+## Status: ARCHITECTURAL LOCK | QC PASS: 2026-04-09
 
-### SECTION 1: SYSTEM CONFIGURATION (rve.db -> profile)
-*Status: Initializing Command Center Parameters*
+### SECTION 1: MEGAMAN-X EQUIPMENT SLOTS
+*Status: Semantic mapping of life functions to slots*
 
-| Key | Value | Notes |
-| :--- | :--- | :--- |
-| `morning_coffee_enabled` | 1 | Auto-generate daily report on start. |
-| `newspaper_mode` | 1 | Aggregate news feeds into morning report. |
-| `context_window_target` | 0.85 | Target semantic density for artifacts. |
-| `persona_mode` | emergent | Default persona evolves from interrogation. |
-| `megaman_equipment_slots`| active | Enable Helmet/Chest/Boots/Weapons logic. |
+- **HELMET (Spine):** Memory Architecture (Tier 2/4).
+- **CHEST (Core):** Legal Compliance & Recovery Axioms.
+- **ARMS (Action):** RVE Task Reservoir & Scoring Engine.
+- **BOOTS (Speed):** Dynamic Scheduling & Opportunity Research.
+- **WEAPONS (Utility):** Python Scripts, Gemini CLI, OSINT.
+- **FAMILIARS (Agents):** ShadowAgent Archive (Lisbeth, Gojo, Makima).
+- **CAPE (Flair):** Aesthetic Calibration & Humor Dials.
 
-### SECTION 2: SCHEDULE ANCHORS (rve.db -> schedule_anchors)
-*Status: Seeding the "Daily Harness"*
+### SECTION 2: THE SHADOWAGENT ARCHITECTURE
+*Status: Multi-lens curation for content monetization*
 
-| Title | Start Time | End Time | Day | Notes |
-| :--- | :--- | :--- | :--- | :--- |
-| **Morning Coffee** | 05:30 | 06:00 | DAILY | Newspaper, Quests, Priority list. |
-| **CODA IOP** | 10:00 | 13:00 | M-T-W-TH| Mandatory recovery anchor. |
-| **Daily Exercise** | 08:00 | 09:30 | DAILY | HIIT/Weights/Zone 2 rotation. |
-| **Evening Review** | 21:30 | 22:00 | DAILY | Journal, completions, state snapshot. |
+- **Mechanism:** Run base content through specialized AI personas.
+- **Lens 1 (Truth):** Debunking myths, un-fanning flames.
+- **Lens 2 (Platform):** Optimization for specific digital vectors.
+- **Lens 3 (Persona):** 70% Memetic / 30% Individual style.
+- **Goal:** Bulk output of "Satisfactory" content for viewership portfolio.
 
-### SECTION 3: ENTITY NODE LINKS (lifestate.db -> patterns)
-*Status: Implementing "Degrees of Separation" Vision*
+### SECTION 3: DAILYDRIVER REQUIREMENTS
+*Status: 05:30 Wakeup Routine*
 
-- **Node A:** Shane Johns (Root)
-- **Node B:** Project Homeless Connect (Degree 1) -> **Links:** Housing, Hillsboro Community.
-- **Node C:** CODA (Degree 1) -> **Links:** Recovery Community, Medical Records.
-- **Node D:** Washington County Corrections (Degree 1) -> **Links:** PO, Legal Authority.
-- **Discovery Rule:** Identify Degree 2 entities (e.g., PHC partners, CODA affiliates) for opportunity surface.
+1. **UA Check:** Automatic check of portal credentials.
+2. **Newspaper:** Curated newsfeed aggregate (Multiple perspectives).
+3. **Daily Quests:** 100 pushups/situps/squats + 10km run.
+4. **Dev Quest:** Create something with a new library.
+5. **The Report:** 20-page generated synthesis (Learning/Assignments/Progress).
 
-### SECTION 4: IF-THEN PLANS (rve.db -> if_then_plans)
-*Status: The "Bamboozle" Logic for Recluse Mitigation*
+### SECTION 4: SYSTEM DIALS (CALIBRATION)
+- **Summarization Dial:** 0 (Default).
+- **Omission Dial:** -10 (Never omit; include everything).
+- **Red Teaming:** Set to trigger on "Known Patterns of Self-Sabotage."
+- **Writing Density:** +10 (Academic citation style in long-form).
+- **Humor Dial:** +10 (Dark/Sharp humor enabled).
 
-1. **CUE:** "Feel the dread creep in / unstructured hour." -> **RESPONSE:** "Open RVE Checkpoint immediately."
-2. **CUE:** "Cognitively depleted for coding." -> **RESPONSE:** "Switch to Zombie_Capable task queue."
-3. **CUE:** "Still on campus after group ends (< 3pm)." -> **RESPONSE:** "Execute low-friction admin tasks (FlexFund/Emails)."
-
-### SECTION 5: ARSENAL SLOTS (MegamanX Mapping)
-- **Helmet (Memory Spine):** Tier 2 SQLite + Tier 4 Obsidian.
-- **Chest (Armor/Protection):** Legal Compliance + Recovery Axioms.
-- **Boots (Movement):** Scheduling Engine + Opportunity Search.
-- **Weapons (Capability):** Python Scripting + Gemini CLI + OSINT.
-
-**Instructions:**
-1. Review `C:\Users\tarot\Operator\Control\ProposedDeltas\batch_04_system_blueprint.md`.
-2. Delete/Modify as needed.
-3. Type "COMMIT BATCH 04" when ready.
+### SECTION 5: NODAL CAUSALITY (ENTITY MAP)
+- **Purple Node (Root):** Shane Johns.
+- **Green Nodes (Direct):** CODA, 4D, WCCCC, PHC.
+- **Yellow Nodes (Degree 2):** Affiliates of Green nodes (Potential opportunities).
+- **Logic:** Become a "Connoisseur of Curated Causation Catalysts."

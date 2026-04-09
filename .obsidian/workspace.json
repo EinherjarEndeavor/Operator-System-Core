@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Control/ProposedDeltas/batch_01_tasks.md",
+                "file": "Control/ProposedDeltas/batch_05_rematch_deep.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "batch_01_tasks"
+              "title": "batch_05_rematch_deep"
             }
           }
         ],
@@ -267,13 +267,17 @@
   },
   "active": "4f4352bd0ad4388f",
   "lastOpenFiles": [
-    "Control/ProposedDeltas/batch_07_second_wind.md",
+    "Control/ProposedDeltas/batch_04_system_blueprint.md",
+    "Control/ProposedDeltas/batch_01_tasks.md",
+    "Control/ProposedDeltas/batch_02_raw_canon.md",
     "Control/ProposedDeltas/batch_03_passover_canon.md",
+    "Control/ProposedDeltas/batch_07_second_wind.md",
     "Control/ProposedDeltas/batch_06_professional_context.md",
     "Control/ProposedDeltas/batch_05_rematch_deep.md",
-    "Control/ProposedDeltas/batch_04_system_blueprint.md",
-    "Control/ProposedDeltas/batch_02_raw_canon.md",
-    "Control/ProposedDeltas/batch_01_tasks.md",
+    "Control/Docs/WAVE1CANON-CANONIZATION-PIPELINE.md",
+    "Control/Docs/RVE-FEATURE-DRIVEN-CANON-SPEC.md",
+    "Control/Docs/REMATCH-FEATURE-DRIVEN-CANON-SPEC.md",
+    "Control/Docs/ONLINE-ENDEAVORS-BATTLE-PLAN.md",
     "GitCom starring Dracula Backwards/RVE Mycroft ReMatch Tool & Theory Pile/Comprehensive_Archive_Shane.md",
     "GitCom starring Dracula Backwards/Wave1Canon/ShaneWJohnsData/ShaneJohnsRe.MatchAnswers4.8.26.txt",
     "GitCom starring Dracula Backwards/Wave1Canon/ShaneWJohnsData/RESUME (1).html",
@@ -299,10 +303,6 @@
     "GitCom starring Dracula Backwards/RVE Mycroft ReMatch Tool & Theory Pile/SOVEREIGN_ARSENAL_COMPREHENSIVE_LIST.md",
     "GitCom starring Dracula Backwards/RVE Mycroft ReMatch Tool & Theory Pile/SOVEREIGN_ARSENAL_REAL - Copy.md",
     "GitCom starring Dracula Backwards/RVE Mycroft ReMatch Tool & Theory Pile/MegaManX System Design1.md",
-    "GitCom starring Dracula Backwards/RVE Mycroft ReMatch Tool & Theory Pile/SystemDesignMore.md",
-    "GitCom starring Dracula Backwards/RVE Mycroft ReMatch Tool & Theory Pile/deep-research-report (2).md",
-    "GitCom starring Dracula Backwards/RVE Mycroft ReMatch Tool & Theory Pile/DeepResearch DeepResearchReport(5).md",
-    "GitCom starring Dracula Backwards/RVE Mycroft ReMatch Tool & Theory Pile/Re.Match Form Audit (DeepResearchReport).md",
     "GitCom starring Dracula Backwards/passover notes in image form unfortunately.png"
   ]
 }

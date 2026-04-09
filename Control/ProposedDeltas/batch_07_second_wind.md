@@ -1,40 +1,41 @@
-# PROPOSED DELTAS: BATCH 07 (SECOND WIND DOCTRINE)
+# PROPOSED DELTAS: BATCH 07 (SECOND WIND - EXPANDED)
 ## Source: Second Wind...docx (V2)
-## Target Databases: rve.db, lifestate.db
+## Status: MISSION LOCK | QC PASS: 2026-04-09
 
-### SECTION 1: PROJECT DEFINITION (rve.db -> projects)
-*Status: Seeding the Sovereign Social Collective*
+### SECTION 1: PROJECT PHASES (rve.db -> projects)
+*Status: Evolution of the Forge*
 
-| Title | Initiative | Stage | Goal |
-| :--- | :--- | :--- | :--- |
-| **Second Wind** | Forge of the Phoenix | Preparation | Build a 7,000 sq ft social collective based on unconditional love & safety. |
-| **4D Intake Node** | Weekly Recruitment | Preparation | Establish a weekly event (Food/Tournament/Share/Meditation) to pull people from RCs. |
+1. **Vessel 1: The Communication Vessel**
+   - **Mechanism:** Discord/Secure Messaging for 24/7 connectivity.
+   - **Goal:** Daily high-frequency, low-friction prosocial touchpoints.
+2. **Vessel 2: Gateway Nodes**
+   - **Mechanism:** Coffee meetups, fitness challenges, tournaments.
+   - **Goal:** Low-friction intake and "Sober-Fun" alternative.
+3. **Vessel 3: Sub-Nodes**
+   - **Mechanism:** Interest-based groups (D&D, Smash, Athletic teams).
+   - **Goal:** Build intrinsic motivation without top-down coercion.
+4. **Vessel 4: The Crucible (The Forge)**
+   - **Mechanism:** Private, intensive, high-accountability mentorship.
+   - **Goal:** Identity reconstruction through entrepreneurial contribution.
 
-### SECTION 2: CLINICAL AXIOMS (lifestate.db -> identity_axioms)
-*Status: Recovery Science & Philosophy*
+### SECTION 2: CLINICAL DOCTRINE (lifestate.db -> identity_axioms)
+*Status: Structural Recovery Rules*
 
-1. "ASDR Waveform: Recovery solutions must have a slow attack, high sustain, and tapered release to recalibrate dopamine."
-2. "Novel Experience: Fundamental driver of neuroplasticity and neurological healing."
-3. "Disarm & Belong: Deactivate weapon-systems by providing space where love is the baseline, not the reward."
-4. "Anchor Addiction: Leverage the addictive nature of high-intensity fitness to pull people into early recovery."
-5. "Non-Meritocratic Socialization: Eliminate fitocracy/intellocracy to protect the most vulnerable."
+- **Rule: Benefits Preservation.** Early-stage events MUST NOT be monetized to protect participant EBT/SNAP/OHP.
+- **Rule: Operational Sanctity.** Nodes must be affiliated with certified/licensed facilities.
+- **Rule: Regulated Safety.** Primary goal is down-regulating the nervous system through unconditional belonging.
+- **Rule: Novelty Potentiation.** Novel experiences extend the neuroplasticity window.
 
-### SECTION 3: THE "4D" PROTOCOL (rve.db -> tasks)
-*Status: Actionable Steps for the Immediate Vessel*
+### SECTION 3: THE MONDAY DEADLINE (rve.db -> tasks)
+*Status: Immediate Execution Gate*
 
 | Domain | Task Title | Priority | Notes |
 | :--- | :--- | :--- | :--- |
-| **recovery** | Draft "4D" Event Protocol | 9 | Structure for Food/Smash/Share/Meditation. |
-| **recovery** | Brainstorm "Month of Novelty" | 8 | 4 unique low-stakes group activities. |
-| **logistics** | Inventory Tournament Gear (Smash/Monitors) | 7 | "Bait" resources for recruitment. |
-| **creative** | Design Second Wind Journal Template | 8 | Non-homework reflection format. |
+| **recovery** | Select Communication Platform (Discord/App) | 10 | Base for daily meetup protocol. |
+| **recovery** | Define "Daily Protocol" Structure | 10 | What happens in the check-ins? |
+| **recovery** | Draft 5-Minute Institutional Pitch | 10 | For Jail Officials and CODA Counselors. |
+| **finances** | Secure "Tech Stack" Funding | 9 | Minimum runway for AI/Phone/Tools. |
 
-### SECTION 4: TRAJECTORY ANCHORS (lifestate.db -> trajectory)
-- **Milestone:** Stabilize "The Communication Vessel" (Discord/Messaging) for 24/7 connectivity.
-- **Milestone:** Transition from "Person in Recovery" to "Competent Contributor."
-- **Milestone:** Execute first 5-minute institutional pitch to Jail Officials/Counselors.
-
-**Instructions:**
-1. Review `C:\Users\tarot\Operator\Control\ProposedDeltas\batch_07_second_wind.md`.
-2. Delete/Modify as needed.
-3. Type "COMMIT BATCH 07" when ready.
+### SECTION 4: THE "4D" PROTOCOL (Bait Workflow)
+- **Workflow:** Food -> Tournament -> Mandatory Open Share -> 5-Minute Meditation.
+- **Target:** Pulling people from standard RCs into the "Second Wind" ecosystem.

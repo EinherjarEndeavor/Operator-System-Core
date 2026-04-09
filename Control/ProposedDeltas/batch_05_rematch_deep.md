@@ -1,48 +1,81 @@
-# PROPOSED DELTAS: BATCH 05 (RE.MATCH DEEP INGESTION)
-## Sources: ShaneJohnsRe.MatchAnswers...txt, ReMatch_Doctrine_v1.0.html
-## Target Databases: lifestate.db, rematch.db, rve.db
+# PROPOSED DELTAS: BATCH 05 (CANONICAL IDENTITY - 100% INCLUSION)
+## Source: ShaneJohnsRe.MatchAnswers4.8.26.txt
+## Target Database: lifestate.db -> profile_facts
+## Status: MANDATORY CANON | QC PASS: 2026-04-09
 
-### SECTION 1: GRANULAR LIFE-STATE (lifestate.db -> profile_facts)
-*Status: 1:1 Bit-Perfect Extraction*
+This file represents a 1:1 extraction of every field from the source document. Every field below is marked for mandatory ingestion into the canonical identity layer.
 
-| Category | Fact | Value | Evidence |
-| :--- | :--- | :--- | :--- |
-| **health** | Biological Deviations | Spinal/Neck deviations; bad back; feet conditions. | Re.Match Answers |
-| **health** | Left Hand Palsy | Nerve compression palsy; arms fall asleep abnormally. | Re.Match Answers |
-| **financial** | EBT Amount | $287/mo (SNAP). | Re.Match Answers |
-| **financial** | Student Status | PCC Student (Eligible for student benefits). | Re.Match Answers |
-| **logistics** | Housing Status | Stable (1 month); Hillsboro Shelter Indefinite. | Re.Match Answers |
-| **family** | Son | Nicolai Benjamin Grieves (13); Child Support Arrears. | Re.Match Answers |
-| **family** | Relationship Boundary| Asexual preference / Platonic focus / No Erika Bixby. | Re.Match Answers |
-| **recovery** | Recovery Capital | Strong discipline; IOP CODA; Mandated Sobriety. | Re.Match Answers |
-| **legal** | Barrier: Eviction | $15,000 damages to previous landlord. | Re.Match Answers |
-| **legal** | Barrier: Overdrafts | $2,000 to multiple banks (collections). | Re.Match Answers |
-
-### SECTION 2: RE.MATCH SYSTEM SCHEMA (rematch.db)
-*Status: Initializing the 23-Category Opportunity Engine*
-
-**Proposed Tables:**
-1. **categories:** [ID, Name, Tier, LS_CMI_Alignment, Notes] (Populated from Doctrine v1.0).
-2. **opportunities:** [ID, Category_ID, Name, Eligibility_JSON, Impact_Score, Contact, Status].
-3. **profiles:** [ID, Intake_JSON, Constraints_JSON, Matches_JSON].
-
-**Seed Data (Tier 0 & 1 Priority):**
-- Category 1: Legal & Supervision (Static Criminal History).
-- Category 2: ID & Documentation (SSN, State ID).
-- Category 3: Housing & Shelter (Sober Living/Transitional).
-- Category 4: Financial (Debt Tracking/SNAP).
-
-### SECTION 3: RE.MATCH DOSSIER ACTION LOGIC (rve.db -> tasks)
-*Status: Logic-Driven Execution Steps*
-
-| Domain | Task Title | Priority | Logic |
-| :--- | :--- | :--- | :--- |
-| **legal** | Request expungement eligibility audit | 10 | Unlocks 2x employment access. |
-| **housing** | Automate RentWell browser tasks | 9 | Stabilizes future permanent housing. |
-| **logistics** | Secure New Hotspot (PCC Return imminent) | 10 | Primary internet gateway blocker. |
-| **health** | PCP Referral: Martial Arts/Yoga (FlexFund) | 10 | Multiplier for Physical Training category. |
+| Field | Value | Category |
+| :--- | :--- | :--- |
+| **age** | Early-to-mid 30s (Corrected from "Early-to-mid 20s" in 'other' field) | identity |
+| **gender** | Male | identity |
+| **skills** | AI/LLM integration, Prompt Engineering, Agentic AI (CrewAI), CLI optimization, PowerShell, System Admin, Web Scraping, Data Extraction, JS/TS/Python/PowerShell/Bash, Git, Docker, VS Code, Rapid self-directed learning, MTG Strategy, Fitness training. | competency |
+| **housing** | Secured shelter indefinitely (Hillsboro); Four free meals/day; Indefinite stay; 1 month stable. | logistics |
+| **medical** | Nerve compression palsy (left hand); Arms fall asleep; 5 teeth extracted; Spinal/Neck deviations; Bad back; Feet conditions. | health |
+| **Contact** | tarotalucard7@gmail.com; shane.johns1@pcc.edu; ci.li.swj7@gmail.com; 971-490-1351; Shane Walter Johns (FB). | identity |
+| **location** | Hillsboro, OR (Shelter); Beaverton, OR; Portland, OR. | logistics |
+| **supports** | Online developer/AI communities; GitHub/Discord peers; AI Assistants; Melee Competitive Community. | social |
+| **dvhistory** | No reported history | legal |
+| **ethnicity** | Prefer not to say | identity |
+| **faithPref** | Abstract. Spiritual. God is tight. Occultism as psychology. | identity |
+| **transport** | Bus or MAX | logistics |
+| **careerGoal** | AI/ML engineering, autonomous systems, full-stack AI, DevOps, AI tooling, AI startup founder, Red Teaming, Personal/Private Consultant, Freelance/Gigs. | trajectory |
+| **dependents** | 13 year old son, Nicolai Benjamin Grieves (Not in custody). | family |
+| **foodAccess** | EBT $287; Fed at shelter. | financial |
+| **fostercare** | No foster care history | identity |
+| **incomeMode** | None (Gig/Freelance/Temp desired). Eligible for disability/SSI. | financial |
+| **incomegoal** | $2,000 a month. | financial |
+| **priorities** | 1. Life OS (RVE); 2. Re.Match; 3. Second Wind; 4. Freelance/Gig work. | trajectory |
+| **fafsaStatus** | Applied; Researching scholarships/grants. | school |
+| **hasbarriers** | Felony theft; Misdemeanor DV Harassment; $15k Landlord debt; $2k Bank debt; $50 Library debt; Eviction history. | legal |
+| **idChecklist** | ID; Social Security Card (Possessed). | logistics |
+| **peerSupport** | No | recovery |
+| **safetyrisks** | No | legal |
+| **mentalhealth** | Diagnosed depression, SUD, ADHD; Hyperfocus patterns; Psychosis history (isolation-linked). | health |
+| **singleparent** | No | family |
+| **stayduration** | Indefinitely / stable for now. | logistics |
+| **staysontrack** | Passion for AI/Tech; Fitness resilience; Urgency for career; Music/Gaming resets. | identity |
+| **substanceUse** | 6 months sober (Fentanyl, Alcohol, Meth); Life focused on health optimization. | recovery |
+| **educationGoal**| Summer term enrollment (Plan by 5/1); Self-education plan (by 4/15); Martial arts/Yoga enrollment (by 4/20). | school |
+| **gymmembership**| No (Interested in boxing/yoga; researching FlexFund). | health |
+| **matPreference**| Suboxone | recovery |
+| **providerNeeds**| Fitness, boxing, yoga, vitamins, meal replacement. | health |
+| **treatmentType**| Intensive Outpatient @ CODA | recovery |
+| **veteranStatus**| No service; Dad in army (deceased). | identity |
+| **volunteerwork**| Interested in skills-based contribution to non-profits. | social |
+| **accommodations**| Self-directed, hands-on deep-dives; late-night schedule; multi-screen/tool access. | school |
+| **certifications**| GED (2026); Soft Skills (Mar 16); Conflict Resolution (Mar 15); Cultural Awareness (Mar 16). | education |
+| **engagementpref**| Weekly | social |
+| **internetAccess**| Active - has access everywhere. | logistics |
+| **mailingaddress**| 1710 SW Harvey Way, Aloha, OR | logistics |
+| **recoverystatus**| 6 months sober from Fentanyl, Alcohol & Methamphetamine. | recovery |
+| **engagementTypes**| Solo only | social |
+| **firstgenstudent**| Yes | school |
+| **healthinsurance**| OHP - Care Oregon (Dental, Vision, Mental, Physical). | health |
+| **idealRecreation**| Weight training, boxing, gaming (MTG), music (DMC/Hazbin), AI building, Deep Research, Ninja/Stealth, PI/Journalism. | identity |
+| **legalWorkStatus**| Yes - Born American Citizen. | legal |
+| **recoverycapital**| Fitness discipline; Technical focus; IOP @ CODA; UA compliance. | recovery |
+| **disabilitystatus**| Eligible (not official); SUD, Depression, PTSD, Psychosis History. | health |
+| **highrisktriggers**| None | recovery |
+| **homelessDuration**| 4 Years Total (5 Years off & on). | logistics |
+| **outstandingFines**| $15,000 (Apt); $2,000 (Banks); $50 (Library). | financial |
+| **tribalEnrollment**| No | identity |
+| **benefitsChecklist**| SNAP; OHP; PCC Student benefits. | financial |
+| **citizenshipStatus**| U.S. Citizen | identity |
+| **crimeVictimStatus**| No | legal |
+| **educationtraining**| GED; College pursuant; Independent/Online/Bootcamps. | education |
+| **mandatedTreatment**| Yes (CODA). | recovery |
+| **sexualorientation**| Asexual with occasional heterosexual desires; Platonic focus. | identity |
+| **supervisionStatus**| Yes (Probation); Monthly meetings. | legal |
+| **careerInterestType**| Creative | trajectory |
+| **dignitymaintenance**| ? | identity |
+| **functionalbarriers**| None | logistics |
+| **housingconstraints**| Limited income for long-term sustainability. | logistics |
+| **traffickingHistory**| No | legal |
+| **expungementEligible**| Interested; eligible in 5 years. | legal |
+| **scholarshipinterest**| Yes - search all. | school |
+| **currentIncomeSources**| Family/friends | financial |
 
 **Instructions:**
-1. Review `C:\Users\tarot\Operator\Control\ProposedDeltas\batch_05_rematch_deep.md`.
-2. Edit fields to ensure 100% accuracy.
-3. Type "COMMIT BATCH 05" when ready.
+1. This is a 100% comprehensive extraction. **DO NOT DELETE FIELDS** unless they are factually incorrect.
+2. Type "COMMIT BATCH 05" when ready.
