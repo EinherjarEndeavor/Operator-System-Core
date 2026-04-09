@@ -18,13 +18,13 @@
 ### SECTION 2: THE "REDEMPTION" RESERVOIR (rve.db -> tasks)
 *Status: Actionable Compliance & Growth Missions*
 
-| Domain       | Task Title                                       | Priority | Notes                                        |
-| :----------- | :----------------------------------------------- | :------- | :------------------------------------------- |
-| **legal**    | Execute "Mastery Through Compliance" Audit       | 10       | Verify all General Conditions (ORS 137.540). |
-| **legal**    | Track "Earned Discharge" Milestones              | 9        | Log treatment completion/restitution.        |
-| **health**   | Zone 2 Cardio (Mitochondrial Reset)              | 8        | 60% Max HR target for mood regulation.       |
-| **health**   | HIIT Session (stimulant-free chemical synthesis) | 8        | Neural reward reset.                         |
-| **creative** | "Sovereign Architect" Personal Site Draft        | 8        | Narrative: Transformation vs. Relapse.       |
+| Domain       | Task Title                                 | Priority | Notes                                        |
+| :----------- | :----------------------------------------- | :------- | :------------------------------------------- |
+| **legal**    | Execute "Mastery Through Compliance" Audit | 10       | Verify all General Conditions (ORS 137.540). |
+| **legal**    | Track "Earned Discharge" Milestones        | 9        | Log treatment completion/restitution.        |
+| **health**   | Zone 2 Cardio (Mitochondrial Reset)        | 8        | 60% Max HR target for mood regulation.       |
+| **health**   | Daily Cardio                               | 8        | Neural reward reset.                         |
+| **creative** | "Sovereign Architect" Personal Site Draft  | 8        | Narrative: Transformation vs. Relapse.       |
 
 ### SECTION 3: SYSTEMIC AXIOMS (lifestate.db -> identity_axioms)
 - "Work is an addiction: Avoid 'burner jobs' for 3-6 months to 3x lifetime earnings."
@@ -35,6 +35,7 @@
 ### SECTION 4: CONTACTS & NODES (lifestate.db -> contacts)
 - **Primary:** Asianna "Asia" Nelson (PO) | 503-XXX-XXXX | Cornelius/Hillsboro.
 - **Support:** PHC Hillsboro Staff | 345 SW 17th Ave | Indefinite Shelter.
+- CODA Counselor Julia Ayles | CODA Hillsboro |
 - **Medical:** Dr. Stephanie Vickers | A Balanced Life Healthcare | Apr 16.
 
 **Instructions:**

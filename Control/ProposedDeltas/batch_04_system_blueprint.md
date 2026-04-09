@@ -1,45 +1,32 @@
-# PROPOSED DELTAS: BATCH 04 (SYSTEM BLUEPRINT - EXPANDED)
-## Source: passovercontinued.txt, passovernotesmore.txt
+# PROPOSED DELTAS: BATCH 04 (SYSTEM BLUEPRINT - SATURATED)
+## Source: passovercontinued.txt, passovernotesmore.txt, User Directive 2026-04-09
 ## Status: ARCHITECTURAL LOCK | QC PASS: 2026-04-09
 
 ### SECTION 1: MEGAMAN-X EQUIPMENT SLOTS
-*Status: Semantic mapping of reoccurring AI tooling functions to slots*
+- **HELMET (Spine):** Memory Architecture (SQL, NEO4J, MEM0, CHROMADB, LANGGRAPH, TEMPORAL).
+- **CHEST (Core):** Clinical Doctrine & Legal Constraints.
+- **ARMS (Action):** RVE Task Reservoir & Gemini CLI Command Center.
+- **BOOTS (Speed):** Dynamic Scheduling & Morning Coffee Protocol.
+- **WEAPONS (Utility):** Python Scripts, OSINT, Specialized Pickle Rick Variants.
+- **FAMILIARS (Agents):** ShadowAgent Archive (Lisbeth, Gojo, Makima, Power).
+- **CAPE (Flair):** Aesthetic Calibration & Dark Humor Dials.
 
-- **HELMET (Spine):** Memory Architecture GEMINI DEFAULT, SQL, NEO4J, MEM0, CHROMADB, LANGGRAPH, TEMPORAL
-- **CHEST (Core):** 
-- **ARMS (Action):** GEMINI CLI .
-- **BOOTS (Speed):** 
-- **WEAPONS (Utility):** Python Scripts, Gemini CLI, OSINT, PICKLE RICK
-- **FAMILIARS (Agents):** ShadowAgent Archive (Lisbeth, Gojo, Makima).
-- **CAPE (Flair):** Aesthetic Calibration & Humor Dials.
+### SECTION 2: MORNING COFFEE AUTOMATION (05:30)
+*Status: Mandatory Daily Start Loop*
 
-### SECTION 2: THE SHADOWAGENT ARCHITECTURE
-*Status: Multi-lens curation for content monetization*
+1. **Newspaper Mode:** Aggregate News, Blogs, and Newsletters.
+2. **Gig/Freelance Funnel:** Scrape reliable leads (Low-PhD, high-hit rate).
+3. **Daily Quests:** 100 Pushups/Situps/Squats + 10km Run.
+4. **Side Quests:** Identification of secondary growth opportunities.
+5. **Schedule Population:** Workflow for populating day with assigned tasks.
+6. **First Entry:** Structured systematic treatment for the first entry of the day.
 
-- **Mechanism:** Run base content through specialized AI personas.
-- **Lens 1 (Truth):** Debunking myths, un-fanning flames.
-- **Lens 2 (Platform):** Optimization for specific digital vectors.
-- **Lens 3 (Persona):** 70% Memetic / 30% Individual style.
-- **Goal:** Bulk output of "Satisfactory" content for viewership portfolio.
-
-### SECTION 3: DAILYDRIVER REQUIREMENTS
-*Status: 05:30 Wakeup Routine*
-
-1. **UA Check:** Automatic check of portal credentials.
-2. **Newspaper:** Curated newsfeed aggregate (Multiple perspectives).
-3. **Daily Quests:** 100 pushups/situps/squats + 10km run.
-4. **Dev Quest:** Create something with a new library.
-5. **The Report:** 20-page generated synthesis (Learning/Assignments/Progress).
-
-### SECTION 4: SYSTEM DIALS (CALIBRATION)
+### SECTION 3: SYSTEM CALIBRATION (DIALS)
 - **Summarization Dial:** 0 (Default).
-- **Omission Dial:** -10 (Never omit; include everything).
-- **Red Teaming:** Set to trigger on "Known Patterns of Self-Sabotage."
-- **Writing Density:** +10 (Academic citation style in long-form).
-- **Humor Dial:** +10 (Dark/Sharp humor enabled).
+- **Omission Dial:** -10 (STRICT MANDATE: NEVER omit; 100% data fidelity).
+- **Density Dial:** +10 (Max semantic density required).
+- **Persona Emergence:** Unique grey-character name developed by system.
 
-### SECTION 5: NODAL CAUSALITY (ENTITY MAP)
-- **Purple Node (Root):** Shane Johns.
-- **Green Nodes (Direct):** CODA, 4D, WCCCC, PHC.
-- **Yellow Nodes (Degree 2):** Affiliates of Green nodes (Potential opportunities).
-- **Logic:** Become a "Connoisseur of Curated Causation Catalysts."
+### SECTION 4: RE.MATCH WIN CONDITION
+- **Requirement:** System must be capable of processing a fabricated user profile and generating a "fuckin great dossier" iteratively.
+- **Maintenance:** Daily verification of all existing items + daily opportunity scrape.

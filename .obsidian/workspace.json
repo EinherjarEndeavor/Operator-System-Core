@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Control/ProposedDeltas/batch_08_compliance_narrative.md",
+                "file": "Control/ProposedDeltas/batch_02_raw_canon.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "batch_08_compliance_narrative"
+              "title": "batch_02_raw_canon"
             }
           }
         ],
@@ -267,17 +267,17 @@
   },
   "active": "4f4352bd0ad4388f",
   "lastOpenFiles": [
+    "Control/ProposedDeltas/batch_01_tasks.md",
+    "Control/ProposedDeltas/batch_02_raw_canon.md",
+    "Control/ProposedDeltas/batch_08_compliance_narrative.md",
     "Control/ProposedDeltas/batch_07_second_wind.md",
     "Control/ProposedDeltas/batch_06_professional_context.md",
     "Control/ProposedDeltas/batch_05_rematch_deep.md",
     "Control/ProposedDeltas/batch_04_system_blueprint.md",
     "Control/ProposedDeltas/batch_03_passover_canon.md",
-    "Control/ProposedDeltas/batch_01_tasks.md",
     "Control/Docs/WAVE1CANON-SOURCE-AUTHORITY-AND-RESOLUTION.md",
     "Control/Docs/REMATCH-MATCHING-AND-DOSSIER-CONTRACT.md",
     "Control/Docs/ONLINE-ENDEAVORS-CAMPAIGN-MAP.md",
-    "Control/ProposedDeltas/batch_02_raw_canon.md",
-    "Control/ProposedDeltas/batch_08_compliance_narrative.md",
     "Control/Docs/RVE-MVP-OPERATIONAL-CONTRACT.md",
     "Control/Docs/PROJECT-PORTFOLIO-GOVERNANCE.md",
     "Control/Docs/WAVE1CANON-CANONIZATION-PIPELINE.md",
