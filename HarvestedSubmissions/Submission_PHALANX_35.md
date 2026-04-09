@@ -1,30 +1,57 @@
-# Submission: PHALANX_35
-**Date:** 2026-03-21
-**Source:** Re.Match Intake Form (Site: einherjarendeavor.github.io)
+# COMPREHENSIVE PROFILE: PHALANX_35
+**Item Eid:** awoNhNTXlObLkzwRvFWJ8KrvM0Aphzvx
+**Created At:** 2026-03-21T02:46:09.297Z
 
-## 01. Profile Summary
-- **Alias:** PHALANX_35
-- **Location:** Hillsboro, OR 97123
-- **Demographics:** 35 / M / Straight
-- **Context:** Specifically seeking Washington County / Hillsboro-area resources. Justice-involved (non-violent felony). Currently on probation (~1 year remaining). Transitional/unstable housing.
+## I. Identity & Demographics
+| Field | Value |
+| :--- | :--- |
+| **Alias** | PHALANX_35 |
+| **Demographics Combined** | 35 / M / Straight |
+| **Location** | Hillsboro, OR 97123 |
+| **Is First Gen** | True |
+| **Has Tribal** | No |
+| **Tribal Details** | [Empty] |
 
-## 02. Priorities & Timeline
-- **30 DAYS:** Complete DV classes, secure stable transitional housing (Next Chapter), connect to SUD counselor and PCP.
-- **90 DAYS:** GED completed, Peer Support Specialist cert in progress, daily structure (gym + study + code).
-- **365 DAYS:** Enrolled in tech track, probation completed, stable housing, income from tech or peer support, Re.Match MVP functional.
+## II. Career & Education
+| Field | Value |
+| :--- | :--- |
+| **Work History** | 10+ years food service: Assistant Manager (McMenamins), Line Cook (Screen Door), Store Associate (Plaid Pantry, 7-Eleven, ARCO). Recovery Specialist experience (peer support, lived expertise). Currently: GED in progress at PCC, Peer Support Specialist certification in progress. Tech skills: Python, PowerShell, HTML/CSS/JS, AI tooling, Git/GitHub, VS Code. Strong work ethic, crisis de-escalation, training others. |
+| **Income Goal** | 1200 |
 
-## 03. Technical & Professional
-- **Experience:** 10+ years food service (Management/Cooking), Recovery Specialist experience.
-- **Tech Skills:** Python, PowerShell, HTML/CSS/JS, AI tooling, Git/GitHub, VS Code.
-- **Education:** GED in progress (PCC), Peer Support Specialist cert in progress.
+## III. Priorities & Motivation
+| Field | Value |
+| :--- | :--- |
+| **Priorities** | 30 DAYS: Complete DV classes, secure stable transitional housing (Next Chapter or equivalent), get connected to SUD counselor and PCP. 90 DAYS: GED completed, Peer Support Specialist cert in progress, daily structure locked in (gym + study + code). 365 DAYS: Enrolled in coding bootcamp or Next Chapter tech track, probation successfully completed, stable housing, income from entry-level tech or peer support role, Re.Match MVP functional. |
+| **Other** | Specifically seeking Washington County / Hillsboro-area resources. Justice-involved felon-friendly programs, scholarships, and grants are priority. Interested in TriMet assistance, free/low-cost tech resources, storage for gear (laptop, training equipment), interview clothing. Strong self-motivation, high learning velocity, AI/coding aptitude. Re.Match is itself a project I am building — this intake is both a test and a real submission. |
+| **Engage Sports** | True |
+| **Engage Peer** | True |
 
-## 04. Health & Recovery
-- **Status:** In recovery from SUD; committed to sobriety. No active MAT.
-- **Mental Health:** ADHD (diagnosis suspected/in-progress). Task paralysis and hyperfocus cycles noted. History of trauma.
-- **Needs:** PCP, SUD Counselor, Mental Health support.
+## IV. Health & Recovery
+| Field | Value |
+| :--- | :--- |
+| **Health Recovery** | In recovery from substance use disorder — currently clean and committed to sobriety. No active MAT. Mental health diagnoses scattered across multiple providers (Kaiser, Providence, Legacy, CODA, FORA, NW ADHD Center). ADHD eval in progress. History of trauma. Not currently in regular counseling but open to it. |
+| **Needs SUD** | True |
+| **Needs PCP** | True |
+| **Needs MH** | True |
+| **Neuro ADHD** | True |
+| **Neuro Details** | ADHD diagnosis suspected/in-progress via NW ADHD Center. Task paralysis, hyperfocus cycles, difficulty with sustained attention on low-stimulation tasks. Currently unmedicated. |
 
-## 05. Barriers & Risks
-- **Legal:** Probation compliance (DV classes outstanding).
-- **Housing:** Transitional housing needed.
-- **Risks:** Relapse if isolated; housing loss; internal sabotage/isolation spirals.
-- **Support:** Interested in TriMet assistance, free tech resources, gear storage (laptop/training equipment).
+## V. Housing & Logistics
+| Field | Value |
+| :--- | :--- |
+| **Housing** | Transitional/unstable — currently between shelter and couch situations in Beaverton/Hillsboro area. Not chronically homeless but lack stable permanent housing. Seeking transitional housing with supports, ideally through programs like Next Chapter. |
+| **No Transport** | True |
+
+## VI. Legal & Barriers
+| Field | Value |
+| :--- | :--- |
+| **Has Barriers** | Yes |
+| **Barrier Details** | Felony conviction (non-violent). Currently on probation — approximately 1 year remaining. DV classes outstanding. Downward departure. No sex offenses. No weapons charges. |
+| **Safety Risks** | Primary risks: relapse if isolated or without structure; housing loss leading to street exposure; probation violation if DV classes not completed. No active self-harm or trafficking risk. Pattern awareness strong — main danger is internal sabotage and isolation spiral. |
+
+## VII. Preferences & Support
+| Field | Value |
+| :--- | :--- |
+| **Delivery Pref** | Anonymized |
+| **User Email** | [Empty] |
+| **User Phone** | [Empty] |
