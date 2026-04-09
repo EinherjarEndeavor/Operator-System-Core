@@ -18,14 +18,13 @@
 ### SECTION 2: THE "REDEMPTION" RESERVOIR (rve.db -> tasks)
 *Status: Actionable Compliance & Growth Missions*
 
-| Domain | Task Title | Priority | Notes |
-| :--- | :--- | :--- | :--- |
-| **legal** | Execute "Mastery Through Compliance" Audit | 10 | Verify all General Conditions (ORS 137.540). |
-| **legal** | Track "Earned Discharge" Milestones | 9 | Log treatment completion/restitution. |
-| **health** | Zone 2 Cardio (Mitochondrial Reset) | 8 | 60% Max HR target for mood regulation. |
-| **health** | HIIT Session (stimulant-free chemical synthesis) | 8 | Neural reward reset. |
-| **career** | Worksource Oregon iMatchSkillz Audit | 7 | Search for union trade paid training. |
-| **creative** | "Sovereign Architect" Personal Site Draft | 8 | Narrative: Transformation vs. Relapse. |
+| Domain       | Task Title                                       | Priority | Notes                                        |
+| :----------- | :----------------------------------------------- | :------- | :------------------------------------------- |
+| **legal**    | Execute "Mastery Through Compliance" Audit       | 10       | Verify all General Conditions (ORS 137.540). |
+| **legal**    | Track "Earned Discharge" Milestones              | 9        | Log treatment completion/restitution.        |
+| **health**   | Zone 2 Cardio (Mitochondrial Reset)              | 8        | 60% Max HR target for mood regulation.       |
+| **health**   | HIIT Session (stimulant-free chemical synthesis) | 8        | Neural reward reset.                         |
+| **creative** | "Sovereign Architect" Personal Site Draft        | 8        | Narrative: Transformation vs. Relapse.       |
 
 ### SECTION 3: SYSTEMIC AXIOMS (lifestate.db -> identity_axioms)
 - "Work is an addiction: Avoid 'burner jobs' for 3-6 months to 3x lifetime earnings."
