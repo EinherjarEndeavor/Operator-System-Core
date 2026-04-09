@@ -15,8 +15,8 @@ Review the list below. **DELETE** any line you do not want committed to your act
 | **rve_system**     | Perform Daily Checkpoint (Breakfast)               | 5m            | 10              | System adherence.               |
 | **rve_system**     | Perform Daily Review (Evening)                     | 15m           | 10              | Data fidelity commit.           |
 | **career**         | Search Craigslist for Gigs/Automate It             | 60m           | 9               | Income generation pipeline.     |
-| **logistics**      | Ingest re-match-default.csv                        | 30m           | 9               | Resource engine initialization. |
-| **school**         | Check FAFSA/Scholarship Status                     | 45m           | 8               | Funding for Summer term.        |
+| **logistics**      | Ingest re-match-default.csv                        | 30m           | 8               | Resource engine initialization. |
+| **school**         | Check FAFSA/Scholarship Status                     | 45m           | 10              | Funding for Summer term.        |
 | **legal_admin**    | Coordinate with PO (Asianna Nelson) May 6th 8:00AM | 30m           | 10              | Supervision compliance.         |
 | **creative**       | Log "Novel Experience" journal daily               | 30m           | 7               | Behavioral neuroplasticity.     |
 | **coding_tech**    | Setup Termux with Kali on extra phone              | 120m          | 8               | Mobile lab deployment.          |
