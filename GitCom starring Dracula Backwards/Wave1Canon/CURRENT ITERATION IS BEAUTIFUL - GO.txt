@@ -1,0 +1,62 @@
+CURRENT ITERATION IS BEAUTIFUL - GOING THROUGH, NOTES 
+- Tidy up this section "Converting what you might consider ruinous, and society might call "red flags" in your search for expanse to liberty - into your greatest strategic advantage. Re.Match uses your exact circumstances—demographics, justice involvement, employment gaps, or lack of documentation—and then fine tunes with your interest, proficiencies, fields of interest - to unlock highly specific, localized basic needs, scholarships, grants, paid apprenticeships, housing, specialized resources, and items of interest. If you are having medical or legal issues, I do not offer legal advice, but I can absolutely point you in a direction where you may or may not find highly useful and actionable information. Tell us what stands in your way, and we'll provide you with a report recommending three options per category, what to do, where to go, when, what to say, websites, email addresses, phone numbers, contact information - A simplified, highly specific action plan for every opportunity/resource we provide you. 
+The mandatory standards: 
+Only live links - no dead programs. Every report is made from fresh, live information, checked and verified at the time of report synthesis. 
+A 100% eligibility match based on your profile information compared to the opportunity's known eligibility requirements. 
+As close to 100/100 as possible to an abstract metric I have contrived called "The Life Impact Metric." A 100/100 Life Impact Score would indicate an opportunity that addresses multiple categories of your needs/goals, your interests and experience, and will provide an increased ability to pursue sovereign liberty with the greatest physical, mental, and social health possible." 
+
+"Not Legal Advice. Not Medical Advice.
+The information provided through Re.Match is for educational and matching purposes only. We do not provide legal representation or clinical treatment, I am a Justice Involved Individual, not a lawyer, not a doctor, not a scientist, and absolutely Human. All information is gathered at the time of report research & synthesis and verified to ensure accuracy based off of what is available and present on the internet. To ensure this, I will strive to identify the last date a target opportunity/resource was updated and include it. 
+
+- 
+[- Please, plan a refined fine-tuned, bulletproof implementation of: Privacy & Anonymity:
+Your data is used solely for constraint-based matching. We do not sell your data, nor do we report to probation, parole, or any supervision authority. The solution I have to provide anonymous reports without you needing to provide your name or any other identifying information: Instead of a name, put a codeword, codename, codenumber, or other alphanumeric (don't use existing passwords as your Alias) that only you will know. For instance, I use "hrt954" as my "Name/Alias." I will take your form, do the proper research, and upload it on this website in a section called "Anonymous Reports," using the identifier you provided as the name. It will be stripped of ANY of your information and contain only the opportunities and resources provided.  If you list your name, I recommend email as your chosen method of communication. " What was the idea with the secure file code? Is that a bulletproof method?
+
+-Documentation Status  
+Use checkboxes instead 
+
+-For Offense Barriers 
+This is one of the most critical constraints, and should definitely be specifically identified. Keep it the way you have it, but please include a form that says "If yes, please describe - This is one of the most critical match criteria - For instance, someone with violent offender status is eligible for a much more specific set of opportunities." 
+
+- Career & Employment 
+In the box, have a greyed out tool tip : Examples: immediate felon friendly employment, paid apprenticeships, particular fields of interest or ambitions 
+-Education & training  
+In the box, have a greyed out tip : Examples: Next Chapter - A  $1500 every two weeks paid coding bootcamp exclusively for Justice Involved Individuals. WorkSource: STEP Program - Fully covered training & education for careers, paid apprenticeships. Addiction Peer Counselor, Care Taker for a friend or relative 
+-Housing 
+Greyed out text - Short term: Shelter, congregate, non-congregate? Tent/sleeping bag? housed and need emergency rent help? Need help navigating the housing voucher waitlists? 
+-Medical 
+greyed out text - Flex Funds, Health Related Social Needs, help understanding insurance or where to go for help? Need treatment options that fit specific needs (IE 3 month Inpatient MAT Treatment that has a gym) NOT MEDICAL ADVICE, JUST PRESENTING INFORMATION  
+Recreational 
+Add a final field - Anything else? Say whatever you want here, ask any question, make any comment  
+
+Finish the website - 
+Contrive strategic sequencing and pragmatic utilization of branching 
+Establish what the readme.md will contain - Description of Gitting? Gittying Up? Git versioning? idk patch notes? Anyway, it'll be patch notes + things I've learned since last patch + what I've been doing since last patch...maybe. Or maybe keep it simple since it's still been too chaotic to perform systematically like I've been intending to. Note that that will change on Thursday, as I'm moving into the Hillsboro Shelter 
+Create 8bit iconography to use instead of emojis or generic AI bulletpoints 
+[Add another branch with the microphone button for every field 
+Add another branch with one long form ]
+Find data that helps analyze which one will be more effective - Make this standard process for every run, task, mission, project - seek data to augment decisions. 
+!!Identify critical claims that support my product by establishing a core-philosophy that applies to all of my endeavors, stating that I systematically & synergistically addresses relapse and recidivism mitigation factors by focusing on holistic physical & mental health, novel experience, focusing on building a long term foundation ; by jumping immediately into the first job you get without taking time to build a comprehensive and complete system, you are putting yourself at risk of failure by not taking the time to find yourself, to calibrate, to heal, to identify your skills and the trajectory that will actually produce the best psychological, societal, physiological, sustainable outcome and factors beneficial to the concept of having so many positive things progressing that if one were to falter the rest do not. Using the neuroplasticity window during early recovery, specific exercise training protocols (HIIT, Resistance training, extended Zone 2 cardio, ensuring a perpetual calorie surplus, and fundamental nourishment - catalyzing the process of recovery and reentry by establishing neurotrophy through hypertrophy and cardiovascular health, psychological gains through discipline and focus, synergistic neurotrophy through novel experience, learning, training, nutrition, sobriety and therapy, finding intrinsic self worth that is not contingent upon any one thing and comes from within, addressing basic needs and establishing a sustainable bare minimum functional baseline and very, very slowly, while attending therapy, counseling, and groups - incorporating more components - physical training/therapy, education, career development, recreational activities, with immediate employment as the lowest default priority setting but acknowledged and respected as a solution. Addresses the concept of for example addiction transfer, ie when an individual chooses exercise as an addiction. Entertain the idea of acknowledging that and not villiying it, allowing yourself to allow yourself to sustain the addiction to exercise while you build the stability and clean time, then gradually address that severely more manageable and beneficial instead of destructive addiction. State that my philosophies address all of the "Big 8" components probation officers use to assess their probationees; my systems are designed to create sustained & ingrained, non-brainwashed sovereign sobriety with altruistic intrinsic autonomy and complete coherence & clarity - awakening an individual's ability to perceive reality without the clouding their trauma has led them to create survival mechanisms that have kept them alive as sane as possible, accepting accountability properly while realizing that we are all a product of circumstance and trauma, that seeing clearly and finally making the steps to change, apologize sincerely, and the benefits of the 12 steps and how they are exactly perfect for reentry and recovery. I think that about covers everything, I don't need ALL of this backed by research, but if we can break this down into a coherent !!!
+"The Philosophy Of The Einherjar"  To my side, my noble Einherjar Ensure there is an anonymity option and terms of service and that security features are present, at the very least that ass coverage is present  
+Add an entirely separate form: "Don't feel like filling out the form? Just send me an email, state what you're having trouble with or your goals or your situation, and I'll help you from there." 
+Research data regarding the psychology of forms, and how to design appealing forms that psychologically exfiltrate information with maximum retention  
+Merge everything into final functional branch 
+Output line by line guide, explaining every single bit of code and how it coorelates to everything 
+Ensure every guide in the readme is live 
+Ensure the theme for the website is stylish but professional, reflects my personality without bleeding out of professional-status, is aesthetically and structurally novel and does not look exactly like every other AI generated ass clone ass cookie cutter ass thing on the internet right now 
+Wipe the other sections until there's stuff in them - Identify what sections I should have, how I should have them - separate pages? clickable links? everything on the same page? can I embed a publicly shared google drive folder? 
+Go through my notes - Create a list of content that would be high value - Identify shit that already functions as standalone content - include onto website 
+Link to foodfinder, streetroots, other high value bread & butter Oregon resource nodes 
+Include a collection of Open Source material / books - introduce the concept of "Open Source"
+Include collection of free shit for students - a guide 
+Include plain example dossiers for: 
+-Generic parole non-violent felon dossier
+-Generic domestic violence victim dossier
+-Generic recovery dossier
+-Generic homeless dossier 
+-My personal dossier 
+-See if I can get any friends to fill out the form as a test-run so I can submit the results and figure out format 
+Einherjar Endeavors: Run It Back; Re.Match
+
+ALSO I have letters of recommendation from Alexander Lingdren, Alex Elert, Reginal Meisler. How should I incorporate them? Into the website, or on the readme? 
+

@@ -1,0 +1,30 @@
+{ 
+  "system": { 
+    "name": "Revival Vector Engine", 
+    "version": "1.0", 
+    "operator": "Shane", 
+    "ai_partner": "Pickle Rick", 
+    "db_path": "rve/data/rve.db", 
+    "export_dir": "rve/exports", 
+    "log_dir": "rve/logs", 
+    "timezone": "America/New_York" 
+  }, 
+  "domains": ["school", "recovery", "legal_admin", "health_fitness", "career", "coding_tech", "creative", "relationships", "finances", "housing"], 
+  "attributes": ["strength", "agility", "endurance", "cognition", "creativity", "social", "technical", "recovery_capital", "tactical"], 
+  "domain_attribute_map": { 
+    "school": "cognition", 
+    "health_fitness": "endurance", 
+    "coding_tech": "technical", 
+    "career": "tactical", 
+    "recovery": "recovery_capital", 
+    "creative": "creativity", 
+    "relationships": "social", 
+    "legal_admin": "tactical", 
+    "finances": "tactical", 
+    "housing": "tactical" 
+  }, 
+  "quest_types": ["daily", "weekly", "arc", "crisis", "bonus"], 
+  "scoring": { "min_value": 0.0, "max_value": 100.0, "default_delta_per_quest": 0.5, "crisis_multiplier": 2.0, "decay_enabled": false }, 
+  "session": { "auto_briefing_on_start": true, "log_all_scores": true }, 
+  "pickle_rick": { "context_file": "rve/config/gemini_context.md", "instruction_file": "rve/docs/SYSTEM-INSTRUCTIONS.md" } 
+}

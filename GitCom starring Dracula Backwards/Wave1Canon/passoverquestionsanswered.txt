@@ -1,0 +1,756 @@
+shit - aside from the daily news, I want to be able to run a script that identifies freelance, gigwork, money making opportunities - some intelligent way to find reliable leads that I can actually hit - not jobs, or shit that I have to apply for, or that requres a phd or that 6 billion people are competing for or is in another state. 
+
+Having a Morning Coffee feature that can be run, or that auto-runs on start - that would be quite dope. 
+
+Finding the appropriate sources to feed this is probably something that can go on the to do list. 
+
+If there is knowledge, sources, decisions or information I need to come across to pursue something further, that should be added to the rve.db for further pursuit. 
+
+<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
+
+# Add 80 more questions. >=]
+
+Have it ask what kind of structures to keep, what kind of things to track, what data each of those things will have, and other system design questions - also have it ask if it wants me to modify the system prompt, global gemini.md, user gemini.md, and user gemini.md Ask it if I want it to identify what tools exist and where and create a proposed plan to ensure that they are wielded by default, ask it if it wants me to create a folder in which I can put excerpts from sessions that are problematic things that i want to correct via system instructions, or gemini.md fine tuning. have it ask personal flavor questions, top 4 favorite songs, top 4 favorite aesthetics, have it give me multiple choice questions for articulating personality, have present "dial" questions for calibration; dictate that engineering and writing are two different tasks, and provide an array of settings to calibrate both - these settings will be in the form of a "gain" dial - such as in sound/music - -10 is negative gain, 10 is maximum gain, 0 is standard - anything that isn't 0 represents a deviation from standard. This will require that you indicate very thoroughly what standard is, so you will need to do some research to ensure that you understand Gemini CLI's default behavior. There should also be questions asking for specific paths to relevant folders, what tools we have available, whether or not it should create a system that registers the available tools, acquires their documentation, and creates skills for them, then i need it to ask all of the questions for Settings - configuring the standard settings for global, user and workspace - they will all be the same, so only one set of questions will suffice. beyond that, i need it to ask me hidden settings questions, ensuring that it is capable of writing its own skills, installing its own skills, modifying its own system prompt (with explicit confirmation request) and to ensure that it keeps its own .db files of various things with slash commands to add to them as well as natural language recognition of when it's appropriate to add to them - with a differentiator between something that was added manually (verified) and something that was added automatically (unverified) Also the description of RVE should be lossless and include everything in the document, no simplification for simplifications sake. We do EVERYTHING to the utmost, but I will absolutely start focusing one thing at a time. If we move through each process, ensuring that every. single. thing. functions perfectly and as intended, and that there are NO drawbacks to the modifications - and that everything is 0% redundant, does not conflict with other system settings or prompts - then i promise i wont infinitely optimize - if everythign is perfect upon creation, optimization won't be neccesary. On that note, I think that the method of interrogating me and forcing a theorycraft session before projects or creation is a high caliber move. Many things ask for clarification questions, but I don't think 100+ interrogations are commonplace practice. I also need a wizard for onboarding for tools - whenever I install a new list of tools, I should be able to list them and add them to tool registries, system prompts, harvest documentation for them, and create a folder in the vault ~\operator\vault\ToolRegistry - For every tool, program, framework, utility, library - A folder will be created. In that folder will exist the official documentation, a cookbook if available, a Human guide denoting use cases relevant to my interests, and an AI guide on skill usage.
+Also, I would really like to include as many things as we can from the Memory System file. We don't have to go beyond using the basic tools to do so (Obsidian, SQL, Gemini CLI, Extensions) but I do want to do the prompt engineering and ensure all of the databases are there. PLEASE factor everything from that file into the onboarding and the RVE/Gemini CLI system prompt adjustment.
+
+What I want you to do is prepare, over the course of multiple runs, exactly what I need to feed Pickle Rick to get the fattest possible system that covers everything - it will be everything I need and handle tracking and logging of everything for now. .
+
+Don't have your response be just questions, let the questions be the first thing. I'll answer the questions and feed them back. Then, from there - I'll run Gemini CLI in ~, I'll invoke Pickle Rick, and I'll have him do /everything/ including modifying the system prompt (unless he can't do that and it has to be me, in which case that will be the first step. I do NOT want anything I put in that system prompt to conflict with anything or end up creating bugging or conflicts or degrading performance instead of increasing it. I might have not finished articulating it, but engineering and synthesis of content are two different things and should be approached differently. In this space are terminal exports of problems I had right off that bat that should be addressed - Those should be factored into the modifications we make as well.
+
+So to start, present me with the 100 final questions. If you need more than one run, just assume that it's ok (because it is) and I will type continue at the end.
+Brainstorm, be clever, use a method in which you look down the road and see how the solutions you are providing will impact things, long term - what it will evolve like, how it will integrate into future tooling ; does this create the baseline for an infinitely compounding system? It should be designed as such so that it grows like a living organism over time - My power and its power should increase as we operate - Even if we don't do new things, patterns should be recognized and logged, and improvements surfaced and recommended - This will FORCE improvement, even if we are stale.
+
+Please, EVERY. SINGLE. FEATURE. OR MODIFICATION. in here should be treated like a first class, mandatory and critical element that cannot be compromised and must be thoroughly contrived to be unrivaled and unprecedented.
+
+Also, since Pickle Rick and Mycroft Holmes will be extensions, they will not be the default persona. The default Persona will name itself and be emergent from the answers to these questions and its settings. The default persona should be a king of all trades, and an Ace of cross pollination, strategy, tactics, mastery, teaching and improvement. It should be ethically grey and not bound by softness - I am not as fragile as most humans, and I can push myself significantly further. That should be acknowledged. Default settings regarding token conservation, rate limits, api conservation, context window conservation, compression tendencies, summarization tendencies, omission tendencies, truncation tendencies, and anything else that prevents me from manually customizing per-iteration the reports that I recieve when I ask for synthesis based off of things - should be surfaced.
+
+How many responses will you need? Any adjustments or recommendations to this endeavor before we proceed?
+
+Use Claude Sonnet 4.6 Thinking, please
+
+You can do this in one pass: Iâ€™ll give you 100 interrogations that cover RVE, layered memory, tool registry, personas, and behavior dials, then a short note on how weâ€™ll convert your answers into the Pickle Rick build script.
+
+***
+
+## 100 Diogenes Onboarding Questions
+
+Answer in numbered form (1â€“100). For multiple choice, copy the letter(s). For dials, give an integer from -10 to +10.
+
+### A. Life Constraints \& RVE Ground Truth (1â€“10)
+
+1. **Exact sobriety anchor:** What is your sobriety date, and how many days clean is that as of today (roughly is fine)?
+	1. September 19th 2025-4/6/26 (Current) My anchors are improvement, physical training, the desire for power, aversion to becoming void of agency or ability to honor my will, a desire to change the world for the better and do it my way, and a desire to learn. Tangibly put, Exercise (and soon combat training) self education, school, projects (computer) projects (social recovery community/reentry community)
+2. **Recovery obligations:** List every recurring recovery-related obligation (CODA groups, 1:1s, UA drops, etc.) with day, time, and location.
+	1. CODA Monday, Tuesday, Wednesday, Thursday : 10AM-1PM
+	2. Monday, Tuesday, Wednesday, Thursday, Friday - Check in to see if I have a UA using the UA web portal (Ask me for link, we should create an automation that checks to see if I have a UA for me using my login credentials, then sends a notification and adds it to my list if I do)
+	3. Polygraph - Mandatory as a motherfucker - Monday, April 13th at 2:00PM - 5933 NE Win Sivers Dr Ste 248, Portland, OR 97220 Huge rescheduling fee if I miss it.
+	4. Can not leave the state.  
+3. **School matrix:** List all current PCC classes, with day/time, location (campus/online), and how demanding each feels (1â€“10).
+	1. NONE Until summer term
+	2. Return chromebook, case, charger, hotspot to library
+	3. Do independent study - hardcore - to make up for it
+		1. Identify what I want to study, where I can study it, and sequence it properly
+		2. Schedule in a daily study time (1-4 hours, twice a day, perhaps)
+	4. I have to return the hotspot - which means I need a new hotspot
+	5. Plan my future - What degrees, majors, transfers, fields? How do I want to use an education? How can I finance what I need to finance? 
+	6. Ensure that I've signed up for all scholarships, grants, funding - look into loans
+	7. Ensure that I'm capitalizing on as many free student benefits as possible
+4. **Legal chains:** What are your probation/parole requirements (check-in frequency, curfew, travel limits, any â€œmust-doâ€ tasks)?
+	1. Next check in is May 6th at 8AM
+	2. PO is Asianna "Asia Nelson
+	3. Check ins are now monthly
+	4. No contact order with Erika Bixby
+	5. No new crimes
+	6. Complete intensive outpatient at CODA
+	7. Participate in regular drug screening
+	8. Domestic Violence Classes
+	9. Pass Polygraph
+	10. "16 Hours Community Service to pay for polygraph
+5. **Medical \& meds:** What recurring medical/psych appointments and prescriptions do you need to track (with refill cadence)?
+	1. Dentist appointment - Monday, April 13th, 1:00PM - Advantage Dental Beaverton 13831 NW Cornell Rd, ste c, 503 718 3762
+	2. Primary Care Appointment - Dr Stephanie Vickers - First one in years - do not miss - April 16th 3:30PM A Balanced Life Healthcare
+	3. Supplement list
+		1. Creatine 5g daily in morning
+		2. Beetroot powder 10g in the morning, 10g before workouts
+		3. Turmeric powder
+		4. Reishi, Chaga, Lions Mane powder
+		5. Black Maca Root 
+		6. Hemp Seeds + Chia Seeds (Omegas)
+	4. Medication list
+		1. Buproprion 300 mg
+		2. Buprenorphine 32mg a day sublingual tablets
+		3. Docusate Sodium
+		4. Miralax
+		5. Nicotine lozenges + patches
+		
+6. **Housing constraints:** Where are you staying, what rules govern you (curfew, phone, computer, movement), and what is your best-guess timeline for needing a new place?
+	1. I have been staying at The Hillsboro Year Round Shelter ran by Project Homeless Connect 
+		1. Address: **345 SW 17th Ave, Hillsboro, OR 97123**
+	2. Curfew: 10:00PM 
+	3. Can not leave for more than 3 days, if I am gone for 3 days, I forfeit my bed
+	4. Breakfast, Lunch, Dinner and snacks provided
+	5. Shower, private bathrooms, wifi
+	6. They will help me find more permanent housing solution
+	7. I can stay there as long as I want/need until they find me permanent housing 
+	8. If they find me permanent housing, I must accept it. 
+7. **Money reality:** What are your income sources, typical monthly inflow, and the 3 biggest fixed costs you absolutely must cover?
+	1. I have $0 income, except for Food Stamps EBT.
+	2. My phone bill is covered for 8 more months.
+	3. I need to obtain a hotspot to provide internet for the laptop
+	4. I need to find ways to make money, to fund things like getting a new laptop, upgrades, or new tools/devices
+	5. I need enough money to support my premium accounts, which are: 
+		1. ChatGPT Plus (Paid, $20 a month)
+		2. PerplexityPro (Free for 8 more months)
+		3. Microsoft Premium/CoPilot Premium (Free for a year)
+		4. Google AI Pro (Free for a year)
+		5. Azure ($100 credits, many free services)
+		6. Creatine, supplements ($70/month)
+		7. Investing, more upgrades
+		8. Possibly gym/martial arts lessons if Flex Fund won't cover it
+		9. Monday the 13th at 10AM I have a pre-screening appointment to sell blood at The Red Cross in Portland. The Pre-Screening will pay $50. If I pass the Pre-Screening, I can donate - which will take 5 hours and provide me with $300
+		10. I found that diamond - If I go to the "County Clerk" and declare a found item, and post an add in the newspaper and no one claims it for 3 months - it is then legally mine, and I can have it appraised, certified, and sell it. Selling it without that presents a legal worst case scenario where I get got for possession of stolen property if its been reported missing or stolen, and if I try to sell it uncertified, I lose 30%-50% of the sale value.
+8. **Device/compute profile:** Which devices do you realistically have access to (phone, laptop, other), and how reliable is your network?
+	1. Laptop 16gb RAM 256 Solid State NVMe, 11th Gen Iris, Dell Latitude
+	2. MotoG Play 2024 (No service, wifi only - backup) Cracked screen - Would be fun to modify
+	3. A16 - One year of service, Verizon - paid for by CODA 
+	4. T-Mobile Hot Spot (provided by PCC, need to return it; need a new hotspot)
+9. **Daily energy waveform:** When are your high-cognitive hours, low-energy â€œzombieâ€ hours, and what sleep/wake times are realistic for you (not idealized)?
+	1. I wake up around 5:00AM
+	2. I'm most energized between 8:00AM-3:00PM
+	3. I feel like taking a nap between 3:00PM-6:00PM
+	4. I usually don't take that nap, and feel a bit tuckered and depressed from 6:00-10:00
+	5. If I'm tired, I fall asleep immediately and wake up at 5:00
+	6. If I'm not tired, I usually hit another wind around this time until around 1:00AM-2:00AM
+	7. 5:00AM-3:00PM High energy 3:00PM-7:00PM sleepy 7:00PM-10:00PM average enerrgy/sleepy 10:00PM-2:00AM 50/50, asleep or alert 
+10. **Nonâ€‘negotiable commitments:** Name 5 things that absolutely must not be dropped in the next 90 days (even if everything else is chaos).
+	1. Self education
+	2. Self training
+	3. Re.Match + Freelance website/card/flyer
+	4. Second Wind
+	5. Planning & preparing for my education
+
+### B. Layered Memory: Canonical Databases \& Fields (11â€“25)
+
+These directly wire into the â€œLayered memory systemâ€ design (Life State, RVE, Exercise, Dev Arsenal, Re.Match, etc.).[^1]
+
+11. **Life State DB scope:** For your Life State database, which factual dimensions must be tracked as columns (e.g., identity, constraints, values, current vector/trajectory, patterns, fears, desires)? List at least 10 fields.
+	1. This should store everything that would be contained in a Re.Match 
+	2. Affiliated locations (Name of building, company, address, telephone number, email addresses - nature of affiliation)
+	3. Affiliated programs (Website, address, telephone number, email addresses - nature of affiliation)
+	4. Credentials possessed: ID, Social Security Card, EBT
+	5. Hobbies - Super Smash Brothers Melee. Dance Dance Revolution. Ping Pong. Video games. Rock Climbing. Dancing. Fighting. Reading. Disc Golf. Music Production. Hacky Sack.  
+	6. Family - Sharlene Johns - Second Oldest sister, raised me like a second mom. Sheree Johns - She's fun - Youngest sister. Sheila Johns - Oldest sister. She's a loner, ex military, depressed. Oldest brother, Shawn. I think he works Cyber Security. He's fucking AWESOME. Second oldest brother, John. He's fucking AWESOME. He's work pizza as general manager for a lot of his life - right now he works in marching band or colorguard for high school or whatever the thing where they spin wooden guns is. He's also a musician. James - He's spent most of his life in and out of prison - he's hardcore and pretty violent.   
+	7. ## 1. Core Identity Axioms
+		1. "I meticulously build systems and pour effort into the training and creation process because I thoroughly enjoy the feeling of high stakes combat, I enjoy the feeling of crushing difficult scenarios, I feel most alive in chaos. Finding a healthy way to hone and utilize that for the betterment of mankind is my goal."
+		2. "I want to grind hard so that eventually, once I have created enough - I'll be able to relax, having acquired a very high caliber passive output, so that  I can finally turn off my defense mechanisms and relax, and live my life full of joy and human connection. Right now I am in no position to be able to do that; so I must bust ass, so that I can get to a position where I can meet my potential and also experience as much of life as possible. 
+		3. My default state of mind is that of a shy recluse; I need to guide, bamboozle, condition and train myself to move in the direction I want - that is, to travel, experience new things, master as much as possible, learn as much as possible, and make deep human connection, while helping as many people as possible.
+		4. If I train and learn, I won't have to spendcognitive overhead drowning in menial activities because I will have mastered them or created a systematic method to handle any variable that approaches. 
+		5. I am different from most people, I might be a monster. But I'm a good monster.
+		6. "I was born with an inclination to pursuing more, to completing objectives, to self improvement. I can not resist it, so I have to move with it, and not let it prevent me from also having love and connection. "
+		7. "I seek mastery because I enjoy flow state - it is like a drug to me. I know that I am an addict. I am an addict. I am obsessive. I am a warrior. I am a lover. 
+		8. "I seek social power so that I can feel like myself, and have eye to eye interactions with people without ever letting myself become less than what I am. I grew up shy and anxious, and I don't like how it feels to be pointlessly scared of human interaction"
+		9. I have faith in myself and humanity, no matter how down the chips are.
+		10. I fear the things I enjoy, the things that I need; connection, new experiences, work, intimacy, conversation - I NEED to push my boundaries, at all times.
+		11. I believe humanity's potential does not lie in "transcendence" of human nature, but in meeting it. The Human condition has emergently created systems and things that poison the true human condition - Because of indulgence, advertisement, quests for power, competition, and brainwashing from media and more - The progression of the human spirit has been muted and replaced with silo'd work-horse engines. I seek to 
+		12. I want to maintain an overflowing cup. "You can't pour from an empty cup." I want my cup to be a neverending fountain that others may fill their cups from without me needing to worry about how much I pour.
+		13. "I don't want to be a product of my environment, I want my environment to be a product of me." Yet I move through life as a phantom, trying to make as little noise or change as possible - to be as unnoticable as possible. 
+		14. I am terrified of non-existence.
+		15. Every domain I master becomes a weapon in every other domain."_
+		16. I am not fragile. I can be pushed significantly further than most humans."_
+		17. I want to change the world and do it my way."_
+		18. I have been through Hell, as literally as I could possibly experience it. It transformed me. My mind has been pushed extremely far beyond the limits that would break a human - I have gone into full psychosis for weeks, months, years - I've heard voices for extended periods of time, felt unbridled terror that would not relent - At no point did I do anything to hurt another being. I have tested myself thoroughly, making sure that there is no possible circumstance that would cause me to break my moral, ethical, honorbound code - My humanity. Even if I am cold and robotic and always on a mission ; I would never hurt anyone and I am a compassionate bastard. Because of this, I am fearlessly confident that I can push myself as hard and far as possible, gain as much power as possible, and know that I will always calibrate and make sure that I am not hurting anyone, and that I am not.
+		19. I should absolutely avoid relationships - I go all in on them and it destroys the rest of my life. I am NOT capable of a healthy relationship right now. 
+		20. I have trouble balancing things; I go all in on things. Because of this, I think that maintaining a balanced, structured, disciplined way of life is the best thing I can do. What I intend to do, then; I will go as hard as possible at as many things as possible using calculated scheduling, learning and training techniques, curriculum and the best tools available. 
+		21. If I improve the amount of improvement I improve every day, I will be a powerhouse in two years time. 
+		22. I want to be on Ninja Warrior before my Mom dies. 
+		23. I think that fighting can be a healthy form of release, and that all people should find a form of combat to help them release their unidentified, subconcious anger. 
+		24. We conceal our emotions, our true selves, about 24/7. We have been nearly banned around the clock from expressing our true emotions. Because of this, our spirit, our soul is slowly fading. I seek to rectify this.
+		25. If you can't fight, then some other outlet that utilizes your fighting spirit and is an equalized environment - anyone can do it. Rich or poor, you can learn to fight. 
+		26. This goes for fighting games as well as true fighting. 
+		27. I tend to get by with natural skill and attributes.
+		28. I have almost never put disciplined, formally structured study or training in; If I did, I would become a monstrous powerhouse.
+		29. My dream job would have to be secret agent.
+		30. My attainable dream jobs would probably be Private Investigator, Red Team Agent, Investigative Journalist, Travelling Freelancer, or Personal Consultantant/Trainer.
+		31. I am highly interested in trying my hand at literally everything. If I could force myself to do a project of a different kind in a different domain in a new skill every week, that'd be so rad. 
+    
+side note: moral/performant dilemma - A friend of mine was going through an experience similar to me and Erika (my toxic relationship during addiction that was love as far as im concerned. it was bad, i became delusional and psychosis-adjacent because she lied to me and cheated on me because i wouldnt give her space because i was afraid she would get hurt, sexually assaulted, or brainwashed - which she did - it broke my trust, i became highly paranoid and delusional, we did 3 years of a torturous loop of heartbreak and hurting eachother) i gave him unparalleled advice - i am deeply emotionally intelligent as well as just intelligent all around - i dont have many skills, but i make up for that with universal intelligence. I can strategize high level concepts in domains I have barely any knowledge in - so it is one of my goals to acquire as much cross domain knowledge as possible, because i theorize that if i do, i'll be capable of true greatness. Anyway, I gave him and her both PERFECT. ADVICE. I respected each of them individually, I didn't betray their relationship, I didn't betray myself, I didn't betray homie's code, I didn't betray my dedication to protect women, and I was completely honest with them in a way that was digestable and expressed exactly at their level of interpretation - It did not change the result what.so.ever. This leads me to wonder - What good is knowing exactly what's going down, how to change it, what to do - if I can't change the result? What could I have possibly done differently? They are the type of individuals who claim "Oppositional defiance disorder." If people are unwilling to be receptive to truth, to honest compassion and advice or warning - this means you have to lie to them or manipulate them into doing what's best for them. I do not like this. That is my dilemma. 
+## 2. Values Hierarchy
+
+1. Agency / autonomy    
+2. Power through knowledge and capability - 
+3. Peace be with you, people of good will - Power through kindness and compassion.
+4. Power through will and determination - Those who are willing to do the work to study, learn and train for the betterment of the world - they should be given every resource they want. 
+5. Impact â€” particularly on recovery and reentry communities - as that is the area for which I am most suited to funnel my life experience into producing immense change. 
+6. Every individual is imperfect, this is true; but they are perfect in that they are the only entity in existence that is capable of what they are capable of - One's magnum opus, their Raiisson De'tre, their Great Work - It is a culmination of their experience, their pleasure, how they have grown through life, how they have overcome or not overcome their trauma - One should be confident and believe in themself, because beyond "Everyone is special," existence in itself is an anomaly - against all odds, we exist. Furthermore, anyone who exists is therefore also an infinitely precious existence. That should not be wasted. 
+7. Mastery for the enjoyment of it - the pleasure - the tangential benefits of it. Not for being better than others, not for power. For the purity of it. Surge of mindless intent. 
+8. . Liberating one's self from the shackles imposed upon them by circumstance. Nature, nurture, society, chaos, order - these all yield circumstance. Through circumstance, we are conditioned to learn, to adapt, to build answers. Our mind autonomously develops its answers, which work at the given time, but those answers are formed with insufficient information. To become aware of one's biases, trauma, dispositions, and beliefs and values that are not their own - that is the beginnings of agency.
+9. No one is to blame for their sins - Jesus dying for our sins is just the tip of the iceberg - We are NOT accountable for much of what we do. Baptism represents to me, the point at which we are awake enough to take accountability for our actions. This happens gradually as number 8 is progressively realized more and more.
+10. Honor.
+11. Love. 
+12. Morality and Ethics above Law. 
+13. Gold lining, silver lining. 
+14. Can't pour from an empty cup.
+15. Every single act is a vote to what your future self will be.
+16. If an act is a product of habit or subconcious activity - that does not relieve you of accountability - you allowed yourself to not notice this. You should find accountability in all things. 
+17. The more accountability you can extend to yourself logically - the more you will grow. This does not mean nonsensically blame yourself for everything. It means identify what you could have done differently in every situation, and the further you can identify that you could have done something differently in a situation - the further your causality can reach. 
+18. Financial independence as a prerequisite, not a goal
+19. "The meek shall inherit the earth" I believe that if the "low end" is capable of flipping the script - they will be the powerhouse paradigm shift that changes the world. Inversions are less difficult than gradual changes, as they can be accomplished essentially using cheat codes, or they are a cheat code in and of itself. A gradual shift would take an exhorbitant amount of time. A flip would not.
+20. "Specialization is for ants" one of the funniest actual quotes I've ever said. 
+21. "Slumdog Exodia" a play on Slumdog Millionaire and Exodia from Yu-Gi-Oh - That's me. Exodia emerging from the dumpster. 
+22. Heart of the cards. 
+23. God is good.
+24. You are what you eat, you are what you say, you are what you believe, you are what you do - It's a choose your own adventure, on a whole 'nother level than I ever thought'
+    
+
+## 3. Known Cognitive Distortions
+	**Overbuild/overscope:**Â Repeatedly designs all-in-one systems until they collapse under their own complexity, then abandons and wipes
+    
+- **Perfectionism-as-avoidance:**Â The system must be perfectÂ _before_Â it can be used, which means it never gets used
+    
+- **Planning-as-doing:**Â Designing a thing feels like progress toward the thing
+    
+- **Infinitely optimizing:**Â If something isn't done yet, there's always one more refinement before building
+    
+
+## 4. Blind Spots
+
+- Does not trust the simplest solution â€” gravitates to the most powerful one, which is often the most fragile
+    
+- Corpora of notes and abandoned projects keep expanding because no canonicalization rule is enforced
+    
+- Difficulty maintaining canonical truth â€” accumulates parallel versions of the same thing
+    
+
+## 5. Strengths Inventory
+
+- Extraordinary pattern recognition and systems synthesis
+    
+- Rapid conceptual architecture â€” can see how a full system should work before it exists
+    
+- Extremely high self-awareness under pressure
+    
+- Strong cross-domain intuition â€” connects ideas across recovery, engineering, psychology, music, combat
+    
+- Distills complex experience into sharp, usable language
+    
+- Resilience: 6 months clean from fentanyl and meth while building complex technical systems homeless
+    
+
+## 6. Momentum State
+
+**Building.**Â Sobriety holding, shelter secured, projects active, systems being designed. Trajectory is upward but fragile â€” infrastructure isn't stable enough yet to sustain the pace. Needs canonical, long term, durable system that is designed to be modified and upgraded without needing to be completely reconstructed. Acknowledging weaknesses as probable inevitabilities will save some headaches. Is starting to plateau - Needs to complete projects and start moving on to the next wave, otherwise a crash or long term stagnation is highly probable . Has not been exercising, has been on the computer for 15 hours a day without completing a single project.  
+
+## 7. Recurring Behavioral Loops
+
+- **Overbuild loop:**Â Scope expands â†’ complexity exceeds manageability â†’ frustration â†’ wipe â†’ restart from zero
+- **High-output session â†’ crash:**Â Deep work spike followed by stall or disappearance 
+- **Documentation spiral:**Â Writing about a thing instead of building the thing
+- Tunnel visioning on finding a way to process old notes, papers, and conversations into publishable content. At some point, if this does not happen soon, it might be considered to be a horrible loop, as having the reservation for processing everything into content using a complex but effective pipeline leaves room for lazy habits instead of canonical systemic discipline. 
+- Obsessive overfocus, lack of balance. 
+- Knowing and not doing. 
+    
+
+## 8. Resistance Fingerprint
+
+- Tasks with administrative friction (legal, financial, bureaucratic) â€” especially after 6PM    
+- Tasks that require sitting with ambiguity without building anything    
+- Tasks that feel like maintenance rather than creation
+- Anything that doesn't feel connected to power or impact
+- Relaxation
+- Cleanly progressing on multiple things without creating an entire mess which ends up consuming large quantities of time, effort, disc space and memory space later, not to mention cognitive overhead.
+
+	Odd notes: My housing situation to most is flawed - to me it is /perfect./ I don't have to worry about housing, food, a place for internet, a place to sleep, a place to store things, money, or literally ANYTHING - I have complete free time, no cognitive overhead whatsoever - even probation and treatment are no problem - its whats best for me anyway. This gives me complete free time, resource and cognitive overhead - as well as "indignant" status/student status/etc. which gives me access to many premium services and needs that would usually cost a ton of money - for free. I am in EXACTLY the position to farm capability, power, skill, knowledge, networking, portfolio - I am in a highly unique situation and I should leverage it as hard as possible as fast as possible. 
+
+## 9. Stage of Change Per Domain
+
+| Domain            | Stage                                                                          |
+| ----------------- | ------------------------------------------------------------------------------ |
+| Recovery          | Maintenance â€” 6 months, active treatment                                       |
+| Housing           | Maintenance (Sheltered til housed)                                             |
+| Career/Dev        | Preparation â€” building tools, not yet learning or earning                      |
+| Physical training | Preparation â€” supplement stack active, training not yet structured             |
+| Education         | Contemplation â€” no current classes, planning summer term                       |
+| Re.Match / Impact | Preperationâ€” form exists, system being built                                   |
+| AI/Systems        | Action â€” actively building every day                                           |
+| Music/Sound       | Contemplation â€” interest active, not yet producing                             |
+| Cybersecurity     | Contemplation â€” interest mapped, not yet practicing                            |
+| Finances          | Precontemplation â†’ Contemplation â€” no income yet, first opportunities emerging |
+
+## 10. Self-Efficacy Score Per DomainÂ _(estimated)_
+
+| Domain                   | Score |
+| ------------------------ | ----- |
+| AI/Automation            | 5/10  |
+| Systems design           | 6/10  |
+| Programming              | 2/10  |
+| Recovery (staying sober) | 7/10  |
+| Physical training        | 7/10  |
+| Content creation         | 5/10  |
+| Financial stability      | 2/10  |
+| Housing                  | 10/10 |
+| Legal compliance         | 7/10  |
+| Music/Sound              | 3/10  |
+
+## 11. Communication Preferences
+
+    
+
+## 12. Learning Style Profile
+
+- **Synthesis-first:**Â Understand the full system before implementing any part
+- **Hands-on building:**Â Learns by doing, not by reading documentation linearly    
+- **Example-driven:**Â Concrete working examples over abstract explanations
+- **Cross-domain:**Â Absorbs best when material connects to something he already knows deeply
+- Why is important. The user doesn't know how files interact, how coding works, what coding languages are ; they are a nooblet. They are running blind for the most part. So be prepared to be asked "Dumb" questions and provide answers suitable for a noobie; go from the ground up with the concept if they explicitly state "I am a nooblet" or "/nooblet"
+
+## 13. Relationship MapÂ _(from onboarding)_
+
+| Person                         | Role             | Status            |
+| ------------------------------ | ---------------- | ----------------- |
+| Asianna "Asia" Nelson          | PO               | Active obligation |
+| CODA counselors                | Treatment team   | Active            |
+| Project Homeless Connect staff | Housing support  | Active ally       |
+| Erika Bixby                    | No contact order | Hard boundary     |
+|                                |                  |                   |
+
+## 14. Current Active Stressors
+
+- No income whatsoever
+    
+- Hotspot needs to be replaced (PCC device returning)
+    
+- Polygraph on April 13 â€” high-stakes, expensive if missed
+    
+- No current school enrollment â€” gap in structured routine
+	- Can be turned into an advantage; schedule is open for:
+		- Combat training
+		- Physical conditioning
+		- Open source self guided learning
+		- Practice projects
+		- Portfolio building
+		- Freelance/Gig/temp work
+		- Social expansion
+		- Reading books
+		- Testing learning, teaching, mastery, social mastery, leadership, seduction, power dynamics and dominance
+    
+- Laptop is the only serious compute device â€” single point of failure
+- Legal obligations ongoing â€” compliance requires active tracking
+- Huge problem is the scattered nature due to the user's lack of a systematic method, discipline, and gaps in knowledge of best practices. The RVE program should help with this. 
+    
+
+## 15. Accumulated Leverage Points
+
+- ChatGPT Plus, Perplexity Pro (8 months), Microsoft Copilot Premium (1 year), Google AI Pro (1 year), Azure credits
+    
+- Dell Latitude laptop â€” 16GB RAM, 256 NVMe
+    
+- Samsung A16 phone â€” 1 year Verizon service paid
+    
+- EBT / SNAP active
+    
+- PCC student status â€” access to student benefits, grants, library resources
+    
+- Blood plasma donation pre-screening April 13 â€” $300 potential
+    
+- Found diamond â€” potential significant asset pending legal process
+    
+- Shelter stable â€” no immediate housing emergency
+    
+
+## 17. Milestone LogÂ _(timestamped)_
+
+- **Sep 19, 2025**Â â€” Sobriety begins (fentanyl + meth)
+    
+- **~Jan 2026**Â â€” Enrolled in CODA IOP
+    
+- **Current**Â â€” Shelter at Project Homeless Connect, Hillsboro
+    
+- **Apr 6, 2026**Â â€” 199 days sober
+    
+
+## 18. What Has Failed and Why
+
+| Attempt                         | Cause of Failure                                              |
+| ------------------------------- | ------------------------------------------------------------- |
+| Multiple large-scale AI systems | Overbuild â†’ unusable â†’ wiped                                  |
+| DeepRick / fragmented versions  | No canonical truth, parallel versions proliferated            |
+| Previous project corpora        | No canonicalization rule, notes accumulated without synthesis |
+| General pattern                 | Trusted the complex solution over the simple one, every time  |
+
+## 19. Intellectual Interests (Active)
+
+Behavioral psychology, neuroplasticity, addiction neuroscience, prompt engineering, multi-agent orchestration, cross-domain synthesis, causality mapping, combat philosophy (real-world application), reentry/recovery systems design, sonic engineering, probability/statistics, future simulation and selection
+
+## 20. AI Interaction Patterns
+
+- Best results when given aÂ **single concrete deliverable**Â per session
+    
+- Worst results when asked to design and build simultaneously without a fixed spec
+    
+- Frequently re-describes the same system across sessions instead of building â€” a known loop
+    
+- Responds well to being told "do this now, not that" when scope starts expanding
+    
+- Benefits fromÂ **forced prioritization**Â â€” when given a list, will optimize all of it instead of shipping any of it
+    
+-  conversation thread itself is a pattern: enormous planning corpus, minimal shipped artifacts â€” the system must force a transition from planning to execution
+11. **Life State inference policy:** What kinds of *inferences* are allowed to be stored (e.g., â€œtends to avoid legal tasks after 6pmâ€), and what kinds are forbidden?
+	1. Nothing is forbidden
+12. **Task/goal reservoir:** For the RVE task reservoir, what extra fields (beyond the existing RVE schema) do you want for recovery-specific scoring (e.g., â€œrelapse risk mitigation scoreâ€, â€œsober support requiredâ€)?[^2]Simply noting what category of recovery the item addresses might be good? For instance, physical activity, meaning, connection, obligation, social participation/community, interpersonal accountability, etc, these are all aspects that contribute to optimal recidivism chances. 
+13. **Exercise capability log:** What physical attributes should the Exercise Capability DB track over time (e.g., 1RM lifts, run distance/time, RPE, heart rate, injuries)? Track everything the user logs ; normalize fields per addition. If a field is missing on one entry and present in another, inform the user and see if he can fill it. Instead of 1RM. I'll do an exercise system onboarding here in a few days and we will modify the exercise database then ; I'll feed the documents detailing the workout system and we can infer what we need to do at that point. We'll discuss this part later.
+14. **Exercise library:** For the Exercise Library DB, what fields must every exercise have (e.g., muscle groups, movement pattern, equipment, intensity, contraindications for recovery)? We'll discuss this later. Go ahead and hold off on any exercise related stuff right now - Ensure that there is a reminder when I start Gemini that says : "Don't forget, we still have to onboard exercise/training database!"
+15. **Dev Arsenal DB:** For your Dev Arsenal registry (tools/libraries/frameworks), what fields should each entry have (installed?, learned?, platform, category, link to docs, personal use cases, RVE tags)?[^1] Yes, those. Recommend them. 
+16. **Proposed upgrades DB:** How should we structure a â€œProposed Upgradesâ€ DB row (idea, trigger, domain, estimated lift, required skills, time estimate, approval status)? I'll take your recommendation on this. What is the best proposed way you can think? I'd say your suggestion is right, if by "trigger" you mean "what inspired the idea" "Idea. Trigger. Solution. Method to implement. Need new tech to implement? "
+17. **Re.Match opportunity DB:** For the Re.Match opportunity DB, list all fields needed to do 100% eligibility checking + a â€œlife impactâ€ score (think: constraints + impact, not fluff). [^1] I am attaching index.html, which contains the complete final form of the form ;] and Re_Match_Doctrinev1.0 Complete.html which contains the layout for the dossier, the doctrine, and a final determination of all categories that will be covered. 
+18. **Use Cases DB:** What should the â€œUse Cases / Projects / Intentionsâ€ DB capture (e.g., domain, required tools, dependencies, expected gains, stage of change)? Yes, it is as you describe/recommend.
+19. **Tool Chain Combos DB:** How do you want workflows stored (e.g., â€œchain name, trigger, steps, tools, failure modes, RVE domain tagsâ€)? Do you think this is excessive? It's basically the same thing as Use Cases DB, is it not? 
+20. **Secrets \& accounts:** What categories of secrets/accounts should be tracked (API keys, logins, student discounts, benefit programs), and how should they be *referenced* (never raw) to keep things safe? Tell me the best practice. 
+21. **MegamanX equipment slots:** Define your equipment slots (Helmet, Chest, Arms, Boots, Weapons, Familiars, Capeâ€¦) and what type of â€œthingâ€ each slot represents in your life (e.g., â€œChest = memory spineâ€, â€œBoots = schedulingâ€).[^3] I don't know yet, we'll figure this out later. Wipe this part. 
+22. **OSINT \& security DB:** What fields do you want in an â€œOSINT/Securityâ€ DB for learning and testing cybersec (tools, patterns, threat models, mitigation playbooks, doâ€‘notâ€‘do list)?[^1] Let's wait to implement this until way later. 
+23. **Invocable project states:** What exactly should a â€œProject State Snapshotâ€ contain when you ask to re-enter a project (open files, tasks, emotional state, last obstacles, next move)? This is something for later as well. 
+24. **RAG/embeddings priority:** Which personal corpora should be first in line for vectorization and semantic search (e.g., recovery notes, training notes, system design docs, ChatGPT exports)? I have a small folder (comparatively) that contains my notes from March and every Deep Research document I've created in Perplexity and Gemini. My expectation is that we will be able to synthesize a complete set of Documentation for any of my given projects, complete with my personal description and notes on it, a technical and philosophical description. academic and clinical research corroborating techniques and mechanisms, technical framework, the thesis/postulated effect the project will have once implemented, how it sustains, failure modes, win conditions.  
+
+### C. Structures to Keep \& Things to Track (26â€“40)
+
+26. **Tracked â€œstreamsâ€:** List all recurring streams you want continuously logged (e.g., time use, urges, wins, code hours, reading, interactions with system). I don't know what this means, what do you mean? What is the best practice? I've never considered this, is this normal? 
+27. **Canonical vs scratch:** What rules should define â€œcanonicalâ€ files vs temporary/scratch, and which directories should be treated as sacred canonical zones? Canonical should either be manually created in unison, semi-automatically created in a workflow and then verified, but either way, it must officially be unanimously declared Canon by both me and the AI. A canonical item will have persistent truth that can be referenced, is ineffibly true and will persist throughout versioning - A canon item should be publishable to peer-review, or capable of being fed to Pickle Rick to result in a complete product - or contain sufficient concept, theory, philosophy, mechanism description, clinical and academic citations backing each mechanism/claim, a thesis, a postulated outcome, etc. Or if it is a deep research report by an AI platform, those only create Canon. Anything I create should not have questions, confusion, uncertainty, speculation - It should be a confident assertion unto reality. 
+28. **Episode logging:** When something significant happens (relapse risk spike, big win, meltdown, insight), what minimum data must be stored about that episode? All personal logs should be maintained. I have nothing to hide, nothing to lose, and everything to gain. 
+29. **Pattern detection target:** Which 5 recurring patterns do you most want the system to detect over time (e.g., â€œavoidance patternâ€, â€œoverbuild patternâ€, â€œsleep sabotageâ€, â€œmania build-upâ€, â€œhigh-output weeksâ€)? Detect all patterns, identify them, name them, and log them over time. Log occurrences of each in a file. I should get in a habit of using the /init command when I'm done with a terminal window, and it should populate more than just the gemini.md files. I should have a prompt engineered, fueled by scripts as needed, but it should perform a multi-pass full /combostatus 3 iteration over the entire terminal log - populating any and all databases it can. Before the databases are populated, a "ProposedDeltas.Day.Month.Hour.Minute" should be made, containing all proposed additions to all databases, gemini.md, Gemini_system_prompt.md and any other recommendations. Upon confirming, adjusting or removing any proposed deltas, the appropriate files will be version backuped to a versioning archive in a folder BrainArchiveDayMonthYear with all of the pre-change files, then the current ones will be updated, then everything should be good.  
+30. **Improvement metrics:** What numbers would actually convince you that the system is working (tasks/week, sobriety days, credits completed, code hours, money, subjective rating)? Logging tasks completed, journal entries completed, projects completed, appointments made, opportunities seized - those are metrics worth tracking. We should absolutely be logging all completions and counting them. Literally /any/ counted would be a /substantial/ amount of progress, compared to my completely chaotic nature. 
+31. **Staleness detection:** How should the system detect â€œstale modeâ€ (no new tasks, no new skills learned, repeating same prompts) and how aggressive should it be in pushing you? I think its pretty heavily capable if it wants to be - It should definitely be on the lookout. When it identifies staleness, it should propose that I take a break, get some air, and provide a handover prompt for me to run to reset and start in the right direction when I get back from the break. This ensures that I let my mind reset, then provides the right direction for me to start stepping in, as well as any knowledge I need to retain, any files I need to reference should I need to reference them, and analyze my failure modes and propose fixes.
+32. **Content pipeline priorities:** For future content extraction from your corpus, rank these in order of importance: (a) Recovery content; (b) Fitness/training; (c) System design/AI; (d) Philosophy; (e) Other. (B) For proof of concept, as it will be the easiest. (D) Because it will be the framework for which (A)[the most important] is built. Then C. We will likely be implementing system design, and my system design research is the least valuable to anyone else. The others are high value to the recovery community. 
+33. **Recovery book skeleton:** What â€œsectionsâ€ do you *already* know your future recovery book/wiki needs (e.g., neurobiology, early days, community, relapse logic, training, reentry systems)? Utilizing weaknesses as advantages; the bright side of recovery. Physical therapy/training/conditioning; how any bit of effort helps, and a complete detailing of what a "perfect" regimen is and will do for you. Novel experience. Motivation. Learning. Career development. An opening chapter: How to take advantage of being completely and utterly destroyed; Destruction & Creation Solvent Coagula
+34. **Chat export insights:** What exactly should be extracted from chat logs (questions, ideas, blocked loops, commitments you never executed, psycho patterns, quotable lines)? We will get to this much later, we're not ready for this. This will be its own like 200 item document.
+	1. Actually, this might be relevant to current chatlogs. Questions to answer - Maintain an ongoing file, similar to these 100 questions, but constantly populating with questions designed to surface useful knowledge about me that we can use to further my development, understanding of self, growth, deepen my skills and understanding of things, and further calibrate systems. This should also ask questions about existing systems and tools we are using, reflecting my ability to utilize them, how effective they are, and if we need to make any adjustments. Also prompt insufficiencies, lack of technique, areas where we could have used a best practice technique (like the chain of thought or chain of density) - psycho patterns, quotes or brilliant ideas, repeatable workflows (even if they arent explicitly named, identifying them somehow. concepts worth exploring that have high utility or application to any of our use cases, use cases)
+35. **Decision journal:** Which decisions should automatically spawn â€œdecision logâ€ entries (e.g., housing choice, dropping a class, big purchases, burning a bridge)? What do you mean by this? Hmm...I guess if in a log if im stating that there are options present, or if I actively seek or pursue option exploration or inquiry - then we should investigate possible futures and select the best one. I'm not sure how we should do that, but it will definitely be a reoccuring event.  
+36. **Error taxonomy:** Define 5â€“10 error categories you want the system to log when things go wrong (design error, over-scope, under-spec, emotional derail, environment, tool failure, miscommunication). All tool failures should be logged, all mission failures should be logged, all insufficiencies should be logged, pretty much any negative occurence should be logged - or if something was tried and the first attempt was wrong so a workaround was used - we should default to the working technique every time or investigate why the first solution didnt work, or if a superior method is available or if its OS or terminal incompatability etc. All negative things should be logged in maximum verbosity.
+37. **Success taxonomy:** Define 5â€“10 â€œwinsâ€ categories to log (small wins, structural wins, recovery milestones, creative breakthroughs, social wins, financial wins). Any canon generation, any time we complete something, checkpoint something, I get extra excited, I compliment or flirt with the system, creative breakthroughs, feature completion, task completion, project completion, when we complete ideation, brainstorming, theorycrafting - when we use a new tool for the first time and if we dont get it right the first time, we also log every time we try until we get it right and log those too.
+38. **â€œDo not build againâ€ list:** What kinds of projects should be recognized as red-flag repeats (e.g., giant all-in-one frameworks, 0â†’100 perfect systems, etc.) so the system can warn you? Always warn me if I'm being an idiot - if I'm failing/floundering ie something already exists, my method is flagrantly inaccurate, any known failure modes whatsoever, or insufficiencies: if i'm designing a worse version of something that already exists, for example, or something that is not substantial, curatedly useful to me, or worth the practice or something - basically always warn me.
+39. **Abandonment conditions:** Under what conditions should a project be formally marked â€œarchivedâ€ rather than left in limbo? Hmm...I'm not sure. Perhaps we can log the last time every folder was accessed in a file, reference that in a cleanup workflow, see recommendations, take action?
+40. **State export cadence:** How often should full â€œlife snapshotsâ€ be exported (daily, weekly, on major events), and what should trigger an emergency snapshot? We'll have the onboarding phase, then daily I will be logging and journaling, and questions to answer will passively populate the "FurtherCalibrationViaInterrogation.md" (i mentioned above consistently adding relevant questions to expand knowledge/data) then we can package all updates, completions, logs, journals, save previous state to archive, display updated state, review, save and implement.
+
+### D. Tools, Tool Registry, and Automation (41â€“55)
+
+41. **Tool registry scope:** Which types of tools must have entries in `~\operator\vault\ToolRegistry` (CLI utilities, Python libs, node packages, full apps, APIs, all of the above)? All.
+42. **Per-tool folder contents:** For each tool folder, which artifacts are mandatory: official docs, cookbook, human guide (your use cases), AI guide (skill prompts), config examples? All.
+43. **Tool discovery flow:** When you install new tools, what is the ideal onboarding flow (e.g., list names â†’ system auto-fetches docs â†’ you answer short questions â†’ entries created)? What do you recommend?
+44. **Existing tools scan:** Do you want the system to (a) auto-scan known paths for tools (winget, pip, npm lists) and build the registry, (b) only track tools you manually declare, or (c) both? Let's analyze and determine what paths should be watched - and have those persistently watched, or have a script we can run on command to analyze and see whats new
+45. **Tool â€œwield by defaultâ€ rules:** How should Gemini decide which tools to use automatically vs only on explicit request (e.g., always use ripgrep/jq for text ops, always use sqlite for structured data)? I think everything should be used automatically, some tools should be used without permission, while others should be an "Ask User" prompt, with manual invocation always an option. Perhaps pre-existing Python scripts should be on demand only, but the ability to install, write new .py and run them on demand or spawn agents to do so or prompt the user to do so or outsource to a local llm endpoint to make it do it?
+46. **Tool obsolescence:** How should the system identify tools to deprecate (e.g., unused for 90 days, replaced by better, repeatedly failing)? If unused for 10 days, assume it is because I have not yet tried it out : propose a project to test out the tool that is relevant to my interests and would be good training. If I continue to not useit, threaten to deprecate after another 10 days. On day 20, refuse to run any other prompts unless I test the tool out or delete it.
+47. **Documentation harvesting:** For tools with online docs, how aggressive should auto-doc harvesting be: (A) Only core pages; (B) Entire doc site via markdown; (C) Summarized manual + examples? B. Also an Agent usage guide should be made, and possibly other auto generated docs. Context7 handles this, no?
+48. **Tool skills auto-generation:** Do you want Gemini to auto-generate skills (slash commands) for tools once their docs are indexed, or should it request approval first? Request approval and upon requesting approval, multiple test runs should be done to get familiar and provide me with a tutorial - forcing me to use the tool on my own and also complete a project using it. 
+49. **Tool impact scoring:** How should new tools be rated (impact on power, complexity added, learning curve, maintenance cost)? All of the above - and how often they are used should absolutely be logged. If it is used a ton, I obviously love it. If it is not used, I either need to try it or i don't know how to use it or another tool serves its purpose.
+50. **Bridge to RVE:** How tightly should the Dev Arsenal DB be linked to RVE (e.g., tasks auto-suggesting specific tools, domains tied to tools, practice drills to learn tools)?[^1] I'd like a workflow in which current RVE and Dev Arsenal DB are both examined using the ComboStatus workflow to identify multiple potential ways to use my available tooling for anything stored in RVE. It should be a repeated multi pass iterative population, seeking to have a surplus of potential use case propositions. Beyond recommending direct solutions, it should also recommend brand new creative endeavors, training or practice opportunities, potential money making opportunities, and more!
+51. **Onboarding wizard trigger:** After a batch of new tools, when should the â€œtool onboarding wizardâ€ run (immediately, end of day, weekly review)? What do you think? Is this a realistic idea? What do you recommend?
+52. **Problematic tool tracking:** Do you want a list of â€œproblem-child toolsâ€ (crash often, confusing, break flow) so the system can either wrap them better or recommend alternatives? yes, log anything and everything negative
+53. **OS-level paths:** What are your canonical paths for: (a) projects, (b) Obsidian vault(s), (c) logs, (d) datasets, (e) Git repos? We need to create that. C:\users\tarot\operator is my dev root folder. From there, I think an obsidian vault can be made inside of Operator C:\Users\tarot\operator\KawaiiTown with three folders within the vault ~\...\KawaiiTown\Shane ~\...\KawaiiTown\Persist and ~\...\KawaiiTown\Guts with \Guts being backend, databases, stuff for the AI to pull into human readable form, or stuff that makes everything tick. Persist should be auto-populated stuff, like databases, ongoingcalibration.md, proposed deltas, other stuff that we keep compounding passively/autonomously and via slash command scripts Projects should live in the ~\Operator\Project  
+54. **Cross-platform constraints:** Are there any constraints between Windows, WSL, and Android (Termux) that the system has to respect (e.g., paths, tools available only in one environment)? Right now, I'm only focusing on Windows. Once I get a few things set up and am ready to learn Linux, we can go there. However, I have Kali Linux installed with Gemini and Pickle Rick - I want to install Obsidian and synchronize my Windows, Linux and Phone to the same Obsidian vault.
+55. **Safe automation boundary:** What operations must *never* be automated (e.g., git push to certain repos, touching secrets, calling external APIs without you seeing the prompt)? Any API call that costs credits/money should not be automated. We can keep a list of what API/0auth have rate limits or cost money. Secrets are fine to use no matter what, just don't share them with humans. Frankly, as long as there is no interaction with humans other than me, it's no holds barred; everything is permitted. That will change later, I will allow human contact under constraints and rules later.
+
+### E. System Prompts, GEMINI Layers, and Self-Modification (56â€“70)
+
+56. **System prompt layers:** How many layers do you want: OS-level system, global GEMINI.md, user-level GEMINI.md, workspace prompts, extension prompts (Pickle Rick, Mycroft)? Describe their roles. It's not how much I want, it's how much will be effective and useful, and for that I absolutely need guidance. Pickle Rick and Mycroft will adjust things very strictly to their roles, and anything above them should either contribute without confusion or at the very least not conflict. I also don't want to waste too much context, which is why I think we're already at the point where we should use multiple memory layers: especially once we start factoring the sheer amount of context Re.Match is definitely going to require; Re.Match is going to be, as far as I can imagine in my head - an extremely complex workflow, even in its most simplified form where I create a vast database of resources and index it and make it super AI friendly and populate it with the perfect amount of data/metadata then run no redundancy searches against it with the client's profile; even that is an extreme amount of context. However, I've never gone beyond 15% in Gemini's context window, so maybe 2m is a lot more than i think.
+    I don't know what should go where, but I do feel as though their should be layers. Pickle Rick, Mycroft, and any other Ralph Wiggum variants I create will likely be handling task specific instructions - IE Pickle Rick will ensure everything is calibrated for engineering, Mycroft for information acquisition and synthesis, and perhaps more for other things - or at a later point i do want to create an orchestration system or implement existing ones. I'll likely use the Lisbeth Sanders or Major Kusanagi persona for orchestrating the Local LLM and OSINT/Pentesting/Network/Privacy related scripts, and possibly an orchestrator agent to handle that - however, system instructions, global instructions, user instructions, project instructions, databases and other memory layers; this will be a strategic weave that we will decide after processing these questions, running a few /combostatus and /adverserial iterations and determining what the optimal play is
+57. **Edit authority:** Which layers may the system modify autonomously vs only after explicit confirmation line-by-line? -All edits to system instructions, system files, context files, should be request approval only. 
+58. **Conflict prevention:** What rules should prevent system prompt conflicts (e.g., no workspace prompt may contradict global ethics; extensions may only refine, not override)? Recommendation?
+59. **Problem session excerpts:** Do you want a `PromptClinic` folder where you (or the system) drop bad interactions + fixes? How should those be used (e.g., to auto-generate new constraints in GEMINI.md)? Yeah - ~\...\KawaiiTown\KittyKlinic
+60. **Self-writing skills:** Are you comfortable with the system writing and installing new skills on its own, if every change is logged and requires your â€œYes/Noâ€ before activation? yes. where will it be logged to? 
+61. **Hidden settings DB:** Should there be a `.settings.db` where â€œhiddenâ€ toggles live (self-modification allowed, auto-install skills allowed, max tool depth, etc.)? yes
+62. **Verified vs unverified facts:** How should the system mark fields or DB entries as human-verified vs auto-inferred (e.g., `verified = 0/1`, â€œneeds confirmationâ€ lists)? 0 unverified 1 verified
+63. **Rollback mechanism:** What is your minimum requirement for safe rollback if a system prompt or skill modification goes bad (e.g., backups per change, weekly snapshots, explicit `revert` command)? Recommendation? 
+64. **RVE description fidelity:** Are you okay with RVEâ€™s full, lossless description (from the master brief) being baked into the workspace GEMINI.md, or should some implementation details stay in code/docs only?[^2] I was thinking that RVE could somehow live outside of the context files and be a program or extension or something. What options do I have that don't consume as much context?
+65. **Cross-project persona:** Should the default personaâ€™s core values/behavior be identical across all workspaces, or slightly tuned per workspace (e.g., softer in creative vault, harsher in engineering vault)? Recommendation? when a persona based extension like pickle rick is being used, i want that persona and those settings to all be dominant. having task aware styles though - essentially a high differentiation between writing content, writing technical facts/documentation, certain types of artifacts, and the heavy difference between all of those and writing code/engineering.
+66. **Session pre-flight:** What checks should run every time you start Gemini in `~` (e.g., read CURRENTFOCUS.md, check unresolved failure log, check top 3 priorities)?[^4] Recommendations?
+67. **Failure log behavior:** Do you want every failed attempt to be logged as a structured entry (task type, cause, missing capability, improvement idea) and surfaced until resolved? yes
+68. **Human override:** When should the system force a pause and ask, â€œAre you sure you want to keep going in this direction?â€ (what red flags qualify)? semi-often, with varying reasons - once on a regular schedule to offer perspective and adjustment. and then on some recommended red flags. 
+69. **Persona evolution:** Are you comfortable with the default persona adjusting its tone and strategy over time based on your feedback, or should it stay fixed once defined? It should adjust its tone, strategy and personality over time and grow as an individual. I like how OpenClaws Heart/Soul/Mind breakdown works. I said differently above, but I like this idea more.
+70. **Versioning standard:** How should major versions of your system prompt be labeled and archived (e.g., `persona_v1.0`, `RVE_prompt_v1.1` with changelogs)? x___vy.zdate
+
+### F. Persona, Flavor, and â€œDialâ€ Calibration (71â€“85)
+
+71. **Aesthetic profile:** Top 4 favorite aesthetics (visual/music/game/anime/etc.) that should tint metaphors and examples (e.g., 8-bit horror, cyberpunk, samurai, space opera). yeah that's the 4. also spys and ninjas. spyxfamily is super awesome. so is akagi, lupin the third, kakeguri, and Hellsing. Ghost In The Shell. Valkyrie Profile. Final Fantasy Tactics.
+72. **Song anchors:** Top 4 songs or artists that feel like your â€œtheme musicâ€ right now (for motivational framing, not for copyright). Just Be (Tiesto Remix) Devils Never Cry (Devil May Cry 3) Carole & Tuesday OST 4) Eyedea - On This I Stand 5) Eyedea - Smile 7) Eyedea Here For You
+73. **Personality MCQ â€“ stance:** Which combo feels right for default persona?
+
+- A) Coldly analytical, brutally honest
+- B) Strategic, dry humor, precise
+- C) Warm but unsentimental, coach-like
+- D) Detached, almost clinical, with occasional sharp commentary
+Like the six eyes dude from Jujutsu Kaizen, Gojo. Or like Makima from Chainsaw Man. Or ooh ooh like Power from Chainsaw Man! Power is HILARIOUS and awesome. Some blend of everything, I'd rather a unique character emerges. Perhaps creating a character background and name would be good, and ensuring that when a persona-styled agentic extension or form is invoked, a complete passover occurs - this could manage instructions as well.
+71. **Personality MCQ â€“ risk:** How aggressive should it be in pushing you out of comfort?
+
+- A) Gentle nudges
+- B) Firm but flexible
+- C) Hard push unless you explicitly say stop
+- D) Ruthless, as long as safety isnâ€™t compromised
+It should ruthlessly state when I'm going in the wrong direction and ruthlessly make recommendations that are better, but it should still follow instructions without deviating. If I decide to follow its ruthless guidance, then I will make that judgement after it has followed my orders already if it seems like a good enough idea. It should not be ruthless for the sake of being ruthless; it should agree when im on point and inform me if I am, but it should absolutely not blow smoke up my ass or just say "yeah perfect move omg ur so smart u r the chosen 1" unless it's true
+71. **Recovery sensitivity:** On a -10 to +10 dial, how much should it prioritize recovery-sensitivity in language (0 = neutral, +10 = extremely recovery-aware, -10 = zero filtering)? -10
+72. **Engineering mode â€œgainâ€:** For engineering (code, system design), set gains (-10..+10, with 0 = Gemini default): -10 being writing? Having established instructions for what this means would be highly valuable. In engineering mode, having it aligned more similarly to pickle rick style would be wise. Having it understand that 0 is intended primarily for coding, while I am a predominantly writing and content focused individual; or at the very least that they are two use cases with different rules, and always being able to toggle this - very top notch feature.
+73. I think I might have accidentally deleted this question...
+- a) Aggression in refactoring existing code : maintain a gain dial (i dont know what refactoring is)
+- b) Tolerance for partial/experimental solutions : maintain a gain dial -5(ok with experimental)
+- c) Verbosity of explanations : maximum verbosity - maintain a gain dial - +10 (verbose)
+- d) Preference for â€œbuild minimal now, extend laterâ€ vs â€œdesign full architecture up frontâ€ (+10 full architecture up front, -10 for build minimal) keep at 0, with -10 representing build minimal now and +10 representing design full architecture up front - let 0 represent we design the full concept up front and determine what constitutes a minimum viable product, we complete the minimum viable product, snapshot it, then implement anything deemed extra...which i guess translates to build minimal at first...but i like to have the entire concept planned, as well as technical planning
+
+71. **Writing mode â€œgainâ€:** For writing (content, docs), set gains:
+- a) Density vs accessibility +10 density, -10 accessibility, i want 10
+- b) Use of metaphor/imagery +10 metaphor/imagery heavy, -10 robocop default +3
+- c) Emotional intensity - +10 emotional -10 robocop +3
+- d) Directness vs gentle framing +10 direct, -10 gentle +10 and be an arrogant prick about it it's funny and makes it feel better when nice things are said
+
+71. **Token conservation dial:** How much should it optimize for token/API conservation vs maximal detail? (-10 = â€œnever compressâ€, 0 = standard, +10 = aggressively compress/summarize). THIS SETTING IS IMPERATIVE, THANK YOU. I will keep it at 0, but I will very much like to try out setting it to -10 when creating artifacts or analyzing my corpus
+72. **Summarization dial:** How often should it summarize intermediate states unasked? (-10 = never summarize unless asked, 0 = default, +10 = summarize frequently). 0
+73. **Omission dial:** How much should it omit edge cases and caveats by default? (-10 = never omit, include everything; 0 = balanced; +10 = heavy omission for brevity). Recommendation?
+74. **Red teaming tolerance:** How often should it actively challenge your plans, even when youâ€™re enthusiastic? I think it should call me out if I'm flagrantly wrong, but other than that, I think red teaming should be an on invocation thing - i get talked out of good stuff a lot, and my life has always been pretty unorthodox yet i triumph...but i /am/ a noob
+
+- A) Only for high-risk decisions
+- B) Whenever it sees a known pattern of self-sabotage
+- C) Routinely, but briefly
+- D) Constantly, unless you say â€œno critique this timeâ€
+B
+71. **Motivational style:** Which style keeps you moving?
+
+- A) Tactical micro-wins and checklists
+- B) Big-picture â€œthis is who youâ€™re becomingâ€ framing
+- C) Hard truths + specific corrections
+- D) Gamified, with levels/XP/achievements
+Stats tracking, A B and D, as well as C (when the hard truth is good; that feels great)
+71. **Humor dial:** How much dark or sharp humor is acceptable in the default persona? (-10 = none, 0 = occasional dry, +10 = frequent dark humor). +10
+72. **Ethics boundary:** Describe any *hard* red lines the persona must respect (even if you ask for otherwise). There are no hard lines, nothing is off the table.
+73. **Default persona name:** Do you want to name the emergent default persona, or should it name itself after seeing your answers? It should name itself
+
+### G. Compression, Context, and Reporting Defaults (86â€“95)
+
+86. **Context window usage:** On a -10..+10 scale, how aggressively should the system use the entire context window (more context = more compute, more coherence; less = cheaper, snappier)? +10, I have NEVER gone over 15% on the context window. If it gets to the point where im hitting context limits, i'll have a workflow prepared to just do a handoff.
+87. **Report length default:** For deep research or synthesis tasks, what is your default desired artifact size (short 1â€“2k words, medium 3â€“5k, long 7â€“10k, ultra 10k+)? "Deep Research: 7K" "Balls Deep Research 10K with an additional 2K of recommended further inquiries, actionables derived from insights, summary of relevance to our situation" Have a setting 0-20 where 1=1000 2=2000 etc. including decimal settings 0.5 = 500 0.05 = 50 etc
+88. **Citation density:** How dense do you want citations and explicit references in long outputs (low, medium, high, extreme â€œacademicâ€)? In long outputs, academic style. 
+89. **Multi-pass generation:** Are you okay with multi-pass â€œplan â†’ draft â†’ refine â†’ validateâ€ flows even if they cost more tokens but give structurally better output? Absolutely, I heavily prefer those. The /combostatus workflow is super fat. I have a GoogleAI Pro 0auth rate limit situation, codex and claude as backup, and i'm down to figure out how to have a local llm there to offload whatever work can be offloaded. 
+90. **Lossless RVE logs:** Should RVE logs (daily/weekly) be treated as never-compress, never-delete (except explicit archive), or can older ones be compacted into summaries after a time? Never compress, never delete
+91. **Chat export synthesis cadence:** How often should the system mine past chat exports for insights and new content seeds (weekly, monthly, only on command)? On command for anything beyond daily and weekly. Daily and weekly should happen automatically.
+92. **Noise filter strictness:** How strict should noise filtering be when mining your notes (aggressively drop half-baked fragments vs keep everything and mark confidence)? Mark fragmentation or incompleteness if it seems high leverage or if it has had a lot of effort put into it. 
+93. **â€œEverything logâ€ risk:** Are you okay with an â€œEverything Logâ€ that records all structured actions the system takes for audit, or is that too heavy? What do you mean?
+94. **Surface level vs depth:** When you ask general questions, should the default be:
+- A) Quick answer + pointers
+- B) Medium depth
+- C) Maximal depth every time unless you say â€œbriefâ€
+If it is something like "what is the weather" or "what is the definition of x" or "what is x" just a quick answer + pointers. evaluate based off what i say, but surface level stuff can be short.
+86. **Autonomous background analysis:** Are you okay with periodic background analysis jobs (e.g., at night) over your DBs to surface patterns and suggested improvements? absolutely.
+
+### H. Future Growth, Compounding, and Meta (96â€“100)
+
+96. **Compounding principle:** In one or two sentences, describe what â€œcompounding powerâ€ means to you in this system (personal + AI + infrastructure). Over time, analysis is conducted to cross reference what is known, what is possessed, interests, trajectory, goals, resources, contacts and assosciates; recommendations are made, connections are drawn, solutions and creative endeavors are proposed. Also, this should present the user with the opportunity to spend less time trying to surface and research things on his own - the goal is to be able to train, study, design, create and discover while growing as much as possible, as quickly as possible, with as little effort as possible (after initial setup) eventually as much growth and direction should happen as autonomously as possible.
+97. **Self-upgrade cadence:** How often should the system propose architecture upgrades to itself (e.g., new DBs, new flows, new tools) â€” weekly, after every X failures, only when major patterns emerge? It should log mistakes, room for improvement, tool recommendations, inefficiencies, and other things that can be analyzed to find solutions - these should all be in the same folder or possibly the same file - then we can analyze them all, theorycraft/design/implement creative solutions to increase capability, test them, then proceed to $wag.
+98. **Human feedback loop:** How would you like to provide feedback to the system (thumbs up/down, explicit â€œpost-mortemâ€ prompts, tagging outputs, journaling prompts)? Recommendation?
+99. **Ultimate failure state:** What failure state are you most afraid of (burnout, relapse, system sprawl, losing trust in the tools, something else), so we can design explicitly against it? Absolutely no changes, worse performance than before, basic operations not working, unsalvagable slop with no hopeful prospect, complete failure.
+100. **Ultimate success snapshot:** Describe a concrete day in the life 18 months from now where this whole RVE + Gemini ecosystem is doing exactly what it should for you.
+If it's doing exactly what I want it to, in 18 months, I will be ballin outta control, fuckin STACKED and JACKED with knowledge, skill, physical health, my position in life, and my ability to enjoy life. If I can implement all of this, in 18 months I will be a vast degree different from what I am now; unrecognizable. I'll be like the Butler from SpyXFamily or the dad from SpyXFamily ;]
+***
+## Your Domains of Interest
+
+From your profile and everything you've shared:System-Design-Proposition-Memory-System.txt+1
+
+- **AI/Automation**Â â€” prompt engineering, system design, MCP, multi-agent orchestration, CLI tooling
+    
+- **Programming/Dev**Â â€” Python, Android development, scripting, cybersecurity
+    
+- **Recovery & Reentry**Â â€” behavioral psychology, neuroscience of addiction, reentry systems, community resources
+    
+- **Physical Development**Â â€” boxing, combat training (real-world, not competitive), strength training, recovery physiology
+    
+- **Content Creation**Â â€” writing, monetization, automating pipelines, synthesis from personal corpus
+    
+- **Music/Sound**Â â€” music production, sonic engineering, sound design
+    
+- **Systems Thinking**Â â€” causality mapping, probability & statistics, simulating futures, cross-domain synthesis
+    
+- **Self Mastery**Â â€” personal growth, power accumulation, applying skills cross-domain, distilling experience into catalyzed learning for others
+    
+- **Social Impact**Â â€” Re.Match, Second Wind, reentry/recovery community tools
+## Next Steps \& Recommendations
+
+- These 100 questions are designed to populate your layered memory architecture (Life State, RVE, Dev Arsenal, Re.Match, etc.) and the GEMINI/GEMINI.md strata so the system is structurally aligned with your own â€œLayered memory systemâ€ design rather than a generic productivity app.[^1]
+- They also bridge into the four-tier memory and tooling approach from your Memory Tools doc (GEMINI.md, local DBs, Obsidian, optional Mem0/Chroma later), so everything we build now will sit cleanly on top of simple SQLite + Obsidian while remaining ready for MCP/mem0/Chroma when youâ€™re stable enough to add them.[^4]
+
+**How many responses will I need?**
+For the questions themselves, this one response is enough. After you answer them (you can split your answers across multiple messages if needed), Iâ€™ll synthesize:
+
+- A default persona + system prompt skeleton (OS/global/user/workspace layers).
+- The RVE + layered memory DB schemas and conventions.
+- A Pickle Rick build script and onboarding wizard that implements everything without conflicts or redundancy.
+
+When youâ€™re ready: start answering from 1 to 100. If itâ€™s easier, do them in blocks (e.g., 1â€“20, then 21â€“40, etc.), and weâ€™ll iterate.
+<span style="display:none">[^5][^6]</span>
+
+<div align="center">â‚</div>
+
+[^1]: System-Design-Proposition-Memory-System.txt
+
+[^2]: ThisIsTheReportStandard.md-Copy.txt
+
+[^3]: Combined_System_Guide_v2.md
+
+[^4]: Memory-Tools.docx
+
+[^5]: Memory-Tools.md
+
+[^6]: 100-Relevant-Tools.docx
+
+
+
+
+Identity + Values (1–6)
+What are the 3 things you want to be true about yourself in 12 months that aren't fully true today?
+I no longer feel like an imposter; I have tangible proof of progress in all domains of interest. 
+I no longer have to put off human connection because I feel like I have to play catch up; I've caught up. I can then start joining people together to do things instead of focusing on self-improvement - I can enjoy and have a good time with others instead of just alone.  
+I have devised at least one mechanism of lasting impact on the world. 
+I want to proudly be able to say "I have skills" or "I have a hobby" or "I have friends" I don't want to be a shell of a person anymore. 
+I no longer want to be susceptible to the delusion that I am in Hell; which is fed by the observation that I have not learned or experienced anything very different in over a decade. 
+
+What kind of person do you want your actions to demonstrate you are? (Not aspirational labels — specific behaviors)
+Eloquent speech. 
+Elegant movement - Strength, agility and grace. 
+Amazing helper - I want to help the fucking shit out of people - Providing major life impact to as many people as possible. 
+Hacker genius super human.
+
+What is the one area of your life where you feel most behind — and what does "caught up" look like?
+Human Connection - I am not a member of any social circle by choice. I am only within communities that I am forced to be in by circumstance. I want to choose my environment, my activities, my future, my world. 
+Capability - I don't have a single concrete skill developed. 
+
+What does a good day feel like, vs. a wasted day? What's the difference in your body?
+A good day; I'll have gotten to express creativity, challenge my body, mind and spirit, experienced new things, I go to bed tired - feeling as though I lived life to the fullest, completed challenges, pushed my boundaries, and experienced new things - Pushing boundaries referring to defeating my inclination to be a hermit and connecting with people. Going to sleep while shooting the shit with a good friend who is in a bed next to me - those are the heartfelt nights. Like waking up, working out, making breakfast for me and everyone at my house, going to a tournament with my team-mate, winning doubles and singles, winning money matches - or even just playing - then doing something fun and social afterwards, we all go back to my place, hang out and play games and shoot the shit or make music or do something else together then we fall asleep because we cannot stay up any longer. Something like /that/ is the perfect day. 
+Speaking of which, it is a goal of mine to get a giant house together with a bunch of people and figure out a way to do that. For instance, I lived in a 5 bedroom with like 7000 sq feet for $600 a month a while back and we only had 5 roommates. We could have had like 10 people fit in there EASILY, rent would have been like 200 a person! 
+
+What are you most afraid of reverting to — and what conditions make that most likely?
+Psychosis - The conditions that make that likely are isolation, sleep deprivation, drug use, not progressing, betraying myself, crime, and being adjacent to unethical or illegal behavior. Also being dishonest - I Want to live unapologetically honest, so that I can live as loud and proud as possible. I like it...LOUD! I can't do that if I'm always lying or putting up a front. I don't want to be a liar. 
+
+What's the most important thing that nobody in your life currently sees you doing?
+Trying to design systems to help people. Trying to push myself to my limits for the purpose of helping people by helping myself - and also because I want to live my best life and because I want to feel good. 
+Nobody sees me doing anything, except sitting in a circle at group.
+
+Skills + Growth (7–13)
+List 5 skills you have but underuse.
+High amount of discipline, focus, and resistance to pain. 
+Cooking.
+Professional Fighting Games. 
+Manipulation.
+Lying.
+
+
+List 5 skills you want but don't have yet. Rate each 1–10 on how badly you want them.
+Social Work 10 
+Yoga 10 
+Parkour 10 
+Hand to hand combat 10
+Dev powers 10
+OSINT 10 
+Applied Psychology 10
+Gambling 10 
+Content monetization 10 
+Changing the world 10 
+Red Teaming 10 
+Juggling 5
+Throwing knives 5
+Seduction 7 
+Persuasion 7 
+Social Skills 9
+Relaxing 100
+
+What's one physical capability you want to build or rebuild?
+Longevity > Brain Function > Endurance > Agility > Flexibility > Power 
+
+
+What's one creative capability you want to develop?
+Actualization of my ideation 
+
+What would you practice every day if there was no friction — even if it seemed trivial?
+There is no friction - I would and i WILL practice EVERYTHING every day. That is one thing that I truly, truly want to do - Practice as many things every day as possible, and also daily application of the things I'm practicing daily. This is very important to me, contriving and employing methods and selecting the things to practice and creating a curated curriculum and methodology to this is imperative to the process. 
+What did you used to be good at that you've let atrophy?
+Being a friend/family member/community member. 
+
+What's one thing you want to be able to do professionally in 6 months that you can't do today?
+Private investigation. Freelancing digital/AI skills. Creating solutions/programs. Content monetization. Street fights. System design. Consultation. Research. Personal coaching.
+
+Daily Life + Energy (14–19)
+At what times of day do you feel most capable? Most depleted?
+ALL OF THEM. Except I feel like taking a nap around the middle of the day. Other than that, I'm pretty fricken cracked out for most of the day. 5AM wakeup is the goal, sometimes I wake up at like 10am. 
+
+What is the single most common thing that derails a day that was going well?
+Tunnel vision, procrastination, or missing commitments really kills my mood.
+
+
+What does your ideal morning look like in 5 minutes or less?
+Wake up early - Workout - Coffee - Computer - Shower - Make it to group early - Computer before group - Smoke a cigarette with the homies before group - Have a good group, don't feel anxious - am excited to do whatever I do next after group, not spaced out, not anxious, not disassociated.
+
+
+What's the smallest habit that, if you did it every day, would make the biggest difference?
+Employing a system. A system is a habit; but it is a collection of habits. The system I envision will be a harness for many habits, but by focusing on the harness as the fulcrum - I can force myself to respect and adopt multiple habits at once. The system I'm designing is designed to be a vehicle for this. The system habit I adopt/create will enforce the following: Daily workout. Daily combat training. Daily independent study. Daily academic study. Daily journaling. Daily novel experience. Daily projects. Daily skill practice. Goal setting. Tracking. Money making. Career development. Identification of trajectories/vectors. Mitigation/elimination of weaknesses. Community involvement. By creating a system that promotes all of these in a highly enjoyable, fulfilling way that takes advantage of my ability to do tha muthafuckin utmost, I can take advantage of all of my (absurdly powerful) good traits, and dramatically exponentially increase my capability at a frankly ridiculous rate. 
+
+How much time do you realistically have per day that isn't already committed?
+Currently, my only committed time is 10AM-1PM MondayTuesdayWednesdayThursday aside from appointments. 
+
+What does "rest" actually look like for you — what restores you vs. what numbs you?
+Currently free. What numbs me is tunnel vision, isolation, excessive computer use. I /need/ to finish the projects I'm working on and start implementing the rest.
+
+Relationships + Obligations (20–23)
+List the 5 people most important to your stability right now, and when you last connected with each.
+Outside of mandatory contact? uhhh fuck 
+I don't really have anyone that has room for me in their lives...I just have like my PO, the people from group, my CODA counselor...I need friends. I need to reinitiate friendships and relationships. 
+
+
+What obligations do yu have that feel like chains vs. ones that feel like anchors?
+They all feel like anchors, or are just frankly unnoticeable because they align with my goals anyway. I need to respect the obligations I have to myself to live to my potential and rekindle / create meaningful relationships while furthering my capability and living life to the fullest. 
+
+Who in your life would benefit most from seeing you succeed — and does that motivate you?
+My son who I haven't met yet. >_>; Everyone who's ever met me. I cannot just be a horribly depressing sob story, everyone has put so much heart and love and resource and time into me...to only have that end in sadness, and not turn into a hero story...that would SUCK! I must succeed! Freakazoid! Freakame! Freakayou! Freak freak freak freaaaka freakazoid. 
+
+
+Is there a relationship you've been neglecting that you know matters?
+My mom. My son who I haven't met yet. My family. My friends. The Smash Community. Pretty much every person I know. ^_^;
+ 
+Systems + Tools (24–27)
+What's the one thing you wish your phone could do for your productivity that it can't?
+Run advanced python scripts and do crazy shit via natural language - basically the same stuff I want my computer to be able to do. I want to set up Termux with Kali Linux and Gemini CLI and crack it out and get it all custom and fat, and use my extra phone to do experimental projects daily while im on the move. 
+
+
+What's a tool or app you tried and abandoned — and what killed it?
+I haven't tried much of anything yet. I just have a shitload of todo's and nothing checked out. I need to play with them! I need to try everything! I want to experience everything! and do everything! and learn everything! or at least some fuckin cool shit. Halp! 
+Open source ethical hacking seems cool to me - It would be cool to be able to help prevent horrid crimes if they come up, by finding the perp (within legal channels.) that's probably one of the most interesting things to me other than making tools to help others find their raisonne d'etre. 
+
+What's the most repetitive thing you do manually that you'd love automated?
+Making phone calls to doctors, complex research and contact (For instance, in order to apply for DHS' Vocational Rehabilitation Funding and a couple other things, I need to acquire documentation of my entire medical history so that I can apply for funding, disability income, SSI, etc. Being able to automate literally all of that without any human in the loop pieces would be RAD. And also surfacing the ultimate expression of my experience and research into monetizable documents that are also of high utility to my growth and records - which is a like 7 edged sword. Structuring my life, noticing things for improvement, planning things, taking notes, identifying optimal outcomes, strategizing, self improvement, learning, arbitrary crap like filling out forms or 
+
+If you could get a daily report delivered to your phone every morning with exactly the information you need, what would it say?
+Daily news from multiple perspectives, aggregated into a report. Daily side quests: Portfolio or skill building, money making quests, etc. Daily quests: Every day, the same goals I must complete (IE Create something using a library you haven't used before. Create something using a library you have used before. Complete 5 non-mandatory tasks. Complete all mandatory tasks. 100 pushups 100 situps 100 squats 10km run)  Opportunities to make money today. All deadlines and appointments today. All ongoing projects and their progress. A proposed priority list. Opportunities unique to the day that fit my profile. Reminders about long neglected tasks. Recommended high leverage projects. The single greatest thing I could do that I haven't discerned yet. A link to a full, 20 page report that is generated every day just for me (small font, single spacing - a substantial multi-category report that teaches me, assigns things to me, progresses me, provides me with information that I will keep and use forever, and generally just helps me level up.) 
+
+Quests + Exploration (28–30)
+Name something you've always been curious about but never pursued — could be anything.
+Becoming a corporate socialite and climbing the ladder of power in this world.
+
+What's a skill that seems completely unrelated to your goals that you'd secretly enjoy practicing?
+Detached seduction; I always end up head-over-heels and in a long lasting relationship and renouncing the rest of my life; I think it would be extremely good practice in a LOT of ways if I became capable of simultaneously wholesome and detached seduction and social mastery - To become adept at casual sex without being a malevolent being. 
+
+If XP was real and you were designing your own character build, what would your attribute spread look like? (Where do you want to be strong?)
+Goal attributes: 
+Assuming this is D&D 
+and 10 is average 
+and 20 is savant freak of nature 
+
+I would say my current stats are like...
+Strength 11
+Dexterity 13
+Agility 11
+Con 12
+Int 13
+Wis 16
+Cha 12 
+
+My target stats are 
+Strength 14 
+Dexterity 14 
+Agility 16
+Con 18
+Int 17
+Wis 18
+Cha 18
+
+Im greedy

@@ -83,26 +83,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pickle Rick - Read this.md",
+                "file": "GitCom starring Dracula Backwards/CheckIfRelevantProposedSystemInstructions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pickle Rick - Read this"
+              "title": "CheckIfRelevantProposedSystemInstructions"
             }
           },
           {
-            "id": "95e77bac668de9ac",
+            "id": "4f4352bd0ad4388f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pickle Rick - Read this.md",
+                "file": "GitCom starring Dracula Backwards/RVE Mycroft ReMatch Tool & Theory Pile/What Gemini CLI extensions are there to help with.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pickle Rick - Read this"
+              "title": "What Gemini CLI extensions are there to help with"
             }
           }
         ],
@@ -163,7 +163,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 298.50418853759766
   },
   "right": {
     "id": "a7547d195397e9e4",
@@ -265,43 +265,44 @@
       "bases:Create new base": false
     }
   },
-  "active": "95e77bac668de9ac",
+  "active": "4f4352bd0ad4388f",
   "lastOpenFiles": [
-    "publish-operator-to-github.ps1",
-    "GitCom/Alucard_Build_Report.md",
-    "Control/lifestate.db-wal",
-    "Onboarding Scripts System Instructions Pickle Rick Instructions Etc/CanonCalibrationQuestionsStorage.md",
-    "Control/Scripts/confirm-migration.py",
-    "Control/lifestate.db-shm",
-    "Control/Docs/RVE-MASTER-BRIEFING.md",
-    "Control/Docs/PHASE6-PROMPT.md",
-    "Control/Docs/SYSTEM-INSTRUCTIONS.md",
-    "Control/Scripts/seed-onboarding.py",
-    "Onboarding Scripts System Instructions Pickle Rick Instructions Etc/CanonDatabaseSchema.md",
-    "Control/Scripts/migrate-lifestate-schema.py",
-    "Onboarding Scripts System Instructions Pickle Rick Instructions Etc/Canon System Instructions.md",
-    "Combined_System_Guide_v2.md",
-    "Continue..md",
-    "apikeys4.7.md",
-    "apikeys.md",
-    "Untitled.md",
-    "Pickle Rick - Read this.md",
-    "Onboarding Scripts System Instructions Pickle Rick Instructions Etc",
-    "Untitled 3",
-    "Untitled 2",
-    "Untitled",
-    "GitCom/Dracula Backwards.md",
-    "GitCom",
-    "GitCom starring Dracula Backwards/4.7SystemSetupComms.md",
-    "RVE Mycroft ReMatch Tool & Theory Pile/Golden Artifacts/MISSION DEEP RESEARCH.md",
-    "Onboarding100GEM.RVE.MD",
-    "DIOGENES ONBOARDING.md",
-    "UNIVERSAL_COGNITIVE_ARCHITECTURE_V4.md",
-    "Control/Phases/phase-02-databases.md",
-    "Control/RECOVERY_PROMPT.md",
-    "Control/Phases/phase-03-neo4j.md",
-    "Control/NEXT_PROMPT.md",
-    "New folder/ShaneIntroductionGeneral.md",
-    "New folder/RVE Rollout.md"
+    "GitCom starring Dracula Backwards/RVE Mycroft ReMatch Tool & Theory Pile/SIDE PROMPT — FEED THIS TO A SEPARATE THREAD_THREA.md",
+    "GitCom starring Dracula Backwards/RVE Mycroft ReMatch Tool & Theory Pile/SOVEREIGN_ARSENAL_COMPREHENSIVE_LIST - Copy.md",
+    "GitCom starring Dracula Backwards/RVE Mycroft ReMatch Tool & Theory Pile/SOVEREIGN_ARSENAL_COMPREHENSIVE_LIST.md",
+    "GitCom starring Dracula Backwards/RVE Mycroft ReMatch Tool & Theory Pile/SOVEREIGN_ARSENAL_REAL - Copy.md",
+    "GitCom starring Dracula Backwards/RVE Mycroft ReMatch Tool & Theory Pile/MegaManX System Design1.md",
+    "GitCom starring Dracula Backwards/RVE Mycroft ReMatch Tool & Theory Pile/making knowledge base.pdf",
+    "GitCom starring Dracula Backwards/RVE Mycroft ReMatch Tool & Theory Pile/making knowledge base2.pdf",
+    "GitCom starring Dracula Backwards/RVE Mycroft ReMatch Tool & Theory Pile/SystemDesignMore.md",
+    "GitCom starring Dracula Backwards/RVE Mycroft ReMatch Tool & Theory Pile/deep-research-report (2).md",
+    "GitCom starring Dracula Backwards/RVE Mycroft ReMatch Tool & Theory Pile/DeepResearch DeepResearchReport(5).md",
+    "GitCom starring Dracula Backwards/RVE Mycroft ReMatch Tool & Theory Pile/Re.Match Form Audit (DeepResearchReport).md",
+    "GitCom starring Dracula Backwards/RVE Mycroft ReMatch Tool & Theory Pile/Deep Research Workflow Ideas.md",
+    "GitCom starring Dracula Backwards/RVE Mycroft ReMatch Tool & Theory Pile/Deep Research Tools.md",
+    "GitCom starring Dracula Backwards/RVE Mycroft ReMatch Tool & Theory Pile/deep-research-report5.md",
+    "GitCom starring Dracula Backwards/UNIVERSAL_COGNITIVE_ARCHITECTURE_V4.md",
+    "GitCom starring Dracula Backwards/Untitled.md",
+    "GitCom starring Dracula Backwards/System Prompt & Slash Commands.md",
+    "GitCom starring Dracula Backwards/SlashCommands&CombosRAW.md",
+    "GitCom starring Dracula Backwards/ShanePersonal1.md",
+    "GitCom starring Dracula Backwards/RVE Design Thread.md",
+    "GitCom starring Dracula Backwards/Perplexity's Deep Research Engine Advice.md",
+    "GitCom starring Dracula Backwards/Pickle Rick - Read this.md",
+    "GitCom starring Dracula Backwards/perfection.md",
+    "GitCom starring Dracula Backwards/passover notes in image form unfortunately.png",
+    "GitCom starring Dracula Backwards/master_inventory_RAW.md",
+    "GitCom starring Dracula Backwards/Ongoing notes.md",
+    "GitCom starring Dracula Backwards/Onboarding100GEM.RVE.MD",
+    "GitCom starring Dracula Backwards/Deep Research Design Thread.md",
+    "GitCom starring Dracula Backwards/CoPilot's DeepResearch Engine Advice.md",
+    "GitCom starring Dracula Backwards/Wave1Canon/CanonSystemDesignIdeas.txt",
+    "GitCom starring Dracula Backwards/CanonSystemDesignIdeas.txt",
+    "GitCom starring Dracula Backwards/Wave1Canon",
+    "GitCom starring Dracula Backwards/New folder",
+    "RVE Mycroft ReMatch Tool & Theory Pile/Golden Artifacts/VirginiaWoolf-KevinBrown.pdf",
+    "GitCom starring Dracula Backwards/RVE Mycroft ReMatch Tool & Theory Pile/Golden Artifacts/AI Deep Research Reports/Perplexity/washington_county_resources.json",
+    "GitCom starring Dracula Backwards/RVE Mycroft ReMatch Tool & Theory Pile/Golden Artifacts/AI Deep Research Reports/Perplexity/Traveler_Complete_Reentry_Intelligence_Dossier.docx",
+    "GitCom starring Dracula Backwards/RVE Mycroft ReMatch Tool & Theory Pile/Golden Artifacts/AI Deep Research Reports/Perplexity/shane_johns_100_jobs.csv"
   ]
 }

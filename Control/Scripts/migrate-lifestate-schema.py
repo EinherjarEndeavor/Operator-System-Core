@@ -1,4 +1,4 @@
-import sqlite3, pathlib, os
+import sqlite3, pathlib
 
 DB_PATH = r"C:\Users\tarot\Operator\Control\lifestate.db"
 pathlib.Path(DB_PATH).parent.mkdir(parents=True, exist_ok=True)
@@ -85,10 +85,11 @@ def migrate():
             CREATE TABLE IF NOT EXISTS obligations (
                 id              TEXT PRIMARY KEY,
                 name            TEXT NOT NULL,
-                category        TEXT NOT NULL,
-                recurrence      TEXT NOT NULL,
+                category        TEXT,
+                recurrence      TEXT,
                 days_of_week    TEXT,
                 time_of_day     TEXT,
+                duration_min    INTEGER,
                 location_id     TEXT,
                 contact_id      TEXT,
                 deadline        TEXT,
@@ -115,9 +116,9 @@ def migrate():
                 importance      INTEGER DEFAULT 5 CHECK(importance BETWEEN 1 AND 10),
                 consequence     TEXT,
                 prep_needed     INTEGER DEFAULT 0,
+                conflicts_with  TEXT,
                 obsidian_path   TEXT,
                 gcal_event_id   TEXT,
-                conflicts_with  TEXT,
                 status          TEXT DEFAULT 'upcoming',
                 notes           TEXT
             )
@@ -153,8 +154,13 @@ def migrate():
                 name            TEXT NOT NULL,
                 type            TEXT,
                 website         TEXT,
-                address         TEXT,
                 phone           TEXT,
+                email           TEXT,
+                location_id     TEXT,
+                relationship    TEXT,
+                status          TEXT DEFAULT 'active',
+                start_date      TEXT,
+                end_date        TEXT,
                 notes           TEXT
             )
         """,
@@ -163,8 +169,11 @@ def migrate():
                 id              TEXT PRIMARY KEY,
                 name            TEXT NOT NULL,
                 address         TEXT,
-                lat             REAL,
-                lon             REAL,
+                city            TEXT,
+                state           TEXT DEFAULT 'OR',
+                zip             TEXT,
+                phone           TEXT,
+                type            TEXT,
                 notes           TEXT
             )
         """,
@@ -173,8 +182,9 @@ def migrate():
                 id              TEXT PRIMARY KEY,
                 name            TEXT NOT NULL,
                 type            TEXT,
-                status          TEXT,
+                status          TEXT DEFAULT 'possessed',
                 expiry          TEXT,
+                storage_note    TEXT,
                 notes           TEXT
             )
         """,
@@ -183,8 +193,10 @@ def migrate():
                 id              TEXT PRIMARY KEY,
                 name            TEXT NOT NULL,
                 type            TEXT,
+                model           TEXT,
                 specs           TEXT,
-                status          TEXT,
+                connectivity    TEXT,
+                status          TEXT DEFAULT 'active',
                 needs_return    INTEGER DEFAULT 0,
                 notes           TEXT
             )
@@ -192,10 +204,11 @@ def migrate():
         "subscriptions": """
             CREATE TABLE IF NOT EXISTS subscriptions (
                 id              TEXT PRIMARY KEY,
-                name            TEXT NOT NULL,
-                cost            REAL DEFAULT 0,
-                expiry          TEXT,
-                status          TEXT,
+                service         TEXT NOT NULL,
+                tier            TEXT,
+                cost_monthly    REAL DEFAULT 0,
+                free_until      TEXT,
+                status          TEXT DEFAULT 'active',
                 notes           TEXT
             )
         """,
@@ -203,29 +216,34 @@ def migrate():
             CREATE TABLE IF NOT EXISTS supplements (
                 id              TEXT PRIMARY KEY,
                 name            TEXT NOT NULL,
-                dosage          TEXT,
+                dose            TEXT,
                 timing          TEXT,
-                stock_level     TEXT,
-                notes           TEXT
+                frequency       TEXT DEFAULT 'daily',
+                cost_monthly    REAL,
+                stock           TEXT DEFAULT 'unknown',
+                status          TEXT DEFAULT 'active'
             )
         """,
         "medications": """
             CREATE TABLE IF NOT EXISTS medications (
                 id              TEXT PRIMARY KEY,
                 name            TEXT NOT NULL,
-                dosage          TEXT,
+                dose            TEXT,
+                frequency       TEXT,
                 timing          TEXT,
-                refill_cadence  TEXT,
+                prescriber      TEXT,
+                refill_date     TEXT,
+                status          TEXT DEFAULT 'active',
                 notes           TEXT
             )
         """,
         "financial_state": """
             CREATE TABLE IF NOT EXISTS financial_state (
                 id              TEXT PRIMARY KEY DEFAULT 'singleton',
-                income          REAL DEFAULT 0,
-                fixed_costs     REAL DEFAULT 0,
-                ebt_amount      REAL DEFAULT 0,
-                notes           TEXT,
+                income_monthly  REAL DEFAULT 0,
+                ebt_monthly     REAL,
+                fixed_costs     REAL DEFAULT 90,
+                current_balance REAL DEFAULT 0,
                 updated         TEXT
             )
         """,
@@ -233,10 +251,12 @@ def migrate():
             CREATE TABLE IF NOT EXISTS income_opportunities (
                 id              TEXT PRIMARY KEY,
                 name            TEXT NOT NULL,
+                type            TEXT,
                 potential       REAL,
+                one_time        INTEGER DEFAULT 0,
+                status          TEXT DEFAULT 'identified',
                 deadline        TEXT,
-                conflicts_with  TEXT,
-                status          TEXT,
+                steps           TEXT,
                 notes           TEXT
             )
         """,
@@ -244,15 +264,20 @@ def migrate():
             CREATE TABLE IF NOT EXISTS hobbies (
                 id              TEXT PRIMARY KEY,
                 name            TEXT NOT NULL,
+                category        TEXT,
+                skill_level     TEXT DEFAULT 'casual',
                 last_practiced  TEXT,
+                want_to_improve INTEGER DEFAULT 0,
                 attribute_tag   TEXT,
                 notes           TEXT
             )
         """,
         "values": """
-            CREATE TABLE IF NOT EXISTS values_hierarchy (
+            CREATE TABLE IF NOT EXISTS "values" (
                 id              TEXT PRIMARY KEY,
-                value           TEXT NOT NULL,
+                value_statement TEXT NOT NULL,
+                category        TEXT,
+                rank            INTEGER,
                 derived_behavior TEXT,
                 notes           TEXT
             )
@@ -261,7 +286,11 @@ def migrate():
             CREATE TABLE IF NOT EXISTS identity_axioms (
                 id              TEXT PRIMARY KEY,
                 axiom           TEXT NOT NULL,
+                category        TEXT,
+                is_driver       INTEGER DEFAULT 1,
+                is_constraint   INTEGER DEFAULT 0,
                 derived_behavior TEXT,
+                rank            INTEGER,
                 notes           TEXT
             )
         """,
@@ -269,8 +298,10 @@ def migrate():
             CREATE TABLE IF NOT EXISTS non_negotiables (
                 id              TEXT PRIMARY KEY,
                 name            TEXT NOT NULL,
-                period          TEXT DEFAULT '90-day',
-                last_touched    TEXT,
+                horizon         TEXT DEFAULT '90_day',
+                status          TEXT DEFAULT 'active',
+                linked_project_id TEXT,
+                linked_habit_id TEXT,
                 notes           TEXT
             )
         """,
@@ -302,6 +333,8 @@ def migrate():
 
     for name, sql in tables.items():
         try:
+            # Forcing table drop to ensure all new columns are created accurately
+            cur.execute(f'DROP TABLE IF EXISTS "{name}"')
             cur.execute(sql)
             print(f"[OK] TABLE CREATED: {name}")
         except Exception as e:
@@ -309,7 +342,7 @@ def migrate():
             
     conn.commit()
     conn.close()
-    print(f"[COMPLETE] 24 tables created in {DB_PATH}")
+    print(f"[COMPLETE] {len(tables)} tables created in {DB_PATH}")
 
 if __name__ == "__main__":
     migrate()

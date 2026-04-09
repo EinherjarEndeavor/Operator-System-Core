@@ -1,0 +1,566 @@
+
+FullName
+--------                                                                                                                
+C:\Users\tarot\Operator\.gemini                                                                                         
+C:\Users\tarot\Operator\.obsidian                                                                                       
+C:\Users\tarot\Operator\Comet Please Help!-20260408T082612Z-3-001                                                       
+C:\Users\tarot\Operator\Control                                                                                         
+C:\Users\tarot\Operator\GitCom                                                                                          
+C:\Users\tarot\Operator\GitCom starring Dracula Backwards                                                               
+C:\Users\tarot\Operator\meta                                                                                            
+C:\Users\tarot\Operator\New folder                                                                                      
+C:\Users\tarot\Operator\Onboarding Scripts System Instructions Pickle Rick Instructions Etc                             
+C:\Users\tarot\Operator\RVE                                                                                             
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile                                                          
+C:\Users\tarot\Operator\Untitled                                                                                        
+C:\Users\tarot\Operator\Vault                                                                                           
+C:\Users\tarot\Operator\.env                                                                                            
+C:\Users\tarot\Operator\.gitignore                                                                                      
+C:\Users\tarot\Operator\apikeys.md                                                                                      
+C:\Users\tarot\Operator\apikeys4.7.md                                                                                   
+C:\Users\tarot\Operator\Combined_System_Guide_v2.md                                                                     
+C:\Users\tarot\Operator\Comet Please Help!-20260408T082612Z-3-001.zip                                                   
+C:\Users\tarot\Operator\Continue..md                                                                                    
+C:\Users\tarot\Operator\DIOGENES ONBOARDING.md                                                                          
+C:\Users\tarot\Operator\distill_workflow_definition.md                                                                  
+C:\Users\tarot\Operator\file_list_detailed.txt                                                                          
+C:\Users\tarot\Operator\file_list_raw.txt                                                                               
+C:\Users\tarot\Operator\FILE_MAP.txt                                                                                    
+C:\Users\tarot\Operator\format_lines.py                                                                                 
+C:\Users\tarot\Operator\fuckinfinallypassover.txt                                                                       
+C:\Users\tarot\Operator\GIGANTIC_TOOL_FILE.md                                                                           
+C:\Users\tarot\Operator\index.html                                                                                      
+C:\Users\tarot\Operator\is it possible to configure openclaw to use gemini.md                                           
+C:\Users\tarot\Operator\master_inventory_RAW.md                                                                         
+C:\Users\tarot\Operator\MISSION_ GOLD-STANDARD SPECIMEN HUNT FOR DEEPICKLE.md                                           
+C:\Users\tarot\Operator\Onboarding100GEM.RVE.MD                                                                         
+C:\Users\tarot\Operator\Ongoing notes.md                                                                                
+C:\Users\tarot\Operator\passover notes in image form unfortunately.png                                                  
+C:\Users\tarot\Operator\passovercontinued.txt                                                                           
+C:\Users\tarot\Operator\passovernotesmore.txt                                                                           
+C:\Users\tarot\Operator\passoverparty.txt                                                                               
+C:\Users\tarot\Operator\passoverquestionsanswered.txt                                                                   
+C:\Users\tarot\Operator\passoverquestionsass.txt                                                                        
+C:\Users\tarot\Operator\passoversystemzz.txt                                                                            
+C:\Users\tarot\Operator\perfection.md                                                                                   
+C:\Users\tarot\Operator\Pickle Rick - Read this.md                                                                      
+C:\Users\tarot\Operator\pimppassover.txt                                                                                
+C:\Users\tarot\Operator\Problem#1.txt                                                                                   
+C:\Users\tarot\Operator\Problem#2.txt                                                                                   
+C:\Users\tarot\Operator\Problem#3.txt                                                                                   
+C:\Users\tarot\Operator\Prospective system prompt Optimize.txt                                                          
+C:\Users\tarot\Operator\publish-operator-to-github.ps1                                                                  
+C:\Users\tarot\Operator\QuestionsAnsweredSoFar4.7.txt                                                                   
+C:\Users\tarot\Operator\ReMatch_Doctrine_v1.0_Complete (1).html                                                         
+C:\Users\tarot\Operator\seed_raw.txt                                                                                    
+C:\Users\tarot\Operator\SlashCommands&CombosRAW.md                                                                      
+C:\Users\tarot\Operator\sticky notes.txt                                                                                
+C:\Users\tarot\Operator\System Design Proposition - Memory System.txt                                                   
+C:\Users\tarot\Operator\System Prompt & Slash Commands.md                                                               
+C:\Users\tarot\Operator\SystemPromptPossibly.txt                                                                        
+C:\Users\tarot\Operator\universal_ai_cognitive_architecture_v2.txt                                                      
+C:\Users\tarot\Operator\UNIVERSAL_COGNITIVE_ARCHITECTURE_V4.md                                                          
+C:\Users\tarot\Operator\Untitled.md                                                                                     
+C:\Users\tarot\Operator\venice.ai.txt                                                                                   
+C:\Users\tarot\Operator\wrapped.txt                                                                                     
+C:\Users\tarot\Operator\.gemini\settings.json                                                                           
+C:\Users\tarot\Operator\.obsidian\app.json                                                                              
+C:\Users\tarot\Operator\.obsidian\appearance.json                                                                       
+C:\Users\tarot\Operator\.obsidian\core-plugins.json                                                                     
+C:\Users\tarot\Operator\.obsidian\workspace.json                                                                        
+C:\Users\tarot\Operator\Comet Please Help!-20260408T082612Z-3-001\Comet Please Help!                                    
+C:\Users\tarot\Operator\Comet Please Help!-20260408T082612Z-3-001\Comet Please Help!\00_INDEX                           
+C:\Users\tarot\Operator\Comet Please Help!-20260408T082612Z-3-001\Comet Please Help!\01_CANONICAL_DOCS                  
+C:\Users\tarot\Operator\Comet Please Help!-20260408T082612Z-3-001\Comet Please Help!\02_SCRIPTS                         
+C:\Users\tarot\Operator\Comet Please Help!-20260408T082612Z-3-001\Comet Please Help!\03_TEMPLATES                       
+C:\Users\tarot\Operator\Comet Please Help!-20260408T082612Z-3-001\Comet Please Help!\04_CONFIG                          
+C:\Users\tarot\Operator\Comet Please Help!-20260408T082612Z-3-001\Comet Please Help!\05_OPERATOR_HANDOFF                
+C:\Users\tarot\Operator\Comet Please Help!-20260408T082612Z-3-001\Comet Please Help!\00_INDEX\Master-Index.docx         
+C:\Users\tarot\Operator\Comet Please Help!-20260408T082612Z-3-001\Comet Please Help!\01_CANONICAL_DOCS\GEMINI.docx      
+C:\Users\tarot\Operator\Comet Please Help!-20260408T082612Z-3-001\Comet Please Help!\01_CANONICAL_DOCS\PHASE6-PROMPT.do…
+C:\Users\tarot\Operator\Comet Please Help!-20260408T082612Z-3-001\Comet Please Help!\01_CANONICAL_DOCS\README.docx      
+C:\Users\tarot\Operator\Comet Please Help!-20260408T082612Z-3-001\Comet Please Help!\01_CANONICAL_DOCS\RVE-MASTER-BRIEF…
+C:\Users\tarot\Operator\Comet Please Help!-20260408T082612Z-3-001\Comet Please Help!\01_CANONICAL_DOCS\SYSTEM-INSTRUCTI…
+C:\Users\tarot\Operator\Comet Please Help!-20260408T082612Z-3-001\Comet Please Help!\02_SCRIPTS\daily_driver.docx       
+C:\Users\tarot\Operator\Comet Please Help!-20260408T082612Z-3-001\Comet Please Help!\02_SCRIPTS\export.docx             
+C:\Users\tarot\Operator\Comet Please Help!-20260408T082612Z-3-001\Comet Please Help!\02_SCRIPTS\install.docx            
+C:\Users\tarot\Operator\Comet Please Help!-20260408T082612Z-3-001\Comet Please Help!\02_SCRIPTS\quest_engine.docx       
+C:\Users\tarot\Operator\Comet Please Help!-20260408T082612Z-3-001\Comet Please Help!\02_SCRIPTS\requirements.docx       
+C:\Users\tarot\Operator\Comet Please Help!-20260408T082612Z-3-001\Comet Please Help!\02_SCRIPTS\run.docx                
+C:\Users\tarot\Operator\Comet Please Help!-20260408T082612Z-3-001\Comet Please Help!\02_SCRIPTS\schedule.docx           
+C:\Users\tarot\Operator\Comet Please Help!-20260408T082612Z-3-001\Comet Please Help!\02_SCRIPTS\score.docx              
+C:\Users\tarot\Operator\Comet Please Help!-20260408T082612Z-3-001\Comet Please Help!\02_SCRIPTS\setup.docx              
+C:\Users\tarot\Operator\Comet Please Help!-20260408T082612Z-3-001\Comet Please Help!\03_TEMPLATES\domain_review_templat…
+C:\Users\tarot\Operator\Comet Please Help!-20260408T082612Z-3-001\Comet Please Help!\03_TEMPLATES\quest_template.docx   
+C:\Users\tarot\Operator\Comet Please Help!-20260408T082612Z-3-001\Comet Please Help!\03_TEMPLATES\session_log_template.…
+C:\Users\tarot\Operator\Comet Please Help!-20260408T082612Z-3-001\Comet Please Help!\04_CONFIG\env_template.docx        
+C:\Users\tarot\Operator\Comet Please Help!-20260408T082612Z-3-001\Comet Please Help!\04_CONFIG\rve_config.docx          
+C:\Users\tarot\Operator\Comet Please Help!-20260408T082612Z-3-001\Comet Please Help!\05_OPERATOR_HANDOFF\Instructions f…
+C:\Users\tarot\Operator\Comet Please Help!-20260408T082612Z-3-001\Comet Please Help!\05_OPERATOR_HANDOFF\Instructions f…
+C:\Users\tarot\Operator\Control\BrainArchive                                                                            
+C:\Users\tarot\Operator\Control\Docs                                                                                    
+C:\Users\tarot\Operator\Control\Logs                                                                                    
+C:\Users\tarot\Operator\Control\Phases                                                                                  
+C:\Users\tarot\Operator\Control\PromptClinic                                                                            
+C:\Users\tarot\Operator\Control\ProposedDeltas                                                                          
+C:\Users\tarot\Operator\Control\Registries                                                                              
+C:\Users\tarot\Operator\Control\Reviews                                                                                 
+C:\Users\tarot\Operator\Control\Schedules                                                                               
+C:\Users\tarot\Operator\Control\Scripts                                                                                 
+C:\Users\tarot\Operator\Control\Snapshots                                                                               
+C:\Users\tarot\Operator\Control\arsenal.db                                                                              
+C:\Users\tarot\Operator\Control\arsenal.db-shm                                                                          
+C:\Users\tarot\Operator\Control\arsenal.db-wal                                                                          
+C:\Users\tarot\Operator\Control\build-state.json                                                                        
+C:\Users\tarot\Operator\Control\DIAGNOSTIC_REPORT.txt                                                                   
+C:\Users\tarot\Operator\Control\errors.db                                                                               
+C:\Users\tarot\Operator\Control\everything.db                                                                           
+C:\Users\tarot\Operator\Control\GEMINI.md                                                                               
+C:\Users\tarot\Operator\Control\invoke-next-phase.ps1                                                                   
+C:\Users\tarot\Operator\Control\lifestate.db                                                                            
+C:\Users\tarot\Operator\Control\NEXT_PROMPT.md                                                                          
+C:\Users\tarot\Operator\Control\README.md                                                                               
+C:\Users\tarot\Operator\Control\RECOVERY_PROMPT.md                                                                      
+C:\Users\tarot\Operator\Control\rematch.db                                                                              
+C:\Users\tarot\Operator\Control\rve.db                                                                                  
+C:\Users\tarot\Operator\Control\settings.db                                                                             
+C:\Users\tarot\Operator\Control\supersource.db                                                                          
+C:\Users\tarot\Operator\Control\upgrades.db                                                                             
+C:\Users\tarot\Operator\Control\wins.db                                                                                 
+C:\Users\tarot\Operator\Control\BrainArchive\pre-build                                                                  
+C:\Users\tarot\Operator\Control\BrainArchive\pre-build\build-state-post-recovery.json                                   
+C:\Users\tarot\Operator\Control\BrainArchive\pre-build\build-state-pre-repair.json                                      
+C:\Users\tarot\Operator\Control\BrainArchive\pre-build\settings-pre-repair.json                                         
+C:\Users\tarot\Operator\Control\Docs\PHASE6-PROMPT.md                                                                   
+C:\Users\tarot\Operator\Control\Docs\RVE-MASTER-BRIEFING.md                                                             
+C:\Users\tarot\Operator\Control\Docs\SYSTEM-INSTRUCTIONS.md                                                             
+C:\Users\tarot\Operator\Control\Phases\phase-02-databases.md                                                            
+C:\Users\tarot\Operator\Control\Phases\phase-03-neo4j.md                                                                
+C:\Users\tarot\Operator\Control\Scripts\check-settings.py                                                               
+C:\Users\tarot\Operator\Control\Scripts\confirm-migration.py                                                            
+C:\Users\tarot\Operator\Control\Scripts\daily_driver.py                                                                 
+C:\Users\tarot\Operator\Control\Scripts\export.py                                                                       
+C:\Users\tarot\Operator\Control\Scripts\extract-docx.ps1                                                                
+C:\Users\tarot\Operator\Control\Scripts\final-validation.py                                                             
+C:\Users\tarot\Operator\Control\Scripts\fix-buildstate.ps1                                                              
+C:\Users\tarot\Operator\Control\Scripts\fix-settings-db.py                                                              
+C:\Users\tarot\Operator\Control\Scripts\fix-settings.ps1                                                                
+C:\Users\tarot\Operator\Control\Scripts\generate_map.ps1                                                                
+C:\Users\tarot\Operator\Control\Scripts\migrate-lifestate-schema.py                                                     
+C:\Users\tarot\Operator\Control\Scripts\neo4j-init.py                                                                   
+C:\Users\tarot\Operator\Control\Scripts\purge-db.py                                                                     
+C:\Users\tarot\Operator\Control\Scripts\quest_engine.py                                                                 
+C:\Users\tarot\Operator\Control\Scripts\repair-rve.py                                                                   
+C:\Users\tarot\Operator\Control\Scripts\schedule.py                                                                     
+C:\Users\tarot\Operator\Control\Scripts\score.py                                                                        
+C:\Users\tarot\Operator\Control\Scripts\seed-onboarding.py                                                              
+C:\Users\tarot\Operator\Control\Scripts\setup-all-dbs.py                                                                
+C:\Users\tarot\Operator\Control\Scripts\setup.py                                                                        
+C:\Users\tarot\Operator\Control\Scripts\validate-dbs.py                                                                 
+C:\Users\tarot\Operator\Control\Scripts\validate.ps1                                                                    
+C:\Users\tarot\Operator\GitCom\Alucard_Build_Report.md                                                                  
+C:\Users\tarot\Operator\GitCom\Build_Status_Report.md                                                                   
+C:\Users\tarot\Operator\GitCom\Dracula Backwards.md                                                                     
+C:\Users\tarot\Operator\GitCom starring Dracula Backwards\4.7SystemSetupComms.md                                        
+C:\Users\tarot\Operator\GitCom starring Dracula Backwards\Alucard_Build_Report.md                                       
+C:\Users\tarot\Operator\GitCom starring Dracula Backwards\awesomeprompttry.txt                                          
+C:\Users\tarot\Operator\GitCom starring Dracula Backwards\Baseline AI Equipment Loadout for Shane  2026 Stack Recommend…
+C:\Users\tarot\Operator\GitCom starring Dracula Backwards\Build_Status_Report.md                                        
+C:\Users\tarot\Operator\GitCom starring Dracula Backwards\CONFLICT_MAP.md                                               
+C:\Users\tarot\Operator\GitCom starring Dracula Backwards\CURRENT ITERATION IS BEAUTIFUL - GO.txt                       
+C:\Users\tarot\Operator\GitCom starring Dracula Backwards\Dracula Backwards.md                                          
+C:\Users\tarot\Operator\GitCom starring Dracula Backwards\fuckinfinallypassover.txt                                     
+C:\Users\tarot\Operator\GitCom starring Dracula Backwards\GIGANTIC_TOOL_FILE.md                                         
+C:\Users\tarot\Operator\GitCom starring Dracula Backwards\index.html                                                    
+C:\Users\tarot\Operator\GitCom starring Dracula Backwards\MetaSearchMcCoPi.md                                           
+C:\Users\tarot\Operator\GitCom starring Dracula Backwards\MISSION_ GOLD-STANDARD SPECIMEN HUNT FOR DEEPICKLE.md         
+C:\Users\tarot\Operator\GitCom starring Dracula Backwards\Next Chapter Notes 3.txt                                      
+C:\Users\tarot\Operator\GitCom starring Dracula Backwards\NextChapter Admissions Project Notes.txt                      
+C:\Users\tarot\Operator\GitCom starring Dracula Backwards\NextChapterProjectNotes2.txt                                  
+C:\Users\tarot\Operator\GitCom starring Dracula Backwards\passover notes in image form unfortunately.png                
+C:\Users\tarot\Operator\GitCom starring Dracula Backwards\passovercontinued.txt                                         
+C:\Users\tarot\Operator\GitCom starring Dracula Backwards\passovernotesmore.txt                                         
+C:\Users\tarot\Operator\GitCom starring Dracula Backwards\passoverparty.txt                                             
+C:\Users\tarot\Operator\GitCom starring Dracula Backwards\passoverquestionsanswered.txt                                 
+C:\Users\tarot\Operator\GitCom starring Dracula Backwards\passoverquestionsass.txt                                      
+C:\Users\tarot\Operator\GitCom starring Dracula Backwards\passoversystemzz.txt                                          
+C:\Users\tarot\Operator\GitCom starring Dracula Backwards\PersonalWebsite3.27.26 - Copy.txt                             
+C:\Users\tarot\Operator\GitCom starring Dracula Backwards\pimppassover.txt                                              
+C:\Users\tarot\Operator\GitCom starring Dracula Backwards\Probation and Parole System Mapping.docx                      
+C:\Users\tarot\Operator\GitCom starring Dracula Backwards\Problem#1.txt                                                 
+C:\Users\tarot\Operator\GitCom starring Dracula Backwards\Problem#2.txt                                                 
+C:\Users\tarot\Operator\GitCom starring Dracula Backwards\Problem#3.txt                                                 
+C:\Users\tarot\Operator\GitCom starring Dracula Backwards\ReMatch_Doctrine_v1.0_Complete (1).html                       
+C:\Users\tarot\Operator\GitCom starring Dracula Backwards\ROUGH BREAKDOWN OF CURRENT EVENTS.txt                         
+C:\Users\tarot\Operator\GitCom starring Dracula Backwards\Second Wind plus overall Mission Statement.docx               
+C:\Users\tarot\Operator\GitCom starring Dracula Backwards\Service Description Re.Match is a c.txt                       
+C:\Users\tarot\Operator\GitCom starring Dracula Backwards\ServiceDescriptionComponent.txt                               
+C:\Users\tarot\Operator\GitCom starring Dracula Backwards\ShaneIntroductionGeneral.md                                   
+C:\Users\tarot\Operator\GitCom starring Dracula Backwards\sticky notes.txt                                              
+C:\Users\tarot\Operator\GitCom starring Dracula Backwards\ThisIsTheReportStandard.md.txt                                
+C:\Users\tarot\Operator\meta\CONFLICT_MAP.md                                                                            
+C:\Users\tarot\Operator\New folder\apikeys.md                                                                           
+C:\Users\tarot\Operator\New folder\awesomeprompttry.txt                                                                 
+C:\Users\tarot\Operator\New folder\Baseline AI Equipment Loadout for Shane  2026 Stack Recommendations.md               
+C:\Users\tarot\Operator\New folder\CURRENT ITERATION IS BEAUTIFUL - GO.txt                                              
+C:\Users\tarot\Operator\New folder\Deep Research Tools.md                                                               
+C:\Users\tarot\Operator\New folder\Deep Research Workflow Ideas.md                                                      
+C:\Users\tarot\Operator\New folder\distill_workflow_definition.md                                                       
+C:\Users\tarot\Operator\New folder\GIGANTIC_TOOL_FILE.md                                                                
+C:\Users\tarot\Operator\New folder\index.html                                                                           
+C:\Users\tarot\Operator\New folder\is it possible to configure openclaw to use gemini.md                                
+C:\Users\tarot\Operator\New folder\master_inventory_RAW.md                                                              
+C:\Users\tarot\Operator\New folder\MetaSearchMcCoPi.md                                                                  
+C:\Users\tarot\Operator\New folder\MetaSearchPerp - Copy.md                                                             
+C:\Users\tarot\Operator\New folder\MISSION_ GOLD-STANDARD SPECIMEN HUNT FOR DEEPICKLE.md                                
+C:\Users\tarot\Operator\New folder\Neo4J aura free instance.txt                                                         
+C:\Users\tarot\Operator\New folder\Next Chapter Notes 3.txt                                                             
+C:\Users\tarot\Operator\New folder\NextChapter Admissions Project Notes.txt                                             
+C:\Users\tarot\Operator\New folder\NextChapterProjectNotes2.txt                                                         
+C:\Users\tarot\Operator\New folder\Onboarding100GEM.RVE.MD                                                              
+C:\Users\tarot\Operator\New folder\PersonalWebsite3.27.26 - Copy.txt                                                    
+C:\Users\tarot\Operator\New folder\Probation and Parole System Mapping.docx                                             
+C:\Users\tarot\Operator\New folder\Problem#1.txt                                                                        
+C:\Users\tarot\Operator\New folder\Problem#2.txt                                                                        
+C:\Users\tarot\Operator\New folder\Problem#3.txt                                                                        
+C:\Users\tarot\Operator\New folder\ReMatch_Doctrine_v1.0_Complete (1).html                                              
+C:\Users\tarot\Operator\New folder\rematch_next_steps.docx                                                              
+C:\Users\tarot\Operator\New folder\rematchbrainstorm.txt                                                                
+C:\Users\tarot\Operator\New folder\ROUGH BREAKDOWN OF CURRENT EVENTS.txt                                                
+C:\Users\tarot\Operator\New folder\RVE Rollout.md                                                                       
+C:\Users\tarot\Operator\New folder\Second Wind plus overall Mission Statement.docx                                      
+C:\Users\tarot\Operator\New folder\Service Description Re.Match is a c.txt                                              
+C:\Users\tarot\Operator\New folder\ServiceDescriptionComponent.txt                                                      
+C:\Users\tarot\Operator\New folder\ShaneIntroductionGeneral.md                                                          
+C:\Users\tarot\Operator\New folder\SlashCommands&CombosRAW.md                                                           
+C:\Users\tarot\Operator\New folder\sticky notes.txt                                                                     
+C:\Users\tarot\Operator\New folder\System Design Proposition - Memory System.txt                                        
+C:\Users\tarot\Operator\New folder\SystemPromptPossibly.txt                                                             
+C:\Users\tarot\Operator\New folder\ThisIsTheReportStandard.md.txt                                                       
+C:\Users\tarot\Operator\New folder\universal_ai_cognitive_architecture_v2.txt                                           
+C:\Users\tarot\Operator\New folder\windows-ai-power-architecture.html                                                   
+C:\Users\tarot\Operator\Onboarding Scripts System Instructions Pickle Rick Instructions Etc\Canon System Instructions.md
+C:\Users\tarot\Operator\Onboarding Scripts System Instructions Pickle Rick Instructions Etc\CanonCalibrationQuestionsSt…
+C:\Users\tarot\Operator\Onboarding Scripts System Instructions Pickle Rick Instructions Etc\CanonDatabaseSchema.md      
+C:\Users\tarot\Operator\RVE\config                                                                                      
+C:\Users\tarot\Operator\RVE\data                                                                                        
+C:\Users\tarot\Operator\RVE\docs                                                                                        
+C:\Users\tarot\Operator\RVE\exports                                                                                     
+C:\Users\tarot\Operator\RVE\journal                                                                                     
+C:\Users\tarot\Operator\RVE\reviews                                                                                     
+C:\Users\tarot\Operator\RVE\scripts                                                                                     
+C:\Users\tarot\Operator\RVE\snapshots                                                                                   
+C:\Users\tarot\Operator\RVE\templates                                                                                   
+C:\Users\tarot\Operator\RVE\install.ps1                                                                                 
+C:\Users\tarot\Operator\RVE\requirements.txt                                                                            
+C:\Users\tarot\Operator\RVE\run.bat                                                                                     
+C:\Users\tarot\Operator\RVE\config\rve_config.json                                                                      
+C:\Users\tarot\Operator\RVE\data\rve.db                                                                                 
+C:\Users\tarot\Operator\RVE\reviews\archive                                                                             
+C:\Users\tarot\Operator\RVE\scripts\daily_driver.py                                                                     
+C:\Users\tarot\Operator\RVE\scripts\export.py                                                                           
+C:\Users\tarot\Operator\RVE\scripts\quest_engine.py                                                                     
+C:\Users\tarot\Operator\RVE\scripts\schedule.py                                                                         
+C:\Users\tarot\Operator\RVE\scripts\score.py                                                                            
+C:\Users\tarot\Operator\RVE\scripts\setup.py                                                                            
+C:\Users\tarot\Operator\RVE\templates\quest_template.md                                                                 
+C:\Users\tarot\Operator\RVE\templates\session_log_template.md                                                           
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Deeprik - Constitution Only                              
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts                                         
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Onboarding                                               
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\100 Relevant Tools.docx                                  
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\4.2.806amLog.txt                                         
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\7ASCENSION.txt                                           
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Agentic_Arsenal_Tools (2).md                             
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Agentic_Arsenal_Tools.md                                 
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Agentic_Arsenal_Tools.md.txt                             
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\AI-Powered Life and Research System.docx                 
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\ALL_TOOLS_1000.txt                                       
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\apikeys.txt                                              
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\ARSENAL_LIST.txt                                         
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Baseline AI Equipment Loadout for Shane  2026 Stack Reco…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\can Temporal and OpenClaw be used simultaneously_.md     
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\ChatLogs - SecondWind.docx                               
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Comprehensive_Archive_Shane.md                           
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Creating an optimized system The me.txt                  
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\CURRENT ITERATION IS BEAUTIFUL - GO.txt                  
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Custom Instructions Target Issues.txt                    
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\dashboardidea.txt                                        
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Database-Role-Why.csv                                    
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Deep Research Tools.md                                   
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Deep Research Workflow Ideas.md                          
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\deep-research-report (1).md                              
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\deep-research-report (1).md.txt                          
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\deep-research-report (2).md                              
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\deep-research-report.md                                  
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\deep-research-report4.md                                 
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\deep-research-report5.md                                 
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\deep-research-report5.md.txt                             
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\DEEPICKLE_FEATURE_INVENTORY.md                           
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\deepresearchaboutdeepresearch.txt                        
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Deltas.txt                                               
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\deltas2.txt                                              
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Design Blueprint for an Elite Deep-Research and Knowledg…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Design Blueprint for an Elite Deep-Research and Knowledg…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Designing Elite Deep Research Engine.md                  
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\discovered_arsenal_2026-04-04.md                         
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\expansions.txt                                           
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\EXTRACTED_1000_FULL.txt                                  
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\EXTRACTED_1000.txt                                       
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\EXTRACTED_ARSENAL.txt                                    
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\FINAL_SOVEREIGN_ARSENAL.md                               
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\gemini_cli_always_on_tools_recommendations.md.txt        
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\GlobalInstallList.txt                                    
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\goodqmrk.txt                                             
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\harvsts[pidr.txt                                         
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\How many runs will it take you to produce a list o (2).md
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\I need you to find as many extremely high tier sou.docx  
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\In the game MegaMan X, the pause screen shows all.md     
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Insight Tools.docx                                       
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Knowledge Base Creation & Content Generation Tools.docx  
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Knowledge Base.pdf                                       
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\logtemplate.txt                                          
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\making knowledge base.pdf                                
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\making knowledge base2.pdf                               
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Memory Tools (1).docx                                    
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Memory Tools.docx                                        
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Memory Tools.md                                          
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\MetaSearchGem.docx                                       
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\MetaSearchGem.md                                         
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\MetaSearchMcCoPi - Copy.md                               
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\MetaSearchMcCoPi.docx                                    
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\MetaSearchMcCoPi.md                                      
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\MetaSearchPerp - Copy.md                                 
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\MetaSearchPerp.docx                                      
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\MetaSearchPerp.md                                        
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\MISSION_ GOLD-STANDARD SPECIMEN HUNT FOR DEEPICKLE - Cop…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\MISSION_ GOLD-STANDARD SPECIMEN HUNT FOR DEEPICKLE.md    
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\MycroftHolmes - Copy.md                                  
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\MycroftHolmes.md                                         
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Next Chapter Notes 3.txt                                 
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\NextChapter Admissions Project Notes.txt                 
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\NextChapterProjectNotes2.txt                             
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\PersonalWebsite3.27.26 - Copy.txt                        
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\PersonalWebsite3.27.26.txt                               
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Post-Bootstrap Instructions.md                           
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\postmanapi.txt                                           
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Pre-Bootstap Instructions.md                             
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\principles worth examining.txt                           
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Probation and Parole System Mapping.docx                 
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Probation and Parole System Mapping.docx.txt             
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Re.Match Tools - Copy.docx                               
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Re.Match Tools.docx                                      
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\rematch_next_steps.docx                                  
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\rematchbrainstorm.txt                                    
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Rolling Victory Engine_ Strategic Synthesis & Exec.docx  
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\ROUGH BREAKDOWN OF CURRENT EVENTS - Copy.txt             
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\ROUGH BREAKDOWN OF CURRENT EVENTS.txt                    
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\RVE Rollout.md                                           
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\RVERolloutConsolidated.md                                
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\RVERolloutConsolidated.md - Copy.txt                     
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\RVERolloutConsolidated.md.txt                            
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\scrapehighlights.txt                                     
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Second Wind plus overall Mission Statement - Copy.docx   
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Second Wind plus overall Mission Statement.docx          
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Service Description Re.Match is a c.txt                  
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\ServiceDescriptionComponent.txt                          
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Shadow Agent Architecture (Be careful) .docx             
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\ShaneIntroductionGeneral.md                              
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\SIDE PROMPT — FEED THIS TO A SEPARATE THREAD_THREA.md    
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Source-Tool-WhattoExtract.csv                            
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\SOVEREIGN_ARSENAL_COMPREHENSIVE_LIST - Copy.md           
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\SOVEREIGN_ARSENAL_COMPREHENSIVE_LIST.md                  
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\SOVEREIGN_ARSENAL_REAL - Copy.md                         
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\SOVEREIGN_ARSENAL_REAL.md                                
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\SpecGem.docx                                             
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\SpecGem.md                                               
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\SpecMcCoPi.docx                                          
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\SpecMcCoPi.md                                            
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Stack Description.txt                                    
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\System Setup Guide.md                                    
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\TESTING  Pickle Rick 2.txt                               
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\ThisIsTheReportStandard.md - Copy.txt                    
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\ThisIsTheReportStandard.md.txt                           
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\What Gemini CLI extensions are there to help with.md     
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\windows-ai-power-architecture.html                       
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Without redundancy, double that list. _The way I s.md    
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Deeprik - Constitution Only\0INDEX.md                    
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Deeprik - Constitution Only\1CONSTITUTION.md             
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Deeprik - Constitution Only\2ARSENAL.md                  
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Deeprik - Constitution Only\3AUDIT.md                    
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Deeprik - Constitution Only\4FORGE.md                    
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Deeprik - Constitution Only\5ENGINE.md                   
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Deeprik - Constitution Only\6ROLLOUT.md                  
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Deeprik - Constitution Only\7ASCENSION.md                
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports                
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\chat-log-mining-targets.md              
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\MetaSearchGem.md                        
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\MetaSearchMcCoPi.md                     
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\MetaSearchPerp.md                       
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\MISSION DEEP RESEARCH.md                
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\MISSION GOLD-STANDARD SPECIMEN HUNT.md  
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\Notes.SpecimenWave.md                   
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\SpecGem.md                              
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\SpecMcCoPi.md                           
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\VirginiaWoolf-KevinBrown.pdf            
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Gemini         
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Perplexity     
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\chat-log-minin…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Examplary corp…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Gemini\5bb2379…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Gemini\AI Proj…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Gemini\AI-Augm…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Gemini\Cashing…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Gemini\Communi…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Gemini\Compreh…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Gemini\Compreh…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Gemini\Designi…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Gemini\Domesti…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Gemini\Ethical…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Gemini\Flex Fu…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Gemini\Funding…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Gemini\Funding…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Gemini\GED Soc…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Gemini\Gold-St…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Gemini\Google …
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Gemini\Laundry…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Gemini\Laundry…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Gemini\Local A…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Gemini\Local A…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Gemini\Medical…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Gemini\Navigat…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Gemini\Optimiz…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Gemini\Phone B…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Gemini\Probati…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Gemini\Probati…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Gemini\Second …
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Gemini\The Arc…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Gemini\Underst…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Gemini\Website…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Perplexity\Bas…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Perplexity\bet…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Perplexity\bio…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Perplexity\Box…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Perplexity\chr…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Perplexity\cli…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Perplexity\cod…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Perplexity\Com…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Perplexity\COM…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Perplexity\Com…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Perplexity\com…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Perplexity\com…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Perplexity\Com…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Perplexity\Com…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Perplexity\con…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Perplexity\dan…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Perplexity\dee…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Perplexity\Des…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Perplexity\docx
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Perplexity\DoD…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Perplexity\DoD…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Perplexity\DoD…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Perplexity\ema…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Perplexity\Evi…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Perplexity\exe…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Perplexity\Exp…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Perplexity\FIN…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Perplexity\FIN…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Perplexity\Fle…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Perplexity\fri…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Perplexity\gem…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Perplexity\gem…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Perplexity\glo…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Perplexity\HF-…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Perplexity\HII…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Perplexity\How…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Perplexity\inc…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Perplexity\Inc…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Perplexity\lab…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Perplexity\LAP…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Perplexity\Lap…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Perplexity\low…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Perplexity\mas…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Perplexity\mas…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Perplexity\MAS…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Perplexity\med…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Perplexity\men…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Perplexity\mod…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Perplexity\mon…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Perplexity\Mus…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Perplexity\mus…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Perplexity\OHP…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Perplexity\OHP…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Perplexity\pat…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Perplexity\pcc…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Perplexity\rec…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Perplexity\ree…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Perplexity\sha…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Perplexity\sha…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Perplexity\sha…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Perplexity\sha…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Perplexity\sha…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Perplexity\sha…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Perplexity\sha…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Perplexity\str…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Perplexity\sup…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Perplexity\tea…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Perplexity\tra…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Perplexity\Tra…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Perplexity\Tra…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Perplexity\Tra…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Perplexity\Tra…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Perplexity\Tra…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Perplexity\ULT…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Perplexity\vi_…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Perplexity\was…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Golden Artifacts\AI Deep Research Reports\Perplexity\wei…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Onboarding\2ARSENAL.md                                   
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Onboarding\Agentic_Arsenal_Tools (2).md                  
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Onboarding\Agentic_Arsenal_Tools.md                      
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Onboarding\ALL_TOOLS_1000.md                             
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Onboarding\apikeys.md                                    
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Onboarding\ARSENAL_LIST.md                               
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Onboarding\bethany_mastery_system.md                     
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Onboarding\CANON 1 - Changes to default gemini.txt       
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Onboarding\Combined_System_Guide_v2.md                   
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Onboarding\Combined_System_Guide.md                      
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Onboarding\content-ecosystem-complete.md                 
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Onboarding\Creating an optimized system The me.md        
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Onboarding\Deep Research Tools.md                        
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Onboarding\Deep Research Workflow Ideas.md               
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Onboarding\deep-research-prompt.md                       
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Onboarding\deep-research-report (1).md                   
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Onboarding\deep-research-report (2).md                   
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Onboarding\deep-research-report.md                       
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Onboarding\deep-research-report4.md                      
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Onboarding\deep-research-report5.md                      
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Onboarding\deepresearchaboutdeepresearch.md              
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Onboarding\Design Blueprint for an Elite Deep-Research a…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Onboarding\Design Blueprint for an Elite Deep-Research a…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Onboarding\Designing Elite Deep Research Engine.md       
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Onboarding\discovered_arsenal_2026-04-04.md              
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Onboarding\EXTRACTED_ARSENAL.md                          
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Onboarding\FINAL_SOVEREIGN_ARSENAL.md                    
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Onboarding\fringe_protocol_system.md                     
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Onboarding\gemini_cli_always_on_tools_recommendations_Pe…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Onboarding\gemini_cli_always_on_tools_recommendations.md 
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Onboarding\In the game MegaMan X, the pause screen shows…
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Onboarding\master_system_phase1.md                       
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Onboarding\Memory Tools.md                               
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Onboarding\MISSION DEEP RESEARCH.md                      
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Onboarding\postmanapi.md                                 
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Onboarding\Probation and Parole System Mapping.md        
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Onboarding\RAW_EXTRACT_2.txt                             
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Onboarding\RAW_EXTRACT_3.txt                             
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Onboarding\RAW_EXTRACT_4.txt                             
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Onboarding\RAW_EXTRACT_5.txt                             
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Onboarding\Source-Tool-WhattoExtract.md                  
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Onboarding\SOVEREIGN_ARSENAL_COMPREHENSIVE_LIST.md       
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Onboarding\SOVEREIGN_ARSENAL_REAL.md                     
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Onboarding\System Setup Guide.md                         
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Onboarding\Tool_Arsenal_Master.md                        
+C:\Users\tarot\Operator\RVE Mycroft ReMatch Tool & Theory Pile\Onboarding\Where we are at currently.txt                 
+C:\Users\tarot\Operator\Vault\_Persist                                                                                  
+C:\Users\tarot\Operator\Vault\Projects                                                                                  
+C:\Users\tarot\Operator\Vault\ToolRegistry                                                                              
+

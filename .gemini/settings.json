@@ -1,7 +1,8 @@
 {
   "general": {
     "enableAutoUpdate": true,
-    "defaultApprovalMode": "auto_edit"
+    "defaultApprovalMode": "auto_edit",
+    "contextFileName": "GEMINI.md"
   },
   "ui": {
     "footer": {
@@ -31,5 +32,6 @@
     "modelSteering": true,
     "directWebFetch": true,
     "memoryManager": true
-  }
+  },
+  "mcpServers": {}
 }

@@ -1,0 +1,38 @@
+expansions 
+Go through my corpora of AI conversation history: Identify types of search, research, and synthesis categories that we can create pre-existing workflows for. 
+
+For example, there are different grades of search and different grades/types of intended synthesis 
+For finding tools, equipment, libraries, frameworks, or tangible non-digital assets, there are a few formats that can be desired. 
+Using an Obsidian Vault for all endeavors is a critical idea. 
+When I ask how to do and what I need for an extremely complex subject, for instance 
+"Things I need a loadout for: An anonymous, uncensored and private method to run an LLM using OSINT and PenTesting tools without relying on cloud platforms while still having enough capability to run anything in house, defaulting to human-in-the-loop when it needs more brainpower, with the human then reaching out to a cloud platform to gather the information for the local AI, which then takes and applies the information "
+There are a great deal of things that would be useful here. 
+First, a thorough report on the concept itself, naming the mechanisms, components, strategies, available solutions, problems solve, problems to expect, workarounds for those problems, and essentially everything I need to know to prime me to be able to understand and use the knowledge and equipment im about to be informed of. This should be a pretty exhaustive, lengthy report document that glazes over equipment slots and tool options. This concept "reate an exhaustive information base, containing full guides for the following, and lists of tools that I need to accomplish - Determine an "equipment slot list" akin to the Megaman X Character screen, which shows what parts he has equipped on every limb, providing a taxonomy for types of equipment that should be assigned to each component - this provides a consistent framework for knowing what components can be used at the same time, ensuring that redundancy, synchronicity, and coherence as a synergistic entity are established as the baseline Create multiple "Final loudouts" " as seen in our filebase on the previous mention of Megaman X, where my loadout for Temporal, OpenClaw, Mem0/ChromeDB, GeminiCLI/Codex/Claude, etc is described in a helmet: chest: arms: hands: weapons: boots: cape: aura: description, intending to identify the essential components that are static to the ultimate form of something. The amount of slots is not required to be that many, and some potency was probably lost by trying to have that many options fit. The concept remains though. 
+Anyway, other than what is essentially a standard deep research report on the subject, 
+An exhaustive analysis of options per equipment slot, both mainstream, underground, and ethically dubious - both paid and unpaid - the advantages of all, and a final recommendation. This could be an unending document, in a table format or a database format or a .md that just continuously list equipment by category/slot. At a later point, these sort of things will serve as the foundation for creating a vast database of complete guides for every tool, fed by backlinks and other sick as fuck usage of Obsidian tools - Providing not only a beautiful, exhaustively informative source of enough information to act on, but also the subsequent information that is required to pursue mastery and actual usage. Including basic documentation,  best use operational standards, a list of features, skills, abilities, and techniques toapply them, synergistic ideation, emergent usage, and suggestions for my use case base. 
+
+Simple resource tables are also highly desirable : Tables or databases or lists of things should be exhaustive but not infinite, with a command available to "expand and deepen" or "evaluate how fruitful further expansion is" or "deepen existing" 
+
+I need to ensure that all of the features that me and Chatty concocted are included, because literally all of them were spot on. 
+The one that made me write this...what was it, fuck 
+The artifact mandate is excellent - Creating pre-existing artifact conceptual templates would be prudent, like #Doctrine (Non-fiction, pure information, philosophy and technique) #Manual (Human) #Manual (AI) #Book #Article #BlogPost #Op-Ed #Wiki(Page) #Wiki(Entire) 
+
+
+
+
+
+###MegamanX Loadout Metaphor####
+Create an exhaustive information base, containing full guides for the following, and lists of tools that I need to accomplish - Determine an "equipment slot list" akin to the Megaman X Character screen, which shows what parts he has equipped on every limb, providing a taxonomy for types of equipment that should be assigned to each component - this provides a consistent framework for knowing what components can be used at the same time, ensuring that redundancy, synchronicity, and coherence as a synergistic entity are established as the baseline Create multiple "Final loudouts" 
+
+Things I need a loadout for: An anonymous, uncensored and private method to run an LLM using OSINT and PenTesting tools without relying on cloud platforms while still having enough capability to run anything in house, defaulting to human-in-the-loop when it needs more brainpower, with the human then reaching out to a cloud platform to gather the information for the local AI, which then takes and applies the information 
+
+Ensuring table browsing capabilities are in the Deepickle extension - Liek ChatGPT agent mode being the only way to navigate provider databases, for instance - being able to obtain any sort of thing online is important. 
+
+Create a deepweb version 
+
+Create an OSINT/PrivateInvestigation/Social/People research version (proxied, local llm) 
+
+Create an RPG style profile for me based on my RVE stuff 
+It should be used as a way to represent my experience level at certain skills, assign me projects to practice my skills that are relevant to my interests and have real world application, and be a mastercraft method to track and encourage rapid growth. 
+
+Do a final megaultra tool hunt report - I want to know about every tool that fuckin exists and can be utilized for any of our use cases
