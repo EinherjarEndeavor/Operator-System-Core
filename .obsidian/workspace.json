@@ -267,6 +267,9 @@
   },
   "active": "4f4352bd0ad4388f",
   "lastOpenFiles": [
+    "Control/Scripts/commit_final_deltas.py",
+    "Control/ProposedDeltas/DELTAS_FINAL_POPULATION_SOURCE.md",
+    "Control/ProposedDeltas/DELTAS_FINAL_MASTER.md",
     "Control/ProposedDeltas/master_staging_manifest.md",
     "Control/ProposedDeltas/batch_01_tasks.md",
     "Control/ProposedDeltas/batch_02_raw_canon.md",
@@ -300,9 +303,6 @@
     "Control/Docs/EXHAUSTIVE_FAILURE_AUDIT.md",
     "Control/Docs/SYSTEMIC_FAILURE_ANALYSIS_V2.md",
     "Control/Docs/SYSTEMIC_FAILURE_ANALYSIS.md",
-    "HarvestedSubmissions/Submission_Test.md",
-    "HarvestedSubmissions/Submission_PHALANX_35.md",
-    "HarvestedSubmissions/AI_Assistant_Calibration_Profile.md",
     "GitCom starring Dracula Backwards/passover notes in image form unfortunately.png"
   ]
 }

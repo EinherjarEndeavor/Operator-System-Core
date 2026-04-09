@@ -1,122 +1,90 @@
-# RVE FEATURE-DRIVEN CANON SPEC
+# RVE FEATURE-DRIVEN CANON SPEC (v1.1)
+## Authority: Sovereign Engineering | Status: ACTIVE | Last Hardened: 2026-04-09
 
-Status: Reinforced MVP Contract
-Purpose: Define the Rolling Victory Engine (RVE) as a concrete, live MVP product instead of a floating doctrine pile. Establish authoritative operational contracts for task handling and scheduling via Gemini + SQLite.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+### SECTION 1: PRODUCT DEFINITION & PROMISE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## 1. Product definition
+**RVE (Rolling Victory Engine):** A local-first, CLI-invoked personal command center designed to give a single human being — operating under real-world chaos, constraint, and ambition — a coherent, persistent, adaptive, AI-augmented operating system for their entire life.
 
-RVE is a local-first, CLI-invoked personal command center designed to give a single human being — operating under real-world chaos, constraint, and ambition — a coherent, persistent, adaptive, AI-augmented operating system for their entire life.
+**The Promise:** Convert chaos into structured execution through life-state capture, weighted task assessment, and context-aware scheduling.
 
-Target User: A 35-year-old in recovery, currently in intensive outpatient treatment, residing at a corrections facility, attending community college, building toward a software development career, with zero disposable income and high ambition.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+### SECTION 2: MVP GO-LIVE RULE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## 2. Primary user promise
+**RVE MVP is LIVE when Gemini can operate the task and obligation system from SQLite with consistency.**
+- **Requires:** Stable task entry, ranking logic, and obligation retrieval.
+- **Does NOT Require:** Graph memory, mobile UI, or perfect automated scripts.
+- **Go-Live:** Once the 5 operational test cases (Section 10) work reliably in a real-world day.
 
-RVE captures life state across all domains, assesses tasks using a weighted metric model, generates context-aware schedules, drives daily check-ins, tracks habits, and serves as the canonical data source for all AI interactions. It converts chaos into structured execution.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+### SECTION 3: MINIMUM STATE MACHINE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## 3. MVP Definition & Go-Live Rule
+- `captured`: Quick entry; not yet scoreable.
+- `onboarding_pending`: Needs metadata enrichment.
+- `ready`: Validated for ranking and scheduling.
+- `in_progress`: Active work phase.
+- `blocked`: Delayed by external factors.
+- `waiting`: Dependent on person/system/date.
+- `completed`: Done and logged.
+- `archived`: Operationally inactive.
 
-**MVP Definition:** RVE MVP is live when Gemini can operate the task and obligation system from SQLite with enough consistency that the operator can trust it for daily decision support.
-This requires: stable task entry, stable retrieval, stable ranking logic, stable obligation/anchor retrieval, and stable project-state visibility.
-This does NOT require: graph memory, perfect scripts, mobile completion, or advanced UI.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+### SECTION 4: TASK ONBOARDING PROTOCOL
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-**Go-live rule:** RVE should be considered live once the 5 operational test cases (Section 10) work reliably enough to use in a real day. Do not wait for perfect scripts or ideal architecture. Gemini can run the logic directly against SQLite.
+**MANDATORY FIELDS FOR `READY`:**
+1.  **Title:** Atomic and actionable.
+2.  **Domain/Project:** Correct classification.
+3.  **Urgency & Impact (1-10):** Primary drivers.
+4.  **Friction (1-10):** Activation cost.
+5.  **Energy Type:** [high_cognitive, high_creative, high_physical, low_energy, zombie_capable, mandatory].
+6.  **Duration Est (Min):** Estimated time to complete.
 
-## 4. MVP Authority Sources & Authority Ladder
+**SUB-TASK DECOMPOSITION:**
+- **Tier 2 (Relational):** Tasks with `atomic=0` include a JSON array in the `action_plan` field for tracked steps.
+- **Tier 4 (Synthesized):** Deep workflows live in `Vault/Workflows/[task_id].md`.
 
-For current-phase RVE operation, authority resolves in this order:
-1. Direct user clarification in current session
-2. Current accepted RVE canon docs
-3. Direct database state in `rve.db` / `lifestate.db`
-4. Stronger build/spec docs (`ThisIsTheReportStandard.md.txt`)
-5. Older doctrine / rollout / theory files
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+### SECTION 5: RANKING & SCHEDULING CONTRACT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## 5. Minimum State Machine
+**COMPOSITE SCORE FORMULA (v1):**
+`Score = (urgency x 0.25) + (impact x 0.20) + (cascade x 0.15) + (compound x 0.15) + (benefit x 0.10) + (mandatory_bonus x 0.10) + (low_friction_bonus x 0.05)`
 
-Use these states for MVP:
-- `captured`: quick entry, not yet scoreable with confidence
-- `onboarding_pending`: needs metadata enrichment
-- `ready`: can be ranked and scheduled
-- `in_progress`: currently being worked
-- `blocked`: external blocker or missing requirement
-- `waiting`: dependent on another person/system/date
-- `completed`: done and logged
-- `archived`: no longer operationally active
+**SCHEDULING PRIORITY:**
+1.  Fixed Obligations / Schedule Anchors.
+2.  Current Time Window vs. Duration.
+3.  Current Energy State vs. Energy Type.
+4.  Due Pressure.
+5.  Rank Score.
 
-## 6. Mandatory Task Fields for `ready`
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+### SECTION 6: THE DAILY LOOP (MORNING COFFEE)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-A task may be stored as `captured` with only:
-- `title`
-- `domain` or `project`
-- `notes` (optional)
+**05:30 AUTO-RUN REQUIREMENTS:**
+1.  **Newspaper Mode:** Aggregate News, Blogs, and Newsletters.
+2.  **UA Portal Check:** Verify compliance credentials.
+3.  **Quest Engine:** Surface 1 Daily Quest + 1 Side Quest.
+4.  **Schedule Generation:** Propose day layout based on anchors and top `ready` tasks.
 
-A task may only become `ready` when it has at minimum:
-- `title`
-- `state`
-- `urgency` (1-10)
-- `impact` (1-10)
-- `friction` (Activation cost 1-10)
-- `duration_est_min`
-- `energy_type` (high_cognitive / high_creative / high_physical / low_energy / zombie_capable / mandatory_regardless)
-- `due` (Deadline or explicit no-deadline status)
-- `domain_id` / `project_id`
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+### SECTION 7: OPERATIONAL COMMANDS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-*Extended fields (cascade_val, compound_val, immediate_benefit, postpone_count, actuals) are supported but not mandatory for MVP `ready` state.*
+Gemini must execute these via direct SQL/Terminal interaction:
+- `rve log`: Quick capture.
+- `rve onboard`: Enrich pending tasks.
+- `rve today`: List rank-matched tasks for the current energy/window.
+- `rve checkpoint`: Log completions and calibration data.
 
-## 7. Ranking Logic Contract
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+### SECTION 8: RED-TEAM WARNINGS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Gemini must calculate scores dynamically for `ready` tasks.
-
-**Composite score formula (v1):**
-Score = (urgency x 0.25) + (impact x 0.20) + (cascade_val x 0.15) + (compound_val x 0.15) + (immediate_benefit x 0.10) + (mandatory_bonus x 0.10) + (low_friction_bonus x 0.05)
-*Note: If extended fields are missing, Gemini uses the minimum ranking factors: urgency, impact, inverse friction, duration fit, energy match, and due pressure.*
-
-## 8. Scheduling & Recommendation Rules
-
-When recommending what to do next, Gemini must filter/check in this order:
-1. fixed obligations and schedule anchors
-2. current time window size vs. `duration_est_min`
-3. current energy state vs. `energy_type`
-4. location constraints if relevant
-5. due pressure
-6. score rank among eligible `ready` tasks
-
-**Gemini must NOT recommend:**
-- blocked items as default next moves
-- low-metadata tasks as if they were fully ranked
-- tasks that do not fit the stated time window without flagging the mismatch
-
-## 9. Minimum Commands Gemini Must Support
-
-Gemini must be able to perform these intents reliably against the SQLite database:
-- `rve log` (Quick capture: add task with minimal fields, mark `onboarding_pending`)
-- `rve task add` / `rve onboard` (Enrich a task to `ready` state)
-- `rve today` / list top tasks (Filter by window/energy and sort by score)
-- list tasks by project/domain/state
-- show obligations and anchors
-- `rve checkpoint` / mark complete and log calibration data (actual duration/difficulty)
-- show blocked and waiting items
-- show active projects with next actions
-
-## 10. Five Operational Test Cases
-
-- **Test 1 — Quick capture:** Input a raw task title. Success = stored as `captured` or `onboarding_pending`.
-- **Test 2 — Full onboarding:** Enrich one task with metrics. Success = task reaches `ready` and can be ranked.
-- **Test 3 — Window query:** "What can I do in 45 minutes at low energy?" Success = returns only fit-matched tasks and explains why.
-- **Test 4 — Obligation surface:** "What anchors and obligations do I have today?" Success = returns schedule-relevant items cleanly.
-- **Test 5 — Completion log:** Mark task complete with actual duration/difficulty/energy. Success = state changes and calibration data is preserved.
-
-## 11. Non-goals for current phase
-RVE does not currently need:
-- Neo4j / Graph memory infrastructure
-- Complete automated script suites (Gemini can execute raw SQL)
-- Automated web research or TUI/Mobile apps
-
-## 12. Red-Team Warnings
-RVE MVP is compromised when:
-- too many fields make manual entry unbearable
-- Gemini treats low-metadata tasks as confidently ranked truth
-- obligations are not queryable
-- project state is still mostly narrative and not structured
-- daily use keeps requiring system redesign before action
-
-RVE MVP is healthy when: you can dump tasks in, enrich the important ones, retrieve what matters now, and operate your day with less confusion than before.
+- **FAIL:** Treating `captured` tasks as ranked truth.
+- **FAIL:** Manual entry becoming too burdensome (Maintain "Surgical Capture").
+- **SUCCESS:** Operating the day with less confusion than the previous cycle.

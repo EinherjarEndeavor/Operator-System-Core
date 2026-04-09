@@ -1,74 +1,53 @@
-# WAVE1CANON CANONIZATION PIPELINE
+# WAVE1CANON CANONIZATION PIPELINE (v1.1)
+## Authority: Sovereign Engineering | Status: ACTIVE | Last Hardened: 2026-04-09
 
-Status: Reinforced canon process doc
-Purpose: Define how messy Wave1Canon material gets converted into stable, integratable sources of truth instead of remaining a scattered file swamp, and establish strict source authority rules.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+### SECTION 1: OBJECTIVE & CLASSES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## 1. Objective
+The goal is to refine the 3.5MB "Ore Reserve" into: **Relational Truth** (Tier 2), **Semantic Links** (Tier 3), and **Synthesized Doctrine** (Tier 4). 
 
-Wave1Canon and adjacent piles contain useful material trapped inside duplication, scattered framing, and mixed authority. The goal is not to preserve every file as equally sacred. The goal is to refine the corpus into: truth records, feature specs, workflow canon, artifact canon, and deferred/archive material.
+**CANONICALITY STATES:**
+1.  **CANONICAL:** Verified, bit-perfect truth. Primary keys or final doctrine.
+2.  **PROVISIONAL:** Candidate data awaiting human audit.
+3.  **INFERRED:** AI-detected patterns; must be marked `estimated_fields=1`.
+4.  **DEPRECATED:** Obsolete or superseded data; archived in `BrainArchive/`.
 
-## 2. Source Authority Classes
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+### SECTION 2: SOURCE AUTHORITY LADDER
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-- **Class 0 — Direct live clarification:** Direct user statement in current session. Authority: highest.
-- **Class 1 — Structured profile / answer sources:** Fielded/semi-structured files for facts/constraints (e.g., onboarding answers).
-- **Class 2 — Current accepted canon docs:** Accepted operational references (e.g., truth routing canon, feature specs).
-- **Class 3 — Strong design/source doctrine:** Build/design instructions defining intended behavior.
-- **Class 4 — Artifact and narrative sources:** Persuasive, presentational, or voice-driven documents (e.g., cover letters).
-- **Class 5 — Raw duplication / passover piles:** Repeated, partial, or exploratory material. Authority: lowest.
+When files conflict, authority resolves in this strict order:
+- **CLASS 0: DIRECT CLARIFICATION:** Direct user statement in current session.
+- **CLASS 1: STRUCTURED ANSWERS:** Fielded onboarding/interrogation answers.
+- **CLASS 2: ACCEPTED CANON:** Existing specs in `Control/Docs/`.
+- **CLASS 3: DESIGN DOCTRINE:** Instructions defining intended system behavior.
+- **CLASS 4: ARTIFACT PROSE:** Persuasive or presentation documents (Resumes/Cover Letters).
+- **CLASS 5: RAW PASSOVER:** Repeated, partial, or exploratory logs.
 
-## 3. Resolution & Conflict Handling Rules
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+### SECTION 3: CONFLICT & DUPLICATE RULES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-- **Rule A (Hierarchy):** Higher class outranks lower class. A Class 1 source overwrites a Class 4 source.
-- **Rule B (Freshness):** Current accepted canon outranks old doctrine.
-- **Rule C (Fact vs Narrative):** Narrative is not fact by default. Claims from pitch docs must be extracted and justified before becoming structured truth.
-- **Rule D (No Fake Consensus):** Duplicates do not create consensus. Five duplicated passover files saying the same thing is not five independent confirmations.
+- **RULE: Freshness Wins:** Direct later clarification overwrites stale file content.
+- **RULE: No Fake Consensus:** Five duplicated passover files saying the same thing is NOT five independent confirmations. It is one fact with five copies.
+- **RULE: Fact vs. Narrative:** Claims from "Pitch" documents (Class 4) must be corroborated by Class 1 before becoming Tier 2 canon.
+- **CONFLICT HANDLING:** Preserve the conflict note, identify source classes, and prefer the higher-authority source. Flag for human audit if authority is equal.
 
-**Conflict handling:** When sources conflict: preserve the conflict note, identify source classes, prefer the higher-authority source. Require explicit review if material conflict remains.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+### SECTION 4: MINIMAL CANONIZATION WORKFLOW
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## 4. Duplicate Handling & Unresolved Ambiguity
+**The Workflow: Classify -> Extract -> Convert -> Archive**
+1.  **Classify:** Identify the source authority class (0-5).
+2.  **Extract:** Harvest atomic facts, tasks, or axioms.
+3.  **Convert:** Route to the correct memory tier (SQL, Node, or MD).
+4.  **Archive:** Move processed files to `HarvestedSubmissions/` and tag as `processed`.
 
-**Duplicate handling:** Identify the highest-authority version, route the rest to deferred/archive status. Do not re-canonize the same concept from each duplicate.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+### SECTION 5: RED-TEAM WARNINGS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-**Unresolved ambiguity policy:** Mark unresolved ambiguity when: two same-class sources conflict materially, a fact is important but weakly evidenced, or a narrative claim is useful but unstable. Keep ambiguity visible instead of flattening it into fake certainty.
-
-## 5. Canonization Classes & Conversion Outputs
-
-Every messy source should be converted into one of the following:
-1. **Routing proposal:** what layer it belongs to.
-2. **Canon spec:** coherent feature-driven source of truth.
-3. **Battle plan / action plan:** executable direction.
-4. **Deferred archive note:** why it is deferred.
-
-## 6. Minimal Canonization Workflow
-
-1. Identify the source authority class.
-2. Identify whether it improves truth, tasks, workflows, artifacts, or archives.
-3. Extract only the highest-authority content.
-4. Convert into a single actionable canon doc.
-5. Record what remains deferred or unresolved.
-
-## 7. Current Practical Authority Ladder
-
-For current-phase operator work:
-1. Direct current clarification
-2. Structured truth sources
-3. Accepted control/canon docs
-4. Stronger design doctrine
-5. Artifact prose
-6. Raw passover and duplicate piles
-
-## 8. Archive Rule & What Not To Do
-
-**Archive rule:** A source is archive/deferred when it adds no distinct operational value, mostly repeats stronger sources, or is useful only as historical ore.
-
-**What not to do:**
-- Do not merge everything into one giant mega-doc.
-- Do not preserve rhetorical duplication as new information.
-- Do not treat brainstorming and canon as the same class.
-- Do not let narrative style outrank operational truth.
-
-## 9. Success Condition & Red-Team Warning
-
-**Success Condition:** The operator should not have to mentally remember which of five similar files is the real one. The Control/Docs canon becomes the place you actually operate from.
-
-**Red-team warning:** This process fails if it becomes another endless summarization ritual. It only works if each canon document replaces scattered dependence with a sharper operational reference.
+- **FAIL:** Merging everything into one giant mega-doc (The "Sludge" trap).
+- **FAIL:** Treating brainstorming and canon as the same class.
+- **SUCCESS:** The operator no longer has to remember "which file is the real one."
