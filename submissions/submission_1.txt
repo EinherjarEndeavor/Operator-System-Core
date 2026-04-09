@@ -1,0 +1,77 @@
+--- Submission 1 ---
+age: Early-to-mid 20s
+other: This profile is being used to calibrate a desktop AI assistant. Key context: I am a highly technical, self-directed learner in my early-to-mid 20s based in Sacramento, CA. I have no formal employment history but have deep expertise in AI systems, Gemini CLI, autonomous agents, web development, and DevOps. I recently completed my GED and am enrolled in the Next Chapter technical program. My workflow involves heavy use of multiple AI platforms simultaneously (ChatGPT, Claude, Perplexity, Gemini), Windows PowerShell/PowerToys, VS Code, WSL, Docker, and GitHub. I work primarily late nights with intensive multi-terminal sessions. My hobbies include fitness (weight training, boxing, HIIT), Magic: The Gathering, and music (Devil May Cry/Hazbin Hotel soundtracks). I am focused on breaking into the AI/tech industry and building autonomous AI systems. I prefer free/open-source tools and minimal-cost resources. I document in Obsidian and Google Drive. My learning is almost entirely self-directed through hands-on experimentation.
+gender: Male
+skills: Advanced AI/LLM integration and prompt engineering, building agentic AI systems (CrewAI, autonomous agents), CLI tools and command-line workflow optimization, Windows PowerShell and system administration, web scraping and data extraction, deep research methodology, JavaScript/TypeScript/Python/PowerShell/Bash scripting, Git version control, Docker and containerization, VS Code extension configuration, rapid self-directed learning across complex technical domains, strategic thinking (Magic: The Gathering), fitness training and workout programming
+housing: Other
+medical: None reported. Actively maintains physical health through weight training, HIIT, Zone 2 cardio, Stairmaster, and incline treadmill work. Compound movements and circuit training are regular habits.
+commpref: Email
+location: Sacramento, CA 95814
+supports: Online developer and AI communities, self-directed learning peers on GitHub and Discord, multiple AI assistant platforms (ChatGPT, Claude, Perplexity, Gemini)
+dvhistory: No reported history
+ethnicity: Prefer not to say
+faithPref: Doesn't matter
+transport: Bus or MAX
+careerGoal: AI/ML engineering, autonomous systems development, full-stack AI integration, DevOps/system architecture, technical research and deep-dive analysis, AI tooling developer, prompt engineer, or building my own AI startup/products. Long-term: leading AI projects or founding a tech venture.
+dependents: None
+foodAccess: I'm ok for food
+fostercare: No foster care history
+incomeMode: Building — ready to grow
+incomegoal: $2,000 - $3,000/month to cover basics comfortably in Sacramento
+priorities: 1. Complete Next Chapter technical program pre-course and advance to full enrollment | 2. Secure first paying technical role or freelance income from AI/development skills | 3. Obtain technical certifications (CompTIA, Google Cloud, or AI-related certs) to formalize skill set
+fafsaStatus: Never
+hasbarriers: No
+idChecklist: Bank account
+peerSupport: Maybe
+safetyrisks: No
+workhistory: Self-directed AI developer and systems builder. Built custom AI extensions and skills for Gemini CLI. Developed autonomous agentic AI systems. Web development (HTML, CSS, JavaScript). GitHub repository management and deployment. Intensive multi-platform AI research and experimentation. No formal employment history — primarily independent/self-taught technical work.
+deliverypref: Email directly
+mentalhealth: No known diagnoses. May experience hyperfocus patterns typical of highly self-directed technical personalities. Manages well through structured routines, late-night work sessions, and intense project engagement.
+singleparent: No
+stayduration: Indefinitely / stable for now
+staysontrack: Deep passion for AI/technology and the vision of building autonomous systems. Fitness and physical training provide mental resilience. Sense of urgency around building skills and establishing a tech career. The drive to create tools that work autonomously and generate impact. Music and gaming as mental resets. The challenge of solving hard technical problems and iterating quickly.
+substanceUse: No known history of drug or alcohol dependency. Lifestyle focused on physical fitness and health optimization.
+educationGoal: Get a cert
+gymmembership: Yes — actively interested in boxing training programs and affordable gym access. Currently researching FlexFund and similar flexible funding programs for boxing. Weight training, HIIT, and cardio are core lifestyle pillars.
+matPreference: Not applicable
+providerNeeds: Fitness
+treatmentType: Not looking
+veteranStatus: No military service
+volunteerwork: Yes - interested in contributing to open-source AI tools, sharing technical knowledge with developer communities, and building tools that help others learn and access AI resources. Currently building autonomous AI systems that could benefit broader communities.
+accommodations: Thrives with self-directed, autonomous learning environments. Prefers deep-dive, hands-on technical formats over passive lectures. Benefits from clear milestones and project-based learning. Works best with late-night schedules and access to multiple screens/tools simultaneously. Documentation tools (Obsidian, Google Drive) help with organization and retention.
+certifications: Recently completed GED. Currently enrolled in Next Chapter technical pre-course program. Multiple online learning platform courses (Alison, etc.). No formal professional certifications yet — actively pursuing technical education.
+engagementpref: Weekly
+internetAccess: Active email
+mailingaddress: Yes — stable residential address in Sacramento, CA
+recoverystatus: Not applicable
+engagementTypes: Solo only
+firstgenstudent: Yes
+healthinsurance: Unknown / none currently confirmed
+idealRecreation: Weight training, boxing/martial arts, gaming (Magic: The Gathering), music discovery (Devil May Cry soundtracks, Hazbin Hotel OST), YouTube tutorials on advanced technical topics, building AI systems/projects, deep research sessions, Stairmaster and incline treadmill workouts
+legalWorkStatus: Yes
+recoverycapital: Not applicable — no substance use history. Strong personal discipline through fitness routines and technical project focus.
+disabilitystatus: None reported
+highrisktriggers: Not applicable
+homelessDuration: Currently housed/stable living situation
+outstandingFines: None known
+tribalEnrollment: No
+benefitsChecklist: None
+citizenshipStatus: U.S. Citizen
+crimeVictimStatus: No
+educationtraining: GED (recently completed). Currently enrolled in Next Chapter technical pre-course program. Extensive self-directed learning through Alison, YouTube, and hands-on projects in AI/ML, web development, and systems architecture.
+mandatedTreatment: No
+sexualorientation: Prefer not to say
+supervisionStatus: No
+careerInterestType: Creative
+dignitymaintenance: None
+employmentBarriers: Skill mismatch
+functionalbarriers: None
+housingconstraints: Currently stable — primary challenge would be limited income to sustain long-term housing independently without employment
+justiceconstraints: None
+traffickingHistory: No
+expungementEligible: Not interested
+scholarshipinterest: Yes find everything
+currentIncomeSources: Family/friends
+specialtyCourtStatus: None
+parentalincarceration: Prefer not to say
+_timestamp: 2026-04-09T04:07:09.655Z

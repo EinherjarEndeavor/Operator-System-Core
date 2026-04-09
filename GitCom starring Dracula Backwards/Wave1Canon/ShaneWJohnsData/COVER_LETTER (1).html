@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cover Letter - Shane Johns</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700;900&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg-pure: #ffffff;
+            --text-main: #0f172a;
+            --text-muted: #475569;
+            --accent-sovereign: #ea580c;
+            --border-clinical: #64748b;
+            --font-data: "Courier New", Courier, monospace;
+        }
+
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+
+        body {
+            background-color: #f1f5f9;
+            color: var(--text-main);
+            font-family: 'Inter', sans-serif;
+            line-height: 1.6;
+            padding: 40px 20px;
+        }
+
+        .letter-paper {
+            background: white;
+            max-width: 850px;
+            margin: 0 auto;
+            padding: 60px;
+            box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+            border-top: 8px solid var(--text-main);
+            position: relative;
+        }
+
+        .letter-paper::before {
+            content: "INTAKE SEQUENCE: AUTHENTIC";
+            position: absolute;
+            top: 20px;
+            right: 60px;
+            font-family: var(--font-data);
+            font-size: 0.65rem;
+            color: var(--accent-sovereign);
+            border: 1px solid var(--accent-sovereign);
+            padding: 2px 8px;
+            opacity: 0.6;
+        }
+
+        header {
+            border-bottom: 3px solid var(--accent-sovereign);
+            padding-bottom: 20px;
+            margin-bottom: 40px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .logo-block {
+            width: 60px;
+            height: 60px;
+            overflow: hidden;
+            border: 2px solid var(--text-main);
+        }
+
+        .logo-block img {
+            width: 200%;
+            height: auto;
+            display: block;
+        }
+
+        .name-block h1 { font-size: 2.5rem; font-weight: 900; text-transform: uppercase; letter-spacing: -1.5px; line-height: 0.9; }
+        .contact-info { text-align: right; font-family: var(--font-data); font-size: 0.85rem; color: var(--text-muted); }
+
+        .date-line { font-family: var(--font-data); font-weight: 700; margin-bottom: 30px; color: var(--accent-sovereign); }
+        
+        .salutation { font-weight: 900; text-transform: uppercase; margin-bottom: 25px; font-size: 1.1rem; }
+        
+        .letter-body p { margin-bottom: 1.5rem; text-align: justify; }
+        
+        .highlight-box {
+            background: #f8fafc;
+            border-left: 4px solid var(--accent-sovereign);
+            padding: 20px;
+            margin: 2rem 0;
+            font-style: italic;
+        }
+
+        .signature { margin-top: 50px; }
+        .signature-name { font-weight: 900; text-transform: uppercase; font-size: 1.3rem; margin-bottom: 5px; }
+        .signature-title { font-family: var(--font-data); font-size: 0.85rem; color: var(--accent-sovereign); }
+
+        @media print {
+            body { background: white; padding: 0; }
+            .letter-paper { box-shadow: none; width: 100%; max-width: 100%; padding: 40px; }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="letter-paper">
+        <header>
+            <div class="logo-block">
+                <img src="assets/icons/rm.jpg" alt="RE.MATCH Logo">
+            </div>
+            <div class="name-block">
+                <h1>SHANE JOHNS</h1>
+            </div>
+            <div class="contact-info">
+                CORNELIUS, OR 97123<br>
+                TEL: 971-490-1351<br>
+                EMAIL: tarotalucard7@gmail.com
+            </div>
+        </header>
+
+        <div class="date-line">MARCH 20, 2026 // ARCHIVE_REF: NC_APP_SJ</div>
+
+        <div class="salutation">To the Next Chapter Admissions Committee,</div>
+
+        <div class="letter-body">
+            <p>
+                I've been blessed with a great variety of experience. You'll find that my work history is mostly back-of-house restaurant management, training, and cooking. When it shifts into gas stations and convenience stores, it is of direct correlation to the following: five years ago, a mental health crisis of unprecedented proportions led me to homelessness, ergo proxy—addiction, and ergo proxy—crime.
+            </p>
+
+            <p>
+                It took about three years to regain my sanity, and about half a year of incarceration to regain my personal autonomy, escape a very toxic situation, and start rebuilding. Since I've been released from jail, my probation officer is proud of me as I have been doing great in outpatient treatment at CODA. I've maintained my sobriety, followed the conditions of probation, and managed to start rebuilding my life to a point that I'm now doing better than I was before I fell.
+            </p>
+
+            <div class="highlight-box">
+                When I went into jail, representing the utter bottom of the barrel of my life—I went into jail having nothing but a boys' medium t-shirt, boys' medium basketball shorts, and torn-up Under Armour running shoes...
+            </div>
+
+            <p>
+                Now I have my ID, my social security card, a gym membership, my GED, non-stimulant medication, my drive, and my focus. I'm enrolled in college, and most powerfully, my uncompromising sobriety that isn't contingent upon anything.
+            </p>
+
+            <p>
+                My resume is choppy and sloppy; however, you can tell from an interaction with me that my work, drive, and focus—coupled with my unique constellation of experience—will instill unshakable confidence that you can trust me to complete any mission you assign me.
+            </p>
+        </div>
+
+        <div class="signature">
+            <div class="signature-name">Shane Johns</div>
+            <div class="signature-title">Sovereign Architect // Re.Match</div>
+        </div>
+    </div>
+
+</body>
+</html>

@@ -1,0 +1,25 @@
+--- Submission 3 ---
+alias: PHALANX_35
+other: Specifically seeking Washington County / Hillsboro-area resources. Justice-involved felon-friendly programs, scholarships, and grants are priority. Interested in TriMet assistance, free/low-cost tech resources, storage for gear (laptop, training equipment), interview clothing. Strong self-motivation, high learning velocity, AI/coding aptitude. Re.Match is itself a project I am building — this intake is both a test and a real submission.
+housing: Transitional/unstable — currently between shelter and couch situations in Beaverton/Hillsboro area. Not chronically homeless but lack stable permanent housing. Seeking transitional housing with supports, ideally through programs like Next Chapter.
+location: Hillsboro, OR 97123
+priorities: 30 DAYS: Complete DV classes, secure stable transitional housing (Next Chapter or equivalent), get connected to SUD counselor and PCP. 90 DAYS: GED completed, Peer Support Specialist cert in progress, daily structure locked in (gym + study + code). 365 DAYS: Enrolled in coding bootcamp or Next Chapter tech track, probation successfully completed, stable housing, income from entry-level tech or peer support role, Re.Match MVP functional.
+needs_mh: true
+needs_pcp: true
+needs_sud: true
+has_tribal: No
+neuro_adhd: true
+engage_peer: true
+income_goal: 1200
+has_barriers: Yes
+is_first_gen: true
+no_transport: true
+safety_risks: Primary risks: relapse if isolated or without structure; housing loss leading to street exposure; probation violation if DV classes not completed. No active self-harm or trafficking risk. Pattern awareness strong — main danger is internal sabotage and isolation spiral.
+work_history: 10+ years food service: Assistant Manager (McMenamins), Line Cook (Screen Door), Store Associate (Plaid Pantry, 7-Eleven, ARCO). Recovery Specialist experience (peer support, lived expertise). Currently: GED in progress at PCC, Peer Support Specialist certification in progress. Tech skills: Python, PowerShell, HTML/CSS/JS, AI tooling, Git/GitHub, VS Code. Strong work ethic, crisis de-escalation, training others.
+delivery_pref: Anonymized
+engage_sports: true
+neuro_details: ADHD diagnosis suspected/in-progress via NW ADHD Center. Task paralysis, hyperfocus cycles, difficulty with sustained attention on low-stimulation tasks. Currently unmedicated.
+barrier_details: Felony conviction (non-violent). Currently on probation — approximately 1 year remaining. DV classes outstanding. Downward departure. No sex offenses. No weapons charges.
+health_recovery: In recovery from substance use disorder — currently clean and committed to sobriety. No active MAT. Mental health diagnoses scattered across multiple providers (Kaiser, Providence, Legacy, CODA, FORA, NW ADHD Center). ADHD eval in progress. History of trauma. Not currently in regular counseling but open to it.
+demographics_combined: 35 / M / Straight
+_timestamp: 2026-03-21T02:46:09.297Z

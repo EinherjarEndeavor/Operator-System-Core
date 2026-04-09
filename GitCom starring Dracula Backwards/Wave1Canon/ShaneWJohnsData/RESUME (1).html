@@ -1,0 +1,353 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume - Shane Johns</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800;900&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg-pure: #ffffff;
+            --text-main: #0f172a;
+            --text-muted: #475569;
+            --accent-sovereign: #ea580c;
+            --border-clinical: #e2e8f0;
+            --font-data: "Courier New", Courier, monospace;
+        }
+
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+
+        body {
+            background-color: #f8fafc;
+            color: var(--text-main);
+            font-family: 'Inter', sans-serif;
+            line-height: 1.4;
+            padding: 20px;
+        }
+
+        .resume-container {
+            background: white;
+            max-width: 950px;
+            margin: 0 auto;
+            display: grid;
+            grid-template-columns: 280px 1fr;
+            min-height: 1100px; /* Standard A4ish height */
+            box-shadow: 0 4px 20px rgba(0,0,0,0.05);
+            border: 1px solid var(--border-clinical);
+        }
+
+        /* SIDEBAR */
+        aside {
+            background-color: #f1f5f9;
+            padding: 40px 30px;
+            border-right: 1px solid var(--border-clinical);
+        }
+
+        .logo-wrap {
+            width: 80px;
+            height: 80px;
+            overflow: hidden;
+            border: 3px solid var(--text-main);
+            margin-bottom: 30px;
+            background: white;
+        }
+
+        .logo-wrap img {
+            width: 200%;
+            height: auto;
+            display: block;
+        }
+
+        .sidebar-section { margin-bottom: 35px; }
+        
+        .sidebar-title {
+            font-size: 0.75rem;
+            font-weight: 900;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            color: var(--accent-sovereign);
+            margin-bottom: 15px;
+            border-bottom: 1px solid var(--accent-sovereign);
+            padding-bottom: 4px;
+        }
+
+        .contact-item {
+            font-family: var(--font-data);
+            font-size: 0.7rem;
+            margin-bottom: 8px;
+            word-break: break-all;
+        }
+
+        .skill-list { list-style: none; }
+        .skill-list li {
+            font-size: 0.75rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            margin-bottom: 10px;
+            line-height: 1.2;
+            display: flex;
+            align-items: flex-start;
+            gap: 8px;
+        }
+        .skill-list li::before {
+            content: '>';
+            color: var(--accent-sovereign);
+            font-family: var(--font-data);
+        }
+
+        /* MAIN CONTENT */
+        main {
+            padding: 50px;
+            background: white;
+        }
+
+        header { margin-bottom: 40px; }
+        
+        .name-header h1 {
+            font-size: 3rem;
+            font-weight: 900;
+            text-transform: uppercase;
+            letter-spacing: -2px;
+            line-height: 0.8;
+            margin-bottom: 10px;
+        }
+
+        .profile-summary {
+            font-size: 0.95rem;
+            color: var(--text-muted);
+            max-width: 550px;
+            border-left: 4px solid var(--text-main);
+            padding-left: 20px;
+            margin-top: 20px;
+        }
+
+        .content-section { margin-bottom: 40px; }
+
+        .section-header {
+            font-size: 1.1rem;
+            font-weight: 900;
+            text-transform: uppercase;
+            border-bottom: 2px solid var(--text-main);
+            margin-bottom: 20px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .job-entry { margin-bottom: 25px; }
+        .job-head {
+            display: flex;
+            justify-content: space-between;
+            align-items: baseline;
+            margin-bottom: 4px;
+        }
+        .job-title { font-weight: 800; font-size: 1.05rem; }
+        .job-date { font-family: var(--font-data); font-size: 0.8rem; color: var(--accent-sovereign); font-weight: 700; }
+        .job-company {
+            font-size: 0.85rem;
+            font-weight: 600;
+            color: var(--text-muted);
+            text-transform: uppercase;
+            margin-bottom: 8px;
+        }
+        .job-desc {
+            font-size: 0.9rem;
+            color: var(--text-main);
+            line-height: 1.5;
+        }
+
+        .ref-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 20px;
+        }
+        .ref-card {
+            padding: 15px;
+            background: #f8fafc;
+            border: 1px solid var(--border-clinical);
+        }
+        .ref-card strong { display: block; font-size: 0.9rem; text-transform: uppercase; margin-bottom: 2px; }
+        .ref-card span { font-size: 0.75rem; color: var(--text-muted); display: block; }
+        .ref-card .phone { font-family: var(--font-data); font-weight: 700; color: var(--text-main); margin-top: 5px; font-size: 0.8rem; }
+
+        .disclosure-box {
+            background: #fff5f5;
+            border: 1px solid #fecaca;
+            padding: 20px;
+            margin-top: 20px;
+        }
+        .disclosure-title {
+            font-size: 0.8rem;
+            font-weight: 900;
+            color: #b91c1c;
+            text-transform: uppercase;
+            margin-bottom: 10px;
+            border-bottom: 1px solid #fecaca;
+            padding-bottom: 5px;
+        }
+        .disclosure-item {
+            font-size: 0.75rem;
+            margin-bottom: 6px;
+            line-height: 1.4;
+        }
+        .disclosure-item strong { color: #b91c1c; }
+
+        @media print {
+            body { background: white; padding: 0; }
+            .resume-container { 
+                box-shadow: none; 
+                border: none; 
+                width: 100%; 
+                max-width: 100%;
+                grid-template-columns: 240px 1fr;
+            }
+            aside { padding: 30px 20px; }
+            main { padding: 30px; }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="resume-container">
+        <aside>
+            <div class="logo-wrap">
+                <img src="assets/icons/rm.jpg" alt="Logo">
+            </div>
+
+            <div class="sidebar-section">
+                <h3 class="sidebar-title">Contact</h3>
+                <div class="contact-item">CORNELIUS, OR 97123</div>
+                <div class="contact-item">971-490-1351</div>
+                <div class="contact-item">tarotalucard7@gmail.com</div>
+            </div>
+
+            <div class="sidebar-section">
+                <h3 class="sidebar-title">Core Skills</h3>
+                <ul class="skill-list">
+                    <li>Performance under pressure</li>
+                    <li>Leadership through positive resonance</li>
+                    <li>De-escalation and stress mitigation for others</li>
+                    <li>discipline</li>
+                    <li>focus</li>
+                    <li>resillience</li>
+                    <li>systematic approach to everything</li>
+                </ul>
+            </div>
+
+            <div class="sidebar-section">
+                <h3 class="sidebar-title">Competencies</h3>
+                <ul class="skill-list">
+                    <li>Operational Synergy Leadership</li>
+                    <li>Complex System Navigation</li>
+                    <li>Conflict Resolution & De-escalation</li>
+                </ul>
+            </div>
+
+            <div class="sidebar-section">
+                <h3 class="sidebar-title">Certifications</h3>
+                <ul class="skill-list">
+                    <li>Food Handlers Card</li>
+                    <li>CPR Certification</li>
+                    <li>GED (2026)</li>
+                </ul>
+            </div>
+        </aside>
+
+        <main>
+            <header>
+                <div class="name-header">
+                    <h1>Shane Johns</h1>
+                </div>
+                <div class="profile-summary">
+                    Accomplished Culinary & Service Leader with over a decade of management experience. Expert in staff training and operational excellence. Driven by the principle of **Operational Synergy**: prioritizing team well-being to ensure peak performance.
+                </div>
+            </header>
+
+            <section class="content-section">
+                <h2 class="section-header">Experience</h2>
+
+                <div class="job-entry">
+                    <div class="job-head">
+                        <span class="job-title">Service Lead & Logistics</span>
+                        <span class="job-date">2021 — 2022</span>
+                    </div>
+                    <div class="job-company">Plaid Pantry, Red Robin, ARCO, 7-Eleven | Region-wide</div>
+                    <div class="job-desc">
+                        Managed high-traffic service operations and customer relations during a focused transition period. Responsible for cash management, inventory logistics, and maintaining service standards.
+                    </div>
+                </div>
+
+                <div class="job-entry">
+                    <div class="job-head">
+                        <span class="job-title">Sous Chef & Operations Trainer</span>
+                        <span class="job-date">2017 — 2020</span>
+                    </div>
+                    <div class="job-company">McMenamins Rock Creek Tavern | Hillsboro, OR</div>
+                    <div class="job-desc">
+                        Directed back-of-house operations and led comprehensive staff training protocols. Successfully improved team morale and kitchen throughput over a 3-year tenure.
+                    </div>
+                </div>
+
+                <div class="job-entry">
+                    <div class="job-head">
+                        <span class="job-title">Captain & All-Star Trainer</span>
+                        <span class="job-date">2014 — 2017</span>
+                    </div>
+                    <div class="job-company">MOD Pizza | Multiple Locations, OR</div>
+                    <div class="job-desc">
+                        Selected as a brand ambassador to launch new locations and stabilize underperforming teams. Managed shift logistics and staff development across the region.
+                    </div>
+                </div>
+
+                <div class="job-entry">
+                    <div class="job-head">
+                        <span class="job-title">Kitchen Manager</span>
+                        <span class="job-date">2012 — 2014</span>
+                    </div>
+                    <div class="job-company">Pizza Hut & Old Chicago | Beaverton, OR</div>
+                    <div class="job-desc">
+                        Oversee back-of-house operations, inventory control, and onboarding. Maintained rigorous standards for food safety and operational consistency.
+                    </div>
+                </div>
+            </section>
+
+            <section class="content-section">
+                <h2 class="section-header">Verification</h2>
+                <div class="ref-grid">
+                    <div class="ref-card">
+                        <strong>Asianna Nelson</strong>
+                        <span>Probation Officer</span>
+                        <div class="phone">503-846-3480</div>
+                    </div>
+                    <div class="ref-card">
+                        <strong>Julia Ayles</strong>
+                        <span>Counselor / Treatment</span>
+                        <div class="phone">503-648-0753</div>
+                    </div>
+                    <div class="ref-card" style="grid-column: span 2;">
+                        <strong>Reginald Meisler</strong>
+                        <span>Staff Software Engineer (23 Year Peer)</span>
+                        <div class="phone">415-846-8097</div>
+                    </div>
+                </div>
+
+                <div class="disclosure-box">
+                    <div class="disclosure-title">Justice Involvement Disclosure</div>
+                    <div class="disclosure-item">
+                        <strong>Felony Possession of Stolen Property:</strong> Sentenced to two years probation. Active legal compliance and rehabilitative engagement.
+                    </div>
+                    <div class="disclosure-item">
+                        <strong>Misdemeanor DV Harassment (Non-Violent):</strong> Sentenced to two years probation. Active legal compliance.
+                    </div>
+                    <div class="disclosure-item">
+                        <strong>Misdemeanors (Theft, Possession, Lying):</strong> Status: Time Served. Successfully resolved and closed.
+                    </div>
+                </div>
+            </section>
+        </main>
+    </div>
+
+</body>
+</html>

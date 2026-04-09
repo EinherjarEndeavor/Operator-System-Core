@@ -1,0 +1,72 @@
+--- Submission 1 ---
+age: Early-to-mid 20s
+other: This profile is being used to calibrate a desktop AI assistant. Key context: I am a highly technical, self-directed learner in my early-to-mid 30s based in Beaverton, OR. I recently completed my GED and failed to enroll in the Next Chapter cohort for Spring, but am hoping to train enough to succeed in enrollment for their Summer cohort. I am also seeking similar programs to enroll in now, or any other way to skill up, build my portfolio, and receive the fastest paced, deepest training I can find. In the meantime, I will solidify extremely high yield habits, identify paths to physical, intellectual, philosophical, academic, dev, hacker, psychological, red teaming, and social skill training, development and practice. My workflow involves heavy use of multiple AI platforms simultaneously (ChatGPT, Claude, Perplexity, Gemini), Windows PowerShell/PowerToys, VS Code, WSL, Docker, and GitHub. I work primarily late nights with intensive multi-terminal sessions. My hobbies include fitness (weight training, boxing, HIIT), Magic: The Gathering, music, Disc Golf, learning, and creating systems that can help individuals in chaotic situations align themselves, and meet then exceed their potential. Devil May Cry is just about the coolest video game. I like "8Bit Anime Horror" just about sums up my aesthetic. I like cyberpunk colors (Neon, Cyan, Red, Purple against black) I am focused on breaking into the AI/tech industry and building autonomous AI systems, but not for the sake of competing within the AI industry. Everything I learn, train and create; I want to use to achieve my own purposes. I believe that by developing these skills and entering industries, non-profits, social paradigms, enterprises where there is not already an over-saturation of AI, I will be able to find high leverage, high impact, novel methods to implement AI to help the every-man. Currently, I believe that AI is being highly underused. It should yield a beyond-exponential increase in an individual's capability. The more you invest in AI, the more profound of an exponential incline it should be. Instead, it often actually /decreases/ an individual's capability by leading them to obsessing over AI systems instead of applying them, constantly re-iterating and improving when the system they already had was more than sufficient. I prefer free/open-source tools and minimal-cost resources, as I am poor. I document in Obsidian and Google Drive. My learning is almost entirely self-directed through hands-on experimentation. It could be said that my goal is to illustrate that an individual can go from having the world, to losing everything, owing money, having a federal record, and being in extreme danger- To exceeding their previous capability, making a full recovery, and having higher functioning brain chemistry than before their fentanyl/meth addiction. I intend to pave the way for a new method of recovery, centered around the philosophy of creating a mental model in which there is no room for addiction to even rear its ugly head. By diverting from aversion and penal centric methodologies and focusing on positive avenues, such as finding passions, hobbies, novel experience, a love for training and conditioning; it is possible to yield a reproducable score that any seemingly broken individual may adopt. 
+gender: Male
+skills: Interests in Advanced AI/LLM integration and prompt engineering, building agentic AI systems (CrewAI, autonomous agents), CLI tools and command-line workflow optimization, Windows PowerShell and system administration, web scraping and data extraction, deep research methodology, JavaScript/TypeScript/Python/PowerShell/Bash scripting, Git version control, Docker and containerization, VS Code extension configuration, rapid self-directed learning across complex technical domains, strategic thinking (Magic: The Gathering), fitness training and workout programming
+housing: Other - Secured a shelter that I can stay at indefinitely, they will put me into free permanent housing down the road. This shelter is honestly better than housing; I have everything I need. I receive four free meals a day with infinite snacks, there's wifi, I can watch TV, and it's right by CODA and my PO. This is the perfect opportunity to take my time and farm power. I will take advantage of this by developing a monsterous roster of good habits, all of which are intended to synergistically compound over the course of two years into an unrecognizable life-state.
+medical: None reported. Actively maintains physical health through weight training, HIIT, Zone 2 cardio, Stairmaster, and incline treadmill work. Compound movements and circuit training are regular habits. Nerve compression palsy in the left hand. Arms fall asleep when they shouldn't. 5 teeth extracted. Feet suffering from unknown conditions. Deviations in the spine and neck. Bad back. Seeing doctor next week.
+Contact: Email - tarotalucard7@gmail.com (regular email) shane.johns1@pcc.edu (school email) ci.li.swj7@gmail.com (backup email) 971-490-1351 (Cell phone) Shane Walter Johns (Facebook)
+location: Hillsboro, OR 345 SW 17th AVE, Hillsboro, OR | Beaverton, OR | Portland, OR
+supports: Online developer and AI communities, self-directed learning peers on GitHub and Discord, multiple AI assistant platforms (ChatGPT, Claude, Perplexity, Gemini) Super Smash Brothers Melee Competitive Community. 
+dvhistory: No reported history
+ethnicity: prefer not to say
+faithPref: Abstract. Spiritual. God is tight. Occultism as psychology.
+transport: Bus or MAX
+careerGoal: AI/ML engineering, autonomous systems development, full-stack AI integration, DevOps/system architecture, technical research and deep-dive analysis, AI tooling developer, prompt engineer, or building my own AI startup/products. Long-term: leading AI projects or founding a tech venture. Red Teaming. Personal Consultant. Private Consultant. Freelance. Gigs. Traveling and making money. 
+dependents: None. 13 year old son, Nicolai Benjamin Grieves. Not in custody. Child Support.
+foodAccess: EBT $287. Fed at shelter.
+fostercare: No foster care history
+incomeMode: None. Desires to identify freeform money making methods; Gig work, freelance work, temp work. Having a regular income will disrupt benefits. Eligible for disability, SSI.
+incomegoal: $2,000 a month to cover upgrades, API costs, subscriptions.
+priorities: 1. Develop system for organizing life; should help manage habits, schedule, projects, tasks, journaling/logs, and the management of information, as well as push my limits - should also include a daily morning report, feeding me information and assigning me my mandatory daily tasks, daily quests, appointments, schedule, side quests, bonus quests, habits to work on, and more. 2. Re.Match 3. Second Wind. 4. Freelance/Gig work - build portfolio and upgrade equipment.
+fafsaStatus: Applied, need to examine scholarships and grants.
+hasbarriers: yes. Felony theft. Misdemeanor DV Harassment. $15000 in damages owed to previous landlord. $2000 to various banks. $50 to Washington County Library. Eviction history. Other theft history.
+idChecklist: ID. Social Security Card.
+peerSupport: No
+safetyrisks: No
+workhistory: refer to resume.html
+mentalhealth: Diagnosed depression, substance abuse disorder, attention defecit hyperactive disorder. May experience hyperfocus patterns typical of highly self-directed technical personalities. Manages well through structured routines, late-night work sessions, and intense project engagement.
+singleparent: No
+stayduration: Indefinitely / stable for now
+staysontrack: Deep passion for AI/technology and the vision of building autonomous systems. Fitness and physical training provide mental resilience. Sense of urgency around building skills and establishing a tech career. The drive to create tools that work autonomously and generate impact. Music and gaming as mental resets. The challenge of solving hard technical problems and iterating quickly.
+substanceUse: No known history of drug or alcohol dependency. Lifestyle focused on physical fitness and health optimization.
+educationGoal: Enroll in school for summer term - have a plan for that prepared by 5/1/26. Develop a self education plan - have that prepared by 4/15/26. Enrolled in martial arts class by 4/20/26. Enrolled in Yoga class by 4/20/26.
+gymmembership: no — actively interested in boxing training programs and affordable gym access. Currently researching FlexFund and similar flexible funding programs for boxing. Weight training, HIIT, and cardio are core lifestyle pillars.
+matPreference: Suboxone
+providerNeeds: Fitness - boxing, yoga, vitamins, meal replacement
+treatmentType: Intensive Outpatient @ CODA
+veteranStatus: No military service, dad in army (deceased)
+volunteerwork: not yet. would like to develop skills to contribute to non-profits and social activism beyond menial labor.
+accommodations: Thrives with self-directed, autonomous learning environments. Prefers deep-dive, hands-on technical formats over passive lectures. Benefits from clear milestones and project-based learning. Works best with late-night schedules and access to multiple screens/tools simultaneously. Documentation tools (Obsidian, Google Drive) help with organization and retention.
+certifications: Recently completed GED. Attempted to apply for Next Chapter Developer Skills Development program; was not accepted. Multiple online learning platform courses (Alison, etc.). No formal professional certifications yet — actively pursuing technical education.
+engagementpref: Weekly
+internetAccess: Active - has access everywhere.
+mailingaddress: 1710 SW Harvey Way, Aloha, OR
+recoverystatus: 6 months sober from Fentanyl, Alcohol & Methamphetamine. 
+engagementTypes: Solo only
+firstgenstudent: Yes
+healthinsurance: Oregon Health Plan - Care Oregon. Dental. Vision. Mental. Physical. Medicare Medicaid.
+idealRecreation: Weight training, boxing/martial arts, gaming (Magic: The Gathering), music discovery (Devil May Cry soundtracks, Hazbin Hotel OST), YouTube tutorials on advanced technical topics, building AI systems/projects, deep research sessions, Stairmaster and incline treadmill workouts. Dance. Climbing things. Being sneaky and a real life ninja. Private investigation. Cold Case Freelance Detective. Investigative Journalism. Pursuit of Ikegai.
+legalWorkStatus: Yes - Borne American Citizen
+recoverycapital: Strong personal discipline through fitness routines and technical project focus. Participation in IOP @ CODA. Probation mandated sobriety. UA's. Needs friends and activities that are not a mission/objective/improvement oriented. Perpetual subliminal self-criticism; needs to work on that. Cannot work on that until progress is made. Wants to realize potential and make a difference in the world. Paradoxical to relaxing.
+disabilitystatus: Not officially. Eligible. (Substance Abuse Disorder, Depression, PTSD, Psychosis History)
+highrisktriggers: None
+homelessDuration: 4 Years Total (5 Years off & on) Currently housed/stable living situation (1 month)
+outstandingFines: $15000 Apartment Damages $2000 Banks $50 Library
+tribalEnrollment: No
+benefitsChecklist: SNAP. OHP. Portland Community College Student (eligible for College Student benefits) Eligible for any benefits that an individual with OHP or SNAP EBT is eligible for.
+citizenshipStatus: U.S. Citizen
+crimeVictimStatus: No
+educationtraining: GED (recently completed). Pursuant of College. Pursuant of independent learning, self teaching, online courses, in person classes, bootcamps.
+mandatedTreatment: Yes
+sexualorientation: Asexual with occasional heterosexual desires. Finding an individual willing to participate in platonic sexual relations for the purpose of avoiding a dam-break effect of repressed sexual energy - Letting off steam, as they say - without evolving into a relationship.
+supervisionStatus: Yes. Probation. Meet once a month.
+careerInterestType: Creative
+dignitymaintenance: ?
+functionalbarriers: None
+housingconstraints: Currently stable — primary challenge would be limited income to sustain long-term housing independently without employment
+traffickingHistory: No
+expungementEligible: Interested in expungement; not eligible for 5 years.
+scholarshipinterest: Yes find everything
+currentIncomeSources: Family/friends
+_timestamp: 2026-04-09T04:07:09.655Z

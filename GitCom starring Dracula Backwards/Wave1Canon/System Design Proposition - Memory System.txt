@@ -1,7 +1,7 @@
 The goal is to use Gemini CLI as my anchor. I will create extensions, MCP servers, and use prompt engineering and any external tools I need; the goal is to define a roster of equipment to attach to Gemini CLI; then have the libraries, tools and programs I need to solve my use cases. I've uploaded WAY too many documents: I am extremely lost and confused, I need to iron this out and get something coherent finalized, STAT. 
 
 The most realistic use cases I had going for me : 
-RVE
+RVEs
 Re.Match 
 DeepRick, converted later to Mycroft Holmes. 
 Second Wind

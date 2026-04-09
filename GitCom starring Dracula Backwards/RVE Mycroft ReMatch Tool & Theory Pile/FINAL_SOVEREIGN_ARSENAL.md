@@ -1,4 +1,4 @@
-# FINAL SOVEREIGN ARSENAL MASTER LIST
+c# FINAL SOVEREIGN ARSENAL MASTER LIST
 
 ## I. THE 1000-TOOL LOG EXTRACTION
 - **Sherlock** (CLI Intelligence): Username footprinting across 350+ sites - │

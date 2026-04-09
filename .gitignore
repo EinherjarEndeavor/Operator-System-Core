@@ -1,0 +1,12 @@
+*apikey*
+*postman*
+# Other common exclusions
+.env
+node_modules/
+.DS_Store
+*.db
+*.db-shm
+*.db-wal
+# Don't push local session histories
+.gemini/history/
+.gemini/tmp/
