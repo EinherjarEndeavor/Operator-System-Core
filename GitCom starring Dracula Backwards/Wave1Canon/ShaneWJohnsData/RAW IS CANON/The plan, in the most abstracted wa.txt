@@ -1,0 +1,140 @@
+The plan, in the most abstracted way I can phrase it.
+
+Moving forward, I intend to be able to rule. I do indeed want power. It is within my potential, and I am calibrated to ensure that I do less harm than good. I know that I can pursue and attain my greatest possible potential without being seduced by the dark side. 
+I intend to do this without compromising my ability for Human Connection and Love. 
+The growth plan ideal for attaining power and ensuring maximum impact, in D&D terms.
+
+We can calibrate things into Stats, Skills, and Feats (for now) 
+
+Stats are increased by gaining progress in multiple skills related to the stat. Beyond simple D&D stats, we will use a 0-99 stat system with the option for limit break if I truly attain insane levels of power. 
+
+We'll say that 0 is average adult skill level in any given category. So everything beyond that is a half percentile above average, leading to vaguely a 50% above average percentile in abstract attribute quantification metrics.
+
+Strength - 
+Dexterity -
+Agility -
+Fighting ability - 
+Constitution = (0.5Vitality)+(0.5Endurance) or Vitality + Endurance / 2 
+Endurance 
+Intelligence 
+Wisdom 
+Digital Mastery 
+Charisma 
+Faction (Idea is to start with a group, advance towards guild, advance towards country or sovereign border)
+Arsenal (This will go to 0-1000 instead of 0-100 - it will indicate my proficiency with every tool, item, resource, equipment, framework, infra, anything. Python libraries, programming languages, GeminiCLI, Codex, CrewAI, Langchain, etc.)
+
+The way I look at it 
+If I structure an ongoing increase in Strength, Dexterity, Constitution and Intelligence - The progression of these will naturally culminate in an increase to Wisdom. These efforts will be strategically and critically mapped onto my daily growth. Every day I will improve (at a rate for /every/ category exceeding the rate of any other individual. If I have to do rotations every day, switching what I train that day, that is no problem. Even /daily/ training yields dramatic improvement over time, even with barely any effort - With balls deep super obsessive maximum fortitude and discipline level effort, immense growth will be yielded.)
+So - A daily schedule training my physicality, academic/career/creative abilities - Those stats will all increase naturally. Essentially, my habits will take care of those increasing.
+Given this, the most important stat to actually put structured effort into is the hardest one to train; Charisma. It is the hardest stat to train and also my least natural affinity. It is that stat that will yield /the most/ capability to improve. It will enable me to access more knowledge, experience, training opportunities, resource, and control outcomes. Simply being the best or knowing exactly what to do is not enough; I have seen this. A great deal of Charisma related skills is required for true success. This can be done by reading books, identifying opportunities to train charisma. Instead of pursuing endeavors out of attachment or desire for the result I am pursuing, if I pursue endeavors, projects, business and entrepreneurial works, social ladder climbing, and general socioeconomic experiences/psychosocial growth; I will be able to view it as a skill and learn from it and execute without attachment, being capable of attaining and completing as many experiences as possible while yielding both the greatest result and the greatest growth. 
+Skills will take active training, which can be attained by scheduled stuy, classes, courses, certifications, and through self assigned projects and portfolio building. 
+
+Breaking down each attribute into categories, then for each category populating it with skills, which are also on a 0-100 scale - then breaking each skill down into components that make the skill. For instance: 
+Constitution - This is the most complicated category, because its less skills and regular, consistent respect of good habits. A product of physicality + vitality. This is a composite attribute and is an amalgamate of my good habits : Exercise, nutrition, doctor visits - weighed vs my bad habits - Smoking, gluttony, laziness. Mental health should also be factored into this. This is a complicated one, but logging my progress with bad habits and how much I've addressed them
+Habit score - Good habits (Positive integer influence on the 0/100 scale) vs Bad habits (Negative influence on the 0/100 scale) Each good habit should have an equivelant opposing bad habit. I think this would be sufficient, but knowledge and application should also be present. My knowledge of various domains, such as Physical Health, Strength Training, Yoga, Cardio Training, Nutrition, Supplements, Anatomy, Biology, Addiction, etc.) This needs refinement, but I think I'm on the right trajectory.
+Strength - I'll concoct a refined version of the Dance Of Death program I designed (Essentially ensuring that I have 100/100 recovery, nutrition and supplementation protocols in place, then taking advantage of that coupled with my focus and discipline to work /literally/ as hard as is possible while not experiencing diminishing returns. This is a raw stat based on calculated resistance training and ability to produce rate of force development, and maximum push/carry weight.) Have average human strength metrics calculated then have a reproducable, uniform way to track my improvement and comparison vs those. Then establish a progression that results in ability points increasing. It should require everything to exceed a certain "level up threshold" for instance a uniform percentage increase in Squats, Bench, Pullup count, pushup count, Deadlift, and some way to track ab strength - For instance even if I increase my deadlift by 20 pounds, strength cannot level up until there is also a 20 pound increase on deadlifts. 
+Arsenal - Logging everything that I have available to me to use, installed or not installed - Then keeping track of how many times I've successfully used it, generating tests or assessment projects, study guides, etc. Encouraging that if I have something, I should be mastering it and applying its usage. Example:
+Arsenal 0/1000
+	C
+	GeminiCLI 1/100
+		Times used: 3000
+		Personal Projects completed: 0
+		Assigned Projects completed: 0
+		Customizations made: 0
+		Custom Knowledge base size: 0kb
+		Known use cases: 0
+		Assessments completed: 0. 
+	CrewAI 0/100
+		Times Used: 0
+		Personal Projects completed: 0
+		Assigned Projects completed: 0
+		Customizations made: 0
+		Custom Knowledge base size: 0kb 
+		Known use cases: 0
+		Assessments completed: 0
+I have used Gemini CLI quite a bit, but I haven't produced a single publishable, portfolio grade artifact, a single reproducable workflow, a single canon customization of my own, I have not created a knowledge base of any kind of skill progression or enhanced understanding. I am still widely unfamiliar and 100% noob with it. However, I can use it and am familiar enough to use it to do things and customize it. That's a 1/100. I'm a low level nooblet, and that's what a low level nooblet looks like. 
+CrewAI I have installed and have tried running but have not once experienced literally anything with it other than failure. that's a 0/100.
+I have no skills in my arsenal above 0/100, if I'm being honest. a 1/100 with geminicli is almost me being generous, but I know enough about Gemini CLI to be capable of using it and improving. 
+Endurance: Cardio is the main thing I can think of. Zone2 Endurance, Zone4 endurance, Sprint endurance
+Agility: Sprint speed? 
+Fighting ability - Amount of classes attended, ranking events (belts, titles, graduation ceremonies, whatever) Fights won, fights lost - I should eventually be actively seeking fights, if not daily then weekly. Street fights are ok. Don't get into dangerous fights where it could become a deathmatch and ensure that they are mutual combat and create an honorable rule structure that encourages and enables all out performance without risk of death or too much damage. 
+Perhaps a differentiation between the STR, CON, END, AGI, DEX attributes should be established.
+The INT, ARS, and DIG attributes are more governed by the development of skills and knowledge, where actually learning skills, tool usage, and knowledge will literally increase the attribute.
+
+	
+Intelligence, Digital Mastery, and Arsenal are the most likely to benefit from the skill increase = attribute increase system. The others should perhaps be products of observing positive habits over time, then conducting an evaluation to determine capability increase compared to intake. For instance, to increase the Agility stat, I will have taken an initial test to determine how fast I am in a few categories - Then before unlocking the opportunity to do a reassessment, I have to have 100 consecutive ticks on a few habits. For instance, for 100 days I should have checked the "Sprint training" off of my daily quests. Until I do that, I have no business doing a reassessment. This will provide an accountability framework, objective quantification of progression, a structure through which increasing actual capability is guaranteed, and more. Indeed, this is the way it should occur. 
+With DIG skills, logging my growth which will have to be structured will be a component. How many Python modules have I completed? Keeping a log of skill components, aspects, features, abilities for each skill will be critical. Tracking and logging that, having an assessment and capability evaluation method, i'm not sure. The idea is sound, but exact methodology and technical implementation needs to be further thought out.
+
+Another thing that might be helpful that could somehow tie into this; 
+I think that listing capabilities, actions and activities that I would like to be capable of will be a good way to both track my progress and also inventory just what exactly I can do, what exactly I want to be able to do, and also discerning the path to being able to do it, as well as keeping track of it all. 
+For instance, g 
+
+some physical things I'd like to be able to do: 
+Lock picking
+Rock Climbing
+Building Scaling 
+Backflip
+Somersault
+Fighting
+
+Some other things I'd like to be able to do: 
+	Be able to use a license plate number to identify an individual
+		Using an identified individual, I'd like to be able to access their background, criminal history, address, phone number, email number, social media accounts, etc. 
+
+This needs refinement but I think this is a very good abstract concept summary about how to create a progression system. 
+
+
+
+
+I'm going to list things I want to do that have not been addressed so far 
+
+My ideal schedule will involve daily combat lessons, yoga, physical conditioning/training, personal study using resume-worthy credential/certificate/training modules (open source learning, online college, courses, anything free to college students, any premium services I'm entitled to, custom curriculum derived from books, augmented by AI generated projects evaluations and assessments; all generated based on my interests, other skills, profile, rve contents, and other personalization aspects- an amalgamate of all memories, designed to help me grow in skill, knowledge, capability - as well as serve my goals. Having a few hours of this a day sounds smart. 
+In order to proceed with these things, I need to get a gym membership, I need to find and choose a combat school that I can either test for free, have subsidized, or similar. 
+the current options; there is a program in Portland that offers a month of free classes. 
+there is the Oregon Health Plan FlexFund; which will cover all of the above; a gym membership, a martial arts membership, and yoga classes. The first two I can cover currently, but the last one would benefit from my primary health provider (who is a naturopathic specialist) and my chiropractor writing me referrals for it. Using Flex Fund to cover as many things as possible and getting those sent in this week is important.
+FlexFund items:
+		Gym Membership 
+		Martial Arts
+		Yoga
+		Portable charger for laptop x2
+		Anything else? 
+Creating a learning curriculum is important as well. Identifying the best places to go to learn using what I have available to me; GoogleAI Pro, GitHub Student Developer Pack, Washington County Community Library, $0 income, in recovery, Worksource, Portland Community College; I need to spend a good deal of effort performing a second wave of a Re.Match-esque search for my own interests based off my current position. After establishing a basic Re.Match workflow, an adjusted version for a second round for someone in a position such as mine (I've already completed most of the contents of my first wave of my own dossier, so another iteration to identify and complete next best options would be critical.) 
+I have $15000 of debt to a previous apartment
+Need to complete RentWell
+		Trying to automate the RentWell process - Comet can't complete it because the program uses rendered browser activities; so creating an agent that can complete the program in the background would be raaad.
+I owe $400 to almost literally every major bank branch from every time I've been fired from a job and my bank account overdrafted and then I was fined then my bank account was closed then it was sent to collections
+For the Gym membership - FlexFund is kind of complicated so I need to find out how they usually go about providing gym memberships to members. I think OHP has a standard procedure and FlexFund lists gym memberhsips in their example handbook. 
+Same goes for martial arts and yoga. 
+Figuring out how to eliminate or consolidate debt.
+Figuring out what grants and scholarships im eligible for and applying for all of them
+Finding funding for personal study and business ventures; basically looking for free money i am eligible for
+Finding ways to fund laptop upgrades or a new phone
+Exploring gigwork, freelance work, or tempwork - very thoroughly
+creating a daily dashboard that collects multiple feeds and produces multiple reports based on all of the feeds - Basically I want a custom entire newspaper generated every morning, as well as populating my daily planner, assigning me daily quests, side quests, main quests, and recommending habits to practice for periods of time. 
+DHS has a Vocational Rehabilitation program - I need to provide medical history documentation to proceed, providing evidence of "disability"
+I am eligible for disability income - I just need to provide medical history documentation to proceed, providing evidence of "disability"
+I need to acquire all of my medical history documents that exist - to do this, I need to create a list of places to request records from, collect the records, then proceed
+I'm selling plasma on Monday the 13th at 10am - this will yield $50
+I have a diamond in my pocket - I need to post ads seeing if anyone is missing their diamond, inform the county clerk - If nobody successfully establishes legal claim to it in 3 months, it is then mine to sell
+I need to retrieve the rest of leviticus' things from the apartment by Thursday at 10:00PM 
+I want to visit Washington - to do this, I need to complete probation and have enough savings to be able to go up (i only need a few hundred to live lavishly, honestly.) 
+Upgrading to a 64gb ram laptop with a powerful processor and a dedicated graphics card - or at the very least upgrading on RAM
+Aside from removing the $15000 I owe in apartment debt, I need to take that debt into my own name instead of it being in mine AND Erika's name 
+I need to solve child support - I owe a shit ton. If there is a way to get that subsidized that would be awesome. 
+regarding child support, I would like to pause it so that I can save and fund my conquest - I can then make money laster in life after building capability and getting to a powerful position - then I can really provide for Nicolai instead of just producing a tiny amount of funding and also crippling myself by forcing myself to need to work all day every day to make rent and pay child support - this is the method 
+I need to fully create the automation for generating a daily schedule that addresses all tasks, training, self education, appointments, habits, and ensure that it promotes brainstorming, entrapreneurial success, money making (at least over time works on it) and promotes journaling, logging, and also creative writing. 
+Active Projects in either development : 
+RVE 
+Re.Match
+Personal Website - Freelance + Re.Match + Request Form + Blog, Articles, Content, Databases
+Mycroft (Pickle Rick variant designed for Research and writing) 
+Capability/Feature list: Create a complete list of things I want to be capable of 
+Monetizable project ideas that tie into my intended ecosystem: 
+Recovery Coloring Books - by hand at first (or one at a time) but eventually automate bulk creation 
+Content creation - getting more difficult by the second as I learn more =[ 
+
+
+
+
+random: We're watching The Boys in the living room - obviously a fucking amazing show.
+The old white hobo guy complained about "What kind of gay movie are we watching here?" not because he is homophobic, but because he is afraid of people thinking he is a homosexual himself. This is the true nature of homophobia. It is also the true nature of pedophile hunters or people that assault sex offenders - They do not want to be that which is hunted, bullied, or seen as an abomination. It is almost never out of virtue; It is often just an excuse to indulge your violent, unethical and amoral darker desires on a target that will not have tears shed over. By complaining about "What kind of gay movie is this? HORRIBLE" he is stating "I DO NOT LIKE THAT HOMELANDER IS HAVING GAY SEX WITH DOPPLEGANGER AS HOMELANDER" which is obviously a scene designed to make you uncomfortable. He is not familiar with this level of uncomfortability, so he feels that if someone sees him watching this; he must be a homosexual, or he would not be watching it. 
